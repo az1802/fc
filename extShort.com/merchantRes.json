@@ -1,0 +1,885 @@
+{
+	"shopName": "晋麦王",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "进店必点",
+			"foods": [
+				{
+					"name": "西芹鲜肉水饺.",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_174_0.jpg?1619444509407&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "盘",
+					"categoryName": "进店必点",
+					"props": []
+				},
+				{
+					"name": "平遥牛腩刀削面.",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_173_0.jpg?1619444480333&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "碗",
+					"categoryName": "进店必点",
+					"props": []
+				},
+				{
+					"name": "老北京炸酱刀削面.",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_171_0.jpg?1619444479591&x-oss-process=image/resize,w_500",
+					"price": 18.8,
+					"unit": "碗",
+					"categoryName": "进店必点",
+					"props": []
+				},
+				{
+					"name": "脆皮饼加卤蛋花干",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_175_0.jpg?1619444531729&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "个",
+					"categoryName": "进店必点",
+					"props": []
+				},
+				{
+					"name": "脆皮肉夹馍",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_147_0.jpg?1619444520333&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "个",
+					"categoryName": "进店必点",
+					"props": []
+				},
+				{
+					"name": "传统猪肉刀削面.",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_172_0.jpg?1619444476920&x-oss-process=image/resize,w_500",
+					"price": 23,
+					"unit": "碗",
+					"categoryName": "进店必点",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "今日特价",
+			"foods": [
+				{
+					"name": "韭菜鲜肉饺子特",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_165_0.jpg?1619444537746&x-oss-process=image/resize,w_500",
+					"price": 20.9,
+					"unit": "盘",
+					"categoryName": "今日特价",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "脆皮肉夹馍套餐",
+			"foods": []
+		},
+		{
+			"name": "山西刀削面",
+			"foods": [
+				{
+					"name": "霸王牛肉刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_61_0.jpg?1619444488889&x-oss-process=image/resize,w_500",
+					"price": 36,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "爆炒小公鸡拌刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_180_0.jpg?1619444523329&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "臊子酸汤刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_80_0.jpg?1619444504550&x-oss-process=image/resize,w_500",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "辣酱鸡蛋拌刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_78_0.jpg?1619444482806&x-oss-process=image/resize,w_500",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "平遥牛腩刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_66_0.jpg?1619444514730&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "番茄鸡蛋打卤刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_73_0.jpg?1619444500539&x-oss-process=image/resize,w_500",
+					"price": 22,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "山西酸汤刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_72_0.jpg?1619444530864&x-oss-process=image/resize,w_500",
+					"price": 18,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "加面一元",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "臊子肉丁干拌刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_65_0.jpg?1619444497216&x-oss-process=image/resize,w_500",
+					"price": 28,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "番茄鸡蛋干拌刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_64_0.jpg?1619444521068&x-oss-process=image/resize,w_500",
+					"price": 24,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "关公大刀油泼刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_67_0.jpg?1619444525417&x-oss-process=image/resize,w_500",
+					"price": 22,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "牛肉油泼刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_68_0.jpg?1619444503228&x-oss-process=image/resize,w_500",
+					"price": 32,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "西红柿鸡蛋炒刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_126_0.jpg?1619444537120&x-oss-process=image/resize,w_500",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "剁椒鸡蛋拌刀削面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_76_0.jpg?1619444542096&x-oss-process=image/resize,w_500",
+					"price": 24,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "猪肉扁豆焖面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_69_0.jpg?1619444515681&x-oss-process=image/resize,w_500",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "爽口酸辣粉",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_70_0.jpg?1619444516300&x-oss-process=image/resize,w_500",
+					"price": 18,
+					"unit": "碗",
+					"categoryName": "山西刀削面",
+					"props": []
+				},
+				{
+					"name": "加面一元1份",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "山西刀削面",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "手工水饺",
+			"foods": [
+				{
+					"name": "牛肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_53_0.jpg?1619444481015&x-oss-process=image/resize,w_500",
+					"price": 33,
+					"unit": "盘",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "酸汤牛肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_58_0.jpg?1619444540616&x-oss-process=image/resize,w_500",
+					"price": 36,
+					"unit": "碗",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "韭菜鸡蛋水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_50_0.jpg?1619444481744&x-oss-process=image/resize,w_500",
+					"price": 22,
+					"unit": "盘",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "酸汤韭菜鸡蛋水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_60_0.jpg?1619444493393&x-oss-process=image/resize,w_500",
+					"price": 24,
+					"unit": "碗",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "白菜鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_54_0.jpg?1619444470390&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "盘",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "酸汤白菜鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_59_0.jpg?1619444471332&x-oss-process=image/resize,w_500",
+					"price": 28,
+					"unit": "碗",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "西芹鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_49_0.jpg?1619444491822&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "盘",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "酸汤西芹鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_55_0.jpg?1619444484596&x-oss-process=image/resize,w_500",
+					"price": 28,
+					"unit": "碗",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "香菇鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_51_0.jpg?1619444518053&x-oss-process=image/resize,w_500",
+					"price": 25,
+					"unit": "盘",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "酸汤香菇鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_57_0.jpg?1619444495612&x-oss-process=image/resize,w_500",
+					"price": 28,
+					"unit": "碗",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "韭菜鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_52_0.jpg?1619444528709&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "盘",
+					"categoryName": "手工水饺",
+					"props": []
+				},
+				{
+					"name": "酸汤韭菜鲜肉水饺",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_56_0.jpg?1619444486352&x-oss-process=image/resize,w_500",
+					"price": 28,
+					"unit": "碗",
+					"categoryName": "手工水饺",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "米饭类",
+			"foods": [
+				{
+					"name": "蛋炒饭",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_153_0.jpg?1619444502387&x-oss-process=image/resize,w_500",
+					"price": 20,
+					"unit": "盘",
+					"categoryName": "米饭类",
+					"props": []
+				},
+				{
+					"name": "西红柿鸡蛋盖饭",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_152_0.jpg?1619444527036&x-oss-process=image/resize,w_500",
+					"price": 22,
+					"unit": "盘",
+					"categoryName": "米饭类",
+					"props": []
+				},
+				{
+					"name": "鱼香肉丝盖饭",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_151_0.jpg?1619444489794&x-oss-process=image/resize,w_500",
+					"price": 25,
+					"unit": "盘",
+					"categoryName": "米饭类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "山西凉菜",
+			"foods": [
+				{
+					"name": "自制猪皮冻",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_101_0.jpg?1619444511185&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "凉菜素拼",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_95_0.jpg?1619444524707&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "五香牛肉",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_81_0.jpg?1619444532630&x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "手撕烧鸡",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_82_0.jpg?1619444534584&x-oss-process=image/resize,w_500",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "凉拌猪头肉",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_93_0.jpg?1619444501554&x-oss-process=image/resize,w_500",
+					"price": 20,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "红油耳丝",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_94_0.jpg?1619444487220&x-oss-process=image/resize,w_500",
+					"price": 20,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "五香云丝",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_83_0.jpg?1619444511941&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "皮蛋豆腐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_91_0.jpg?1619444499100&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "泡椒萝卜",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_84_0.jpg?1619444508249&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "脆口黄瓜",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_88_0.jpg?1619444491139&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "爽口云耳",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_85_0.jpg?1619444538455&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "酸辣土豆丝",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_90_0.jpg?1619444541392&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "姜汁海带丝",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_87_0.jpg?1619444507375&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "爽口西红柿",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_92_0.jpg?1619444478841&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "清灼芥兰",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_86_0.jpg?1619444490466&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "凉拌粉丝",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_96_0.jpg?1619444510296&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "凉拌腐竹",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_97_0.jpg?1619444536226&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "五香花生米",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_98_0.jpg?1619444514025&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "白灼秋葵",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_99_0.jpg?1619444499931&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				},
+				{
+					"name": "小葱豆腐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_100_0.jpg?1619444539684&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "盘",
+					"categoryName": "山西凉菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小吃",
+			"foods": [
+				{
+					"name": "米饭",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_134_0.jpg?1619444469748&x-oss-process=image/resize,w_500",
+					"price": 3,
+					"unit": "碗",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "秘制凉皮",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_133_0.jpg?1619444513188&x-oss-process=image/resize,w_500",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "葱油饼",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_132_0.jpg?1619444529980&x-oss-process=image/resize,w_500",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "玉米布丁酥",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_128_0.jpg?1619444488173&x-oss-process=image/resize,w_500",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "盐酥鸡",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_129_0.jpg?1619444506495&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "洋葱鸡肉圈",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_130_0.jpg?1619444498242&x-oss-process=image/resize,w_500",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "美味鸡块",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_127_0.jpg?1619444519213&x-oss-process=image/resize,w_500",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "韭菜盒子",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_131_0.jpg?1619444472903&x-oss-process=image/resize,w_500",
+					"price": 7,
+					"unit": "个",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "老潼关.脆皮饼",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_136_0.jpg?1619444505431&x-oss-process=image/resize,w_500",
+					"price": 3,
+					"unit": "个",
+					"categoryName": "小吃",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "卤菜",
+			"foods": [
+				{
+					"name": "卤三样",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_107_0.jpg?1619444533092&x-oss-process=image/resize,w_500",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "卤菜",
+					"props": []
+				},
+				{
+					"name": "卤鸡旦",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_102_0.jpg?1619444477471&x-oss-process=image/resize,w_500",
+					"price": 3,
+					"unit": "个",
+					"categoryName": "卤菜",
+					"props": []
+				},
+				{
+					"name": "卤狮子头",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_106_0.jpg?1619444529340&x-oss-process=image/resize,w_500",
+					"price": 3,
+					"unit": "个",
+					"categoryName": "卤菜",
+					"props": []
+				},
+				{
+					"name": "卤豆干",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_103_0.jpg?1619444494729&x-oss-process=image/resize,w_500",
+					"price": 4,
+					"unit": "个",
+					"categoryName": "卤菜",
+					"props": []
+				},
+				{
+					"name": "卤花干",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_105_0.jpg?1619444475552&x-oss-process=image/resize,w_500",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "卤菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "甜品饮料",
+			"foods": [
+				{
+					"name": "冰绿豆小米粥",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_125_0.jpg?1619444517262&x-oss-process=image/resize,w_500",
+					"price": 6,
+					"unit": "碗",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "热绿豆小米粥",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_109_0.jpg?1619444474730&x-oss-process=image/resize,w_500",
+					"price": 6,
+					"unit": "碗",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "维他奶",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_124_0.jpg?1619444476160&x-oss-process=image/resize,w_500",
+					"price": 5,
+					"unit": "罐",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "生榨沙棘",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_89_0.jpg?1619444478036&x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "瓶",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "蓝莓汁",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_108_0.jpg?1619444493921&x-oss-process=image/resize,w_500",
+					"price": 15,
+					"unit": "瓶",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "百威啤酒",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_110_0.jpg?1619444527991&x-oss-process=image/resize,w_500",
+					"price": 8,
+					"unit": "罐",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "雪花啤酒",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_111_0.jpg?1619444526056&x-oss-process=image/resize,w_500",
+					"price": 10,
+					"unit": "瓶",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "百岁山",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_112_0.jpg?1619444469008&x-oss-process=image/resize,w_500",
+					"price": 4,
+					"unit": "瓶",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "可乐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_113_0.jpg?1619444496393&x-oss-process=image/resize,w_500",
+					"price": 4,
+					"unit": "罐",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_114_0.jpg?1619444483610&x-oss-process=image/resize,w_500",
+					"price": 4,
+					"unit": "罐",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "加多宝",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_115_0.jpg?1619444485396&x-oss-process=image/resize,w_500",
+					"price": 5,
+					"unit": "罐",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "冰峰",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_116_0.jpg?1619444535307&x-oss-process=image/resize,w_500",
+					"price": 6,
+					"unit": "罐",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "酸梅汤",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_117_0.jpg?1619444473790&x-oss-process=image/resize,w_500",
+					"price": 7,
+					"unit": "罐",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/165901/item/165901_118_0.jpg?1619444542639&x-oss-process=image/resize,w_500",
+					"price": 3,
+					"unit": "瓶",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "骑手12",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 12,
+					"unit": "碗",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "骑手14",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 14,
+					"unit": "碗",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "骑手18",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 18,
+					"unit": "碗",
+					"categoryName": "甜品饮料",
+					"props": []
+				},
+				{
+					"name": "加面",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "甜品饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "补差价",
+			"foods": [
+				{
+					"name": "补差价1",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "补差价",
+					"props": []
+				},
+				{
+					"name": "补差价2",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "补差价",
+					"props": []
+				},
+				{
+					"name": "补差价3",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "补差价",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "美团套餐",
+			"foods": []
+		},
+		{
+			"name": "套餐",
+			"foods": [
+				{
+					"name": "卤三套",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				},
+				{
+					"name": "秘制凉皮套餐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				},
+				{
+					"name": "酸辣粉套餐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				},
+				{
+					"name": "焖面套餐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				},
+				{
+					"name": "西芹饺子套餐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				},
+				{
+					"name": "鸡蛋拌面套餐",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				},
+				{
+					"name": "肉夹馍套餐1",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				},
+				{
+					"name": "肉夹馍套餐2",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_500",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "套餐",
+					"props": []
+				}
+			]
+		}
+	]
+}

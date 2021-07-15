@@ -1,0 +1,161 @@
+{
+  "value": {
+    "shopInfo": {
+      "shopName": "劉長和现磨手工粉",
+      "mtShopId": 600210332,
+      "orderDish": true,
+      "orderDishTips": null,
+      "entrance": {
+        "showCallWaiter": false,
+        "showDishSearch": true,
+        "showOrderList": true
+      },
+      "shopConfig": {
+        "openTogether": true,
+        "needPeopleCount": false,
+        "peopleCount": 1,
+        "seatsCount": 0,
+        "showTotalPrice": false,
+        "showOrderedSpu": false,
+        "showHotSpu": false,
+        "showDpRecommendSpu": false,
+        "beforePayNotice": false,
+        "dishKeyBoardVO": {
+          "show": false
+        }
+      },
+      "shopHead": {
+        "backgroudPicUrl": null,
+        "foregegroundPicUrl": null,
+        "shopNotice": "储值规则：储值100元赠送20元,储值300元赠送100元,储值500元赠送200元",
+        "openingTimes": ["10:00:00-22:00:00"],
+        "serviceFeeName": null,
+        "serviceFeeNoticeTxt": null,
+        "serviceFees": null
+      },
+      "shopPromotions": [],
+      "shopTags": [],
+      "userInfo": {
+        "memberInfo": {
+          "memberTitle": "",
+          "memberLevel": null,
+          "memberAsset": null,
+          "memberPoint": null,
+          "memberRight": "注册/登录会员",
+          "memberCenterSchema": "https://pos.meituan.com/web/crm-wemember/register?tenantId=10140675&poiType=1&poiId=600210332&orgId=382985&appCode=51&versionCode=&redirectUrl=https%3A%2F%2Frms.meituan.com%2Fdiancan%2Fweb%2Fvip%3FshopId%3D600210332%26switchLogin%3D0%26switchCard%3D0%26fromLogin%3D1&source=diancan",
+          "memberCouponCount": 0,
+          "memberCouponDetail": null,
+          "memberId": null,
+          "cardId": null,
+          "canUseMemberPrice": false,
+          "memberPriceAvailable": false,
+          "cardActionTxt": "会员登录/注册",
+          "cardActionUrl": "https://pos.meituan.com/web/crm-wemember/login?tenantId=10140675&poiType=1&poiId=600210332&orgId=382985&appCode=51&versionCode=&redirectUrl=https%3A%2F%2Frms.meituan.com%2Fdiancan%2Fweb%2Fvip%3FshopId%3D600210332%26switchLogin%3D0%26switchCard%3D0%26fromLogin%3D1&source=diancan",
+          "memberConflict": false,
+          "memberOrderDiscountRate": null,
+          "virtualCard": true,
+          "canUseVipDiscount": false,
+          "userConflict": false,
+          "assetDiscountTips": "",
+          "memberCampaignRule": null,
+          "availableDiscount": false,
+          "fullAssetUseDiscount": false,
+          "autoUseFullAssetDiscount": false,
+          "showMemberPrice": true,
+          "noCardVip": false,
+          "vipPriceDiscountTogether": false,
+          "memberStatus": "注册/登录会员",
+          "privilege": "",
+          "buttonText": ""
+        },
+        "userCoupon": null,
+        "activityList": null
+      },
+      "mandatoryDishes": [],
+      "mandatoryInfos": null,
+      "originMandatoryDishes": [],
+      "shopBreak": false,
+      "shopOffline": false,
+      "serviceFeeName": null,
+      "serviceFeeNoticeTxt": null,
+      "menuStyle": {
+        "backgroundImage": null,
+        "backgroundRgb": null,
+        "dishShowType": 0,
+        "recommendShowType": 0
+      },
+      "bizMode": 1,
+      "shopDpTagVO": {
+        "rankType": null,
+        "rankName": null,
+        "ranking": null
+      }
+    },
+    "dishCategories": [
+      {
+      "categoryId": 18362345,
+      "categoryName": "小吃类",
+      "rank": 1,
+      "iconType": 0,
+      "position": 0,
+      "spuIds": ["1849715272", "1849970801", "1849970802", "1851987785", "1849970804", "1851987787", "1851987788", "1849715276", "1849715277"],
+      "childDishCategories": null
+    }, {
+      "categoryId": 18364192,
+      "categoryName": "粉类",
+      "rank": 2,
+      "iconType": 0,
+      "position": 0,
+      "spuIds": null,
+      "childDishCategories": [{
+        "categoryId": 18362332,
+        "categoryName": "炒码",
+        "rank": 1,
+        "iconType": 0,
+        "position": 0,
+        "spuIds": ["1849970792", "1849970793", "1849970795", "1849970798", "1849715269", "1849970800"],
+        "childDishCategories": null
+      }, {
+        "categoryId": 18350954,
+        "categoryName": "煨码",
+        "rank": 2,
+        "iconType": 0,
+        "position": 0,
+        "spuIds": ["1849970787", "1851987778", "2060903373", "1849970788", "1849970789", "1849970790", "1849715267", "1937694963", "1867664709"],
+        "childDishCategories": null
+      }]
+    }, {
+      "categoryId": 18575614,
+      "categoryName": "套餐",
+      "rank": 3,
+      "iconType": 0,
+      "position": 0,
+      "spuIds": ["1903081632", "1900512248"],
+      "childDishCategories": null
+    }, {
+      "categoryId": 18351940,
+      "categoryName": "饮料",
+      "rank": 4,
+      "iconType": 0,
+      "position": 0,
+      "spuIds": ["1851987790", "1849715279", "1851987792", "1849715281", "2012290266", "2072917253", "2072908795"],
+      "childDishCategories": null
+    }],
+    "totalPageCount": 1,
+    "orderInfo": null,
+    "boosRecommends": [],
+    "hotSpuIds": null,
+    "orderedSpuIds": null,
+    "netRecommendSpuIds": null,
+    "priceCategoryCode": null,
+    "dealDishVos": null,
+    "dealCouponVos": null,
+    "calculateInfo": {
+      "tableAreaId": 1372337,
+      "posOrderId": null,
+      "bizMode": 1,
+      "tableOpenTime": null
+    }
+  },
+  "expiredTime": 1610956832177
+}

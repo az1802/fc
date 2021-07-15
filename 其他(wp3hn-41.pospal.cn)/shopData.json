@@ -1,0 +1,64 @@
+{
+	"code": 200,
+	"message": "Success",
+	"data": {
+		"collectionNums": null,
+		"industry": "快餐",
+		"industryCode": "001010",
+		"merchantName": "小巷牛杂铺福州万达店",
+		"merchantId": "72e2fd9d-5ca3-42ef-9a04-7f7c6566dd39",
+		"merchantSn": "1680004360577",
+		"alipayStatus": 0,
+		"wechatStatus": 0,
+		"disabled": 0,
+		"discounts": {
+			"globalDiscount": null,
+			"collectionDiscount": null,
+			"timeDiscount": [],
+			"priceBreak": null,
+			"priceBreakCards": [],
+			"returnCards": [],
+			"membershipCards": []
+		},
+		"discount": null,
+		"organizationPath": null,
+		"categoriesNames": null,
+		"coupons": [],
+		"storeId": "65a15cdd-863b-4f2a-8036-4f884169c84a",
+		"storeName": "小巷牛杂铺福州万达店",
+		"storeExtraName": "",
+		"contactPhone": "15277790555",
+		"slogan": "",
+		"payWay": 1,
+		"categoryId": null,
+		"location": {
+			"lat": "26.052374",
+			"lon": "119.341962"
+		},
+		"storeAddress": {
+			"province": "350000",
+			"city": "350100",
+			"district": "350103",
+			"address": "唐沫茶兮(台江万达金街店)",
+			"aoiName": null,
+			"houseNumber": "金融街103号",
+			"adcode": null
+		},
+		"storePhoto": {
+			"innerPhotos": [],
+			"outerPhotos": [],
+			"goodsPhotos": [],
+			"coverPhoto": "https://statics.wosaimg.com/99zhe/industry/1999.jpg",
+			"logoUrl": null
+		},
+		"storeBasic": {
+			"averageConsumption": null,
+			"storeArea": null,
+			"businessHoursStart": "",
+			"businessHoursEnd": ""
+		},
+		"onceOpened": true,
+		"storeType": 0,
+		"storeSn": "1580000004201739"
+	}
+}

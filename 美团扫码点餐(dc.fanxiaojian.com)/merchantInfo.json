@@ -1,0 +1,3534 @@
+{
+  "baseInfo": {
+      "restaurant": {
+          "openRecharge": false,
+          "wipeSupport": false,
+          "restaurantId": "1626674",
+          "restaurantName": "柳螺香柳州螺蛳粉",
+          "restaurantRating": 0,
+          "restaurantAddress": "南山区龙珠村东区16号",
+          "restaurantPhone": "13430561538",
+          "restaurantIsCollection": false,
+          "restaurantDescription": "",
+          "restaurantBusinessTime": "午市:09:00-15:00;夜市:15:00-00:00;",
+          "restaurantHasCarSpace": false,
+          "restaurantPopularity": 0,
+          "restaurantPersonPrice": 0,
+          "restaurantTypeDesc": "",
+          "restaurantLongitude": 113.9823348,
+          "restaurantLatitude": 22.5658658,
+          "restaurantFastHotel": true,
+          "foodTakingMode": 0,
+          "restaurantUrl": "http://dc.fanxiaojian.com/?hotelid=1626674",
+          "restaurantDistance": 0,
+          "sendScope": 3,
+          "startPrice": 30,
+          "scopeRemark": "",
+          "clientVersion": "irs:0_Java: 2.41.05 \n",
+          "serverVersion": "2.41.10000000",
+          "weixinImg": null,
+          "fastFoodNeedPersonNum": 0,
+          "wctPayNeedPrepay": 1,
+          "wctPayType": 2,
+          "hideTotalPrice": false,
+          "img": "",
+          "wctPayOnly": 0,
+          "restaurantPayMode": "ACCEPT",
+          "wechatPayStatus": true,
+          "aliPayStatus": true,
+          "wctCallService": 1,
+          "hotelLock": true,
+          "environment": "",
+          "hotelLabel": ""
+      },
+      "foodCategories": [
+          {
+              "dishesTypeId": "16158120",
+              "dishesTypeName": "桂林米粉",
+              "hide": 0,
+              "secondCategories": []
+          },
+          {
+              "dishesTypeId": "16158121",
+              "dishesTypeName": "配菜小吃",
+              "hide": 0,
+              "secondCategories": []
+          },
+          {
+              "dishesTypeId": "16158122",
+              "dishesTypeName": "螺蛳粉",
+              "hide": 0,
+              "secondCategories": []
+          },
+          {
+              "dishesTypeId": "16158124",
+              "dishesTypeName": "酒水饮品",
+              "hide": 0,
+              "secondCategories": []
+          },
+          {
+              "dishesTypeId": "16158135",
+              "dishesTypeName": "套餐",
+              "hide": 0,
+              "secondCategories": []
+          }
+      ],
+      "foodList": [
+          {
+              "dishesId": "200930669",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "全家福",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "22.0",
+              "dishesVipPrice": "22.0",
+              "dishesCode": "1050",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930679",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞卤蛋粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "14.0",
+              "dishesVipPrice": "14.0",
+              "dishesCode": "1040",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930675",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞叉烧粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "1044",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930680",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞煎蛋粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "14.0",
+              "dishesVipPrice": "14.0",
+              "dishesCode": "1039",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930678",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞牛丸粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "1041",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930671",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞牛杂粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1048",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930673",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞牛肉粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1046",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930674",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞牛肚粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1045",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930672",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞牛腩粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1047",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930681",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞素粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1038",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930670",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞肥肠粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1049",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930676",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "干捞锅烧粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "1043",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930677",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "桂林米粉",
+              "dishesType": {
+                  "dishesTypeId": "16158120",
+                  "dishesTypeName": "桂林米粉",
+                  "code": "01",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "1042",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/795363.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/795363.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930703",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "煎蛋",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "2.0",
+              "dishesVipPrice": "2.0",
+              "dishesCode": "1016",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8050.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8050.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930702",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "卤蛋",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "2.0",
+              "dishesVipPrice": "2.0",
+              "dishesCode": "1017",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/205205.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/205205.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930687",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "叉烧",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1032",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/2CvHxKb2.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/2CvHxKb2.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930699",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "热狗",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "3.0",
+              "dishesVipPrice": "3.0",
+              "dishesCode": "1020",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/820714.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/820714.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930690",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛丸",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "5.0",
+              "dishesVipPrice": "5.0",
+              "dishesCode": "1029",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/c346cefV.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/c346cefV.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930684",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛肉",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1035",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/NCvzzd4R.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/NCvzzd4R.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930685",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛肚",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1034",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/5b74b6rY.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/5b74b6rY.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930683",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛腩",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1036",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/w6Jl6Ekz.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/w6Jl6Ekz.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930682",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "猪脚",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1037",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DDzfaytG.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/DDzfaytG.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930686",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "肥肠",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1033",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/COpD5gXp.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/COpD5gXp.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930692",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "腊肠",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1027",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/yjRvG6St.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/yjRvG6St.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930695",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "腐竹",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1024",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4253e9mN.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4253e9mN.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930696",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "花生",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1023",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/hMW50uOL.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/hMW50uOL.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930691",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "螺肉",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "5.0",
+              "dishesVipPrice": "5.0",
+              "dishesCode": "1028",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/jY5gQ0Nz.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/jY5gQ0Nz.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930700",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "豆泡",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "3.0",
+              "dishesVipPrice": "3.0",
+              "dishesCode": "1019",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/vHIswfaw.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/vHIswfaw.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930701",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "豆腐串",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "3.0",
+              "dishesVipPrice": "3.0",
+              "dishesCode": "1018",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930697",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "酸笋",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1022",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930688",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "锅烧",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1031",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930698",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "青菜",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1021",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/HvNo7gjV.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/HvNo7gjV.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930693",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "鸡脚",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1026",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ZUfdrbiG.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ZUfdrbiG.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930694",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "鸭脚",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1025",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4voTtp3i.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4voTtp3i.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930689",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "鹌鹑蛋",
+              "dishesType": {
+                  "dishesTypeId": "16158121",
+                  "dishesTypeName": "配菜小吃",
+                  "code": "02",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "5.0",
+              "dishesVipPrice": "5.0",
+              "dishesCode": "1030",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/OSpu67fy.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/OSpu67fy.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930717",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "三鲜螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "14.0",
+              "dishesVipPrice": "14.0",
+              "dishesCode": "1002",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930715",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "卤蛋螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "14.0",
+              "dishesVipPrice": "14.0",
+              "dishesCode": "1004",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930718",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "原味螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.0",
+              "dishesVipPrice": "12.0",
+              "dishesCode": "1001",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930711",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "叉烧螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "1008",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930712",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛丸螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "1007",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930705",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛杂螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1014",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930708",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛肉螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1011",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930707",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛肚螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1012",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930706",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "牛腩螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1013",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930704",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "猪脚螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "23.0",
+              "dishesVipPrice": "23.0",
+              "dishesCode": "1015",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930709",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "肥肠螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "17.0",
+              "dishesVipPrice": "17.0",
+              "dishesCode": "1010",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930716",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "豆泡螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "14.0",
+              "dishesVipPrice": "14.0",
+              "dishesCode": "1003",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930710",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "锅烧螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "1009",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930713",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "鸡脚螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "15.0",
+              "dishesVipPrice": "15.0",
+              "dishesCode": "1006",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "200930714",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "鸭脚螺蛳粉",
+              "dishesType": {
+                  "dishesTypeId": "16158122",
+                  "dishesTypeName": "螺蛳粉",
+                  "code": "03",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "15.0",
+              "dishesVipPrice": "15.0",
+              "dishesCode": "1005",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "份",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0,
+              "methodCategories": [
+                  {
+                      "id": 571258,
+                      "categoryName": "口味",
+                      "selectFlag": 1,
+                      "sort": 1,
+                      "methodList": [
+                          {
+                              "id": 3883735,
+                              "name": "微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883737,
+                              "name": "中辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883738,
+                              "name": "特辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          },
+                          {
+                              "id": 3883739,
+                              "name": "微微辣",
+                              "markupWay": 0,
+                              "markupPrice": 0,
+                              "isDefault": 2
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "210013774",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "哈尔滨啤酒",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "6.0",
+              "dishesVipPrice": "6.0",
+              "dishesCode": "1060",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/e41a56yH.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/e41a56yH.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "罐",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "210013686",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "青岛纯生",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "6.0",
+              "dishesVipPrice": "6.0",
+              "dishesCode": "1059",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/arPh76CI.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/arPh76CI.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "罐",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "201607680",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "差价",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "1.0",
+              "dishesVipPrice": "1.0",
+              "dishesCode": "1058",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "位",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "201607118",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "苏打汽水",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "2.5",
+              "dishesVipPrice": "2.5",
+              "dishesCode": "1057",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "罐",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "201607019",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "优酸乳",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "2.5",
+              "dishesVipPrice": "2.5",
+              "dishesCode": "1056",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "瓶",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "201396618",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "怡宝矿泉水",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "2.0",
+              "dishesVipPrice": "2.0",
+              "dishesCode": "1055",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/za4ZgeC9.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/za4ZgeC9.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "瓶",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "201396550",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "王老吉",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1054",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "瓶",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "201396484",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "百事可乐",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "3.0",
+              "dishesVipPrice": "3.0",
+              "dishesCode": "1053",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/fec256gX.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/fec256gX.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "瓶",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "201396383",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "雪碧",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "3.0",
+              "dishesVipPrice": "3.0",
+              "dishesCode": "1052",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/de46aeoQ.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/de46aeoQ.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "瓶",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200930792",
+              "foodproperty": null,
+              "foodpro": null,
+              "pricingType": null,
+              "dishesName": "维他奶",
+              "dishesType": {
+                  "dishesTypeId": "16158124",
+                  "dishesTypeName": "酒水饮品",
+                  "code": "04",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "4.0",
+              "dishesVipPrice": "4.0",
+              "dishesCode": "1051",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/zBrgvamx.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/zBrgvamx.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "dishesUnit": "瓶",
+              "minCount": 0,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": 0,
+              "mustFoodNum": 0,
+              "inceptStep": 0,
+              "dishesRecommend": 0
+          },
+          {
+              "dishesId": "200931249",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "D套餐",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "30.0",
+              "dishesVipPrice": "30.0",
+              "dishesCode": "55",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-30.0",
+              "startVipPrice": "-30.0",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930718,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "原味螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1001",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "id": 200930682,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "猪脚",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1037",
+                      "groupName": "",
+                      "itemId": 2,
+                      "methodCategories": []
+                  },
+                  {
+                      "id": 200930689,
+                      "count": 1,
+                      "price": "5.0",
+                      "name": "鹌鹑蛋",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1030",
+                      "groupName": "",
+                      "itemId": 3,
+                      "methodCategories": []
+                  },
+                  {
+                      "id": 200930792,
+                      "count": 1,
+                      "price": "4.0",
+                      "name": "维他奶",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1051",
+                      "groupName": "",
+                      "itemId": 4,
+                      "methodCategories": []
+                  }
+              ]
+          },
+          {
+              "dishesId": "200931189",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "C套餐",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "21.0",
+              "dishesVipPrice": "21.0",
+              "dishesCode": "22",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-21.0",
+              "startVipPrice": "-21.0",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930718,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "原味螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1001",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "id": 200930689,
+                      "count": 1,
+                      "price": "5.0",
+                      "name": "鹌鹑蛋",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1030",
+                      "groupName": "",
+                      "itemId": 2,
+                      "methodCategories": []
+                  },
+                  {
+                      "id": 200930699,
+                      "count": 1,
+                      "price": "3.0",
+                      "name": "热狗",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1020",
+                      "groupName": "",
+                      "itemId": 3,
+                      "methodCategories": []
+                  },
+                  {
+                      "id": 200930792,
+                      "count": 1,
+                      "price": "4.0",
+                      "name": "维他奶",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1051",
+                      "groupName": "",
+                      "itemId": 4,
+                      "methodCategories": []
+                  }
+              ]
+          },
+          {
+              "dishesId": "200931123",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "B套餐",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "18.0",
+              "dishesVipPrice": "18.0",
+              "dishesCode": "12",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-18.0",
+              "startVipPrice": "-18.0",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930718,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "原味螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1001",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "id": 200930691,
+                      "count": 1,
+                      "price": "5.0",
+                      "name": "螺肉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1028",
+                      "groupName": "",
+                      "itemId": 2,
+                      "methodCategories": []
+                  },
+                  {
+                      "id": 200930792,
+                      "count": 1,
+                      "price": "4.0",
+                      "name": "维他奶",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1051",
+                      "groupName": "",
+                      "itemId": 3,
+                      "methodCategories": []
+                  }
+              ]
+          },
+          {
+              "dishesId": "200931057",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "A套餐",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "16.0",
+              "dishesVipPrice": "16.0",
+              "dishesCode": "01",
+              "dishesImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@100w_75h_1e_1c_1l",
+              "dishesIntroImage": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/342636.jpg@320w_240h_1e_1c_1l",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-16.0",
+              "startVipPrice": "-16.0",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 0,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930718,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "原味螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1001",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "id": 200930701,
+                      "count": 1,
+                      "price": "3.0",
+                      "name": "豆腐串",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1018",
+                      "groupName": "",
+                      "itemId": 2,
+                      "methodCategories": []
+                  },
+                  {
+                      "id": 200930792,
+                      "count": 1,
+                      "price": "4.0",
+                      "name": "维他奶",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1051",
+                      "groupName": "",
+                      "itemId": 3,
+                      "methodCategories": []
+                  }
+              ]
+          },
+          {
+              "dishesId": "201849328",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "团购招牌套餐",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "8.0",
+              "dishesVipPrice": "8.0",
+              "dishesCode": "10",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-8.0",
+              "startVipPrice": "-8.0",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 1,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930718,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "原味螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1001",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  }
+              ]
+          },
+          {
+              "dishesId": "201848087",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "团购桂林米粉加卤蛋",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "11.8",
+              "dishesVipPrice": "11.8",
+              "dishesCode": "06",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-11.8",
+              "startVipPrice": "-11.8",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 1,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930679,
+                      "count": 1,
+                      "price": "14.0",
+                      "name": "干捞卤蛋粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1040",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": []
+                  }
+              ]
+          },
+          {
+              "dishesId": "201847938",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "团购2人餐",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "24.8",
+              "dishesVipPrice": "24.8",
+              "dishesCode": "05",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-24.8",
+              "startVipPrice": "-24.8",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 1,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930718,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "原味螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1001",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "id": 200930717,
+                      "count": 1,
+                      "price": "14.0",
+                      "name": "三鲜螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1002",
+                      "groupName": "",
+                      "itemId": 2,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "id": 200930792,
+                      "count": 2,
+                      "price": "4.0",
+                      "name": "维他奶",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1051",
+                      "groupName": "",
+                      "itemId": 3,
+                      "methodCategories": []
+                  }
+              ]
+          },
+          {
+              "dishesId": "201847890",
+              "foodproperty": "1",
+              "foodpro": 0,
+              "pricingType": 0,
+              "dishesName": "团购单人餐",
+              "dishesType": {
+                  "dishesTypeId": "16158135",
+                  "dishesTypeName": "套餐",
+                  "code": "00",
+                  "parentId": null,
+                  "parentName": null
+              },
+              "dishesPrice": "12.8",
+              "dishesVipPrice": "12.8",
+              "dishesCode": "04",
+              "dishesImage": "",
+              "dishesIntroImage": "",
+              "season": 0,
+              "Weigh": "0",
+              "dishIntro": "",
+              "startPrice": "-12.8",
+              "startVipPrice": "-12.8",
+              "dishesUnit": "份",
+              "minCount": null,
+              "necessary": false,
+              "hide": 1,
+              "mustFoodType": null,
+              "mustFoodNum": null,
+              "inceptStep": null,
+              "dishesRecommend": 0,
+              "combosList": [
+                  {
+                      "id": 200930718,
+                      "count": 1,
+                      "price": "12.0",
+                      "name": "原味螺蛳粉",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1001",
+                      "groupName": "",
+                      "itemId": 1,
+                      "methodCategories": [
+                          {
+                              "id": 571258,
+                              "categoryName": "口味",
+                              "selectFlag": 1,
+                              "sort": 1,
+                              "methodList": [
+                                  {
+                                      "id": 3883735,
+                                      "name": "微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883737,
+                                      "name": "中辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883738,
+                                      "name": "特辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  },
+                                  {
+                                      "id": 3883739,
+                                      "name": "微微辣",
+                                      "markupWay": 0,
+                                      "markupPrice": 0,
+                                      "isDefault": 2
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "id": 200930792,
+                      "count": 1,
+                      "price": "4.0",
+                      "name": "维他奶",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1051",
+                      "groupName": "",
+                      "itemId": 2,
+                      "methodCategories": []
+                  },
+                  {
+                      "id": 200930701,
+                      "count": 1,
+                      "price": "3.0",
+                      "name": "豆腐串",
+                      "isRepeatable": 0,
+                      "cdatList": [],
+                      "norms": null,
+                      "code": "1018",
+                      "groupName": "",
+                      "itemId": 3,
+                      "methodCategories": []
+                  }
+              ]
+          }
+      ],
+      "periodFood": {
+          "periodFoods": {},
+          "serverTime": 1625196272253
+      }
+  },
+  "newVersion": {
+      "optionNum": 1
+  },
+  "cardType": {
+      "hasCardType": 1,
+      "hasMicCardType": 1,
+      "crmVersion": "2.0"
+  },
+  "desk": {
+      "tn": "0sBYpVWD",
+      "count": 40,
+      "table": [
+          "1",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "2",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "3",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "4",
+          "40",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9"
+      ],
+      "tableList": [
+          {
+              "id": "1",
+              "name": "1A"
+          },
+          {
+              "id": "2",
+              "name": "1B"
+          },
+          {
+              "id": "3",
+              "name": "1C"
+          },
+          {
+              "id": "4",
+              "name": "1D"
+          },
+          {
+              "id": "5",
+              "name": "2A"
+          },
+          {
+              "id": "6",
+              "name": "2B"
+          },
+          {
+              "id": "7",
+              "name": "2C"
+          },
+          {
+              "id": "8",
+              "name": "2D"
+          },
+          {
+              "id": "9",
+              "name": "3A"
+          },
+          {
+              "id": "10",
+              "name": "3B"
+          },
+          {
+              "id": "11",
+              "name": "3C"
+          },
+          {
+              "id": "12",
+              "name": "3D"
+          },
+          {
+              "id": "13",
+              "name": "4A"
+          },
+          {
+              "id": "14",
+              "name": "4B"
+          },
+          {
+              "id": "15",
+              "name": "4C"
+          },
+          {
+              "id": "16",
+              "name": "4D"
+          },
+          {
+              "id": "17",
+              "name": "5A"
+          },
+          {
+              "id": "18",
+              "name": "5B"
+          },
+          {
+              "id": "19",
+              "name": "5C"
+          },
+          {
+              "id": "20",
+              "name": "5D"
+          },
+          {
+              "id": "21",
+              "name": "6A"
+          },
+          {
+              "id": "22",
+              "name": "6B"
+          },
+          {
+              "id": "23",
+              "name": "6C"
+          },
+          {
+              "id": "24",
+              "name": "6D"
+          },
+          {
+              "id": "25",
+              "name": "7A"
+          },
+          {
+              "id": "26",
+              "name": "7B"
+          },
+          {
+              "id": "27",
+              "name": "7C"
+          },
+          {
+              "id": "28",
+              "name": "7D"
+          },
+          {
+              "id": "29",
+              "name": "8A"
+          },
+          {
+              "id": "30",
+              "name": "8B"
+          },
+          {
+              "id": "31",
+              "name": "8C"
+          },
+          {
+              "id": "32",
+              "name": "8D"
+          },
+          {
+              "id": "33",
+              "name": "9A"
+          },
+          {
+              "id": "34",
+              "name": "9B"
+          },
+          {
+              "id": "35",
+              "name": "9C"
+          },
+          {
+              "id": "36",
+              "name": "9D"
+          },
+          {
+              "id": "37",
+              "name": "10A"
+          },
+          {
+              "id": "38",
+              "name": "10B"
+          },
+          {
+              "id": "39",
+              "name": "10C"
+          },
+          {
+              "id": "40",
+              "name": "10D"
+          }
+      ]
+  },
+  "unFinishOrder": null,
+  "templateNumber": {
+      "foods": 1,
+      "recommends": 1
+  },
+  "cartId": {
+      "value": "49f9f4fb8551fba51626674",
+      "sign": "071ee720"
+  },
+  "guid": "other_ed3534e6b71973537eb36469a2c9b132",
+  "merchantOpenId": null
+}

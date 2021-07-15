@@ -1,0 +1,760 @@
+{
+	"shopName": "湘食湘聚",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "活动",
+			"foods": [
+				{
+					"name": "扇子骨",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/0482639018c94d3cb9ec76adc9749c93.jpg?o2oApiId=12822",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "活动",
+					"props": []
+				},
+				{
+					"name": "口水鸡",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/2d45764984ec48c2a11c7e156ab16aef.jpg?o2oApiId=12822",
+					"price": 19.9,
+					"unit": "份",
+					"categoryName": "活动",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "招牌特色",
+			"foods": [
+				{
+					"name": "黄骨鱼",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/0f938e321c4b4dda86d1bc4c7dc1e60f.jpg?o2oApiId=12822",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "血浆鸭",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/2a50908e30714d70a81acadad779bc6b.JPG?o2oApiId=12822",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "小炒黄牛肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/4667526efefc406db3028d8a30d4b8dc.jpg?o2oApiId=12822",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "剁椒鱼头",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/e4aa5bf2b25643348ac142f50a18be73.jpg?o2oApiId=12822",
+					"price": 46,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "宝庆嫩豆腐",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/977e37a360de4d32ac7eb891c550dee1.jpg?o2oApiId=12822",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "大味羊肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/4a0dc1de46f94356a5d8353c0a9259e8.jpg?o2oApiId=12822",
+					"price": 108,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "滋补羊肉煲",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/3bee04fbdb5e40cb9143f4c241793fd1.jpg?o2oApiId=12822",
+					"price": 108,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "口味猪脚",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/bd2c7018016147c9b5d7b97940bdead8.JPG?o2oApiId=12822",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "酸辣大肠",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/1d2d440eb9a049beb0a65e865d7e9d5d.JPG?o2oApiId=12822",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "清汤鸡煲（大份）",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/a1a9129b88f54b3a8628f64890b4d42b.jpg?o2oApiId=12822",
+					"price": 78,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				},
+				{
+					"name": "清汤鸡煲（小份）",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/a1a9129b88f54b3a8628f64890b4d42b.jpg?o2oApiId=12822",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "招牌特色",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "农家风味",
+			"foods": [
+				{
+					"name": "正宗湖南腊肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/23709fb658d94f069d1b4cd7cb38ac13.jpg?o2oApiId=12822",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "农家风味",
+					"props": []
+				},
+				{
+					"name": "腊牛肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/fb8a099f2ef34b2bac2a6d517f0d1156.jpg?o2oApiId=12822",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "农家风味",
+					"props": []
+				},
+				{
+					"name": "腊味合蒸",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/249e8b15ae554d03b823fee968ab350c.jpg?o2oApiId=12822",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "农家风味",
+					"props": []
+				},
+				{
+					"name": "白辣椒腊板鸭",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/8577ca5fcace4e649589db66d11f6ba2.jpg?o2oApiId=12822",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "农家风味",
+					"props": []
+				},
+				{
+					"name": "青头菌炒肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/10d2a27b5fcb4b5d9c35679eeb3b5fab.jpg?o2oApiId=12822",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "农家风味",
+					"props": []
+				},
+				{
+					"name": "青椒小河鱼",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/72712474be72424985f5181bf125d139.jpg?o2oApiId=12822",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "农家风味",
+					"props": []
+				},
+				{
+					"name": "干笋肉末",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/01c171f73acc403fba72fb2e85a697c4.jpg?o2oApiId=12822",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "农家风味",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "家乡味道",
+			"foods": [
+				{
+					"name": "跳水鱼",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/d6f8131b6c4b4e008521fad0cc701b23.JPG?o2oApiId=12822",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "金钱蛋",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/0e6148eeb2514e00a859068dd4028bb1.jpg?o2oApiId=12822",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "手撕鸡",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/d87c1dd91ac34a4bb556dc3f00648d4a.jpg?o2oApiId=12822",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "口水鸡",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/2d45764984ec48c2a11c7e156ab16aef.jpg?o2oApiId=12822",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "梅菜扣肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/a9e9d27fde134547bf813f033bf1b836.jpg?o2oApiId=12822",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "粉蒸肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/4f3afc20fcfb4361bc42abbf8d782507.JPG?o2oApiId=12822",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "香辣基围虾",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/161fcf68cf194ed584bcbd8a02cf7dec.jpg?o2oApiId=12822",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "铁板鱿鱼须",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/a30a7e7ef6cb4b4382fd37626e5b77fd.jpg?o2oApiId=12822",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "铁板牛肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/8bd9de25226f426098f49a112287be90.jpg?o2oApiId=12822",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "干锅肥肠",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/b71a4a0ea9874416aa120707473437af.jpg?o2oApiId=12822",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "孜然扇子骨",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/71c65dc840ec4f80b8445dece14a8750.jpg?o2oApiId=12822",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "啤酒鸭",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/57cb469acfe645f9b3764903aad51af6.jpg?o2oApiId=12822",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "干锅千叶豆腐",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/4f7813888eaf4990b3f5888739b1ffef.jpg?o2oApiId=12822",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "红烧米豆腐",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/910879706d2d428483ac9a45caa8b6d6.jpg?o2oApiId=12822",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "水晶粉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/df0aeeef5dd4400ea81977d289a8e90c.jpg?o2oApiId=12822",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "香辣泥鳅",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/5f1fa2ebe9c840a587e626c1d7ce4d99.jpg?o2oApiId=12822",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "家常豆腐",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/9ca13ebab12349479c0a76378412bde9.jpg?o2oApiId=12822",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "酸辣鸡杂",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/2384dbca55bc469496fc2fa587202137.jpg?o2oApiId=12822",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "糖醋排骨",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/8932ddc4543944d1a3b66fcc88e54cdb.jpg?o2oApiId=12822",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "小炒肉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/97fdb9a6300b4c8ea4f2382c2fc6fff3.jpg?o2oApiId=12822",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "青椒炒蛋",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/acf1eee8fc3b4182ac03c6331a4e5a6b.jpg?o2oApiId=12822",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "水蒸蛋",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/5bc55a9c30f04c4ba230dad799b0636e.jpg?o2oApiId=12822",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				},
+				{
+					"name": "葱花蛋饼",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/4562673db6804b73b4c275ef5e3e853a.jpg?o2oApiId=12822",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "家乡味道",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "开胃凉菜",
+			"foods": [
+				{
+					"name": "凉拌蕨根粉",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/d866ca0c23f449d4a5abf2d346281066.jpg?o2oApiId=12822",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "开胃凉菜",
+					"props": []
+				},
+				{
+					"name": "油炸花生米",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/25545384525d45e6866d0841c2988a0b.jpg?o2oApiId=12822",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "开胃凉菜",
+					"props": []
+				},
+				{
+					"name": "凉拌皮蛋",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/0e52da4bc97440d1891612df02e014f5.jpg?o2oApiId=12822",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "开胃凉菜",
+					"props": []
+				},
+				{
+					"name": "凉拌黄瓜",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/81e894aea7f4419ebfdc984944fb1869.jpg?o2oApiId=12822",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "开胃凉菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "经典小炒",
+			"foods": [
+				{
+					"name": "有机花菜",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/08e5bf1c5db844a2b8a9fec0dcc1bdff.jpg?o2oApiId=12822",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				},
+				{
+					"name": "炒时蔬.",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/d49c1ffb5a6541c68c02288b5c3f1dc6.jpg?o2oApiId=12822",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				},
+				{
+					"name": "擂辣椒皮蛋",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/d674aa1e42b0479faf5ec5bc3b597e47.jpg?o2oApiId=12822",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				},
+				{
+					"name": "炒土豆丝",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/f1266d82c5a5476090399e330505ad01.jpg?o2oApiId=12822",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				},
+				{
+					"name": "清炒土豆丝",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/1341a15981394cf8ac703dfe0881524d.jpg?o2oApiId=12822",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				},
+				{
+					"name": "手撕包菜",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/e6d3f8c052934606abdf202195b0de1c.jpg?o2oApiId=12822",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				},
+				{
+					"name": "干煸四季豆",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/86650d76d9124a9f83ebe6206ab4802b.jpg?o2oApiId=12822",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				},
+				{
+					"name": "茄子豆角",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/3768d2846b354249a0f9db2a4822cdcf.jpg?o2oApiId=12822",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "经典小炒",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "养生靓汤",
+			"foods": [
+				{
+					"name": "西红柿蛋汤",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/aa5a01fb006a4eae84b08099c483616c.jpg?o2oApiId=12822",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "养生靓汤",
+					"props": []
+				},
+				{
+					"name": "排骨海带汤",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/62961daecff9402d9120a3db4a859e15.png?o2oApiId=12822",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "养生靓汤",
+					"props": []
+				},
+				{
+					"name": "荷包蛋肉丸汤",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/8125f61d9fc94738a2c53001d96bc4d2.jpg?o2oApiId=12822",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "养生靓汤",
+					"props": []
+				},
+				{
+					"name": "马蹄肉丸汤",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/1e6f4296168c438488ebe210040d9902.jpg?o2oApiId=12822",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "养生靓汤",
+					"props": []
+				},
+				{
+					"name": "鱼头豆腐汤",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/7982598e05764ae9aa8987ade1f9f3a1.jpg?o2oApiId=12822",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "养生靓汤",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "健康主食",
+			"foods": [
+				{
+					"name": "芝麻蕨粑",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/f6e2cab1eccf4b2c8cf9ca4971efe833.jpg?o2oApiId=12822",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "健康主食",
+					"props": []
+				},
+				{
+					"name": "白糖发糕",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/41a919a5064c4e9592b8a0aaf0395495.png?o2oApiId=12822",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "健康主食",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "其他",
+			"foods": [
+				{
+					"name": "米饭（小桶）",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/9113a8bba0e54ac59804b697857fcc53.jpg?o2oApiId=12822",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "米饭（碗）",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/45e2e269ca8a48779906dadf65b896d3.jpg?o2oApiId=12822",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "餐位",
+					"picUrl": "",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "米饭（大桶）",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/45e2e269ca8a48779906dadf65b896d3.jpg?o2oApiId=12822",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "打包盒",
+					"picUrl": "",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
+				},
+				{
+					"name": "纸巾",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/157431ad343c49f7b7db69d9113ec0b4.jpg?o2oApiId=12822",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "其他",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮品",
+			"foods": [
+				{
+					"name": "鲜榨玉米汁",
+					"picUrl": "https://image-c.weimobwmc.com/gateway/89151ce4bad3458f9c11b4cb60f56a5e.jpg?o2oApiId=12822",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "矿泉水",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "王老吉刺柠",
+					"picUrl": "",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "王老吉瓶装",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "百威啤酒",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "岑峰窖酒",
+					"picUrl": "",
+					"price": 218,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "光明酸奶",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "青岛啤酒",
+					"picUrl": "",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "劲酒",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "江小白",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "天地壹号",
+					"picUrl": "",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "1.25L椰子汁",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "罐装椰子汁",
+					"picUrl": "",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "1.25L果粒橙",
+					"picUrl": "",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "1.25雪碧",
+					"picUrl": "",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "330ml雪碧",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "1.25可乐",
+					"picUrl": "",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "330ml可乐",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "罐装王老吉",
+					"picUrl": "",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "怡宝",
+					"picUrl": "",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				}
+			]
+		}
+	]
+}

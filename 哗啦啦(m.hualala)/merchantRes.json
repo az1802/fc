@@ -1,0 +1,1841 @@
+{
+	"shopName": "捞大碗（科技园店）",
+	"shop_pic": "http://res.hualala.com/basicdoc/fdde192e-763f-4488-b5b1-e7f3864c212f.jpg",
+	"categories": [
+		{
+			"name": "超值套餐",
+			"foods": [
+				{
+					"name": "单人超值套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/1c53fc05-72ae-4e4c-acfc-ae1dbfa13ded.jpg",
+					"price": 36.8,
+					"unit": "份",
+					"categoryName": "超值套餐",
+					"props": []
+				},
+				{
+					"name": "招牌牛肉卤粉套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/984c706a-40c4-44d9-87b0-2f207729e42a.jpg",
+					"price": 28.8,
+					"unit": "份",
+					"categoryName": "超值套餐",
+					"props": []
+				},
+				{
+					"name": "香辣牛肉卤粉套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/938be30d-6ee6-40b2-94de-4fc1ef6a0759.jpg",
+					"price": 33.8,
+					"unit": "份",
+					"categoryName": "超值套餐",
+					"props": []
+				},
+				{
+					"name": "经典肉丝汤粉套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/ef9ff548-970f-4173-8c1f-a4a05a0ac6d6.jpg",
+					"price": 27.8,
+					"unit": "份",
+					"categoryName": "超值套餐",
+					"props": []
+				},
+				{
+					"name": "经典排骨汤粉套餐",
+					"picUrl": "http://res.hualala.com/basicdoc/bf70d19e-0cf2-47d1-9f46-79dd0030232e.jpg",
+					"price": 32.8,
+					"unit": "份",
+					"categoryName": "超值套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "大碗卤粉",
+			"foods": [
+				{
+					"name": "小炒黄牛肉捞粉",
+					"picUrl": "http://res.hualala.com/basicdoc/af23a9e7-a2fd-4157-a134-8660d13ce1ea.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "其他",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒土猪肉捞粉",
+					"picUrl": "http://res.hualala.com/basicdoc/02202b48-5124-4a4a-bdce-b7b6f6e82387.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "其他",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒酸菜小笋肉沫捞粉",
+					"picUrl": "http://res.hualala.com/basicdoc/1a1b466c-7c2d-4679-a257-a6ea92ab2433.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "其他",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣牛肉卤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/b40f441c-6b6a-4810-9e57-789de635677c.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "  加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌牛肉卤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/cc555c6b-80a6-4c2d-9b0a-d4e4092e79c2.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "霸王猪脚卤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/65a72874-3abc-4a87-a182-f314663eb218.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "免辣",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "免辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "免辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "免辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣牛肉卤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/492e0287-08d7-4826-a24d-689bf31c81fc.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "经典排骨卤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/a08490e6-bafc-424a-a686-026369f1dd7a.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩卤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/946e0717-1e9c-4be8-b759-9c4cfb2eb0d9.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肉酱卤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/0299d0a7-cfd9-4e57-b7cb-5f7e159c4fa4.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "素卤粉+鸡爪一个",
+					"picUrl": "http://res.hualala.com/basicdoc/85466445-b1e7-4155-bca7-01e6774456c3.gif",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "大碗卤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "不辣",
+							"values": [
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "不辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "不辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "不辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免蒜",
+									"price": 0,
+									"propName": "不辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "大碗汤粉",
+			"foods": [
+				{
+					"name": "小炒黄牛肉汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/66078d92-2870-4e5f-9606-951ff743c720.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "叫小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "其他",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "改圆粉",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒土猪肉汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/a7c552a2-c5e6-48b1-aab5-d2b6c9f853f7.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "叫小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "其他",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "改圆粉",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒酸菜小笋肉沫汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/463440e4-6364-47d6-ad65-dcf41792d237.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "叫小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "其他",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "改圆粉",
+									"price": 0,
+									"propName": "其他",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "筒子骨汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/7bab26b1-6007-4589-a437-7f1936b003ad.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "改圆粉",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "经典肉丝汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/30992a12-5762-4d1f-8a1e-71f20f0a799a.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "免辣",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "免辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "免辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "改圆粉",
+									"price": 0,
+									"propName": "免辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/e361e3f3-e727-4e39-9f1d-af24d935a08d.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "改圆粉",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸豆角肉末汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/1ce9b4e4-d205-4439-8238-ce7aecb486ec.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "改圆粉",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌牛肉汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/e1fc2b98-3de9-40ce-b26f-c5f140e2597b.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣牛肉汤粉",
+					"picUrl": "http://res.hualala.com/basicdoc/9496e79f-fff1-4220-88d4-6933130dd290.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩汤粉",
+					"picUrl": "",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "大碗汤粉",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "大碗米饭",
+			"foods": [
+				{
+					"name": "小炒黄牛肉饭",
+					"picUrl": "http://res.hualala.com/basicdoc/55722f78-4059-4d1a-a9e0-a2462980f306.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "大碗米饭",
+					"props": []
+				},
+				{
+					"name": "小炒土猪肉饭",
+					"picUrl": "http://res.hualala.com/basicdoc/30dafdbd-8b7b-4393-a0f8-ad11ce367860.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "大碗米饭",
+					"props": []
+				},
+				{
+					"name": "酸菜小笋肉沫饭",
+					"picUrl": "http://res.hualala.com/basicdoc/1897e928-9c91-4cdc-86bd-46435beab778.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "大碗米饭",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "大碗热卤",
+			"foods": [
+				{
+					"name": "湘卤猪耳",
+					"picUrl": "http://res.hualala.com/basicdoc/a9d15844-60fa-4ee7-a369-031bd2f6023b.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": [
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热卤海带",
+					"picUrl": "http://res.hualala.com/basicdoc/abc78427-fc4f-4a6a-af6b-88bd2777c5e8.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": [
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热卤豆皮",
+					"picUrl": "http://res.hualala.com/basicdoc/cd1ff805-e2c4-4836-8f3a-90d3b65715fa.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": [
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热卤鸡尖",
+					"picUrl": "http://res.hualala.com/basicdoc/db1590a2-f8c5-41b4-bffb-be5e37d8584f.jpg",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": [
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热卤鸡爪",
+					"picUrl": "http://res.hualala.com/basicdoc/5b2e6e9f-9ab1-4f28-b27e-30ae8ee4e91a.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": [
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热卤鸭爪",
+					"picUrl": "http://res.hualala.com/basicdoc/029cab52-9285-46d8-acf1-ff740b9e530c.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": [
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热卤三角豆腐",
+					"picUrl": "http://res.hualala.com/basicdoc/b5f21a34-1a40-40a7-86da-64359c426296.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": [
+						{
+							"name": "加辣",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "加辣",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "霸王猪脚",
+					"picUrl": "http://res.hualala.com/basicdoc/9ddfe6bc-65f9-4e58-a3d1-b89b39f4d44c.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "大碗热卤",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "大碗小吃",
+			"foods": [
+				{
+					"name": "长沙臭豆腐",
+					"picUrl": "http://res.hualala.com/basicdoc/11368e7f-9f40-4aae-8031-7b4340637c8c.jpg",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "香酥盐焗鸡块",
+					"picUrl": "http://res.hualala.com/basicdoc/652d9cf2-a457-4b8f-b3de-31587f5f719a.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "葱油粑粑",
+					"picUrl": "http://res.hualala.com/basicdoc/19d2ff72-79db-4600-a757-356f0780651f.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "姥姥糍粑",
+					"picUrl": "http://res.hualala.com/basicdoc/efd4186a-292f-4c5b-baff-0fcb10110c40.jpg",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "长沙葱油薄饼",
+					"picUrl": "http://res.hualala.com/basicdoc/fa190b51-450a-436c-9c79-485f9eef4378.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "酸脆萝卜条",
+					"picUrl": "http://res.hualala.com/basicdoc/2e2dcf59-1224-4502-901e-21459c0d5067.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "香煎荷包蛋",
+					"picUrl": "http://res.hualala.com/basicdoc/f5782f7c-abb0-4266-8e75-3f4396ef051c.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "湘味卤蛋",
+					"picUrl": "http://res.hualala.com/basicdoc/9e6f42af-48ae-46b1-9b22-772f6ad0e185.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": []
+				},
+				{
+					"name": "长沙凉面",
+					"picUrl": "http://res.hualala.com/basicdoc/ae1b6ad5-666f-4118-bc84-304fe2e74497.jpg",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱油炒饭",
+					"picUrl": "http://res.hualala.com/basicdoc/4372edac-4283-41a5-a6d9-5676c7e9f6f9.jpg",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "大碗小吃",
+					"props": [
+						{
+							"name": "蛋",
+							"values": [
+								{
+									"value": "加煎蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加卤蛋",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加小碗炖汤",
+									"price": "3",
+									"propName": "蛋",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "大碗鲜汤",
+			"foods": [
+				{
+					"name": "龙骨莲藕汤",
+					"picUrl": "http://res.hualala.com/basicdoc/55d29b8c-fe28-47c6-9974-5cf804a1ddb4.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "大碗鲜汤",
+					"props": []
+				},
+				{
+					"name": "虫草花乌鸡汤",
+					"picUrl": "http://res.hualala.com/basicdoc/2425cd1b-e1f7-4155-b108-52a5366a8aa1.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "大碗鲜汤",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "大碗饮品",
+			"foods": [
+				{
+					"name": "金桔百香果",
+					"picUrl": "http://res.hualala.com/basicdoc/a816652c-e812-479a-bcdd-bb2ce2084a16.png",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": []
+				},
+				{
+					"name": "冻柠茶",
+					"picUrl": "http://res.hualala.com/basicdoc/3922f209-8ec1-4120-aaf9-01b77dd1f344.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": [
+						{
+							"name": "去冰",
+							"values": [
+								{
+									"value": "加糖",
+									"price": 0,
+									"propName": "去冰",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸梅汤",
+					"picUrl": "http://res.hualala.com/basicdoc/cdf5755e-2694-4db0-9565-2d69e7eec66b.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": [
+						{
+							"name": "去冰",
+							"values": [
+								{
+									"value": "去糖",
+									"price": 0,
+									"propName": "去冰",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "加糖",
+									"price": 0,
+									"propName": "去冰",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "冻柠可乐",
+					"picUrl": "http://res.hualala.com/basicdoc/ffcfb97a-8b56-44c7-b188-782d4de9b654.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": [
+						{
+							"name": "去冰",
+							"values": [
+								{
+									"value": "加糖",
+									"price": 0,
+									"propName": "去冰",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "去糖",
+									"price": 0,
+									"propName": "去冰",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "原味冰粉",
+					"picUrl": "http://res.hualala.com/basicdoc/e2fd9457-7701-4f7d-bc5b-95f8dac56799.jpg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": [
+						{
+							"name": "加冰",
+							"values": [
+								{
+									"value": "加糖",
+									"price": 0,
+									"propName": "加冰",
+									"type": "",
+									"isMul": true
+								},
+								{
+									"value": "去糖",
+									"price": 0,
+									"propName": "加冰",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆浆",
+					"picUrl": "http://res.hualala.com/basicdoc/a8f2d8bb-56f3-4e8b-8f1e-add5d5dc61de.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": [
+						{
+							"name": "加糖",
+							"values": [
+								{
+									"value": "去糖",
+									"price": 0,
+									"propName": "加糖",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "米浆",
+					"picUrl": "http://res.hualala.com/basicdoc/4b74705b-b084-4118-8942-f45e460dc6c2.jpg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": [
+						{
+							"name": "加糖",
+							"values": [
+								{
+									"value": "去糖",
+									"price": 0,
+									"propName": "加糖",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "维他豆奶",
+					"picUrl": "http://res.hualala.com/basicdoc/d944b346-782e-4f31-9e0f-3207690e7e59.jpg",
+					"price": 4.5,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "http://res.hualala.com/basicdoc/751e1f45-79c3-4185-88d4-d1c89b0f11bd.jpg",
+					"price": 4.5,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": []
+				},
+				{
+					"name": "可乐",
+					"picUrl": "http://res.hualala.com/basicdoc/4833aa7c-cdf2-448b-a166-a29985a545a0.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": []
+				},
+				{
+					"name": "矿泉水",
+					"picUrl": "http://res.hualala.com/basicdoc/8a6f6e88-5d22-425c-b387-7af7f2859cfe.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": []
+				},
+				{
+					"name": "芬达",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "大碗饮品",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "大碗加料",
+			"foods": [
+				{
+					"name": "加圆粉",
+					"picUrl": "http://res.hualala.com/basicdoc/21bc62b3-b3d1-4990-ab9b-19be23b84468.jpg",
+					"price": null,
+					"unit": "份",
+					"categoryName": "大碗加料",
+					"props": [
+						{
+							"name": "加卤水",
+							"values": [
+								{
+									"value": "不加卤水",
+									"price": 0,
+									"propName": "加卤水",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "加扁粉",
+					"picUrl": "http://res.hualala.com/basicdoc/b4dc7ee6-33ae-4160-9c5a-c886382354b2.jpg",
+					"price": null,
+					"unit": "份",
+					"categoryName": "大碗加料",
+					"props": [
+						{
+							"name": "加卤水",
+							"values": [
+								{
+									"value": "不加卤水",
+									"price": 0,
+									"propName": "加卤水",
+									"type": "",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "加面",
+					"picUrl": "http://res.hualala.com/basicdoc/2e861495-b12a-4b13-b61e-7e568ac50ed6.jpg",
+					"price": null,
+					"unit": "份",
+					"categoryName": "大碗加料",
+					"props": []
+				}
+			]
+		}
+	]
+}
