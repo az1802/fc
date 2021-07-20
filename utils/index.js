@@ -125,6 +125,7 @@ async function genImgs(merchantInfo,outputDir) {
       let imgUrl = foodItem.picUrl;
      
       let imgName = formatFileName(foodItem.name) + ".jpg"
+      console.log(imgName)
       if (imgUrl) {
         try {
           request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, imgName.trim())))
@@ -315,10 +316,10 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
       let url = foodItem.picUrl
       let imgName= foodItem.name
       if (url) {
-        let ext =  url.slice(url.lastIndexOf("."));
+        // let ext =  url.slice(url.lastIndexOf("."));
         // ext= ".jpg" 
         // ext=".jpeg"
-        // ext = ".png"
+        ext = ".png"
         // if (bigImage) {//阿里云模式下下载大图
         //   url = url.slice(0, -3) + "2048";a
         // } 

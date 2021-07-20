@@ -5,7 +5,7 @@ const requestMenuJson = require("./merchantInfo.json");
 let merchantMenuInfo = requestMenuJson.data;
 
 let shopInfo = {
-  name:"芋见豆花",
+  name:"辣么巧",
   logo:""
 }
 let categoryList = merchantMenuInfo.dishTypeList
@@ -20,6 +20,7 @@ const exportMode = "feie"
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//默认存在规格属性
   practice: [
+    "炸串",
     "默认",
     "备注"
   ],//做法
@@ -27,6 +28,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   remarks: [],//备注
   propsGroupSort: [
     "配料",
+    "炸串",
     "默认",
     "备注"
   ],
