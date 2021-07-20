@@ -11,7 +11,7 @@ var docx = officegen('docx');//word
 const axios = require("axios")
 const DishMatchUrl = "https://test.shilai.zhiyi.cn/staff_assist/merchant/dish/fuzzy_match?dishName="
 
-
+const {genShilaiExcelAll } = require('./genShilaiExcelAll')
 async function sleep() {
   return new Promise((resolve, reject) => {
     setTimeout(resolve,3000)
@@ -610,8 +610,6 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
     if (propsGroupArr.indexOf(propName)==-1) { 
       propsGroupArr.push(propName);
     }
-
-  
     
     if (propsSort&&propsSort[propName]) { //具体某个属性组具体的排序
       let propNameSort = propsSort[propName]
@@ -816,6 +814,7 @@ module.exports = {
   genSpecificationsWord,
   dishMatch,
   requestPostUrl,
-  addPropsGroupArr
+  addPropsGroupArr,
+  genShilaiExcelAll
   // genZip,
 }

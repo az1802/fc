@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll,genShilaiExcelAll} = require("../utils/index")
 
 
 
@@ -14,7 +14,8 @@ const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${sh
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
+// const exportMode = "feie"
+const exportMode = "shilai"
 
 
 
@@ -29,18 +30,13 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:["规格"],//规格
   practice: [
-  	"备注",
-	"葱",
-	"辣度"
+    '加量'
+   
 ],//做法
   feeding:["加料"],
   remarks: [],//备注
   propsGroupSort: [
-    "备注",
-    "葱",
-    "辣度",
-    "加料",
-    "规格"
+   '规格', '加料','加量'
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -156,9 +152,9 @@ async function  handleRequestData(requestShopData,requestMenuData) {
             props:[],
           };
           let arrTemp = ["酸菜干拌","牛腩干拌"]
-          if (foodData.picUrl.indexOf('jpg')==-1){
-            foodData.picUrl=""
-          }
+          // if (foodData.picUrl.indexOf('jpg')==-1){
+          //   foodData.picUrl=""
+          // }
 
 
           foodData.name =   foodData.name.trim().replace(/\//ig,"-")
@@ -198,13 +194,17 @@ async function genImgsAndExcel() {
 
   // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
-    genImgs(merchantInfo,outputDir);
+    genImgs(merchantInfo, outputDir);
     genExcel(merchantInfo, outputDir);
-    genExcelAll(merchantInfo,outputDir,menuSetting)
-  } else {
+    genExcelAll(merchantInfo, outputDir, menuSetting)
+  } else if (exportMode == 'feie') {
     // genWord(merchantInfo, outputDir)
     // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
-    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
+  } else {
+    console.error("未设置导出模式")
   }
 
 }

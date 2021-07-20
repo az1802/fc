@@ -1,64 +1,60 @@
 {
-	"shopName": "小面·鸡公煲",
-	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/75e52d98-7094-456d-b62b-ac8eddca4959_tmp_367892ec23e39c37bc6a4026dee2ae90.jpg",
+	"shopName": "越小栈",
+	"shop_pic": "http://mmbiz.qpic.cn/mmbiz_jpg/QM2SBdJMJPnBdfk0HOtszYSnjPQBibHptKtoFS7g9Z8QiaicPwAw8yFdzujpKoKYd0GR7t5YibsGGrtgmsh96C3EGA/0",
 	"categories": [
 		{
-			"name": "商家推荐",
+			"name": "汤粉类",
 			"foods": [
 				{
-					"name": "卤花肉干香卤粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/330e77c9bb414fd9a5a027576b03621a.jpg",
-					"price": 18,
+					"name": "【招牌】香茅鸡腿汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-0.png",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "汤粉类",
 					"props": [
 						{
-							"name": "备注",
+							"name": "加料",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
+									"value": "不加",
 									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -70,59 +66,61 @@
 					]
 				},
 				{
-					"name": "麻辣汤面.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-138.jpg",
-					"price": 14,
+					"name": "【招牌】薄切肥牛卷汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a1329e296530584f98def8a62a3fca61.png",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "汤粉类",
 					"props": [
 						{
-							"name": "备注",
+							"name": "加料",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
+									"value": "不加",
 									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -134,59 +132,61 @@
 					]
 				},
 				{
-					"name": "老麻抄手.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-144.jpg",
-					"price": 18,
+					"name": "【推荐】海鲜烩汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-2.png",
+					"price": 42,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "汤粉类",
 					"props": [
 						{
-							"name": "备注",
+							"name": "加料",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
+									"value": "不加",
 									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -198,59 +198,61 @@
 					]
 				},
 				{
-					"name": "牛腩热干面.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-155.jpg",
-					"price": 20,
+					"name": "【推荐】帝王蟹柳汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-3.png",
+					"price": 45,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "汤粉类",
 					"props": [
 						{
-							"name": "备注",
+							"name": "加料",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
+									"value": "不加",
 									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -262,59 +264,61 @@
 					]
 				},
 				{
-					"name": "酸辣凉皮.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-171.jpg",
-					"price": 14,
+					"name": "欢聚一堂汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-4.png",
+					"price": 48,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "汤粉类",
 					"props": [
 						{
-							"name": "备注",
+							"name": "加料",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
+									"value": "不加",
 									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -326,59 +330,61 @@
 					]
 				},
 				{
-					"name": "酸辣凉面.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-180.jpg",
-					"price": 14,
+					"name": "越式牛肉丸汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-5.png",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "汤粉类",
 					"props": [
 						{
-							"name": "备注",
+							"name": "加料",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
+									"value": "不加",
 									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -390,19 +396,126 @@
 					]
 				},
 				{
-					"name": "原味冰粉.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/EBF93B0D25244CAA95A26496701C7356.jpg",
-					"price": 10,
+					"name": "越式虾枣汤河粉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-6.png",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "汤粉类",
 					"props": [
 						{
-							"name": "备注",
+							"name": "加料",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
+									"value": "不加",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "捞檬碗【干捞】",
+			"foods": [
+				{
+					"name": "香茅脆鸡扒捞檬碗",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-7.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "捞檬碗【干捞】",
+					"props": [
+						{
+							"name": "加量",
+							"values": [
+								{
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加量",
 									"isMul": true
 								}
 							]
@@ -414,63 +527,280 @@
 					]
 				},
 				{
-					"name": "酸辣红薯粉.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-210.jpg",
+					"name": "牛肉丸捞檬碗",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-8.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "捞檬碗【干捞】",
+					"props": [
+						{
+							"name": "加量",
+							"values": [
+								{
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "海鲜烩捞檬碗",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-9.png",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "捞檬碗【干捞】",
+					"props": [
+						{
+							"name": "加量",
+							"values": [
+								{
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "【招牌】欢聚一堂捞檬碗",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-10.png",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "捞檬碗【干捞】",
+					"props": [
+						{
+							"name": "加量",
+							"values": [
+								{
+									"value": "牛肉丸",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "肥牛卷",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "香茅鸡腿",
+									"price": 15,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "蟹柳",
+									"price": 18,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "大虾仁",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "虾枣",
+									"price": 20,
+									"propName": "加量",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 5,
+									"propName": "加量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "越式小吃",
+			"foods": [
+				{
+					"name": "脆虾鲜蔬春卷",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-11.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "越式小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "酸辣无骨凤爪",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-12.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "越式小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "虾片蘸酱",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-13.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "越式小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "轻油马蹄肉籽",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-31.png",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "越式小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "轻油三月虾卷",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-32.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "越式小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "轻油三月虾卷（小份）",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-33.png",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "越式小吃",
 					"props": [
 						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "果汁系列",
+			"foods": [
+				{
+					"name": "「三剑客」甘笋苹汁",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-14.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "果汁系列",
+					"props": [
 						{
 							"name": "加料",
 							"values": []
@@ -478,59 +808,107 @@
 					]
 				},
 				{
-					"name": "叉烧米线.",
-					"picUrl": "",
-					"price": 18,
+					"name": "「阳光宝宝」香橙西柚汁",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-15.png",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "商家推荐",
+					"categoryName": "果汁系列",
 					"props": [
 						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "奶昔",
+			"foods": [
+				{
+					"name": "牛油果奶昔",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-16.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "奶昔",
+					"props": [
 						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "大香芒奶昔",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-17.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "奶昔",
+					"props": [
 						{
-							"name": "辣度",
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "木瓜奶昔",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-18.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "奶昔",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "现磨手冲咖啡",
+			"foods": [
+				{
+					"name": "曼特宁风味咖啡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-19.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "现磨手冲咖啡",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "蓝山风味咖啡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-20.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "现磨手冲咖啡",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "越南咖啡",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-21.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "现磨手冲咖啡",
+					"props": [
+						{
+							"name": "规格",
 							"values": [
 								{
-									"value": "地道辣",
+									"value": "热",
 									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "规格",
 									"isMul": true
 								}
 							]
@@ -544,514 +922,15 @@
 			]
 		},
 		{
-			"name": "重庆小面干拌",
+			"name": "特饮",
 			"foods": [
 				{
-					"name": "豌豆干拌",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-230.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸菜干拌",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "麻辣干拌",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fbf663f1b855438d85a7d38e28ea7473.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛腩干拌",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "肥肠干拌",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "杂酱干拌",
-					"picUrl": "",
-					"price": 14.5,
-					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛肉干拌",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "叉烧干拌",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/73980C8CF3214A5CBF5B5C5BCF7FACFF.jpg",
+					"name": "百香果益力多",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-23.png",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "重庆小面干拌",
+					"categoryName": "特饮",
 					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "加料",
 							"values": []
@@ -1059,80 +938,11 @@
 					]
 				},
 				{
-					"name": "豌杂干拌",
-					"picUrl": "",
+					"name": "青柠薄荷莫吉托",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-24.png",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "重庆小面干拌",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "美味鸡公煲及私房料理",
-			"foods": [
-				{
-					"name": "酸菜炒大肠饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d22d8c107b434e2f8261056674d67781.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
+					"categoryName": "特饮",
 					"props": [
 						{
 							"name": "加料",
@@ -1141,11 +951,24 @@
 					]
 				},
 				{
-					"name": "番茄炒蛋饭",
-					"picUrl": "",
+					"name": "青桔柠檬红茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-25.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特饮",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "咸柠七",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-26.png",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
+					"categoryName": "特饮",
 					"props": [
 						{
 							"name": "加料",
@@ -1154,11 +977,11 @@
 					]
 				},
 				{
-					"name": "美味鸡公煲三人大煲含三米饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a35eadaf51e04ec7a8be7358c35c1fbe.jpg",
-					"price": 55,
+					"name": "冻柠乐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-27.png",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
+					"categoryName": "特饮",
 					"props": [
 						{
 							"name": "加料",
@@ -1167,24 +990,11 @@
 					]
 				},
 				{
-					"name": "鸡公煲小份加一份米饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d7a8b6c01cba4f46b8a0171265433126.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "回锅肉饭",
-					"picUrl": "",
+					"name": "红柚鲜橙苏打",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-30.png",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
+					"categoryName": "特饮",
 					"props": [
 						{
 							"name": "加料",
@@ -1193,2793 +1003,11 @@
 					]
 				},
 				{
-					"name": "美味鸡公煲中份含两份米饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/61242df9dc784bfc9fb782f83cae3e28.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸菜炒花肉饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ff688dfcdee845d28cbd61d27d1a4b0b.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "瘦叉炒蛋饭",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ed6c1919d03427c8de69e08013777ee.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "美味鸡公煲及私房料理",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "重庆小面汤面",
-			"foods": [
-				{
-					"name": "豌豆汤面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-256.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸菜汤面",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛腩汤面",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "叉烧汤面",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "肥肠汤面",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛肉汤面",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "豌杂汤面",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "重庆汤面",
-					"picUrl": "",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "杂酱汤面",
-					"picUrl": "",
-					"price": 14.5,
-					"unit": "份",
-					"categoryName": "重庆小面汤面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "特色干香卤粉",
-			"foods": [
-				{
-					"name": "干香卤粉素粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f0a6a455a9474682a90e8e269d771a5a.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "豌豆干香卤粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸菜干香卤粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛腩干香卤粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618383123447-94.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛肉干香卤粉",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "叉烧干香卤粉",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "豌杂干香卤粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618383123447-82.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "杂酱干香卤粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618383123447-64.jpg",
-					"price": 14.5,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "肥肠干香卤粉",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "特色干香卤粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "热干面",
-			"foods": [
-				{
-					"name": "豌豆热干面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-269.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热干面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛腩热干面",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热干面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸菜热干面",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "热干面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "杂酱热干面",
-					"picUrl": "",
-					"price": 14.5,
-					"unit": "份",
-					"categoryName": "热干面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "原味热干面",
-					"picUrl": "",
+					"name": "西贡啤酒",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-28.png",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "热干面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "叉烧热干面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/26174571A93A41769814940326017FBC.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热干面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "豌杂热干面",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热干面",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "红薯粉",
-			"foods": [
-				{
-					"name": "豌豆红薯粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛腩红薯粉",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "肥肠红薯粉",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "豌杂红薯粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-243.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "杂酱红薯粉",
-					"picUrl": "",
-					"price": 14.5,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸辣红薯粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-201.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸菜红薯粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛肉红薯粉",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "叉烧红薯粉",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "红薯粉",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "老麻抄手",
-			"foods": [
-				{
-					"name": "老麻抄手",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "老麻抄手",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "凉面凉皮",
-			"foods": [
-				{
-					"name": "麻酱凉面",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8CE44311AB6D4C9B8B5A45404A047B26.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "凉面凉皮",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "麻辣凉面",
-					"picUrl": "",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "凉面凉皮",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸辣凉面",
-					"picUrl": "",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "凉面凉皮",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "麻酱凉皮",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/454DA87587A14B81B6D4DB5AE6CEA314.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "凉面凉皮",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "麻辣凉皮",
-					"picUrl": "",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "凉面凉皮",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸辣凉皮",
-					"picUrl": "",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "凉面凉皮",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "葱",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "葱",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "地道辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "清凉一下",
-			"foods": [
-				{
-					"name": "原味冰粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2D31DA6147C04DDAAFDC0BF8BA0FADA8.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "清凉一下",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "滋补佳品",
-			"foods": [
-				{
-					"name": "蛋酒",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2C865C57DDC94F7EB12261282883AC8B.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "滋补佳品",
-					"props": [
-						{
-							"name": "备注",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "备注",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "饮料",
-			"foods": [
-				{
-					"name": "可口可乐300ml",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "芬达",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "特饮",
 					"props": [
 						{
 							"name": "加料",
@@ -3990,14 +1018,14 @@
 			]
 		},
 		{
-			"name": "加料",
+			"name": "其它",
 			"foods": [
 				{
-					"name": "补差价",
-					"picUrl": "",
+					"name": "打包费",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1192b849a19637d41972561a85928b3f.jpg",
 					"price": 1,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "其它",
 					"props": [
 						{
 							"name": "加料",
@@ -4006,128 +1034,11 @@
 					]
 				},
 				{
-					"name": "加豌豆",
-					"picUrl": "",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加面加粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1618379453916-129.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加肥肠",
-					"picUrl": "",
+					"name": "配送费",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f29baed90f76fa2c2157354271ab783a.jpg",
 					"price": 10,
 					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加叉烧",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加牛腩",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加杂酱",
-					"picUrl": "",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加牛肉",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加酸菜",
-					"picUrl": "",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加芽菜",
-					"picUrl": "",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "加荷包蛋",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "其它",
 					"props": [
 						{
 							"name": "加料",
