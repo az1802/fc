@@ -11,7 +11,7 @@
 					"name": "请按手机取单号取餐！",
 					"picUrl": "",
 					"categoryName": "默认分类",
-					"price": 0,
+					"price": 0.01,
 					"unit": "份",
 					"props": []
 				}
@@ -26,7 +26,7 @@
 					"name": "秘制酱龙骨",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c76a3db15d9708b5f0911999c98eeaa3.jpg",
 					"categoryName": "每日限量",
-					"price": 0,
+					"price": 22,
 					"unit": "份",
 					"props": []
 				}
@@ -41,7 +41,7 @@
 					"name": "黄焖鸡腿（小份）套餐(黄焖鸡腿小份+米饭+汤饮任选)",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4c2c2171b3b56d78bb02d972d86b2483.jpg",
 					"categoryName": "热卖套餐",
-					"price": 0,
+					"price": 18,
 					"unit": "份",
 					"props": [
 						{
@@ -109,7 +109,7 @@
 					"name": "黄焖鸡腿（大份）套餐(黄焖鸡腿大份+米饭+汤饮任选)",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4c2c2171b3b56d78bb02d972d86b2483.jpg",
 					"categoryName": "热卖套餐",
-					"price": 0,
+					"price": 24,
 					"unit": "份",
 					"props": [
 						{
@@ -177,7 +177,7 @@
 					"name": "黄焖鸡爪套餐(黄焖鸡爪大份+米饭+汤饮任选)",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5faf69c4e928af13449964c3accf4829.jpg",
 					"categoryName": "热卖套餐",
-					"price": 0,
+					"price": 26,
 					"unit": "份",
 					"props": [
 						{
@@ -245,7 +245,7 @@
 					"name": "黄焖排骨套餐(黄焖排骨大份+米饭+汤饮任选)",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/488ecc1b1cce9e040586e1343a59f94b.jpg",
 					"categoryName": "热卖套餐",
-					"price": 0,
+					"price": 28,
 					"unit": "份",
 					"props": [
 						{
@@ -319,7 +319,7 @@
 					"name": "黄焖鸡腿（小份）",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0ae262636421d121fb3e6aa742925af8.jpg",
 					"categoryName": "单品",
-					"price": 0,
+					"price": 16,
 					"unit": "份",
 					"props": [
 						{
@@ -358,7 +358,7 @@
 					"name": "黄焖鸡腿（大份）",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0ae262636421d121fb3e6aa742925af8.jpg",
 					"categoryName": "单品",
-					"price": 0,
+					"price": 22,
 					"unit": "份",
 					"props": [
 						{
@@ -397,7 +397,7 @@
 					"name": "黄焖鸡爪（大份）",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6972d4d85fffee25be5c1580befcf090.jpg",
 					"categoryName": "单品",
-					"price": 0,
+					"price": 23,
 					"unit": "份",
 					"props": [
 						{
@@ -436,7 +436,7 @@
 					"name": "黄焖排骨（大份）",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/47821147fc47b001af3bc73ada956e76.jpg",
 					"categoryName": "单品",
-					"price": 0,
+					"price": 25,
 					"unit": "份",
 					"props": [
 						{
@@ -475,7 +475,7 @@
 					"name": "米饭-份",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/0fee12e4ba994d038ec5ae84f32ab6fe.jpg",
 					"categoryName": "单品",
-					"price": 0,
+					"price": 2,
 					"unit": "份",
 					"props": []
 				},
@@ -484,7 +484,7 @@
 					"name": "秘制卤蛋-个",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5410f7802d556bfc4b80bf6d4d434774.jpg",
 					"categoryName": "单品",
-					"price": 0,
+					"price": 2,
 					"unit": "份",
 					"props": []
 				}
@@ -499,7 +499,7 @@
 					"name": "蔬菜芙蓉汤",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2de07896b8e13c737f5a038c72775b25.jpg",
 					"categoryName": "汤类",
-					"price": 0,
+					"price": 3,
 					"unit": "份",
 					"props": []
 				},
@@ -508,7 +508,7 @@
 					"name": "玉米蛋花汤",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d9585006b82d8a9394101447747b087b.jpg",
 					"categoryName": "汤类",
-					"price": 0,
+					"price": 3,
 					"unit": "份",
 					"props": []
 				},
@@ -517,7 +517,7 @@
 					"name": "醪糟鸡蛋汤",
 					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4b8dc5c7f7b249755b4b0b2f3af077da.jpg",
 					"categoryName": "汤类",
-					"price": 0,
+					"price": 3,
 					"unit": "份",
 					"props": []
 				}
@@ -532,7 +532,7 @@
 					"name": "火腿肠5片",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/a2b4f00c291d95dda83c9b2e7fe98790.jpg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 4,
 					"unit": "份",
 					"props": []
 				},
@@ -541,7 +541,7 @@
 					"name": "时蔬80g",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/06530ac33ba026f7848987a0582521e6.jpg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 3,
 					"unit": "份",
 					"props": []
 				},
@@ -550,7 +550,7 @@
 					"name": "土豆80g",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/059c50a443d932e166d3535153d86551.jpeg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 3,
 					"unit": "份",
 					"props": []
 				},
@@ -559,7 +559,7 @@
 					"name": "香菇60g",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/81e4598f322662572a62257c77620130.jpeg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 4,
 					"unit": "份",
 					"props": []
 				},
@@ -568,7 +568,7 @@
 					"name": "金针菇80g",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/41f0f08753fdd1748dca9b87d65aa055.jpg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 3,
 					"unit": "份",
 					"props": []
 				},
@@ -577,7 +577,7 @@
 					"name": "腐竹80g",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/415808af9e8d34f9b6ce93bdffe64df6.jpeg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 4,
 					"unit": "份",
 					"props": []
 				},
@@ -586,7 +586,7 @@
 					"name": "豆皮80g",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/a0977249f7a8e461ac45a9561d122481.jpg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 4,
 					"unit": "份",
 					"props": []
 				},
@@ -595,7 +595,7 @@
 					"name": "方便面1份",
 					"picUrl": "https://marketing-static.shouqianba.com/gallery/2a230008f3f26ab57acfeb225390ae53.jpg",
 					"categoryName": "豪华加菜",
-					"price": 0,
+					"price": 3,
 					"unit": "份",
 					"props": []
 				}

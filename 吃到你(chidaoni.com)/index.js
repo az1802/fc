@@ -129,6 +129,7 @@ async function genMenuFoods() {
         id:record.Id,
         name:record.Name,
         imgUrl: record.Cover || defaultImgUrl,
+        price: parseFloat(record.Price)/100,
         categoryName: categoryObj[record.CategoryId],
         categoryId:record.CategoryId,
         foodDetail: record,
@@ -159,7 +160,7 @@ async function genMenuFoods() {
       name:foodItem.name,
       picUrl: foodItem.imgUrl,
       categoryName: categoryName,
-      price: parseFloat(foodItem.Price)/100 || 0,
+      price: foodItem.price,
       unit: "份",
       props:handleFoodPropGroup(foodDetail),
     })

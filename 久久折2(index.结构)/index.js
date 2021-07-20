@@ -59,7 +59,7 @@ function handleFoodPropGroup(foodDetail) {
     propGroup.values = specs.options && specs.options.map(optionItem => {
       return {
         "value": optionItem.name,
-        "price": parseFloat(optionItem.price)/100 || 0,
+        "price": parseFloat(optionItem.price/100),
         "propName": propGroup.name,
         "isMul": false
       }
@@ -107,6 +107,7 @@ async function genMenuFoods() {
         let foodTemp = {
           id:record.item.id,
           name:record.item.name + (!!record.item.description ? `(${record.item.description})`: ""),
+          price:record.item.price/100,
           imgUrl: record.item.photo_url&&record.item.photo_url.split(",")[0] || defaultImgUrl,
           categoryName: categoryObj[record.item.category_id],
           categoryId:record.item.category_id,
@@ -142,7 +143,7 @@ async function genMenuFoods() {
       name:foodItem.name,
       picUrl: foodItem.imgUrl,
       categoryName: categoryName,
-      price: parseFloat(foodItem.price)/100 || 0,
+      price: parseFloat(foodItem.price),
       unit: "份",
       props:handleFoodPropGroup(foodDetail),
     })
