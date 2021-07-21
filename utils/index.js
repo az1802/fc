@@ -333,8 +333,8 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
   })
 
    // 处理没有爬取到的图片
-   dishesImgMatch(noImgUrls,shopDir);
-   genBeizhuText({noImgUrls, shopDir,mode:"feie"})
+  //  dishesImgMatch(noImgUrls,shopDir);
+  //  genBeizhuText({noImgUrls, shopDir,mode:"feie"})
 
   // 调整属性组的顺序
   categories.forEach(categoryItem => {
