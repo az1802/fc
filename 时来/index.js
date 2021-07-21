@@ -14,8 +14,8 @@ const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${sh
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
 
 
 

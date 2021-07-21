@@ -63,7 +63,6 @@ async function requestPostUrl(url,data) {
     },
     body: JSON.stringify(data)
     }, (err, res, body) => { 
-        console.log("body---",body)
         resolve(err ? {} : JSON.parse(body))
     })
   })
@@ -125,7 +124,6 @@ async function genImgs(merchantInfo,outputDir) {
       let imgUrl = foodItem.picUrl;
      
       let imgName = formatFileName(foodItem.name) + ".jpg"
-      console.log(imgName)
       if (imgUrl) {
         try {
           request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, imgName.trim())))
@@ -186,7 +184,6 @@ menuSetting = {
 
 // 飞蛾模式的菜品excel导出
 async function genExcelAll(merchantInfo, outputDir,menuSetting) { 
-  console.log('%cmerchantInfo: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',merchantInfo);
   let { categories, shopName } = merchantInfo;
 
 
