@@ -14,8 +14,8 @@ const menuRequestUrl = `https://shilai.zhiyi.cn/v2-36/merchant/dish_catalog/${sh
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
-// const exportMode = "shilai"
+// const exportMode = "feie"
+const exportMode = "shilai"
 
 
 
@@ -30,13 +30,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:["规格"],//规格
   practice: [
-    '加量'
-   
+    '免费配菜', '是否打包', '辣度', 
 ],//做法
   feeding:["加料"],
   remarks: [],//备注
   propsGroupSort: [
-   '规格', '加料','加量'
+    '免费配菜', '是否打包', '辣度', '加料'
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]

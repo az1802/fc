@@ -1,962 +1,461 @@
 {
-	"shopName": "越小栈",
-	"shop_pic": "http://mmbiz.qpic.cn/mmbiz_jpg/QM2SBdJMJPnBdfk0HOtszYSnjPQBibHptKtoFS7g9Z8QiaicPwAw8yFdzujpKoKYd0GR7t5YibsGGrtgmsh96C3EGA/0",
+	"shopName": "食汁味（大学城店）",
+	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c2b84314-e634-44f4-9457-7d83baff0b04_tmp_5bb7c311bbf76ecd49287f3887dd99f0.jpg",
 	"categories": [
 		{
-			"name": "汤粉类",
+			"name": "新品推荐",
 			"foods": [
 				{
-					"name": "【招牌】香茅鸡腿汤河粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-0.png",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "【招牌】薄切肥牛卷汤河粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a1329e296530584f98def8a62a3fca61.png",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "【推荐】海鲜烩汤河粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-2.png",
-					"price": 42,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "【推荐】帝王蟹柳汤河粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-3.png",
-					"price": 45,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "欢聚一堂汤河粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-4.png",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "越式牛肉丸汤河粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-5.png",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "越式虾枣汤河粉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-6.png",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "不加",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "捞檬碗【干捞】",
-			"foods": [
-				{
-					"name": "香茅脆鸡扒捞檬碗",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-7.png",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "捞檬碗【干捞】",
-					"props": [
-						{
-							"name": "加量",
-							"values": [
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "牛肉丸捞檬碗",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-8.png",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "捞檬碗【干捞】",
-					"props": [
-						{
-							"name": "加量",
-							"values": [
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "海鲜烩捞檬碗",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-9.png",
-					"price": 42,
-					"unit": "份",
-					"categoryName": "捞檬碗【干捞】",
-					"props": [
-						{
-							"name": "加量",
-							"values": [
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "【招牌】欢聚一堂捞檬碗",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-10.png",
-					"price": 45,
-					"unit": "份",
-					"categoryName": "捞檬碗【干捞】",
-					"props": [
-						{
-							"name": "加量",
-							"values": [
-								{
-									"value": "牛肉丸",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "肥牛卷",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "香茅鸡腿",
-									"price": 15,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "蟹柳",
-									"price": 18,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "大虾仁",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "虾枣",
-									"price": 20,
-									"propName": "加量",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 5,
-									"propName": "加量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "越式小吃",
-			"foods": [
-				{
-					"name": "脆虾鲜蔬春卷",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-11.png",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "越式小吃",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "酸辣无骨凤爪",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-12.png",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "越式小吃",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "虾片蘸酱",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-13.png",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "越式小吃",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "轻油马蹄肉籽",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-31.png",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "越式小吃",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "轻油三月虾卷",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-32.png",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "越式小吃",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "轻油三月虾卷（小份）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-33.png",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "越式小吃",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "果汁系列",
-			"foods": [
-				{
-					"name": "「三剑客」甘笋苹汁",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-14.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "果汁系列",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "「阳光宝宝」香橙西柚汁",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-15.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "果汁系列",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "奶昔",
-			"foods": [
-				{
-					"name": "牛油果奶昔",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-16.png",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "奶昔",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "大香芒奶昔",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-17.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "奶昔",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "木瓜奶昔",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-18.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "奶昔",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "现磨手冲咖啡",
-			"foods": [
-				{
-					"name": "曼特宁风味咖啡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-19.png",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "现磨手冲咖啡",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "蓝山风味咖啡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-20.png",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "现磨手冲咖啡",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "越南咖啡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-21.png",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "现磨手冲咖啡",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "特饮",
-			"foods": [
-				{
-					"name": "百香果益力多",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-23.png",
+					"name": "石锅鸭脯",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a9df7e5e48e449e89a7223482f644287.jpg",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "特饮",
+					"categoryName": "新品推荐",
 					"props": [
 						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "娃娃菜",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
 							"name": "加料",
-							"values": []
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
 						}
 					]
 				},
 				{
-					"name": "青柠薄荷莫吉托",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-24.png",
+					"name": "石锅小酥肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2d2d232bc2ac4642aeef9d999b416e03.jpg",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "特饮",
+					"categoryName": "新品推荐",
 					"props": [
 						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "娃娃菜",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
 							"name": "加料",
-							"values": []
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
 						}
 					]
 				},
 				{
-					"name": "青桔柠檬红茶",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-25.png",
-					"price": 18,
+					"name": "金汤肥牛",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b55ec21bef994ce6a03582cf606a8e8f.jpg",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "特饮",
+					"categoryName": "新品推荐",
 					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "招牌黄焖鸡",
+			"foods": [
+				{
+					"name": "秘制啤酒鸭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/52e77e4ed8ff4cd09a06703e54dd3ef0.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "招牌黄焖鸡",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
 						{
 							"name": "加料",
 							"values": []
@@ -964,12 +463,345 @@
 					]
 				},
 				{
-					"name": "咸柠七",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-26.png",
+					"name": "招牌黄焖鸡小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/eba512246ce84692bef4bdab89923c7b.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "特饮",
+					"categoryName": "招牌黄焖鸡",
 					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌黄焖鸡中份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/68282f73d08e4c5cb5fbca34bccc635d.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "招牌黄焖鸡",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌黄焖鸡大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9e9f2d3cde5f4b6287e30634ab1794c5.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "招牌黄焖鸡",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "石锅系列",
+			"foods": [
+				{
+					"name": "石锅茄子",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-30",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
 						{
 							"name": "加料",
 							"values": []
@@ -977,24 +809,1256 @@
 					]
 				},
 				{
-					"name": "冻柠乐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-27.png",
+					"name": "脆笋+豆腐皮",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-23",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "脆笋+茄子",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-24",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆腐皮+茄子",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-25",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "石锅什锦菜",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-34",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "特饮",
+					"categoryName": "石锅系列",
 					"props": [
 						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
 							"name": "加料",
-							"values": []
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
 						}
 					]
 				},
 				{
-					"name": "红柚鲜橙苏打",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-30.png",
+					"name": "石锅小鲜肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-35",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "娃娃菜",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "石锅脆骨",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-26",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "特饮",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "娃娃菜",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "石锅红烧肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-29",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "娃娃菜",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "石锅排骨",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-33",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "娃娃菜",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "石锅牛腩",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-31",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "石锅系列",
+					"props": [
+						{
+							"name": "免费配菜",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "油豆腐",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "千张",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "豆腐皮",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "脆笋",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								},
+								{
+									"value": "娃娃菜",
+									"price": 0,
+									"propName": "免费配菜",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "娃娃菜",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "金汤酸辣",
+			"foods": [
+				{
+					"name": "金汤酸辣鱼",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f8478823cdb5487a890f3d64cc7e3ee9.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "金汤酸辣",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金汤鸭血",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615893020193-22",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "金汤酸辣",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "土豆",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "油豆腐",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "千张",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "豆腐皮",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								},
+								{
+									"value": "脆笋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true,
+									"type": "supplyCondiment"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮料",
+			"foods": [
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8835cb950fd34f30b53a7974651e646d.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
 					"props": [
 						{
 							"name": "加料",
@@ -1003,11 +2067,63 @@
 					]
 				},
 				{
-					"name": "西贡啤酒",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0cec6ac7eebb4b82ac0c22f6f14cbd8c-28.png",
-					"price": 12,
+					"name": "百事可乐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615979251310-80.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "特饮",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "芬达",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615979251310-107.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615979251310-26.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615979251310-53.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "加料",
+							"values": []
+						}
+					]
+				},
+				{
+					"name": "加多宝",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1615979251310-161.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
 					"props": [
 						{
 							"name": "加料",
@@ -1018,27 +2134,14 @@
 			]
 		},
 		{
-			"name": "其它",
+			"name": "米饭",
 			"foods": [
 				{
-					"name": "打包费",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1192b849a19637d41972561a85928b3f.jpg",
-					"price": 1,
+					"name": "米饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/rc-upload-1616040774651-53.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "其它",
-					"props": [
-						{
-							"name": "加料",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "配送费",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f29baed90f76fa2c2157354271ab783a.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "其它",
+					"categoryName": "米饭",
 					"props": [
 						{
 							"name": "加料",
