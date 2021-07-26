@@ -131,7 +131,7 @@ function adjustAttrSort(foodItem, propsGroupSort, propsSort) {
 async function handleFoodAttrs(foodItem, menuSetting = menuSettingDefault) {
 
 
-  let { propsGroupSort, propsSort, specifications, practice, feeding, packs } = menuSetting //提取属性组合属性的顺序
+  let { propsGroupSort, propsSort, specifications, practice, feeding, packs=[] } = menuSetting //提取属性组合属性的顺序
   let props = foodItem.props;
 
 
