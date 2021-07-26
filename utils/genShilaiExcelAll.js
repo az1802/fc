@@ -12,7 +12,7 @@ var {genExportDirs ,genImgs,handleFoodAttrs} = require('./common');
 
 
 
-const excelTitle = ["商品名称", "菜品分类","售卖价", "菜品类型", "规格", "属性组", "属性", "加料", "打包盒"];
+const excelTitle = ["菜品名称", "菜品分类","售卖价", "菜品类型", "规格", "属性组", "属性", "加料", "打包盒"];
 
 
 
