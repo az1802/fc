@@ -149,7 +149,7 @@ async function handleFoodAttrs(foodItem, menuSetting = menuSettingDefault) {
   //配置分类出规格,加料,属性,打包盒等内容
   foodItem.props.forEach(groupItem => {
     if (specifications.indexOf(groupItem.name) !== -1) { //规格
-      foodItem.skus.push();
+      foodItem.skus.push(groupItem);
     } else if (practice.indexOf(groupItem.name) !== -1) {//做法
       foodItem.attrGroups.push(groupItem)
     } else if (feeding.indexOf(groupItem.name) !== -1) {//加料

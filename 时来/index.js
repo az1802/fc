@@ -28,14 +28,14 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:["规格"],//规格
+  specifications: ["规格"],//规格
   practice: [
-    '免费配菜', '是否打包', '辣度', 
-],//做法
-  feeding:["加料"],
+    "就餐类型",
+  ],//做法
+  feeding: ["加料"],
   remarks: [],//备注
   propsGroupSort: [
-    '免费配菜', '是否打包', '辣度', '加料'
+    "规格", "就餐类型","加料",
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
