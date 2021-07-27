@@ -1,10 +1,24 @@
-
 const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll,genShilaiExcelAll} = require("../utils/index")
-
+const {
+  requestUrl,
+  genImgs,
+  genExcel,
+  genExcelAll,
+  genWord,
+  genSpecificationsWord,
+  formatFileName,
+  delDirSync,
+  mkdirSync,
+  genFeieExcelAll,
+  genShilaiExcelAll
+} = require("../utils/index")
+const {
+  cloneDeep,
+  unique
+} = require("../utils/common.js")
 
 
 
@@ -19,23 +33,29 @@ const exportMode = "shilai"
 
 
 
-let { data:requestShopData} = require("./shopData.json");
-let { data:requestMenuData} = require("./menuData.json");
-const { isRegExp } = require("util");
+let {
+  data: requestShopData
+} = require("./shopData.json");
+let {
+  data: requestMenuData
+} = require("./menuData.json");
+const {
+  isRegExp
+} = require("util");
 
 const outputDir = path.join(__dirname, "merchantInfos")
 
 
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications: ["规格"],//规格
+  specifications: ["规格"], //规格
   practice: [
     "就餐类型",
-  ],//做法
+  ], //做法
   feeding: ["加料"],
-  remarks: [],//备注
+  remarks: [], //备注
   propsGroupSort: [
-    "规格", "就餐类型","加料",
+    "规格", "就餐类型", "加料",
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -56,62 +76,56 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
 let propsGroupArr = [];
 
 // 打印日志到test.json 文件夹
-async function logInfo(info,fileName="test.json") { 
-  fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
+async function logInfo(info, fileName = "test.json") {
+  fs.writeFileSync(`./${fileName}.json`, JSON.stringify(info, null, '\t'))
 }
 
 // 获取原始数据
-async function getMerchantInfo() { 
-  // let requestShopData = await requestUrl(shopRequestUrl);
-  // logInfo(requestShopData,"shopData")
-  // let requestMenuData = await requestUrl(menuRequestUrl);
-  // logInfo(requestShopData, "menuData")
-
+async function getMerchantInfo() {
   let merchantInfo = await handleRequestData(requestShopData, requestMenuData)
   await logInfo(merchantInfo, "merchantRes")
   return merchantInfo;
 }
 
 // 处理菜品属性
-function formatFoodProps(foodItem) { 
-  let { propsGroupSort,propsSort } = menuSetting
-  
-  let propsRes = [], props = foodItem.attrList;
-  for (let k = 0; k < props.length; k++) { 
-    if (propsGroupArr.indexOf(props[k].groupName)==-1) { 
+function formatFoodProps(foodItem) {
+  let {
+    propsGroupSort,
+    propsSort
+  } = menuSetting
+  let propsRes = [],
+    props = foodItem.attrList;
+  for (let k = 0; k < props.length; k++) {
+    if (propsGroupArr.indexOf(props[k].groupName) == -1) {
       propsGroupArr.push(props[k].groupName);
     }
-
     let propTemp = {
       name: props[k].groupName,
-      values: props[k].attrs.map(propValItem => { 
+      values: props[k].attrs.map(propValItem => {
         return {
           value: propValItem.name,
-          price: (parseFloat(propValItem.reprice)/100),
+          price: (parseFloat(propValItem.reprice) / 100),
           propName: props[k].groupName,
-          isMul:true
+          isMul: true
         }
       })
     }
     propsRes.push(propTemp);
   }
-
   let supplyCondiments = foodItem.supplyCondiments || [];
   let condimentTemp = {
     name: "加料",
     values: supplyCondiments.map(item => {
       return {
         value: item.name,
-        price: (parseFloat(item.marketPrice)/100),
+        price: (parseFloat(item.marketPrice) / 100),
         propName: "加料",
         isMul: true,
-        type:"supplyCondiment"
+        type: "supplyCondiment"
       }
     })
   }
   propsRes.push(condimentTemp)
-
-
   return propsRes;
 }
 
@@ -120,63 +134,87 @@ function formatFoodProps(foodItem) {
 
 
 // 爬取的数据中进行信息提取
-async function  handleRequestData(requestShopData,requestMenuData) {
-  // await logInfo(requestMenuData)
-  
+async function handleRequestData(requestShopData, requestMenuData) {
   try {
     // 商户信息
     let merchantInfo = {
       shopName: requestShopData.name,
       shop_pic: requestShopData.logoUrl,
-      categories:[]
+      categories: []
     }
-
     // 菜品目录
     let categories = []
-
-    categories = requestMenuData.dishes.map(categoryItem => { 
+    categories = requestMenuData.dishes.map(categoryItem => {
       let categoryData = {
         name: "",
-        foods:[]
+        foods: []
       };
       categoryData.name = categoryItem.category.name;
-      categoryData.foods = categoryItem.dishList.reduce((res,foodItem) => { 
-        if (foodItem) { 
+      categoryData.foods = categoryItem.dishList.reduce((res, foodItem) => {
+        if (foodItem) {
           let foodData = {
-            name:(foodItem.name || ""),
+            name: (foodItem.name || ""),
             picUrl: foodItem.image || foodItem.thumbImage || "",
-            price:(parseFloat(foodItem.price)/100) || "",
+            price: (parseFloat(foodItem.price) / 100) || "",
             unit: foodItem.unit || "份",
-            categoryName:  categoryItem.category.name,
-            props:[],
+            categoryName: categoryItem.category.name,
+            props: [],
           };
-          let arrTemp = ["酸菜干拌","牛腩干拌"]
-          // if (foodData.picUrl.indexOf('jpg')==-1){
-          //   foodData.picUrl=""
-          // }
-
-
-          foodData.name =   foodData.name.trim().replace(/\//ig,"-")
+          foodData.name = foodData.name.trim().replace(/\//ig, "-")
           foodData.props = formatFoodProps(foodItem)
           res.push(foodData)
         }
         return res;
-      },[])
-      
+      }, [])
       return categoryData
     })
-
-
+    categories.map(item =>{
+      let nameArr = []
+      let foodsArr = []
+      item.foods.map(foodsItem =>{
+        if(!nameArr.includes(foodsItem.name)){
+          nameArr.push(foodsItem.name)
+          foodsArr.push(foodsItem)
+          foodsArr.map(foodsArrItem=>{
+            foodsArrItem.props.map(foodsArrItemProps=>{
+              if(foodsArrItemProps.name == '规格'){
+                let price = foodsItem.price
+                foodsArrItem.price = ''
+                foodsArrItemProps.values[0].price = price
+              }
+            })
+          })
+        } else {
+          foodsArr.map(foodsArrItem =>{
+           if(foodsArrItem.name == foodsItem.name){
+            foodsArrItem.props.map(foodsArrItemProps =>{
+              if(foodsArrItemProps.name == '规格'){
+                foodsItem.props.map(foodsItemProps =>{
+                  if(foodsItemProps.name == '规格'){
+                    let price = foodsItem.price
+                    foodsArrItem.price = ''
+                    foodsItemProps.values[0].price = price
+                    foodsArrItemProps.values.push(foodsItemProps.values[0])
+                  }
+                })
+              }
+            })
+           }
+          })
+        }
+      })
+      item.foods = foodsArr
+    })
     merchantInfo.categories = categories
     return merchantInfo;
-  } catch (err) { 
+  } catch (err) {
     console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`)
   }
 }
 
 // 数据转换提取,写入相关文件
 
-async function mkShopDir(shopDir) { 
+async function mkShopDir(shopDir) {
   delDirSync(shopDir);
   mkdirSync(shopDir)
 }
@@ -184,9 +222,10 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
-
-  logInfo(propsGroupArr,"propsGroupArr")
-  let { shopName} = merchantInfo
+  logInfo(propsGroupArr, "propsGroupArr")
+  let {
+    shopName
+  } = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
@@ -207,7 +246,5 @@ async function genImgsAndExcel() {
   }
 
 }
-
-
 
 genImgsAndExcel();

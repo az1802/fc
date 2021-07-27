@@ -86,6 +86,41 @@ menuSetting = {
 **/
 
 
+
+function unique(arr, name) {
+  let hash = {};
+  return arr.reduce(function (item, next) {
+    hash[next[name]] ? '' : hash[next[name]] = true && item.push(next);
+    return item;
+  }, []);
+}
+
+function cloneDeep(value){
+  let memo = {};
+  function baseClone(value){
+    let res;
+    if(isPrimitive(value)){
+      return value;
+    }else if(Array.isArray(value)){
+      res = [...value];
+    }else if(isObject(value)){
+      res = {...value};
+    }
+    Reflect.ownKeys(res).forEach(key=>{
+      if(typeof res[key] === "object" && res[key]!== null){
+        if(memo[res[key]]){
+          res[key] = memo[res[key]];
+        }else{
+          memo[res[key]] = res[key];
+          res[key] = baseClone(res[key])
+        }
+      }
+    })
+    return res;  
+  }
+  return baseClone(value)
+}
+
 function adjustAttrGroupSort(foodItem, propsGroupSort) {
   let tempArr = new Array(propsGroupSort.length);
   let { props: attrGroups } = foodItem;
@@ -164,6 +199,8 @@ async function handleFoodAttrs(foodItem, menuSetting = menuSettingDefault) {
 
 
 module.exports = {
+  unique,
+  cloneDeep,
   formatFileName,
   mkdirSync,
   genExportDirs,
