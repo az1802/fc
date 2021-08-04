@@ -60,6 +60,37 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
   })
 }
 
+async function genImgs2(merchantInfo,outputDir) { 
+  let { categories, shopName, shop_pic } = merchantInfo;
+  let shopDir = path.join(outputDir, formatFileName(shopName));
+  let foodsImgsDir = path.join(shopDir, "imgs");
+  let noImgUrls = []
+  mkdirSync(foodsImgsDir)
+  // 生成菜品图片文件夹 
+  categories.forEach((categoryItem) => { 
+    let categoryDir = foodsImgsDir;
+
+    let foods = categoryItem.foods
+    foods.forEach(foodItem => {
+      let imgUrl = foodItem.picUrl;
+     
+      let imgName = formatFileName(foodItem.name) + ".jpg"
+      if (imgUrl) {
+        try {
+          request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, imgName.trim())))
+          
+        } catch (err) { 
+          noImgUrls.push(imgName)
+          console.log(imgName,"下载错误")
+        }
+      } else { 
+        noImgUrls.push(imgName)
+      }
+    })
+  })
+  fs.writeFileSync(path.join(shopDir, "没有成功爬取的图片.txt"),"没有成功爬取的图片:"+noImgUrls.join(","))
+}
+
 
 /*
 menuSetting = {
@@ -205,6 +236,7 @@ module.exports = {
   mkdirSync,
   genExportDirs,
   genImgs,
+  genImgs2,
   adjustAttrGroupSort,
   adjustAttrSort,
   handleFoodAttrs

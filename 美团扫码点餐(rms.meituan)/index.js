@@ -3,14 +3,15 @@ const fs = require("fs");
 const path = require("path");
 
 
-const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord, genShilaiExcelAll} = require("../utils/index")
 
 
 
 
 
-const exportMode = "keruyun"
-  // const exportMode = "feie"
+// const exportMode = "keruyun"
+// const exportMode = "feie"
+const exportMode = "shilai"
 
 
 
@@ -26,17 +27,15 @@ const { isRegExp } = require("util");
 
 const outputDir = path.join(__dirname, "merchantInfos")
 
-let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
+let menuSetting = { //导出的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "辣度",
-    "温度"
+    '辣度'
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "辣度",
-    "温度"
+    '辣度'
   ],
 }
 
@@ -59,6 +58,7 @@ function formatFoodProps(foodItem) {
   let methods = foodItem.methods;//普通属性
   let propGroupName = methods.groupName;
   let originalPrice = foodItem.originalPrice
+  let tastes = foodItem.tastes
   let res = []
 
   let skuObj = {
@@ -66,6 +66,11 @@ function formatFoodProps(foodItem) {
     values:[]
   }
   
+  let feedObj = {
+    name: "加料",
+    values:[]
+  }
+
   // 处理规格菜
   if (skuMenuItems&&skuMenuItems.length>1) {
     skuMenuItems && skuMenuItems.forEach(propItem => {
@@ -85,31 +90,48 @@ function formatFoodProps(foodItem) {
     }
   }
 
-  methods.forEach(propItem => {
-    let tempObj = {
-      name: propItem.groupName,
-      values:[]
-    }
-    propItem.items.forEach(item => {
-      tempObj.values.push({
-        "value": item.name.trim(),
-        "price": item.price,
-        "propName": tempObj.name,
+  // 处理加料菜
+  if (tastes&&tastes.length>1) {
+    tastes[0].item && tastes[0].item.forEach(propItem => {
+      feedObj.values.push({
+        "value": propItem.name,
+        "price": propItem.price,
+        "propName": "加料",
         "isMul": true
       })
     })
-    res.push(tempObj)
+    if (feedObj.values.length) {
+      res.push(feedObj)
+      console.log("加料菜----",foodItem.spuName)
+      addPropsGroupArr(propsGroupArr,"加料")
+    }
+  }
 
-    addPropsGroupArr(propsGroupArr,tempObj.name)
-  })
-
+  if(methods && methods.length > 0) {
+    methods.forEach(propItem => {
+      let tempObj = {
+        name: propItem.groupName,
+        values:[]
+      }
+      if(propItem.items && propItem.items.length > 0) {
+        propItem.items.forEach(item => {
+          tempObj.values.push({
+            "value": item.name.trim(),
+            "price": item.price,
+            "propName": tempObj.name,
+            "isMul": true
+          })
+        })
+        res.push(tempObj)
+        addPropsGroupArr(propsGroupArr,tempObj.name)
+      }
+    })
+  }
   return res;
 }
 
 // 爬取的数据中进行信息提取
 async function  handleRequestData(requestShopData,requestMenuData) {
-  // await logInfo(requestMenuData)
-  
   try {
     // 商户信息
     let merchantInfo = {
@@ -117,12 +139,8 @@ async function  handleRequestData(requestShopData,requestMenuData) {
       shop_pic: "",
       categories:[]
     }
-
     // 菜品目录
     let categories = []
-
-   
-
     categories = requestMenuData.map(categoryItem => {
       let categoryData = {
         name: "",
@@ -137,13 +155,9 @@ async function  handleRequestData(requestShopData,requestMenuData) {
           categroySpuIds.push(...(childCategoryItem.spuIds || []));
         })
       }
-      
-
       categoryData.foods =categroySpuIds.reduce((res, foodItem) => {
         foodItem = allsSuIds[foodItem]
         if (foodItem) {
-
-
           let picUrl = foodItem.detailPicUrls[0] || "";
           picUrl = picUrl.replace("%40640w_480h_1e_1c_1l%7Cwatermark%3D0", "")
           foodItem.spuName = foodItem.spuName.replace('/',"-")
@@ -160,10 +174,8 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         }
         return res;
       }, [])
-      
       return categoryData
     })
-
     merchantInfo.categories = categories
     return merchantInfo;
   } catch (err) { 
@@ -185,25 +197,16 @@ async function genImgsAndExcel() {
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
-
   logInfo(propsGroupArr,"propGroups")
-
-  // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
   } else {
-    
-    // genWord(merchantInfo, outputDir)
-    // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
     genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
-
-  
-
 }
-
-
 
 genImgsAndExcel();

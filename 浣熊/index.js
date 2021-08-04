@@ -2,15 +2,12 @@
 const fs = require("fs");
 const path = require("path");
 
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll,genShilaiExcelAll} = require("../utils/index")
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll} = require("../utils/index")
-
-
-
-
-const shopId = 19263
-const exportMode = "keruyun"
+const shopId = 18584
+// const exportMode = "keruyun"
 // const exportMode = "feie"
+const exportMode = "shilai"
 const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
 const menuRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
@@ -171,7 +168,6 @@ async function  handleRequestData(requestShopData,requestMenuData) {
       
       return categoryData
     })
-
     merchantInfo.categories = categories
     return merchantInfo;
   } catch (err) { 
@@ -199,6 +195,8 @@ async function genImgsAndExcel() {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting, false)
   } else {
     // genWord(merchantInfo, outputDir)
     // genSpecificationsWord(merchantInfo, outputDir, menuSetting)

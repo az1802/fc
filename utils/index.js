@@ -104,19 +104,13 @@ function formatFileName(name) {
 
 // 生成图片
 async function genImgs(merchantInfo,outputDir) { 
-
   let { categories, shopName, shop_pic } = merchantInfo;
-  
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let foodsImgsDir = path.join(shopDir, "imgs");
   let noImgUrls = []
   mkdirSync(foodsImgsDir)
   // 生成菜品图片文件夹 
   categories.forEach((categoryItem) => { 
-    // let categoryDir = path.join(foodsImgsDir, formatFileName(categoryItem.name));
-    // (categoryItem.foods.length != 0) && mkdirSync(categoryDir);
-
-
     let categoryDir = foodsImgsDir;
 
     let foods = categoryItem.foods
@@ -137,11 +131,7 @@ async function genImgs(merchantInfo,outputDir) {
       }
     })
   })
-
-
   fs.writeFileSync(path.join(shopDir, "没有成功爬取的图片.txt"),"没有成功爬取的图片:"+noImgUrls.join(","))
- 
-  
 }
 
 // 生成表格

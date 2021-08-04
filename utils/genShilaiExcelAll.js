@@ -8,8 +8,7 @@ var xlsx = require('node-xlsx');
 const JSZIP = require('jszip');
 var officegen = require('officegen');
 var docx = officegen('docx');//word
-var {genExportDirs ,genImgs,handleFoodAttrs} = require('./common');
-
+var {genExportDirs ,genImgs, genImgs2, handleFoodAttrs} = require('./common');
 
 
 const excelTitle = ["菜品名称", "菜品分类","售卖价", "菜品类型", "规格", "属性组", "属性", "加料", "打包盒"];
@@ -61,7 +60,7 @@ function handlePacksText(packs = []) {
 
 
 // 生成时来收银模式的excel 
-async function genShilaiExcelAll(merchantInfo, outputDir,menuSetting) { 
+async function genShilaiExcelAll(merchantInfo, outputDir,menuSetting, isGenImgs = true) { 
   let { categories, shopName } = merchantInfo;
   let { propsGroupSort } = menuSetting
   let {shopDir, foodsImgsDir} = genExportDirs(outputDir,shopName)
@@ -69,7 +68,11 @@ async function genShilaiExcelAll(merchantInfo, outputDir,menuSetting) {
   let excelData = []; //默认添加一套数据作为是否有属性的分割线
 
   // 下载所有菜品的图片,用于菜品的批量单导入
-  genImgs(categories, {shopDir}) 
+  if(isGenImgs){
+    genImgs(categories, {shopDir}) 
+  } else {
+    genImgs2(merchantInfo, outputDir)
+  }
 
   let allAttrGroups = new Set();
   categories.forEach(categoryItem => {

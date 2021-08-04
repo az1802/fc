@@ -9,6 +9,7 @@ const defaultImgUrl = ""
 
 // const exportMode = "keruyun"
 const exportMode = "feie"
+// const exportMode = "shilai"
 const findJsonLen = 1
 const outputDir = path.join(__dirname, "merchantInfos")
 
@@ -31,6 +32,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
 }
 
 let merchantInfo = require("./shopData.json")
+let menuData = require("./menuData.json");
 merchantInfo = merchantInfo.data
 const categories = merchantInfo.categories
 let categoryObj = {}
@@ -97,31 +99,53 @@ function handleFoodPropGroup(foodDetail) {
 //读取dataJson下的所有文件取出 food菜品
 async function genMenuFoods() { 
   let allFoods = [];
-  for (let i = 0; i < findJsonLen; i++) { 
-    let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
-    let goods = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods;
+  // for (let i = 0; i < findJsonLen; i++) { 
+  //   let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
+  //   let goods = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods;
 
-    // console.log(records)
-    goods.forEach(goodItem => {
-      goodItem.items.forEach(record => {
-        let foodTemp = {
-          id:record.item.id,
-          name:record.item.name + (!!record.item.description ? `(${record.item.description})`: ""),
-          price:record.item.price/100,
-          imgUrl: record.item.photo_url&&record.item.photo_url.split(",")[0] || defaultImgUrl,
-          categoryName: categoryObj[record.item.category_id],
-          categoryId:record.item.category_id,
-          foodDetail: record,
-          specs: record.specs || [],
-          attributes:record.attributes || []
-        }
-        foodTemp.name = foodTemp.name.replace(/\//ig, '-');
-        foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".")+1)
-        allFoods.push(foodTemp)
-      })
+  //   // console.log(records)
+  //   goods.forEach(goodItem => {
+  //     goodItem.items.forEach(record => {
+  //       let foodTemp = {
+  //         id:record.item.id,
+  //         name:record.item.name + (!!record.item.description ? `(${record.item.description})`: ""),
+  //         price:record.item.price/100,
+  //         imgUrl: record.item.photo_url&&record.item.photo_url.split(",")[0] || defaultImgUrl,
+  //         categoryName: categoryObj[record.item.category_id],
+  //         categoryId:record.item.category_id,
+  //         foodDetail: record,
+  //         specs: record.specs || [],
+  //         attributes:record.attributes || []
+  //       }
+  //       foodTemp.name = foodTemp.name.replace(/\//ig, '-');
+  //       foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".")+1)
+  //       allFoods.push(foodTemp)
+  //     })
      
+  //   })
+  // }
+  
+  let goods = menuData.data.goods;
+
+  console.log('goods', goods)
+  goods.forEach(goodItem => {
+    goodItem.items.forEach(record => {
+      let foodTemp = {
+        id:record.item.id,
+        name:record.item.name + (!!record.item.description ? `(${record.item.description})`: ""),
+        price:record.item.price/100,
+        imgUrl: record.item.photo_url&&record.item.photo_url.split(",")[0] || defaultImgUrl,
+        categoryName: categoryObj[record.item.category_id],
+        categoryId:record.item.category_id,
+        foodDetail: record,
+        specs: record.specs || [],
+        attributes:record.attributes || []
+      }
+      foodTemp.name = foodTemp.name.replace(/\//ig, '-');
+      foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".")+1)
+      allFoods.push(foodTemp)
     })
-  }
+  })
 
   let categoryData = {};
   allFoods.forEach(foodItem => {
