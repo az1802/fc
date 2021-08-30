@@ -60,6 +60,37 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
   })
 }
 
+async function genImgs2(merchantInfo,outputDir) { 
+  let { categories, shopName, shop_pic } = merchantInfo;
+  let shopDir = path.join(outputDir, formatFileName(shopName));
+  let foodsImgsDir = path.join(shopDir, "imgs");
+  let noImgUrls = []
+  mkdirSync(foodsImgsDir)
+  // 生成菜品图片文件夹 
+  categories.forEach((categoryItem) => { 
+    let categoryDir = foodsImgsDir;
+
+    let foods = categoryItem.foods
+    foods.forEach(foodItem => {
+      let imgUrl = foodItem.picUrl;
+     
+      let imgName = formatFileName(foodItem.name) + ".jpg"
+      if (imgUrl) {
+        try {
+          request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, imgName.trim())))
+          
+        } catch (err) { 
+          noImgUrls.push(imgName)
+          console.log(imgName,"下载错误")
+        }
+      } else { 
+        noImgUrls.push(imgName)
+      }
+    })
+  })
+  fs.writeFileSync(path.join(shopDir, "没有成功爬取的图片.txt"),"没有成功爬取的图片:"+noImgUrls.join(","))
+}
+
 
 /*
 menuSetting = {
@@ -85,6 +116,41 @@ menuSetting = {
 }
 **/
 
+
+
+function unique(arr, name) {
+  let hash = {};
+  return arr.reduce(function (item, next) {
+    hash[next[name]] ? '' : hash[next[name]] = true && item.push(next);
+    return item;
+  }, []);
+}
+
+function cloneDeep(value){
+  let memo = {};
+  function baseClone(value){
+    let res;
+    if(isPrimitive(value)){
+      return value;
+    }else if(Array.isArray(value)){
+      res = [...value];
+    }else if(isObject(value)){
+      res = {...value};
+    }
+    Reflect.ownKeys(res).forEach(key=>{
+      if(typeof res[key] === "object" && res[key]!== null){
+        if(memo[res[key]]){
+          res[key] = memo[res[key]];
+        }else{
+          memo[res[key]] = res[key];
+          res[key] = baseClone(res[key])
+        }
+      }
+    })
+    return res;  
+  }
+  return baseClone(value)
+}
 
 function adjustAttrGroupSort(foodItem, propsGroupSort) {
   let tempArr = new Array(propsGroupSort.length);
@@ -164,10 +230,13 @@ async function handleFoodAttrs(foodItem, menuSetting = menuSettingDefault) {
 
 
 module.exports = {
+  unique,
+  cloneDeep,
   formatFileName,
   mkdirSync,
   genExportDirs,
   genImgs,
+  genImgs2,
   adjustAttrGroupSort,
   adjustAttrSort,
   handleFoodAttrs

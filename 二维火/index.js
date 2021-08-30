@@ -8,11 +8,12 @@ let shopInfo = {
   shopPic: ""
 }
 
-const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genFeieExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genFeieExcelAll, genShilaiExcelAll} = require("../utils/index")
 const outputDir = path.join(__dirname, "merchantInfos")
 let propsGroupArr = [];
 
-const exportMode = "feie";
+// const exportMode = "feie";
+const exportMode = "shilai"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
@@ -119,7 +120,10 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir, menuSetting);
     genExcelAll(merchantInfo, outputDir, menuSetting);
     
-  } else {
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
+  }
+  else {
     // genWord(merchantInfo, outputDir, menuSetting)
     // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
     genFeieExcelAll(merchantInfo, outputDir, menuSetting)
