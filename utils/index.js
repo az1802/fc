@@ -99,7 +99,9 @@ function mkdirSync(path) {
 
 // 格式化文件名称
 function formatFileName(name) { 
-  return name.replace(/\//ig, "-")
+  if(name){
+    return name.replace(/\//ig, "-")
+  }
 }
 
 // 生成图片

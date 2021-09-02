@@ -19,14 +19,16 @@ let requestMenuData = require("./menuData.json");
 const { isRegExp } = require("util");
 
 const idMap = {
-  '4484': '优惠活动',
-  '3112': '小吃',
-  '2017': '仇婆抄手',
-  '2018': '仇婆-面',
-  '3110': '米线',
-  '2042': '饮料酒水',
-  '2021': '套餐类',
-  '2020': '明星小吃',
+  '-1': '折扣商品',
+  '4468': '优惠活动',
+  '1978': '本店招牌',
+  '1974': '拌面类',
+  '1975': '米族类',
+  '1979': '套餐类',
+  '1973': '特色小菜',
+  '1976': '小吃类',
+  '2012': '冰镇饮料',
+  '2447': '本店招牌套餐(超实惠)',
 }
 const outputDir = path.join(__dirname, "merchantInfos")
 
@@ -76,14 +78,12 @@ function formatFoodProps(categoryItem) {
         "isMul": true
       })
     })
-    console.log('skuObj',skuObj)
-    if (skuObj.values.length) {
-      res.push(skuObj)
-      console.log("规格菜----",foodItem.spuName)
-      addPropsGroupArr(propsGroupArr,"规格")
-    }
+    // if (skuObj.values.length) {
+    //   res.push(skuObj)
+    //   console.log("规格菜----",foodItem.spuName)
+    //   addPropsGroupArr(propsGroupArr,"规格")
+    // }
   }
-  console.log('res', res)
   return res;
 }
 
@@ -92,8 +92,8 @@ async function  handleRequestData(requestMenuData) {
   try {
     // 商户信息
     let merchantInfo = {
-      shopName: '仇婆抄手',
-      shop_pic: 'https://img.quick-touch.com/Uploads/0912D7C1-953F-4464-884E-4F2BD61B2F63/image/20200509/160340_4422.jpg',
+      shopName: '闹堡兰州牛肉面',
+      shop_pic: '',
       categories:[]
     }
     // 菜品目录
@@ -105,28 +105,34 @@ async function  handleRequestData(requestMenuData) {
         sort: 0,
         foods:[]
       };
-      if(categoryData.name == '优惠活动'){
+      if(categoryData.name == '折扣商品'){
         categoryData.sort = 0
       }
-      if(categoryData.name == '小吃'){
+      if(categoryData.name == '优惠活动'){
         categoryData.sort = 1
       }
-      if(categoryData.name == '仇婆抄手'){
+      if(categoryData.name == '本店招牌'){
         categoryData.sort = 2
       }
-      if(categoryData.name == '仇婆-面'){
+      if(categoryData.name == '拌面类'){
         categoryData.sort = 3
       }
-      if(categoryData.name == '米线'){
+      if(categoryData.name == '米族类'){
         categoryData.sort = 4
       }
-      if(categoryData.name == '饮料酒水'){
+      if(categoryData.name == '套餐类'){
         categoryData.sort = 5
       }
-      if(categoryData.name == '套餐类'){
+      if(categoryData.name == '特色小菜'){
         categoryData.sort = 6
       }
-      if(categoryData.name == '明星小吃'){
+      if(categoryData.name == '小吃类'){
+        categoryData.sort = 7
+      }
+      if(categoryData.name == '冰镇饮料'){
+        categoryData.sort = 7
+      }
+      if(categoryData.name == '本店招牌套餐(超实惠)'){
         categoryData.sort = 7
       }
       return categoryData
@@ -152,9 +158,10 @@ async function  handleRequestData(requestMenuData) {
     })
     let categoriesSort = categories.sort((a,b) =>{ return a.sort - b.sort})
     merchantInfo.categories = categoriesSort
+    // console.log('merchantInfo', merchantInfo)
     return merchantInfo;
   }  catch (err) { 
-    console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`)
+    // console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`)
   }
 }
 // 数据转换提取,写入相关文件
@@ -166,12 +173,10 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() { 
   let merchantInfo = await getMerchantInfo();
-  let { shopName} = merchantInfo
+  let { shopName } = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
-
-  // // mkShopDir(merchantInfo)
   if (exportMode == "feie") {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir);

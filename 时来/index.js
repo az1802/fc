@@ -49,15 +49,21 @@ const outputDir = path.join(__dirname, "merchantInfos")
 // 飞蛾模式 menuSetting
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications: ["规格"], //规格
-  practice: [
-    '默认',
-    '选择',
-    '宽粉/面',
+  practice: [ 
+    '温度',
+  '默认',
+  '口味', '选择',
+  '辣度', '酱料',
+  '甜度' 
   ], //做法
   feeding: ["加料"],
   remarks: [], //备注
   propsGroupSort: [
-    '加料', '宽粉/面', '选择' 
+    '温度', '规格',
+  '加料', '默认',
+  '口味', '选择',
+  '辣度', '酱料',
+  '甜度'
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -91,10 +97,6 @@ async function getMerchantInfo() {
 
 // 处理菜品属性
 function formatFoodProps(foodItem) {
-  let {
-    propsGroupSort,
-    propsSort
-  } = menuSetting
   let propsRes = [],
     props = foodItem.attrList;
   for (let k = 0; k < props.length; k++) {
@@ -112,9 +114,11 @@ function formatFoodProps(foodItem) {
         }
       })
     }
-    propsRes.push(propTemp);
+    if(propTemp.values){
+      propsRes.push(propTemp);
+    }
   }
-  let supplyCondiments = foodItem.supplyCondiments || [];
+  let supplyCondiments = foodItem.supplyCondiments;
   let condimentTemp = {
     name: "加料",
     values: supplyCondiments.map(item => {
@@ -127,7 +131,9 @@ function formatFoodProps(foodItem) {
       }
     })
   }
-  propsRes.push(condimentTemp)
+  if(condimentTemp.value){
+    propsRes.push(condimentTemp)
+  }
   return propsRes;
 }
 
@@ -153,7 +159,7 @@ async function handleRequestData(requestShopData, requestMenuData) {
       };
       categoryData.name = categoryItem.category.name;
       categoryData.foods = categoryItem.dishList.reduce((res, foodItem) => {
-        if (foodItem) {
+        if (foodItem && foodItem.status != 'OFFLINE') {
           let foodData = {
             name: (foodItem.name || ""),
             picUrl: foodItem.image || foodItem.thumbImage || "",
@@ -207,6 +213,7 @@ async function handleRequestData(requestShopData, requestMenuData) {
       })
       item.foods = foodsArr
     })
+    
     merchantInfo.categories = categories
     return merchantInfo;
   } catch (err) {
