@@ -44,7 +44,6 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
         } else {
           ext = ext || url.slice(url.lastIndexOf("."));
         }
-
         try {
           await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}.${ext}`)));
         } catch (err) {
@@ -65,7 +64,7 @@ async function genImgs2(merchantInfo,outputDir) {
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let foodsImgsDir = path.join(shopDir, "imgs");
   let noImgUrls = []
-  mkdirSync(foodsImgsDir)
+  // mkdirSync(foodsImgsDir)
   // 生成菜品图片文件夹 
   categories.forEach((categoryItem) => { 
     let categoryDir = foodsImgsDir;
@@ -73,7 +72,6 @@ async function genImgs2(merchantInfo,outputDir) {
     let foods = categoryItem.foods
     foods.forEach(foodItem => {
       let imgUrl = foodItem.picUrl;
-     
       let imgName = formatFileName(foodItem.name) + ".jpg"
       if (imgUrl) {
         try {

@@ -73,6 +73,7 @@ async function genShilaiExcelAll(merchantInfo, outputDir,menuSetting, isGenImgs 
   } else {
     genImgs2(merchantInfo, outputDir)
   }
+  // genImgs2(merchantInfo, outputDir)
 
   let allAttrGroups = new Set();
   categories.forEach(categoryItem => {

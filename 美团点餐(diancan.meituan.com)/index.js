@@ -31,18 +31,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格"],//规格
   practice: [
-    "口味",
-    "打包",
-    "做法"
+   
   ],//做法
   feeding:["加料",],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "口味",
-    "加料",
-    "规格",
-    "打包",
-    "做法"
+    "加料"
   ],
  
   propsSort: {
@@ -158,13 +152,8 @@ async function  handleRequestData(requestShopData,requestMenuData) {
       };
       categoryData.name = categoryItem.name;
       categoryData.foods = (categoryItem.items).reduce((res, foodItem) => {
-        
-
-        if (foodItem&&foodItem.status=="AVAILABLE") {
-          
+        if (foodItem) {
           let price = foodItem.price ? parseFloat(foodItem.price/100): (foodItem.skus[0]&&foodItem.skus[0].price ? parseFloat(foodItem.skus[0].price/100) : 0 )
-          
-          
           let foodData = {
             name:foodItem.name.trim() || "",
             picUrl: foodItem.imageUrl || "",
@@ -182,7 +171,6 @@ async function  handleRequestData(requestShopData,requestMenuData) {
 
       return categoryData
     })
-
     merchantInfo.categories = categories
     return merchantInfo;
   } catch (err) { 

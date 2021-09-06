@@ -28,15 +28,18 @@ const { isRegExp } = require("util");
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //导出的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
+  specifications:['规格'],//规格
   practice: [
-    '辣度'
+    '做法', '新做法'
   ],//做法
-  feeding:[],//加料
+  feeding:['加料'],//加料
   remarks: [],//备注
   propsGroupSort: [
-    '辣度'
+    '做法', '新做法'
   ],
+  propsSort: {
+    // "口味":["不辣","微辣","中辣","特辣","麻辣"]
+  }
 }
 
 let propsGroupArr = [];
@@ -93,6 +96,7 @@ function formatFoodProps(foodItem) {
   // 处理加料菜
   if (tastes&&tastes.length>1) {
     tastes[0].item && tastes[0].item.forEach(propItem => {
+     
       feedObj.values.push({
         "value": propItem.name,
         "price": propItem.price,
@@ -204,7 +208,9 @@ async function genImgsAndExcel() {
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else if (exportMode == 'shilai') {
     genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
-  } else {
+  } else if (exportMode == 'feie') {
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
+  }else {
     genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
 }
