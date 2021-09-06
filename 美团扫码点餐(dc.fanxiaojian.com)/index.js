@@ -7,30 +7,25 @@ let merchantMenuInfo = requestMenuJson.baseInfo;
 let shopeInfo = merchantMenuInfo.restaurant
 let foodList = merchantMenuInfo.foodList
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genShilaiExcelAll} = require("../utils/index")
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
+// const exportMode = "feie"
+const exportMode = "shilai"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[	"规格"],//规格
   practice: [
     "口味",
-    "固定菜",
-    "可选分组1",
-    "可选分组2",
-    "可选分组3"
+    '辣度'
+    
   ],//做法
   feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
     "规格",
-    "口味",
-    "固定菜",
-    "可选分组1",
-    "可选分组2",
-    "可选分组3",
+    '辣度',
     "加料"
   ],
   propsSort: {
@@ -229,10 +224,12 @@ async function genImgsAndExcel() {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
-  } else {
+  } else if(exportMode == 'feie') {
     // genWord(merchantInfo, outputDir)
     // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
     genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+  }else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting,)
   }
 }
 
