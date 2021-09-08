@@ -51,11 +51,6 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
         }
       }
     })
-
-
-    // TODO 根据自动匹配 处理没有爬取到的图片
-    //  dishesImgMatch(noImgUr ls,shopDir);
-
   })
 }
 

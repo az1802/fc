@@ -1,7 +1,7 @@
 
 const fs = require("fs");
 const path = require("path");
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
 
 const outputDir = path.join(__dirname, "merchantInfos")
@@ -129,7 +129,6 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    // genWord(merchantInfo, outputDir)
     genSpecificationsWord(merchantInfo, outputDir,menuSetting)
   }
 }

@@ -1,35 +1,15 @@
 // 获取目录下的文件
 
-var path = require("path");
+const path = require("path");
 const request = require('request')
-var fs = require("fs");
-const { resolve } = require("path");
-var xlsx = require('node-xlsx');
-const JSZIP = require('jszip');
-var officegen = require('officegen');
-var docx = officegen('docx');//word
-const axios = require("axios")
-const DishMatchUrl = "https://test.shilai.zhiyi.cn/staff_assist/merchant/dish/fuzzy_match?dishName="
+const fs = require("fs");
+const { resolve } = path;
+const xlsx = require('node-xlsx');
+const officegen = require('officegen');
+const docx = officegen('docx');//word
 
-const {genShilaiExcelAll } = require('./genShilaiExcelAll')
-async function sleep() {
-  return new Promise((resolve, reject) => {
-    setTimeout(resolve,3000)
-  })
-}
+const { genShilaiExcelAll } = require('./genShilaiExcelAll')
 
-
-// 获取目录下的文件
-async function getFiles(dirName) { 
-  var dirs = [];
-  return new Promise((resolve, reject) => { 
-    fs.readdir(dirName, function (err, files) {
-      resolve(err ? files : [])
-    }).catch(err => { 
-      resolve([])
-    });
-  })
-}
 
 //获取filePath路径下的文件
 async function getFileJson(filePath){ 
@@ -51,24 +31,6 @@ async function requestUrl(url,) {
     })
   })
 }
-
-async function requestPostUrl(url,data) { 
-  return new Promise((resolve, reject) => {
-    request({
-      method:"POST",
-      url: url,
-      json: true,
-      headers: {
-        "content-type": "application/json",
-    },
-    body: JSON.stringify(data)
-    }, (err, res, body) => { 
-        resolve(err ? {} : JSON.parse(body))
-    })
-  })
-}
-
-
 
 // 删除目录
 async function delDirSync(path) {
@@ -95,6 +57,18 @@ function mkdirSync(path) {
   if (!fs.existsSync(path)) { 
     fs.mkdirSync(path);
   }
+}
+
+async function mkShopDir(__dirname,shopName) {
+  const outputDir = path.join(__dirname, "merchantInfos")
+  let shopDir = path.join(outputDir, formatFileName(shopName));
+  delDirSync(shopDir);
+  mkdirSync(shopDir)
+  return outputDir;
+}
+
+async function logInfo(info, dirName, fileName = "merchantRes") {
+  fs.writeFileSync(path.resolve(dirName,`${fileName}.json`), JSON.stringify(info, null, '\t'))
 }
 
 // 格式化文件名称
@@ -158,19 +132,6 @@ async function genExcel(merchantInfo, outputDir) {
   ]);
   fs.writeFileSync(path.join(shopDir,`${shopName}-客如云菜品导入.xlsx`),buffer,{'flag':'w'});
 }
-
-
-
-// 生成详细数据表格
-/*
-menuSetting = {
-  specifications:[],//规格
-  practice:[],
-  feeding:[],
-  remarks:[],
-  propsGroupSort:[]
-}
-*/
 
 
 
@@ -324,9 +285,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     })
   })
 
-   // 处理没有爬取到的图片
-  //  dishesImgMatch(noImgUrls,shopDir);
-  //  genBeizhuText({noImgUrls, shopDir,mode:"feie"})
+
 
   // 调整属性组的顺序
   categories.forEach(categoryItem => {
@@ -508,72 +467,6 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 
 
 
-// 飞蛾模式生成word 
-async function genWord(merchantInfo, outputDir) {
-  
-  let imgIndex = 0;
-  let { categories, shopName } = merchantInfo;
-  let shopDir = path.join(outputDir, formatFileName(shopName));
-  let foodsImgsDir = path.join(shopDir, "imgs");
-  mkdirSync(foodsImgsDir)
-  let noImgUrls = {}
-  for (let i = 0; i < categories.length; i++) {
-    let categoryItem = categories[i];
-    var pObj = docx.createP({ align: 'left' });
-    pObj.addText(`分类：${categoryItem.name}`, { bold: true, font_face: 'Arial', font_size: 18 })
-
-    let foods = categoryItem.foods;
-    for (let j = 0; j < foods.length; j++) {
-      let foodItem = foods[j];
-      // 菜品图片与imgIndex对应生成图片
-      let imgName = imgIndex++;
-      let url = foodItem.picUrl
-      if (url) {
-        // let ext = url.slice(0,url.lastIndexOf(".jpeg"));
-        let ext=".jpeg"
-
-        try {
-          await request( encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
-        } catch (err) {
-          noImgUrls[imgName] = foodItem.name
-          console.log("保存图片错误", err)
-        }
-      } else { 
-        noImgUrls[imgName] = foodItem.name
-      }
-      var pObj = docx.createP({ align: 'left' });
-      pObj.addText(`菜品：${foodItem.name}，${imgName}，${foodItem.price}`, { bold: false, font_face: 'Arial', font_size: 18 });
-
-      // 处理属性
-      let props = foodItem.props;
-      for (let k = 0; k < props.length; k++) {
-        let propItem = props[k];
-        propItem.values.forEach(tempVal => { 
-          var pObj = docx.createP({ align: 'left' });
-          pObj.addText(`属性：${tempVal.value}，${tempVal.price}，${tempVal.propName}`, { bold: false, font_face: 'Arial', font_size: 18 });
-        })
-      }
-      var pObj_b = docx.createP({ align: 'left' });
-      pObj_b.addText("")
-      var pObj_c = docx.createP({ align: 'left' });
-      pObj_c.addText("")
-    }
-  }
-
-
-  // 处理没有爬取到的图片
-  dishesImgMatch(noImgUrls,shopDir);
-  genBeizhuText({noImgUrls, shopDir,mode:"feie"})
-  
-
-  var out = fs.createWriteStream(path.join(shopDir,"菜品.doc"));
-  docx.generate(out)
-}
-
-
-
-
-
 // 生成word时按照menuSetting进行排序
 
 let menuSettingDefault = { //到处的菜品属性归为规格,备注,加料,做法
@@ -634,176 +527,44 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
 }
 
 
-async function genSpecificationsWord(merchantInfo, outputDir,menuSetting=menuSettingDefault) {
-  
-  let imgIndex = 0;
-  let { categories, shopName } = merchantInfo;
-  let shopDir = path.join(outputDir, formatFileName(shopName));
-  let foodsImgsDir = path.join(shopDir, "imgs");
-  let { specifications ,bigImage} = menuSetting
-  mkdirSync(foodsImgsDir)
-  let noImgUrls = {}
-  for (let i = 0; i < categories.length; i++) {
-    let categoryItem = categories[i];
-    var pObj = docx.createP({ align: 'left' });
-    pObj.addText(`分类：${categoryItem.name}`, { bold: true, font_face: 'Arial', font_size: 18 })
-
-    let foods = categoryItem.foods;
-    
-    //处理菜品的规格,添加多份菜品
-    // if (specifications && specifications.length > 0) { 
-      for (let k = 0; k < foods.length; k++) { 
-        foods[k]._imgIndex = imgIndex++;
-        let foodTemp =JSON.parse(JSON.stringify(foods[k]));
-        let addFoodNum = 0; 
-        
-        // 处理菜品属性的顺序
-        handleFoodProps(foods[k],menuSetting)
-
-        let props = foods[k].props;
-        for (let m = 0; m < props.length; m++) { 
-          if (specifications.indexOf(props[m].name) != -1) {//属性中包含规格属性 
-            props[m].values.forEach((val) => {
-              let addFoodItem = JSON.parse(JSON.stringify(foodTemp))
-              let valTemp = JSON.parse(JSON.stringify(val));
-              valTemp.type = "SPECIFICATION"
-              valTemp.price = 0
-              addFoodItem.props[m].values = [valTemp];
-
-              addFoodItem.price = parseFloat(addFoodItem.price) + parseFloat(val.price)
-              foods.splice((k + (addFoodNum++)), 0, addFoodItem);
-            })
-          } else {
-            
-          }
-        }
-        if (addFoodNum>0) { 
-          foods.splice(k + addFoodNum, 1);
-          k = k + addFoodNum - 1;
-        }
-      }
-
-    
-    for (let j = 0; j < foods.length; j++) {
-      let foodItem = foods[j];
-      // 菜品图片与imgIndex对应生成图片
-      let imgName = foodItem._imgIndex;
-      let url = foodItem.picUrl
-      if (url) {
-        // let ext = url.slice(url.lastIndexOf("."));
-        let ext=".jpeg"
-        if (bigImage) {//阿里云模式下下载大图
-          url = url.slice(0, -3) + "2048";
-        } 
-        try {
-          request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
-        } catch (err) {
-          noImgUrls[imgName] = foodItem.name
-          console.log("保存图片错误", url)
-        }
-      } else { 
-        noImgUrls[imgName] = foodItem.name
-      }
-
-      var pObj = docx.createP({ align: 'left' });
-      pObj.addText(`菜品：${foodItem.name}，${url?imgName:-1}，${foodItem.price}`, { bold: false, font_face: 'Arial', font_size: 18 });
-
-      // 处理属性
-      let props = foodItem.props;
-      for (let k = 0; k < props.length; k++) {
-        let propItem = props[k];
-        propItem.values.forEach(tempVal => { 
-          var pObj = docx.createP({ align: 'left' });
-          pObj.addText(`${tempVal.type=="supplyCondiment" ? "配料" : "属性"}：${tempVal.value}，${tempVal.price}，${tempVal.propName}，${tempVal.type=="SPECIFICATION" ? "SPECIFICATION" : "TASTE"}`, { bold: false, font_face: 'Arial', font_size: 18 });
-        })
-      }
-      var pObj_b = docx.createP({ align: 'left' });
-      pObj_b.addText("")
-      var pObj_c = docx.createP({ align: 'left' });
-      pObj_c.addText("")
-    }
-  }
-  // 处理没有爬取到的图片
-  // dishesImgMatch(noImgUrls,shopDir);
-  genBeizhuText({noImgUrls, shopDir,mode:"feie"})
-  var out = fs.createWriteStream(path.join(shopDir,"菜品(已处理规格菜).doc"));
-  docx.generate(out)
-}
-
-
-
-
-async function genBeizhuText({ noImgUrls, shopDir, mode }) {
-
-  if (mode = "feie") {
-    fs.writeFileSync(path.join(shopDir, "备注.txt"), "没有成功爬取的菜品编号" + Object.keys(noImgUrls).join(","));
-    fs.appendFileSync(path.join(shopDir, "备注.txt"), "没有成功爬取的菜品图片名称:" + Object.values(noImgUrls).join(","), {});
-  } else { 
-    fs.writeFileSync(path.join(shopDir, "备注.txt"), "没有成功爬取的菜品图片名称:" + Object.values(noImgUrls).join(","))
-  }
-
-} 
-
-async function dishesImgMatch(noImgUrls,shopDir) { 
-  // 根据菜品名称生成匹配的图片文件
-  let matchDir = path.join(shopDir, "匹配的图片") 
-  let matchImgsDir = path.join(shopDir, "备选图片库") 
-  mkdirSync(matchDir);
-  mkdirSync(matchImgsDir)
-
-  for (let key in noImgUrls) {
-    if ( noImgUrls[key]) { 
-     await dishMatch(noImgUrls[key], matchDir, matchImgsDir);
-    }
-  }
-}
-
-
-// 根据菜品名称匹配图片
-async function dishMatch(dishName, matchDir, matchImgsDir) {
-  let res = await request(encodeURI(DishMatchUrl + dishName), (err, res, body) => {
-    if (err) {
-      console.log(`${dishName}菜品图片匹配出错`)
-    }
-    let imgList = body.data || [];
-
-    // 取前5张图片作为备选图片
-    for (let i = 0; i < imgList.length && i < 5; i++) {
-      let dishItem = imgList[i].dish;
-      if (i == 0) {
-        request(dishItem.image_url).pipe(fs.createWriteStream(path.join(matchDir, `${dishName}_${i}` + ext)));
-      }
-      request(dishItem.image_url).pipe(fs.createWriteStream(path.join(matchImgsDir, `${dishName}_${i}` + ext)));
-    }
-
-  })
-
-}
-
-
 function addPropsGroupArr(propsGroupArr,name) {
   if (propsGroupArr.indexOf(name) == -1) {
     propsGroupArr.push(name)
   } 
 }
 
+function genExportData({
+  merchantInfo,
+  menuSetting,
+  outputDir,
+  exportMode
+}) {
+  if (exportMode == "keruyun") {
+    genImgs(merchantInfo, outputDir);
+    genExcel(merchantInfo, outputDir);
+    genExcelAll(merchantInfo, outputDir, menuSetting)
+  } else if (exportMode == 'feie') {
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting,)
+  } else {
+    console.error("未设置导出模式")
+  }
+}
 
 module.exports = {
-  getFiles,
   getFileJson,
   requestUrl,
   delDirSync,
   mkdirSync,
+  mkShopDir,
   formatFileName,
   genExcel,
   genExcelAll,
   genFeieExcelAll,
   genImgs,
-  genWord,
-  genSpecificationsWord,
-  dishMatch,
-  requestPostUrl,
   addPropsGroupArr,
-  genShilaiExcelAll
-  // genZip,
+  genShilaiExcelAll,
+  genExportData,
+  logInfo
 }

@@ -3,7 +3,7 @@ const fs = require("fs");
 const { resolve } = require("path");
 const path = require("path");
 const request = require('request')
-const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord,genFeieExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord,genFeieExcelAll} = require("../utils/index")
 const defaultImgUrl = "https://shouqianba-customer.oss-cn-hangzhou.aliyuncs.com/jjz/processedPhoto5/ca06311f-796e-4889-8db4-dfb2f1a43ad1"
 
 
@@ -134,8 +134,6 @@ async function genExcelAndWord(){
     genExcelAll(merchantInfo, outputDir, menuSetting);
     
   } else {
-    // genWord(merchantInfo, outputDir, menuSetting)
-    // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
     genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
 

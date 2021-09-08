@@ -1,7 +1,7 @@
 
 const fs = require("fs");
 const path = require("path");
-
+// let merchantInfo = require('./merchantRes.json')
 
 const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord, genShilaiExcelAll} = require("../utils/index")
 
@@ -30,12 +30,13 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //导出的菜品属性归为规格,备注,加料,做法
   specifications:['规格'],//规格
   practice: [
-    '做法', '新做法'
+   
   ],//做法
   feeding:['加料'],//加料
   remarks: [],//备注
   propsGroupSort: [
-    '做法', '新做法'
+    '规格',
+    "加料"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -77,19 +78,18 @@ function formatFoodProps(foodItem) {
   // 处理规格菜
   if (skuMenuItems&&skuMenuItems.length>1) {
     skuMenuItems && skuMenuItems.forEach(propItem => {
-      if (!propItem.specAttrs[0].value) {
+      let skuName = propItem.specAttrs[0].specificationName;
+      if (propItem.specAttrs[0].value) {
         skuObj.values.push({
           "value": propItem.specAttrs[0].value,
-          "price": propItem.originalPrice - originalPrice,
+          "price": propItem.originalPrice,
           "propName": "规格",
-          "isMul": true
+          "isMul": false
         })
       }
     })
     if (skuObj.values.length) {
       res.push(skuObj)
-      console.log("规格菜----",foodItem.spuName)
-      addPropsGroupArr(propsGroupArr,"规格")
     }
   }
 
@@ -107,7 +107,6 @@ function formatFoodProps(foodItem) {
     if (feedObj.values.length) {
       res.push(feedObj)
       console.log("加料菜----",foodItem.spuName)
-      addPropsGroupArr(propsGroupArr,"加料")
     }
   }
 
@@ -127,7 +126,10 @@ function formatFoodProps(foodItem) {
           })
         })
         res.push(tempObj)
-        addPropsGroupArr(propsGroupArr,tempObj.name)
+        if (menuSetting.practice.indexOf(tempObj.name)==-1) {
+          menuSetting.practice.push(tempObj.name)
+          menuSetting.propsGroupSort.splice(menuSetting.propsGroupSort.length-1,0,tempObj.name)
+        }
       }
     })
   }
@@ -197,6 +199,7 @@ async function mkShopDir(shopDir) {
 async function genImgsAndExcel() { 
   let merchantInfo = await getMerchantInfo();
     await logInfo(merchantInfo, "merchantRes")
+  
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录

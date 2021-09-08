@@ -4,7 +4,7 @@ var fs = require("fs");
 const { resolve } = require("path");
 var xlsx = require('node-xlsx');
 var dirName = path.join(__dirname, "huanXiongMenusJsons")
-const {getFiles,getFileJson,genExcel} = require("./index")
+const {getFileJson,genExcel} = require("./index")
 
 
 // 剥离数据获取菜单关键信息

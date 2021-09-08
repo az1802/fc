@@ -11,7 +11,7 @@ let shopInfo = {
 let tcClassList = merchantMenuInfo.tcClassList
 let categoryList =  merchantMenuInfo.itemClassList
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
 
 const exportMode = "keruyun"
@@ -157,9 +157,7 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    // genWord(merchantInfo, outputDir)
     genSpecificationsWord(merchantInfo, outputDir, menuSetting)
-    // genFeieExcelAll(merchantInfo, outputDir, menuSetting)
   }
 }
 

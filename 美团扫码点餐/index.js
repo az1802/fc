@@ -4,7 +4,7 @@ let foods = foodsJson.value
 const fs = require("fs")
 const path = require("path");
 const request = require('request')
-const { getFiles, getFileJson, genExcel, getDetail } = require("../utils/index")
+const { getFileJson, genExcel, getDetail } = require("../utils/index")
 
 
 console.log(shopInfo.value.dishCategories)

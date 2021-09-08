@@ -10,14 +10,9 @@ var officegen = require('officegen');
 var docx = officegen('docx');//word
 var {genExportDirs ,genImgs, genImgs2, handleFoodAttrs} = require('./common');
 
-
 const excelTitle = ["菜品名称", "菜品分类","售卖价", "菜品类型", "规格", "属性组", "属性", "加料", "打包盒"];
 
-
-
-
 function handleSkusText(skus = []) {
-
   return skus.map(skuItem => {
     return skuItem.values.map(item => {
       return `${item.value}:${item.price}`
@@ -60,7 +55,8 @@ function handlePacksText(packs = []) {
 
 
 // 生成时来收银模式的excel 
-async function genShilaiExcelAll(merchantInfo, outputDir,menuSetting, isGenImgs = true) { 
+async function genShilaiExcelAll(merchantInfo, outputDir, menuSetting, isGenImgs = true) {
+  console.log(menuSetting)
   let { categories, shopName } = merchantInfo;
   let { propsGroupSort } = menuSetting
   let {shopDir, foodsImgsDir} = genExportDirs(outputDir,shopName)
@@ -73,7 +69,6 @@ async function genShilaiExcelAll(merchantInfo, outputDir,menuSetting, isGenImgs 
   } else {
     genImgs2(merchantInfo, outputDir)
   }
-  // genImgs2(merchantInfo, outputDir)
 
   let allAttrGroups = new Set();
   categories.forEach(categoryItem => {
@@ -106,9 +101,6 @@ async function genShilaiExcelAll(merchantInfo, outputDir,menuSetting, isGenImgs 
     excelData.push(Object.values(rowData))
     })
   })
-
-
-  console.log([...allAttrGroups])
 
   let buffer = xlsx.build([
     {

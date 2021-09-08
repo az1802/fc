@@ -11,7 +11,7 @@ let shopInfo = {
 let categoryList =  merchantMenuInfo.DishTypeList
 let foodList = merchantMenuInfo.DishList
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
 
 
 const exportMode = "keruyun"
@@ -177,7 +177,6 @@ async function genImgsAndExcel() {
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
   } else {
-    // genWord(merchantInfo, outputDir)
     genSpecificationsWord(merchantInfo, outputDir,menuSetting)
   }
 }
