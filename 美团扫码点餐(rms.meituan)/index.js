@@ -13,6 +13,10 @@ const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDi
 // const exportMode = "feie"
 const exportMode = "shilai"
 
+// let priceKey = 'originalPrice' //原价
+
+let priceKey = 'currentPrice' //现价(折扣价)
+
 
 
 let merchantAllData =  require("./merchantInfo.json");
@@ -61,7 +65,7 @@ function formatFoodProps(foodItem) {
   let skuMenuItems = foodItem.skuMenuItems;
   let methods = foodItem.methods;//普通属性
   let propGroupName = methods.groupName;
-  let originalPrice = foodItem.originalPrice
+  // let originalPrice = foodItem[priceKey]  //原价
   let tastes = foodItem.tastes
   let res = []
 
@@ -82,7 +86,7 @@ function formatFoodProps(foodItem) {
       if (propItem.specAttrs[0].value) {
         skuObj.values.push({
           "value": propItem.specAttrs[0].value,
-          "price": propItem.originalPrice,
+          "price": propItem[priceKey],
           "propName": "规格",
           "isMul": false
         })
@@ -94,9 +98,10 @@ function formatFoodProps(foodItem) {
   }
 
   // 处理加料菜
-  if (tastes&&tastes.length>1) {
-    tastes[0].item && tastes[0].item.forEach(propItem => {
-     
+  // console.log(foodItem.spuName,tastes&&tastes.length&&tastes[0].items)
+  if (tastes&&tastes.length>0) {
+    tastes[0].items && tastes[0].items.forEach(propItem => {
+     console.log( propItem.name)
       feedObj.values.push({
         "value": propItem.name,
         "price": propItem.price,
@@ -104,9 +109,9 @@ function formatFoodProps(foodItem) {
         "isMul": true
       })
     })
+
     if (feedObj.values.length) {
       res.push(feedObj)
-      console.log("加料菜----",foodItem.spuName)
     }
   }
 
@@ -170,7 +175,7 @@ async function  handleRequestData(requestShopData,requestMenuData) {
           let foodData = {
             name: foodItem.spuName.trim() || "",
             picUrl: picUrl || "",
-            price: foodItem.originalPrice || "",
+            price: foodItem[priceKey] || "",
             unit: foodItem.unit || "份",
             categoryName: categoryData.name,
             props: [],
