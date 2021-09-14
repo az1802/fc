@@ -1,0 +1,3486 @@
+{
+	"shopName": "幸运冰厅",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "热销",
+			"foods": [
+				{
+					"name": "招牌幸运大杂扒饭",
+					"picUrl": "https://fuss10.elemecdn.com/4/3f/768264b2161226f256919bf382572jpeg.jpeg",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "烧汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "洋葱汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "黑椒汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "米饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "角薯",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西冷牛扒饭",
+					"picUrl": "https://fuss10.elemecdn.com/c/6a/352c012dbc75ff26e69b99af7cd3bjpeg.jpeg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "黑椒汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "洋葱汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "烧汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”幸运港式招牌鱼旦汤河粉",
+					"picUrl": "https://fuss10.elemecdn.com/a/95/24d906e292f85b28045672a756981png.png",
+					"price": 34,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”槟城喇沙汤越南檬粉",
+					"picUrl": "https://fuss10.elemecdn.com/d/4f/79e2f17aacdf5485fd1b85f5508b0jpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "「招牌」香煎鸡扒太阳蛋菠萝包",
+					"picUrl": "https://fuss10.elemecdn.com/c/c3/0c6e3a850893b91ed8afb88aaa785jpeg.jpeg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "沙拉酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "包",
+							"values": [
+								{
+									"value": "菠萝包",
+									"price": 0,
+									"propName": "包",
+									"isMul": true
+								},
+								{
+									"value": "餐包",
+									"price": 0,
+									"propName": "包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "驰名马来咖喱",
+			"foods": [
+				{
+					"name": "「招牌」香煎鸡扒太阳蛋菠萝包",
+					"picUrl": "https://fuss10.elemecdn.com/c/c3/0c6e3a850893b91ed8afb88aaa785jpeg.jpeg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "驰名马来咖喱",
+					"props": [
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "沙拉酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "包",
+							"values": [
+								{
+									"value": "菠萝包",
+									"price": 0,
+									"propName": "包",
+									"isMul": true
+								},
+								{
+									"value": "餐包",
+									"price": 0,
+									"propName": "包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”马来咖喱牛肉饭-意粉",
+					"picUrl": "https://fuss10.elemecdn.com/4/cb/196e3276643c1fd767a210b32e6bdjpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "驰名马来咖喱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "驰名马来咖喱蛋包牛肉炒饭",
+					"picUrl": "https://fuss10.elemecdn.com/9/22/d961bb30ec00d4024fea073480d6ejpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "驰名马来咖喱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马来咖喱鸡扒饭-意粉",
+					"picUrl": "https://fuss10.elemecdn.com/7/49/876f1af8967975567e9b9c50afc1fjpeg.jpeg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "驰名马来咖喱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马来咖喱猪扒饭",
+					"picUrl": "https://fuss10.elemecdn.com/f/a7/8c1b52368c7e5d50879e40d26dfc6jpg.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "驰名马来咖喱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马来咖喱鱼柳饭-意粉",
+					"picUrl": "https://fuss10.elemecdn.com/2/54/26542677e33d164243c436b236234jpg.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "驰名马来咖喱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马来咖喱海鲜意大利面",
+					"picUrl": "https://fuss10.elemecdn.com/a/d2/7ae27110505e95acd09ef0c8919abjpg.jpg",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "驰名马来咖喱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "马苏里拉",
+			"foods": [
+				{
+					"name": "马苏里拉焗鲜茄猪扒饭（意粉）",
+					"picUrl": "https://fuss10.elemecdn.com/7/9d/e91e19f9d12315d7a9b82501e6aeajpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "马苏里拉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "焗饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "焗意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马苏里拉焗忌廉白汁海鲜饭-意粉",
+					"picUrl": "https://fuss10.elemecdn.com/0/26/d6d0eec1d0166fbe1d9ff889876ccjpg.jpg",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "马苏里拉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马苏里拉焗鲜茄鸡扒饭（意粉）",
+					"picUrl": "https://fuss10.elemecdn.com/5/ba/4296228a7f3bba83fd324e935cb00jpg.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "马苏里拉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "焗饭",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "焗意粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马苏里拉焗鲜茄牛扒饭（意粉）",
+					"picUrl": "https://fuss10.elemecdn.com/b/35/29e558767bbc1b599a9350dc3f1eajpg.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "马苏里拉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马苏里拉焗忌廉白汁鱼柳饭（意粉）",
+					"picUrl": "https://fuss10.elemecdn.com/0/26/d6d0eec1d0166fbe1d9ff889876ccjpg.jpg",
+					"price": 39,
+					"unit": "份",
+					"categoryName": "马苏里拉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "炒粉面饭",
+			"foods": [
+				{
+					"name": "食神三蛋叉烧饭",
+					"picUrl": "https://fuss10.elemecdn.com/0/30/9186129576fdf4fd018441940bf1fjpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "分量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "分量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "蛋做法",
+							"values": [
+								{
+									"value": "太阳蛋",
+									"price": 0,
+									"propName": "蛋做法",
+									"isMul": true
+								},
+								{
+									"value": "全熟蛋",
+									"price": 0,
+									"propName": "蛋做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪扒炒乌冬",
+					"picUrl": "https://fuss10.elemecdn.com/6/56/4071853327d756a06e420433739e0jpg.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "粟米猪扒粒忌廉浓汁捞饭",
+					"picUrl": "https://fuss10.elemecdn.com/4/df/bf51a5353d49b30c0f17836329f87png.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜星洲炒米粉",
+					"picUrl": "https://fuss10.elemecdn.com/d/e5/7b9da460f5419ba730bed22e5e3afjpeg.jpeg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制炒牛河",
+					"picUrl": "https://fuss10.elemecdn.com/e/2b/1ff5706b7c10e71e037e8df060365png.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒牛肉炒意大利粉",
+					"picUrl": "https://fuss10.elemecdn.com/e/5f/580cd52055ad81c0a7d88ef19ddb1jpg.jpg",
+					"price": 34,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾酱鸡粒炒饭",
+					"picUrl": "https://fuss10.elemecdn.com/6/23/17561a0366d3973c9bf3d1008f5c5jpeg.jpeg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油鸡饭",
+					"picUrl": "https://fuss10.elemecdn.com/c/da/1eb63276a18147de06eef2d3a1f2bpng.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "扬州炒饭",
+					"picUrl": "https://fuss10.elemecdn.com/f/d5/c01420a55260fcf365630c7bd44b2jpg.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "头抽生炒牛肉饭",
+					"picUrl": "https://fuss10.elemecdn.com/f/d5/c01420a55260fcf365630c7bd44b2jpg.jpg",
+					"price": 34,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泰式青咖喱海鲜炒意大利粉（微辣）",
+					"picUrl": "https://fuss10.elemecdn.com/c/a4/a28a056f17753d0649e756605fa0ajpg.jpg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菠萝鸡粒炒饭",
+					"picUrl": "https://fuss10.elemecdn.com/2/2a/10d4ed67e65b07449f3af03dbc0aejpg.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉油鸡髀饭",
+					"picUrl": "https://fuss10.elemecdn.com/e/5c/48d153a7dd06f446e23f70f2a5062png.png",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菠萝咕噜肉饭",
+					"picUrl": "https://fuss10.elemecdn.com/e/ab/33f83bbcb0ab86916c7b4b40d39a9jpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "日式海鲜炒乌冬",
+					"picUrl": "https://fuss10.elemecdn.com/9/d8/19ffb42882eb1c816e20d1b75e47djpg.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白米饭",
+					"picUrl": "https://fuss10.elemecdn.com/5/0c/b4dbd6bd2ce2ed56e4a4cd29ef573jpg.jpg",
+					"price": 3.99,
+					"unit": "份",
+					"categoryName": "炒粉面饭",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤粉面类",
+			"foods": [
+				{
+					"name": "香煎双扒汤乌冬",
+					"picUrl": "https://fuss10.elemecdn.com/4/29/b8efd1d9e31d18f9b3fc033ac6e26jpeg.jpeg",
+					"price": 42,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": []
+				},
+				{
+					"name": "槟城喇沙猪扒越南檬粉",
+					"picUrl": "https://fuss10.elemecdn.com/5/b0/7bb8026cccb02749b228a40d417aejpeg.jpeg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": []
+				},
+				{
+					"name": "槟城喇沙鸡扒越南檬粉",
+					"picUrl": "https://fuss10.elemecdn.com/6/d6/cdf919fc97fef69158995c9b0ed4fjpeg.jpeg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": []
+				},
+				{
+					"name": "“招牌”幸运港式招牌鱼旦汤河粉",
+					"picUrl": "https://fuss10.elemecdn.com/a/95/24d906e292f85b28045672a756981png.png",
+					"price": 34,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”槟城喇沙汤越南檬粉",
+					"picUrl": "https://fuss10.elemecdn.com/d/4f/79e2f17aacdf5485fd1b85f5508b0jpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”泰式冬阴功越南檬粉（微酸辣）",
+					"picUrl": "https://fuss10.elemecdn.com/c/42/05ed803fca58f95fb23f438effe46jpg.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "幸运「招牌鱼汤」手打鲜杂丸汤河粉",
+					"picUrl": "https://fuss10.elemecdn.com/2/de/855ac4bde061f2331c4aa51bc2ff8png.png",
+					"price": 39,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "雪菜肉丝太阳蛋「招牌鱼汤」河粉",
+					"picUrl": "https://fuss10.elemecdn.com/a/e8/0d547b1f5a8b9c22b23b022042740jpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "蛋的煮法",
+							"values": [
+								{
+									"value": "太阳蛋",
+									"price": 0,
+									"propName": "蛋的煮法",
+									"isMul": true
+								},
+								{
+									"value": "全熟蛋",
+									"price": 0,
+									"propName": "蛋的煮法",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 0,
+									"propName": "蛋的煮法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "沙爹牛肉进口午餐肉太阳蛋出前一丁",
+					"picUrl": "https://fuss10.elemecdn.com/a/1e/662979c1f4d3ae37121c62024a58bpng.png",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "頂级午餐肉煎蛋出前一丁",
+					"picUrl": "https://fuss10.elemecdn.com/c/21/ef5168c38c95567b1436f3281bd90jpg.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "出前一丁",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "手打牛筋丸汤河粉",
+					"picUrl": "https://fuss10.elemecdn.com/5/63/a5a87bb0b12316a97ae16eac84acajpeg.jpeg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": []
+				},
+				{
+					"name": "鸡肉肠火腿太阳蛋出前一丁",
+					"picUrl": "https://fuss10.elemecdn.com/4/04/7e493a989fb0d9a1c87a2b1751049jpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "蛋的煮法",
+							"values": [
+								{
+									"value": "太阳蛋",
+									"price": 0,
+									"propName": "蛋的煮法",
+									"isMul": true
+								},
+								{
+									"value": "全熟蛋",
+									"price": 0,
+									"propName": "蛋的煮法",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 0,
+									"propName": "蛋的煮法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "销魂「招牌鱼汤」河粉",
+					"picUrl": "https://fuss10.elemecdn.com/7/b3/f30d3bb233cc2f2bbabb8d951c53cjpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "蛋的做法",
+							"values": [
+								{
+									"value": "太阳蛋",
+									"price": 0,
+									"propName": "蛋的做法",
+									"isMul": true
+								},
+								{
+									"value": "全熟蛋",
+									"price": 0,
+									"propName": "蛋的做法",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 0,
+									"propName": "蛋的做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "沙爹牛肉煎蛋出前一丁",
+					"picUrl": "https://fuss10.elemecdn.com/e/f1/315d7544ec3710eb5b482bda71c32png.png",
+					"price": 34,
+					"unit": "份",
+					"categoryName": "汤粉面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "鸡蛋熟度",
+							"values": [
+								{
+									"value": "太阳蛋",
+									"price": 0,
+									"propName": "鸡蛋熟度",
+									"isMul": true
+								},
+								{
+									"value": "全熟蛋",
+									"price": 0,
+									"propName": "鸡蛋熟度",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 0,
+									"propName": "鸡蛋熟度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "西式扒饭或意粉",
+			"foods": [
+				{
+					"name": "西冷牛扒饭",
+					"picUrl": "https://fuss10.elemecdn.com/c/6a/352c012dbc75ff26e69b99af7cd3bjpeg.jpeg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "西式扒饭或意粉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "黑椒汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "洋葱汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "烧汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜茄烩牛肉饭",
+					"picUrl": "https://fuss10.elemecdn.com/8/bc/a58e2167bde155689488812b901bcjpeg.jpeg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "西式扒饭或意粉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌幸运大杂扒饭",
+					"picUrl": "https://fuss10.elemecdn.com/4/3f/768264b2161226f256919bf382572jpeg.jpeg",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "西式扒饭或意粉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "烧汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "洋葱汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "黑椒汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "米饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "角薯",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香煎鸡扒肠蛋饭-意粉",
+					"picUrl": "https://fuss10.elemecdn.com/b/91/9b584c14ceb4c5455ab7d7acc54f9jpeg.jpeg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "西式扒饭或意粉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "黑椒汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "烧汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "洋葱汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛油栗米汁龙利柳饭",
+					"picUrl": "https://fuss10.elemecdn.com/8/9e/6d0fa70114a7fdedace6058ce7688jpeg.jpeg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "西式扒饭或意粉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱猪扒双蛋饭",
+					"picUrl": "https://fuss10.elemecdn.com/4/48/f10e4f9c7e525b2d2d5009db4f931jpg.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "西式扒饭或意粉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "黑椒汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "烧汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "洋葱汁",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "饭类",
+							"values": [
+								{
+									"value": "饭",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								},
+								{
+									"value": "意粉",
+									"price": 0,
+									"propName": "饭类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "蛋的做法",
+							"values": [
+								{
+									"value": "太阳蛋",
+									"price": 0,
+									"propName": "蛋的做法",
+									"isMul": true
+								},
+								{
+									"value": "全熟蛋",
+									"price": 0,
+									"propName": "蛋的做法",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 0,
+									"propName": "蛋的做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "幸运の汤",
+			"foods": [
+				{
+					"name": "是日老火列汤 500ML",
+					"picUrl": "https://fuss10.elemecdn.com/c/ae/8dc2915cb586806708c585c0adcf5jpg.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "幸运の汤",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1碗",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”泰国冬阴功海鲜汤500ML",
+					"picUrl": "https://fuss10.elemecdn.com/5/6b/107a8f6ae464badcc185c1f3de0c7jpg.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "幸运の汤",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1碗",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”槟城海鲜喇沙汤 500ML",
+					"picUrl": "https://fuss10.elemecdn.com/7/d4/4c63f1f878cd0c487435ceda5d159jpg.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "幸运の汤",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1碗",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "罗宋汤 500ML",
+					"picUrl": "https://fuss10.elemecdn.com/3/97/1139a0e0cecd4333ee7ead111af4ajpg.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "幸运の汤",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1碗",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "滋味小食",
+			"foods": [
+				{
+					"name": "「招牌人气」三联太阳蛋",
+					"picUrl": "https://fuss10.elemecdn.com/2/b4/4a880dc6c8d2e5dcfdf3fcd8c8002jpeg.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "煮法",
+							"values": [
+								{
+									"value": "溏心太阳蛋",
+									"price": 0,
+									"propName": "煮法",
+									"isMul": true
+								},
+								{
+									"value": "7分熟太阳蛋",
+									"price": 0,
+									"propName": "煮法",
+									"isMul": true
+								},
+								{
+									"value": "全熟太阳蛋",
+									"price": 0,
+									"propName": "煮法",
+									"isMul": true
+								},
+								{
+									"value": "油煎荷包蛋",
+									"price": 0,
+									"propName": "煮法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "一口粒粒西多士",
+					"picUrl": "https://fuss10.elemecdn.com/a/a5/7c0c2f9bfb51c3a7768a62af22390jpg.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "淋酱",
+							"values": [
+								{
+									"value": "巧克力酱",
+									"price": 0,
+									"propName": "淋酱",
+									"isMul": true
+								},
+								{
+									"value": "炼乳",
+									"price": 0,
+									"propName": "淋酱",
+									"isMul": true
+								},
+								{
+									"value": "巧克力酱+炼乳",
+									"price": 0,
+									"propName": "淋酱",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "淋酱量",
+							"values": [
+								{
+									"value": "少量",
+									"price": 0,
+									"propName": "淋酱量",
+									"isMul": true
+								},
+								{
+									"value": "正常量",
+									"price": 0,
+									"propName": "淋酱量",
+									"isMul": true
+								},
+								{
+									"value": "双倍量",
+									"price": 0,
+									"propName": "淋酱量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "XO酱炒猪肠粉",
+					"picUrl": "https://fuss10.elemecdn.com/1/b2/6ad7889423e5b7b58c2986578733ejpg.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "港式酥炸云吞",
+					"picUrl": "https://fuss10.elemecdn.com/8/94/ed9093796842d1f04b92536cbb45epng.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "炸鱼皮",
+					"picUrl": "https://fuss10.elemecdn.com/e/5c/e858d52db53d83c342bb5c417d281png.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "吉列猪扒拼角薯",
+					"picUrl": "https://fuss10.elemecdn.com/9/00/cd8a87fbd70c5ae6369af0922d8d8jpg.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酥炸脆脆港式鱼柳拼角薯",
+					"picUrl": "https://fuss10.elemecdn.com/4/3a/f186e4a4e0e899a5e566893a35529jpeg.jpeg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新运香酥炸鸡块",
+					"picUrl": "https://fuss10.elemecdn.com/0/85/b68e86758074bbc0f30ec9ead06a3jpg.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "沙拉酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海盐七味炸有皮薯条",
+					"picUrl": "https://fuss10.elemecdn.com/f/01/f6b3e9599a371964073bdd24d0615jpg.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "滋味小食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "蛋黄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "幸运常餐",
+			"foods": [
+				{
+					"name": "幸运常餐A➕（鲜油多士.火腿庵列）",
+					"picUrl": "https://fuss10.elemecdn.com/6/f7/894ac2a0269fb192b2210f90b4893jpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "幸运常餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "A餐沙爹牛肉出前一丁",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "B餐叉烧汤意粉",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "鲜油多士",
+							"values": [
+								{
+									"value": "烘底",
+									"price": 0,
+									"propName": "鲜油多士",
+									"isMul": true
+								},
+								{
+									"value": "不烘底",
+									"price": 0,
+									"propName": "鲜油多士",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "餐具",
+			"foods": [
+				{
+					"name": "餐具",
+					"picUrl": "https://fuss10.elemecdn.com/9/64/e82941161143f5255c686a0613d7ajpg.jpg",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "餐具",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮品",
+			"foods": [
+				{
+					"name": "百香果金桔柠檬茉莉花绿茶",
+					"picUrl": "https://fuss10.elemecdn.com/4/b7/0f6f430065419bed40fb5b66bda1fjpeg.jpeg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "标准糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "标准冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "港式柠檬茶",
+					"picUrl": "https://fuss10.elemecdn.com/a/2f/e1b72b260f8ae66f77619426b2160jpeg.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "标准糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冰量",
+							"values": [
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冰量",
+									"isMul": true
+								},
+								{
+									"value": "正常冰",
+									"price": 0,
+									"propName": "冰量",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冰量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "「超大杯」一颗柠檬红茶",
+					"picUrl": "https://fuss10.elemecdn.com/f/48/60881e9becc479bc0a8973a1c92cbjpeg.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "标准糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多糖",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "冰量",
+							"values": [
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冰量",
+									"isMul": true
+								},
+								{
+									"value": "正常冰",
+									"price": 0,
+									"propName": "冰量",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冰量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "脏脏意式蓝山挂耳冰奶咖",
+					"picUrl": "https://fuss10.elemecdn.com/9/ea/9a8f7b90b3f464aab7244bd3ede15jpg.jpg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "倒灌槟城桔子酸梅苏打水",
+					"picUrl": "https://fuss10.elemecdn.com/6/54/68b3018e8010568e74063f8f920cbjpg.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1瓶",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "倒罐槟城百香果苏打水",
+					"picUrl": "https://fuss10.elemecdn.com/c/a2/829bb4ef1ee3e8edb60dcf9593ad9jpg.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1瓶",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "滚滚星球冰奶咖",
+					"picUrl": "https://fuss10.elemecdn.com/6/18/97e2ed9907e796af74c534699278cjpg.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "糖度",
+							"values": [
+								{
+									"value": "无糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "全糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "正常糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								},
+								{
+									"value": "少糖",
+									"price": 0,
+									"propName": "糖度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "去冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "正常冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "是否加奶",
+							"values": [
+								{
+									"value": "双份奶",
+									"price": 0,
+									"propName": "是否加奶",
+									"isMul": true
+								},
+								{
+									"value": "单份奶",
+									"price": 0,
+									"propName": "是否加奶",
+									"isMul": true
+								},
+								{
+									"value": "不加奶",
+									"price": 0,
+									"propName": "是否加奶",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "龙凤柠乐",
+					"picUrl": "https://fuss10.elemecdn.com/e/5d/95467081b86fad98def61dc6873c7jpg.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椰汁红豆冰",
+					"picUrl": "https://fuss10.elemecdn.com/f/e9/de030cd307f92888df1ee4503eba2jpg.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泰国豆奶巧克力",
+					"picUrl": "https://fuss10.elemecdn.com/0/23/d2d7063a2d5080039913905d95517jpg.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1瓶",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泰国豆奶原味",
+					"picUrl": "https://fuss10.elemecdn.com/1/82/024636c6f7441a538b4bd81f5451bjpg.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1瓶",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椰汁",
+					"picUrl": "https://fuss10.elemecdn.com/5/d7/14c595e3c6782245e438b49daa67bjpg.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1罐",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸拧七",
+					"picUrl": "https://fuss10.elemecdn.com/e/80/b7c4f6c620783cea61aa4a5890a7bjpg.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜奶红豆冰",
+					"picUrl": "https://fuss10.elemecdn.com/a/c6/be4a208afe82a322b872953d7d504jpg.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热鲜奶",
+					"picUrl": "https://fuss10.elemecdn.com/4/d7/b33e7239ecd9fb4ea4de94f88b224jpg.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香滑奶茶",
+					"picUrl": "https://fuss10.elemecdn.com/6/96/268106471a26e636712b2aefbc4c3jpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "冰度",
+							"values": [
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冰度",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冰度",
+									"isMul": true
+								},
+								{
+									"value": "走冰",
+									"price": 0,
+									"propName": "冰度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "檀岛咖啡",
+					"picUrl": "https://fuss10.elemecdn.com/e/9d/0cfb364b6be6cffc2fa65cc73f57ejpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "冰类",
+							"values": [
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冰类",
+									"isMul": true
+								},
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冰类",
+									"isMul": true
+								},
+								{
+									"value": "走冰",
+									"price": 0,
+									"propName": "冰类",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "多甜",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "少甜",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "走甜",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "奶度",
+							"values": [
+								{
+									"value": "多奶",
+									"price": 0,
+									"propName": "奶度",
+									"isMul": true
+								},
+								{
+									"value": "少奶",
+									"price": 0,
+									"propName": "奶度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "港式鸳鸯",
+					"picUrl": "https://fuss10.elemecdn.com/4/d7/b33e7239ecd9fb4ea4de94f88b224jpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "柠檬茶",
+					"picUrl": "https://fuss10.elemecdn.com/2/8c/f9bf3b4c09c14094f0b6fd43b9462jpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "冰度",
+							"values": [
+								{
+									"value": "少冰",
+									"price": 0,
+									"propName": "冰度",
+									"isMul": true
+								},
+								{
+									"value": "多冰",
+									"price": 0,
+									"propName": "冰度",
+									"isMul": true
+								},
+								{
+									"value": "走冰",
+									"price": 0,
+									"propName": "冰度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "甜度",
+							"values": [
+								{
+									"value": "少甜",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "多甜",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								},
+								{
+									"value": "走甜",
+									"price": 0,
+									"propName": "甜度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬水",
+					"picUrl": "https://fuss10.elemecdn.com/b/31/7d8528acc354dbc17f841a8fe411djpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "阿华田",
+					"picUrl": "https://fuss10.elemecdn.com/4/d7/b33e7239ecd9fb4ea4de94f88b224jpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "好立克",
+					"picUrl": "https://fuss10.elemecdn.com/4/d7/b33e7239ecd9fb4ea4de94f88b224jpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "香浓朱古力",
+					"picUrl": "https://fuss10.elemecdn.com/4/d7/b33e7239ecd9fb4ea4de94f88b224jpg.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": []
+				},
+				{
+					"name": "忌廉沟鲜奶",
+					"picUrl": "https://fuss10.elemecdn.com/6/dc/415d462140f04e56d20f890838bf4jpg.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬可乐",
+					"picUrl": "https://fuss10.elemecdn.com/1/14/b5014cfb1e11493d12206aa509c2ejpg.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "可乐汽水",
+					"picUrl": "https://fuss10.elemecdn.com/6/10/60daf62eccb03f114099e27f4e494jpeg.jpeg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1罐",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "港版忌廉汽水",
+					"picUrl": "https://fuss10.elemecdn.com/8/74/1e343e304b01219a4b2f366c4d92ejpg.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1罐",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "三文治类",
+			"foods": [
+				{
+					"name": "“招牌”咸牛肉太阳蛋餐包",
+					"picUrl": "https://fuss10.elemecdn.com/e/79/79eee343d4d4fd456a0de6f4df352jpeg.jpeg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "蛋黄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”大猪扒太阳蛋菠萝包",
+					"picUrl": "https://fuss10.elemecdn.com/c/7c/10d051ff2fab04c08ba8b956cad90jpeg.jpeg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "蛋黄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "“招牌”太阳蛋菠萝油",
+					"picUrl": "https://fuss10.elemecdn.com/0/13/16575dfa682f729106edea4c494dajpeg.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "蛋黄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "「招牌」公司三文治",
+					"picUrl": "https://fuss10.elemecdn.com/9/87/69a644bceea3f7797b6d650fd3d68jpg.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "公司三文治（4小份）",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "吐司制作方式",
+							"values": [
+								{
+									"value": "烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								},
+								{
+									"value": "不烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "酱料",
+							"values": [
+								{
+									"value": "蛋黄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "番茄酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "甜辣酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								},
+								{
+									"value": "黄芥末酱",
+									"price": 0,
+									"propName": "酱料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "奶酱多士",
+					"picUrl": "https://fuss10.elemecdn.com/3/cf/b11fa15c0a56f0c0f8b759513a247jpg.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1盒",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "法兰西多士",
+					"picUrl": "https://fuss10.elemecdn.com/6/65/9c39db2ecad06de761050146005bcpng.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "午餐肉滑蛋三文治",
+					"picUrl": "https://fuss10.elemecdn.com/e/21/67ee7233b5f43e0a57035ff3e059cjpg.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "吐司制作方式",
+							"values": [
+								{
+									"value": "烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								},
+								{
+									"value": "不烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸牛肉炒滑蛋三文治",
+					"picUrl": "https://fuss10.elemecdn.com/0/39/e9f766a562c2f60a6bef24ff4ce79jpg.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "吐司制作方式",
+							"values": [
+								{
+									"value": "烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								},
+								{
+									"value": "不烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "炒滑蛋三文治",
+					"picUrl": "https://fuss10.elemecdn.com/d/df/08aec293aff9e42133a2adf0f30b8jpg.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "吐司制作方式",
+							"values": [
+								{
+									"value": "烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								},
+								{
+									"value": "不烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜油多士",
+					"picUrl": "https://fuss10.elemecdn.com/7/72/c9ecc06881eb7e70d8759f0599e3cjpg.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "吐司制作方式",
+							"values": [
+								{
+									"value": "烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								},
+								{
+									"value": "不烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "奶油多士",
+					"picUrl": "https://fuss10.elemecdn.com/3/cf/b11fa15c0a56f0c0f8b759513a247jpg.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "吐司制作方式",
+							"values": [
+								{
+									"value": "烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								},
+								{
+									"value": "不烘底",
+									"price": 0,
+									"propName": "吐司制作方式",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "港式菠萝油",
+					"picUrl": "https://fuss10.elemecdn.com/8/89/2a822b28a970e3cc9f2dcfed1042cjpeg.jpeg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "三文治类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
