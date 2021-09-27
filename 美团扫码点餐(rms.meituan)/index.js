@@ -10,11 +10,10 @@ const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDi
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
 
 // let priceKey = 'originalPrice' //原价
-
 let priceKey = 'currentPrice' //现价(折扣价)
 
 
@@ -99,17 +98,17 @@ function formatFoodProps(foodItem) {
 
   // 处理加料菜
   // console.log(foodItem.spuName,tastes&&tastes.length&&tastes[0].items)
-  if (tastes&&tastes.length>0) {
-    tastes[0].items && tastes[0].items.forEach(propItem => {
-     console.log( propItem.name)
-      feedObj.values.push({
-        "value": propItem.name,
-        "price": propItem.price,
-        "propName": "加料",
-        "isMul": true
-      })
+  if (tastes && tastes.length > 0) {
+    tastes.forEach(tasteItem => {
+      tasteItem.items&&tasteItem.items.forEach(propItem => {
+         feedObj.values.push({
+           "value": propItem.name,
+           "price": propItem.price,
+           "propName": "加料",
+           "isMul": true
+         })
+       })
     })
-
     if (feedObj.values.length) {
       res.push(feedObj)
     }
@@ -170,10 +169,11 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         foodItem = allsSuIds[foodItem]
         if (foodItem) {
           let picUrl = foodItem.detailPicUrls[0] || "";
+          // picUrl = picUrl.replace("p0", "p1")
           picUrl = picUrl.replace("%40640w_480h_1e_1c_1l%7Cwatermark%3D0", "")
           foodItem.spuName = foodItem.spuName.replace('/',"-")
           let foodData = {
-            name: foodItem.spuName.trim() || "",
+            name: foodItem.spuName.trim()|| "",
             picUrl: picUrl || "",
             price: foodItem[priceKey] || "",
             unit: foodItem.unit || "份",

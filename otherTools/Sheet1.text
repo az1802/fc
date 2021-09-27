@@ -1,0 +1,289 @@
+
+    <cell
+        v-else-if="merchantId == '8bc9185b45f0408da45e1c3bc0e88618'"
+        plugid="34d613d44eb4afaf5789d83dd6886be1"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'e994d54d9ec14aa7ac2d938107636c3e'"
+        plugid="e3381b341265ddd8fbbffa906c7f644c"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '7a53a6d9a157420285fd28891e83b28e'"
+        plugid="4fcf0d8aeff60e23d8995fb6a12985c9"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '1a610d37c51b443d8ac75363dce500e0'"
+        plugid="1c0042a8683a03d005626a6fde362de9"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '0901c1b3f648496bb794a33d7b69c37d'"
+        plugid="9df0f71924e64b19087b7dea23062b90"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '327f0829a0c548a59a2a661c2da82c0b'"
+        plugid="27472060d8acc52dc89dfeaa262c49e4"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '4878c01e3acc4abeb6a0e5bfdb51af74'"
+        plugid="03fccccbf6f044008df8d6da26187676"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'a0d9828ae01e4645ac036f72b397a669'"
+        plugid="05952b651a1bc93689827ca04a365ffd"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'e85c60169a7e4d6aab77d50d234c8d10'"
+        plugid="d8d5393ea4b5b26fe2d0905f1099097c"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'b20e4b9f2fd646b5aa6d4b41e8647d7a'"
+        plugid="6d9af3aadc6ed819df7d79b39b73755b"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '0a374d38c2404dbe9e67ef1bf8216985'"
+        plugid="227676050ef0217f2844d48ea3bbb0f8"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '18dda8bb1bdf4b7eb7e659bd0ba3b7c7'"
+        plugid="29cc4c5631261dd2ed6c94b4f7f1472c"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '922eab44d104405283abc761bfd69eef'"
+        plugid="2035c0b41282e7a13d0c446c7e80a523"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '9bfc2e1ce5ca4d4e9af702040fec2ebd'"
+        plugid="65f60c8611edb181f9c31cecd7de684c"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'fc55462b82cb4120a6ba502c0cc853c8'"
+        plugid="09fd9f693c177384b5ecb215c0c3de75"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '2bb4595316e34251ab8544db3794eac1'"
+        plugid="79eccf16e907cd0be8fed1752cc9ed45"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '08f3e449fc7c4514955337978f2b7a33'"
+        plugid="a783d62b5c23af55a5c34e2e8aa89409"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '09ba8c72f47f49b7af313697b4d000e5'"
+        plugid="f321209fce5179409fcbe957eae46df4"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '6eb252c0d84747cab558ebb373156bd9'"
+        plugid="523a40d91234475b19f73d441d6e6338"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '5776ccf36ae34c31b6a7e6aab01399a6'"
+        plugid="dd730a53a652807aec56cb14331f073d"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '8fef9fc9336f4a17b660b2a1e4488641'"
+        plugid="e3df45e0529a749fa9499434e95e605f"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '694c75f4342c4fe886d0f61cb67f6b98'"
+        plugid="046d7b2a1487a866fa57f0da05fca0d3"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'd13bb9f80cf74a949ed3dc5956a2d2b9'"
+        plugid="07291876792d094451943b25e38f50e2"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '7ba3cab1fd0d49c8b608fd5217bc0d73'"
+        plugid="a6873084c422f0d00e724ad8ea8c73ca"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'cee864e115ad4a4e9cd409cd3ae84dbf'"
+        plugid="80037cd0aefc9f354221fb64422f764e"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'be9048d28691411bbc92535359c3c62a'"
+        plugid="e1de42600cd11e068ec4a6333e31b257"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '0876bab11b91459c989d4e4ff4c38f14'"
+        plugid="9868face328b5bc0185ac6b771e7da68"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'ebfebb2b644646edb98bb95a6bf2ee2a'"
+        plugid="c0c01c1c9933cb683c8ca25974d7e02e"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'f9b4d7936e8c4e3e8d40b232c47f6da1'"
+        plugid="62774265d0556c40cae4ca15d28f2223"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'd68552cc823c468b949184c296477e6f'"
+        plugid="84b14866fc0abdb1f230bd1e29d6b409"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'bd0a361f6167455ea95dc2357ff41c2a'"
+        plugid="660973740afbf472c5638fe5187c019e"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'b6dfe610630b49aca06debd2ce15ca03'"
+        plugid="71391b9a5d2177cf35ba56ff40f09d98"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '07bd74065bc74f2396f269f1be7dc408'"
+        plugid="c651fa7231258af70831e588d8385117"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '4471f79659bc46fea58f8406c529f52f'"
+        plugid="8a55595e8c86a64eb8f9bca111fcf850"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '554086cbceac4b2bb70ecda1544c72a9'"
+        plugid="83630fb8a6876cab64053f4a7e24fa70"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '11fcbad5272b44938d90815125d0079e'"
+        plugid="c85bc0af9e40797c08427f9f48d5c97a"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '2d8ede05e7d44911841b4a13d76e5e22'"
+        plugid="cda043b65dc95d78569ee42aa518e304"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'f082a3594b7a4d1381abd502a496246a'"
+        plugid="bf66fa8af8884ce0214c79078f93181d"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '438426ac125944f28c605479d3e1caf2'"
+        plugid="0ac281ad62d86f7a732eaddd8332f7c6"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'f8b2ffe656014c23afcd07fe66129138'"
+        plugid="6fc1fbf3e793234aa2022afc3c89bb73"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '114ee7cb2b4642f99cc94cbc1e91b832'"
+        plugid="3eb0938a8a04358a27da3f147191fb48"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '73213daef2ab470cb9918f82bf737459'"
+        plugid="a86df0072fb415afb2a60c3bfbef4384"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'd4d87595a5874c1f8a8232cfc5a93c72'"
+        plugid="919a5c8bfbcf855e5a4efeeb091c4884"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '520ac3ec28594e4cbf31895f0f669375'"
+        plugid="89d9ccba75f749c803574a7a8a981967"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '6db6d95fffbc47f59e8ded6c20a96af8'"
+        plugid="1565348fba28e66e53f8db03c2b06d47"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == 'e2f51b76c2e94f8180e483434481fb5b'"
+        plugid="1f7dfd7fd0a0b941e04aa18d10098b85"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '38e25296f12a4e8b86129d46f5fd07c9'"
+        plugid="d6806a1af3ba51d75f36718c3eb66f23"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    
+    <cell
+        v-else-if="merchantId == '92b60c7d641f49d89f4711f3e1c13d47'"
+        plugid="ed6638d0785724951a14382fdf792114"
+        bind:startmessage="startmessage"
+        bind:completemessage="completemessage"
+      />    

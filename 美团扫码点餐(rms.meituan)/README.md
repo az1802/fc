@@ -1,17 +1,17 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-18 17:01:06
- * @LastEditTime: 2021-09-14 15:10:51
+ * @LastEditTime: 2021-09-26 10:57:13
  * @LastEditors: sunj
  * @Description: In User Settings Edit
  * @FilePath: /dish_crawler/美团扫码点餐(rms.meituan)/README.md
 -->
 获取到shopId 进行替换,直接浏览器访问
-https://rms.meituan.com/diancan/web/menu?shopId=600349111//商户的网页版本
+https://rms.meituan.com/diancan/web/menu?shopId=600143827//商户的网页版本
 
 
  //全部数据
-https://rms.meituan.com/diancan/api/menuHead?mtShopId=600110332
+https://rms.meituan.com/diancan/api/menuHead?mtShopId=600225083
 数据在js文件中查找之后复制到tempData 去除外层包裹之后运行脚本即可
 
 

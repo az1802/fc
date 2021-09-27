@@ -4,10 +4,13 @@ const path = require("path");
 
 const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll,genShilaiExcelAll} = require("../utils/index")
 
-const shopId = 18584
+const shopId = 19012
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
+// const shopRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
+// const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
+
 const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
 const menuRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
@@ -23,18 +26,17 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
   practice: [
-    "饮料或甜品",
-    "打包"
+  	"口味",
+	"小炒"
   ],//做法
   feeding:[ "加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
+    "口味",
+    "小炒",
     "加料",
-    "饮料或甜品",
-    "打包"
   ],
   propsSort: {
-    // "口味":["不辣","微辣","中辣","特辣","麻辣"]
   }
 }
 
@@ -59,8 +61,9 @@ async function getMerchantInfo() {
 }
 
 function formatFoodProps(foodItem) { 
-  let { propsGroupSort,propsSort } = menuSetting
-  let propsPrice = foodItem.prop_prices,propsPriceObj = {};
+  let { propsGroupSort, propsSort } = menuSetting
+  let propsPrice = foodItem.prop_prices, propsPriceObj = {};
+  
   for (let j = 0; j < propsPrice.length; j++){ 
     propsPriceObj[propsPrice[j].keys] = propsPrice[j].price
   }
@@ -82,6 +85,7 @@ function formatFoodProps(foodItem) {
         }
       })
     }
+
 
     if (propsSort[propTemp.name]) { //具体某个属性的排序
       let propNameSort = propsSort[propTemp.name]
@@ -153,7 +157,7 @@ async function  handleRequestData(requestShopData,requestMenuData) {
       categoryData.foods = categoryItem.products.reduce((res,foodItem) => { 
         if (foodItem) { 
           let foodData = {
-            name:foodItem.name || "",
+            name:foodItem.name.replace(/\//ig,"-") || "",
             picUrl: foodItem.big_pic || foodItem.small_pic || "",
             price:foodItem.curr_price || "",
             unit: foodItem.unit || "份",
@@ -185,7 +189,8 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() { 
   let merchantInfo = await getMerchantInfo();
-  let { shopName} = merchantInfo
+  let { shopName } = merchantInfo
+  console.log(shopName)
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)

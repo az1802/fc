@@ -1,0 +1,582 @@
+{
+	"shopName": "赛百味",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "超值加量",
+			"foods": [
+				{
+					"name": "香溢蛋料",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%9B%9B%E5%B7%9D%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%BE%8E%E5%91%B3%E5%8A%A0%E6%96%99-%E9%A6%99%E6%BA%A2%E8%9B%8B%E6%96%99_7042.jpeg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "意式香肠双份肉",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%84%8F%E5%BC%8F%E9%A6%99%E8%82%A0%E5%8F%8C%E4%BB%BD%E8%82%89.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "金枪鱼双份肉",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%87%91%E6%9E%AA%E9%B1%BC%E5%8F%8C%E4%BB%BD%E8%82%89.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "香烤牛肉双份肉",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%A6%99%E7%83%A4%E7%89%9B%E8%82%89%E5%8F%8C%E4%BB%BD%E8%82%89.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "加三角芝士（2片）",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E5%8A%A0%E5%A5%B6%E9%85%AA.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "加培根（2条）",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E5%8A%A0%E5%9F%B9%E6%A0%B9.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "照烧鸡双份肉",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%85%A7%E7%83%A7%E9%B8%A1%E5%8F%8C%E4%BB%BD%E8%82%89.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "火鸡胸双份肉",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%81%AB%E9%B8%A1%E8%83%B8%E5%8F%8C%E4%BB%BD%E8%82%89.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "加马苏里拉芝士（1勺）",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E5%8A%A0%E5%A5%B6%E9%85%AA.jpg",
+					"price": "5",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "西式火腿双份肉",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E8%A5%BF%E5%BC%8F%E7%81%AB%E8%85%BF%E5%8F%8C%E4%BB%BD%E8%82%89.jpg",
+					"price": "12",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				},
+				{
+					"name": "黑胡椒厚切牛排双份肉",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%BB%91%E8%83%A1%E6%A4%92%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E5%8F%8C%E4%BB%BD%E8%82%89.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "超值加量",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "三明治套餐",
+			"foods": [
+				{
+					"name": "6英寸意式经典三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E6%84%8F%E5%BC%8F%E7%BB%8F%E5%85%B8%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "37",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸照烧鸡三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E7%85%A7%E7%83%A7%E9%B8%A1%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸黑胡椒厚切牛排三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E9%BB%91%E8%83%A1%E6%A4%92%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "40.5",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸西式火腿三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E8%A5%BF%E5%BC%8F%E7%81%AB%E8%85%BF%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸香烤牛肉三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E9%A6%99%E7%83%A4%E7%89%9B%E8%82%89%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸意式香肠三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E6%84%8F%E5%BC%8F%E9%A6%99%E8%82%A0%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "33",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸火鸡胸三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E7%81%AB%E9%B8%A1%E8%83%B8%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸原切鸡腿排三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E5%8E%9F%E5%88%87%E9%B8%A1%E8%85%BF%E6%8E%92%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "37",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸金玉满堂三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/1_0228.jpeg",
+					"price": "43",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸缤纷蔬菜三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E7%BC%A4%E7%BA%B7%E8%94%AC%E8%8F%9C%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90.jpg",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				},
+				{
+					"name": "6英寸金枪鱼三明治套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E9%87%91%E6%9E%AA%E9%B1%BC%E4%B8%89%E6%98%8E%E6%B2%BB%E5%A5%97%E9%A4%90_3831.jpeg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "三明治套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "百味卷套餐",
+			"foods": [
+				{
+					"name": "金枪鱼培根百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%87%91%E6%9E%AA%E9%B1%BC%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "40.5",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "火鸡胸百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%81%AB%E9%B8%A1%E8%83%B8%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "黑胡椒厚切牛排百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%BB%91%E8%83%A1%E6%A4%92%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "40.5",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "西式火腿百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E8%A5%BF%E5%BC%8F%E7%81%AB%E8%85%BF%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "30",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "意式经典百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%84%8F%E5%BC%8F%E7%BB%8F%E5%85%B8%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "37",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "香烤牛肉百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%A6%99%E7%83%A4%E7%89%9B%E8%82%89%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "金枪鱼百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%87%91%E6%9E%AA%E9%B1%BC%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "38",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "照烧鸡百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%85%A7%E7%83%A7%E9%B8%A1%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "意式香肠百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%84%8F%E5%BC%8F%E9%A6%99%E8%82%A0%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "33",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				},
+				{
+					"name": "缤纷蔬菜百味卷套餐",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%BC%A4%E7%BA%B7%E8%94%AC%E8%8F%9C%E7%99%BE%E5%91%B3%E5%8D%B7%E5%A5%97%E9%A4%90.jpg",
+					"price": "28",
+					"unit": "份",
+					"categoryName": "百味卷套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "披萨套餐",
+			"foods": []
+		},
+		{
+			"name": "三明治",
+			"foods": [
+				{
+					"name": "意式香肠三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E6%84%8F%E5%BC%8F%E9%A6%99%E8%82%A0%E4%B8%89%E6%98%8E%E6%B2%BB_5534.jpeg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "香烤牛肉三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E9%A6%99%E7%83%A4%E7%89%9B%E8%82%89%E4%B8%89%E6%98%8E%E6%B2%BB_1757.jpeg",
+					"price": "27",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "原切鸡腿排三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E5%8E%9F%E5%88%87%E9%B8%A1%E8%85%BF%E6%8E%92%E4%B8%89%E6%98%8E%E6%B2%BB_1996.jpeg",
+					"price": "26",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "黑胡椒厚切牛排三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E9%BB%91%E8%83%A1%E6%A4%92%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E4%B8%89%E6%98%8E%E6%B2%BB_5971.jpeg",
+					"price": "29.5",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "西式火腿三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E8%A5%BF%E5%BC%8F%E7%81%AB%E8%85%BF%E4%B8%89%E6%98%8E%E6%B2%BB_0200.jpeg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "意式经典三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/WechatIMG615_5672.jpeg",
+					"price": "26",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "火鸡胸三明治",
+					"picUrl": "http://www.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E7%81%AB%E9%B8%A1%E8%83%B8%E4%B8%89%E6%98%8E%E6%B2%BB.jpg",
+					"price": "24",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "金枪鱼三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E9%87%91%E6%9E%AA%E9%B1%BC%E4%B8%89%E6%98%8E%E6%B2%BB_1627.jpeg",
+					"price": "27",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "照烧鸡三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E7%85%A7%E7%83%A7%E9%B8%A1%E4%B8%89%E6%98%8E%E6%B2%BB_6703.jpeg",
+					"price": "24",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "金玉满堂三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%87%91%E7%8E%89%E6%BB%A1%E5%A0%82%E4%B8%89%E6%98%8E%E6%B2%BB%E5%8D%95%E5%93%81_4734.jpeg",
+					"price": "32",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				},
+				{
+					"name": "缤纷蔬菜三明治",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/6%E8%8B%B1%E5%AF%B8%E7%BC%A4%E7%BA%B7%E8%94%AC%E8%8F%9C%E4%B8%89%E6%98%8E%E6%B2%BB_8673.jpeg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "三明治",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "百味卷",
+			"foods": [
+				{
+					"name": "火鸡胸百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%81%AB%E9%B8%A1%E8%83%B8%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "24",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "金枪鱼培根百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%87%91%E6%9E%AA%E9%B1%BC%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "29.5",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "金枪鱼百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%87%91%E6%9E%AA%E9%B1%BC%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "27",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "黑胡椒厚切牛排百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%BB%91%E8%83%A1%E6%A4%92%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "29.5",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "意式香肠百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%84%8F%E5%BC%8F%E9%A6%99%E8%82%A0%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "22",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "缤纷蔬菜百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%BC%A4%E7%BA%B7%E8%94%AC%E8%8F%9C%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "照烧鸡百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E7%85%A7%E7%83%A7%E9%B8%A1%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "24",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "原切鸡腿排百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E5%8E%9F%E5%88%87%E9%B8%A1%E8%85%BF%E6%8E%92%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "26",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "西式火腿百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E8%A5%BF%E5%BC%8F%E7%81%AB%E8%85%BF%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "19",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "香烤牛肉百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%A6%99%E7%83%A4%E7%89%9B%E8%82%89%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "27",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				},
+				{
+					"name": "意式经典百味卷",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%84%8F%E5%BC%8F%E7%BB%8F%E5%85%B8%E7%99%BE%E5%91%B3%E5%8D%B7.jpg",
+					"price": "26",
+					"unit": "份",
+					"categoryName": "百味卷",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "披萨",
+			"foods": [
+				{
+					"name": "日式照烧鸡肉意式方形披萨",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%97%A5%E5%BC%8F%E7%85%A7%E7%83%A7%E9%B8%A1%E8%82%89%E6%84%8F%E5%BC%8F%E6%96%B9%E5%BD%A2%E6%8A%AB%E8%90%A8.jpg",
+					"price": "21",
+					"unit": "份",
+					"categoryName": "披萨",
+					"props": []
+				},
+				{
+					"name": "黑胡椒厚切牛排意式方形披萨",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E9%BB%91%E8%83%A1%E6%A4%92%E5%8E%9A%E5%88%87%E7%89%9B%E6%8E%92%E6%84%8F%E5%BC%8F%E6%96%B9%E5%BD%A2%E6%8A%AB%E8%90%A8.jpg",
+					"price": "26",
+					"unit": "份",
+					"categoryName": "披萨",
+					"props": []
+				},
+				{
+					"name": "意式香肠方形披萨",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%84%8F%E5%BC%8F%E9%A6%99%E8%82%A0%E6%96%B9%E5%BD%A2%E6%8A%AB%E8%90%A8.jpg",
+					"price": "21",
+					"unit": "份",
+					"categoryName": "披萨",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小食",
+			"foods": [
+				{
+					"name": "西域风情烤翅",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E8%A5%BF%E5%9F%9F%E9%A3%8E%E6%83%85%E7%83%A4%E7%BF%85.jpg",
+					"price": "13.5",
+					"unit": "份",
+					"categoryName": "小食",
+					"props": []
+				},
+				{
+					"name": "Q萌薯宝",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/Q%E8%90%8C%E8%96%AF%E5%AE%9D.jpg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "小食",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "曲奇",
+			"foods": [
+				{
+					"name": "曲奇饼干-燕麦提子",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%9B%B2%E5%A5%87%E9%A5%BC%E5%B9%B2-%E7%87%95%E9%BA%A6%E6%8F%90%E5%AD%90.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "曲奇",
+					"props": []
+				},
+				{
+					"name": "咸蛋黄肉松夹心曲奇1片",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E8%82%89%E6%9D%BE%E5%92%B8%E8%9B%8B%E9%BB%84%E5%A4%B9%E5%BF%83%E6%9B%B2%E5%A5%87_7962.jpeg",
+					"price": "9",
+					"unit": "份",
+					"categoryName": "曲奇",
+					"props": []
+				},
+				{
+					"name": "曲奇饼干*3",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%9B%9B%E5%B7%9D%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%9B%B2%E5%A5%87%E9%A5%BC%E5%B9%B2-%E7%87%95%E9%BA%A6%E5%B7%A7%E5%85%8B%E5%8A%9B_6005.jpeg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "曲奇",
+					"props": []
+				},
+				{
+					"name": "曲奇饼干-燕麦巧克力",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%9B%B2%E5%A5%87%E9%A5%BC%E5%B9%B2-%E7%87%95%E9%BA%A6%E5%B7%A7%E5%85%8B%E5%8A%9B.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "曲奇",
+					"props": []
+				},
+				{
+					"name": "曲奇饼干*2",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%9B%9B%E5%B7%9D%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%9B%B2%E5%A5%87%E9%A5%BC%E5%B9%B2-%E7%87%95%E9%BA%A6%E5%B7%A7%E5%85%8B%E5%8A%9B_6005.jpeg",
+					"price": "11",
+					"unit": "份",
+					"categoryName": "曲奇",
+					"props": []
+				},
+				{
+					"name": "咸蛋黄肉松夹心曲奇2片",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E8%82%89%E6%9D%BE%E5%92%B8%E8%9B%8B%E9%BB%84%E5%A4%B9%E5%BF%83%E6%9B%B2%E5%A5%87_6424.jpeg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "曲奇",
+					"props": []
+				},
+				{
+					"name": "曲奇饼干-双色巧克力",
+					"picUrl": "http://image.streffy.com/StreffyAdminImage/%E5%B1%B1%E4%B8%9C%E8%B5%9B%E7%99%BE%E5%91%B3/Product/%E6%9B%B2%E5%A5%87%E9%A5%BC%E5%B9%B2-%E5%8F%8C%E8%89%B2%E5%B7%A7%E5%85%8B%E5%8A%9B.jpg",
+					"price": "6",
+					"unit": "份",
+					"categoryName": "曲奇",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮料",
+			"foods": []
+		}
+	]
+}

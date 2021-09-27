@@ -10,6 +10,12 @@ const docx = officegen('docx');//word
 
 const { genShilaiExcelAll } = require('./genShilaiExcelAll')
 
+async function sleep() {
+  return new Promise((resolve, reject) => {
+    setTimeout(resolve,3000)
+  })
+}
+
 
 //获取filePath路径下的文件
 async function getFileJson(filePath){ 
@@ -266,15 +272,17 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
       let url = foodItem.picUrl
       let imgName= foodItem.name
       if (url) {
-        // let ext =  url.slice(url.lastIndexOf("."));
+        let ext =  url.slice(url.lastIndexOf("."));
         // ext= ".jpg" 
         // ext=".jpeg"
-        ext = ".png"
+        // ext = ".png"
         // if (bigImage) {//阿里云模式下下载大图
         //   url = url.slice(0, -3) + "2048";a
         // } 
         try {
-          await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)));
+          // console.log(url,ext);
+          await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+          await sleep(2000)
         } catch (err) {
           noImgUrls[imgName] = foodItem.name
           console.log("保存图片错误", url)
@@ -449,7 +457,8 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         foodFeeding,
         ]
       
-      foodItem.props.length == 0 ? excelData.unshift(foodExcelData) :  excelData.push(foodExcelData)
+      // foodItem.props.length == 0 ? excelData.unshift(foodExcelData) :  excelData.push(foodExcelData)
+      excelData.push(foodExcelData) 
     })
   })
 
