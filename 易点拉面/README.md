@@ -2,13 +2,13 @@
  * @Author: sunj
  * @Date: 2021-09-26 14:43:44
  * @LastEditors: sunj
- * @LastEditTime: 2021-09-26 18:51:52
+ * @LastEditTime: 2021-09-29 19:09:26
  * @FilePath: /dish_crawler/易点拉面/README.md
 -->
 
 
 <!-- 导出会员储值列表 -->
-https://op.huanxiongdd.com/dd_op/mem_account/gets?shop_id=1001195&current_page=1&page_size=9999&whitelistId=1001195
+https://op.huanxiongdd.com/dd_op/mem_account/gets?shop_id=1001411&current_page=1&page_size=9999&whitelistId=1001411
 
 
 <!-- 获取优惠信息-->

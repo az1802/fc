@@ -1,13 +1,25 @@
 const fs = require("fs");
 const path = require("path");
-let { accounts } = require('./member.json')
+const { requestUrl,} = require("../utils/index")
 let str = "";
+let shopId = 1001411
+const memberUrl = `https://op.huanxiongdd.com/dd_op/mem_account/gets?shop_id=${shopId}&current_page=1&page_size=9999&whitelistId=${shopId}`
+const shopRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
 
-accounts.forEach(item => {
-  if (item.balance!=0) {
-  str+=`${item.mobile} 余额:${item.balance}\n`
-    
-  }
-})
 
-fs.writeFileSync(path.resolve(__dirname,"members.txt"),str)
+async function genMemberTxt() {
+  let shopInfo = await requestUrl(shopRequestUrl);
+  let { sname } = shopInfo;
+  let res = await requestUrl(memberUrl);
+  let { accounts } = res;
+  accounts.forEach(item => {
+    if (item.balance!=0) {
+    str+=`${item.mobile} 余额:${item.balance}\n`
+      
+    }
+  })
+  
+  fs.writeFileSync(path.resolve(__dirname,`${sname}-会员列表.txt`),str)
+}
+
+genMemberTxt()
