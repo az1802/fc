@@ -14,8 +14,8 @@ let { data: requestMenuData } = require("./menuData.json");
 const { dirname } = require("path");
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
 
 //导出属性的配置
 let menuSetting = { 

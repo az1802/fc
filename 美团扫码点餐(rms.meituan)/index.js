@@ -10,8 +10,8 @@ const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDi
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
-// const exportMode = "shilai"
+// const exportMode = "feie"
+const exportMode = "shilai"
 
 // let priceKey = 'originalPrice' //原价
 let priceKey = 'currentPrice' //现价(折扣价)
@@ -170,8 +170,13 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         if (foodItem) {
           let picUrl = foodItem.detailPicUrls[0] || "";
           // picUrl = picUrl.replace("p0", "p1")
-          picUrl = picUrl.replace("%40640w_480h_1e_1c_1l%7Cwatermark%3D0", "")
-          foodItem.spuName = foodItem.spuName.replace('/',"-")
+          picUrl = picUrl.replace("%40640w_480h_1e_1c_1l%7Cwatermark%3D0", "");
+          // if (picUrl.indexOf('.jpg') != -1) {
+          //   picUrl = picUrl.slice(0, picUrl.indexOf('.jpg') + 4)
+          // }
+          // console.log('%cpicUrl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',picUrl);
+          
+          foodItem.spuName = foodItem.spuName.replace('/', "-")
           let foodData = {
             name: foodItem.spuName.trim()|| "",
             picUrl: picUrl || "",

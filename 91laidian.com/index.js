@@ -2,20 +2,20 @@
 const fs = require("fs");
 const path = require("path");
 const requestMenuJson = require("./merchantInfo.json");
-let merchantMenuInfo = requestMenuJson.product;
+let merchantMenuInfo = requestMenuJson.info.products;
 
 let shopInfo = {
-  name: "牛牛卤(万益广场)",
+  name: "贵州羊肉粉",
   logo:""
 }
 let categoryList =  merchantMenuInfo
 let foodList = merchantMenuInfo
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genFeieExcelAll,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genShilaiExcelAll} = require("../utils/index")
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
+const exportMode = "shilai"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
@@ -124,7 +124,9 @@ async function genImgsAndExcel() {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
-  } else {
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting, false)
+  }else {
     genSpecificationsWord(merchantInfo, outputDir, menuSetting)
   }
 }

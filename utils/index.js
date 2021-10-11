@@ -102,7 +102,7 @@ async function genImgs(merchantInfo,outputDir) {
       let imgName = formatFileName(foodItem.name) + ".jpg"
       if (imgUrl) {
         try {
-          request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, imgName.trim())))
+          request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, foodItem.name.trim())))
           
         } catch (err) { 
           noImgUrls.push(imgName)

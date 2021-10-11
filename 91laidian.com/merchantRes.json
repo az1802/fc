@@ -1,361 +1,1300 @@
 {
-	"shopName": "牛牛卤(万益广场)",
+	"shopName": "贵州羊肉粉",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "单人牛肉煲配米饭",
+			"name": "热销榜",
 			"foods": [
 				{
-					"name": "支竹焖牛腩煲",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617851035098.png",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
-					"props": []
-				},
-				{
-					"name": "原味牛腩煲",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677646682.png",
-					"price": 16.5,
-					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
-					"props": []
-				},
-				{
-					"name": "土豆焖牛肉煲",
-					"picUrl": "",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
-					"props": []
-				},
-				{
-					"name": "酸菜牛肉煲",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617851179151.png",
-					"price": 16.5,
-					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
-					"props": []
-				},
-				{
-					"name": "原味牛杂煲（小）",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677562786.png",
-					"price": 16.5,
-					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
-					"props": []
-				},
-				{
-					"name": "黑椒牛肉煲",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617851063058.png",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
-					"props": []
-				},
-				{
-					"name": "咖喱牛肉煲",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617851112566.png",
+					"name": "招牌羊肉粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522122495025.png",
 					"price": 21,
 					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
+					"categoryName": "热销榜",
 					"props": []
 				},
 				{
-					"name": "红烧牛腩煲",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617851158267.png",
-					"price": 16.5,
+					"name": "招牌羊杂粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522123454937.png",
+					"price": 21,
 					"unit": "份",
-					"categoryName": "单人牛肉煲配米饭",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "牛肉面",
-			"foods": [
-				{
-					"name": "烤肉拌面",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616330113711.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "牛肉面",
+					"categoryName": "热销榜",
 					"props": []
 				},
 				{
-					"name": "酸辣牛肠面",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677086390.png",
-					"price": 16,
+					"name": "特色牛肉粉（微辣）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522125728741.png",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "牛肉面",
+					"categoryName": "热销榜",
 					"props": []
 				},
 				{
-					"name": "番茄牛肉面",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677193370.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "牛肉面",
-					"props": []
-				},
-				{
-					"name": "清炖牛肉面",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677235841.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "牛肉面",
-					"props": []
-				},
-				{
-					"name": "酸辣牛肉面",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677273642.png",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "牛肉面",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "炒饭类",
-			"foods": [
-				{
-					"name": "牛肉炒饭",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617851294470.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "炒饭类",
-					"props": []
-				},
-				{
-					"name": "扬州炒饭",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617851319677.png",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "炒饭类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "小吃",
-			"foods": [
-				{
-					"name": "葱油饼",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677742169.png",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "黑椒牛肉饼",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677791144.png",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "凤爪",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677808499.png",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "青菜牛筋丸汤",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616677922546.png",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "蒜蓉菜心",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "蒜蓉西兰花",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616678195601.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "煎鸡蛋",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616678245983.png",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "墨鱼丸一串",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616678304962.png",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "牛筋丸一串",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616678359695.png",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "热狗",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616743526354.png",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "鱼豆腐串串",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1616757922144.png",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "甜品",
-			"foods": [
-				{
-					"name": "百香果冰粉",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617077645235.png",
-					"price": 6.5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "椰汁冰粉",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617077680648.png",
-					"price": 6.5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "红糖冰粉",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617077720796.png",
-					"price": 6.5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "椰汁桃胶",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617077746901.png",
-					"price": 6.5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "椰汁红豆",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617077788341.png",
-					"price": 6.5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "冻柠檬茶〈一个柠檬)",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617077823647.png",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "邂逅奶茶",
-					"picUrl": "http://cdn.91laiqian.cn/products/1019137/1617077858987.png",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "饮料",
-			"foods": [
-				{
-					"name": "怡宝",
-					"picUrl": "",
+					"name": "加粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126421261.png",
 					"price": 2,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "热销榜",
 					"props": []
 				},
 				{
-					"name": "豆奶",
-					"picUrl": "",
-					"price": 2.5,
+					"name": "香煎鸡蛋",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126475276.png",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "热销榜",
+					"props": []
+				},
+				{
+					"name": "打包盒",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126524799.png",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "热销榜",
+					"props": []
+				},
+				{
+					"name": "羊肉干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126771821.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "热销榜",
+					"props": []
+				},
+				{
+					"name": "招牌羊肉面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127080278.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "热销榜",
+					"props": []
+				},
+				{
+					"name": "招牌羊杂面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127130535.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "热销榜",
 					"props": []
 				},
 				{
 					"name": "可乐",
-					"picUrl": "",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522488171142.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "热销榜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "米粉",
+			"foods": [
+				{
+					"name": "招牌羊肉粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522122495025.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "招牌羊杂粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522123454937.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "原汤素粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522125459739.png",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "羊肚粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522123739289.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "特色脆哨粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522125533034.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "特色排骨粉（猪排）（微辣）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522125707616.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "特色牛肉粉（微辣）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522125728741.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "秘制红烧羊排粉（微辣）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522125749539.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "羊筒骨",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522125990222.png",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "熟羊肉（一斤）",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 158,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "羊心粉",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "羊蹄粉",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				},
+				{
+					"name": "羊肠粉",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "面",
+			"foods": [
+				{
+					"name": "招牌羊肉面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127080278.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "招牌羊杂面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127130535.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "羊肚面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127252322.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "原汤素面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127428015.png",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "贵州脆哨面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127459889.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "特色排骨面（微辣）",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "特色牛肉面（微辣）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127510866.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "秘制红烧羊排面（微辣）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522595048549.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				},
+				{
+					"name": "羊心面",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "面",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "干拌粉",
+			"foods": [
+				{
+					"name": "红油干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126754396.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "干拌粉",
+					"props": []
+				},
+				{
+					"name": "羊肉干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126771821.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌粉",
+					"props": []
+				},
+				{
+					"name": "羊杂干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126790270.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌粉",
+					"props": []
+				},
+				{
+					"name": "羊肚干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126842343.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌粉",
+					"props": []
+				},
+				{
+					"name": "脆哨干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126857668.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌粉",
+					"props": []
+				},
+				{
+					"name": "羊心干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1586924990513.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌粉",
+					"props": []
+				},
+				{
+					"name": "羊肠干拌粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613828485738.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌粉",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "干拌面",
+			"foods": [
+				{
+					"name": "红油干拌面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126918562.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "干拌面",
+					"props": []
+				},
+				{
+					"name": "羊肉干拌面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126934922.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌面",
+					"props": []
+				},
+				{
+					"name": "羊杂干拌面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126947605.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌面",
+					"props": []
+				},
+				{
+					"name": "羊肚干拌面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126992132.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌面",
+					"props": []
+				},
+				{
+					"name": "脆哨干拌面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522127006262.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌面",
+					"props": []
+				},
+				{
+					"name": "羊心干拌面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1586925018362.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌面",
+					"props": []
+				},
+				{
+					"name": "羊肠干拌面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613828449488.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "干拌面",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "米粉加料",
+			"foods": [
+				{
+					"name": "加羊血",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126187672.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加羊肺",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126199587.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加羊肉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126212915.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加羊杂",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126224496.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加羊肝",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加羊肠",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126250437.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加羊肚",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126262221.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加香辣羊蹄",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126382762.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加贵州脆哨",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126393627.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126421261.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加面",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126447784.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "香煎鸡蛋",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126475276.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "米饭",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126499211.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加饼",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126510636.png",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "打包盒",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126524799.png",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加小青菜",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522569317387.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加羊心",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1562583583338.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加秘制羊排",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1575722216846.png",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加排骨",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "加牛肉",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "牛肉馅饼",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "大打包盒",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				},
+				{
+					"name": "红烧羊蹄",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉加料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "凉拌",
+			"foods": [
+				{
+					"name": "凉拌折耳根",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1554977993135.png",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "凉拌羊肉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126581490.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "凉拌羊肚",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126610287.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "凉拌羊杂",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126623365.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "花生米",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1530288386681.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "凉拌黄瓜",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1555476570231.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "凉拌羊心",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1590811763092.png",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "椒盐羊排",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1612928054487.png",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "手剥笋",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613447896287.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				},
+				{
+					"name": "蒜泥苦瓜",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613828852239.png",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "凉拌",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮料类",
+			"foods": [
+				{
+					"name": "农夫山泉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522487691625.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "椰汁",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522487880204.png",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522487998423.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
 					"props": []
 				},
 				{
 					"name": "雪碧",
-					"picUrl": "",
-					"price": 3,
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522488145630.png",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料类",
 					"props": []
 				},
 				{
 					"name": "芬达",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "维他柠檬茶",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "百威",
-					"picUrl": "",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "哈尔滨",
-					"picUrl": "",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522488156766.png",
 					"price": 4,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "可乐",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522488171142.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "冰糖雪梨",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "津威乳酸菌",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613829574398.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "红牛",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613876330011.png",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "脉动",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613967549656.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "水溶C100",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "康师傅绿茶",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "酷儿",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "黑糖玫瑰冰粉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1616859412203.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "旺仔牛奶",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "茶π小",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "酸梅汤（小）",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "菠萝啤",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "东方树叶",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "味全乳酸菌",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				},
+				{
+					"name": "刺柠吉",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮料类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "火锅系列",
+			"foods": [
+				{
+					"name": "羊肉火锅（小锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448056319.png",
+					"price": 168,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "羊肉火锅（大锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448072416.png",
+					"price": 278,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "腊排骨火锅（小锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448100917.png",
+					"price": 168,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "腊排骨火锅（大锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448123322.png",
+					"price": 278,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "腊猪蹄火锅（小锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448158476.png",
+					"price": 168,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "腊猪蹄火锅（大锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448175857.png",
+					"price": 278,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "手抓羊蝎子（小锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448294011.png",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "手抓羊蝎子（大锅）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448308651.png",
+					"price": 128,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "火锅加料",
+			"foods": [
+				{
+					"name": "腊排骨",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449373475.png",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "腊猪蹄",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449528549.png",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "盐排骨",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449585516.png",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "粉丝",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449609922.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "油麦菜",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449684844.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "娃娃菜",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449692997.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "金针菇",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449702927.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "香菇",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449713789.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "笋子",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449767573.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "豆皮",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "海带片",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449800553.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "土豆片",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449810458.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "白萝卜",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613449820129.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "油酥花生米",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "青菜",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "烧椒沾水",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "胡辣椒沾水",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				},
+				{
+					"name": "米粉",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "火锅加料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "贵州人气小吃",
+			"foods": [
+				{
+					"name": "麻辣洋芋",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448819108.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "贵州人气小吃",
+					"props": []
+				},
+				{
+					"name": "毕节臭豆腐",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448833754.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "贵州人气小吃",
+					"props": []
+				},
+				{
+					"name": "黑糖糍粑",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448909373.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "贵州人气小吃",
+					"props": []
+				},
+				{
+					"name": "外婆酥肉",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613448941434.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "贵州人气小吃",
+					"props": []
+				},
+				{
+					"name": "遵义香脆辣椒",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1613829776737.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "贵州人气小吃",
+					"props": []
+				},
+				{
+					"name": "葱花肉卷（小份）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1616477729171.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "贵州人气小吃",
+					"props": []
+				},
+				{
+					"name": "葱花肉卷（大份）",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1616477759960.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "贵州人气小吃",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "套饭",
+			"foods": [
+				{
+					"name": "排骨套饭",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1522126674880.png",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "套饭",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉+米饭",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "套饭",
+					"props": []
+				},
+				{
+					"name": "秘制红烧羊排+米饭",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1612929295724.png",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "套饭",
+					"props": []
+				},
+				{
+					"name": "羊肉汤",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614425906797.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "套饭",
+					"props": []
+				},
+				{
+					"name": "羊杂汤",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614426002201.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "套饭",
+					"props": []
+				},
+				{
+					"name": "羊肉汤+米饭",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614427074893.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "套饭",
+					"props": []
+				},
+				{
+					"name": "羊杂汤+米饭",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614427113413.png",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "套饭",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "酒",
+			"foods": [
+				{
+					"name": "劲酒",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "牛栏山二锅头",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614314238771.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "北京二锅头",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614314260790.png",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "勇闯天涯",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614314327663.png",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "百威啤酒",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614314352877.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "大乌苏",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614314366284.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "青梅酒",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614314401178.png",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "江小白",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614420727468.png",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "会稽山五年",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1614420859012.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "苗家醪糟水/杯",
+					"picUrl": "https://91laiqian-cdn-image.oss-accelerate.aliyuncs.com/products/910871/1615091270095.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "牛栏山42度陈酿",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "老村长（125ml）",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "酒",
+					"props": []
+				},
+				{
+					"name": "牛栏山（500ml）",
+					"picUrl": "https://cdn.91laiqian.cn/delivery/product.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "酒",
 					"props": []
 				}
 			]
