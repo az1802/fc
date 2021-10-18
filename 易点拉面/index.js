@@ -8,7 +8,7 @@ const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName
 
 
 
-const shopId =1000573
+const shopId =1002272
 // const shopId = 1001500
 // const exportMode = "keruyun"
 const exportMode = "feie"
@@ -17,18 +17,32 @@ const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_g
 
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
+  specifications:[ "大小份","汤粉大小份"],//规格
   practice: [
+    "只能选两样",
     "打包",
-    "小吃",
-    "饮料"
+    "肥瘦情况",
+    "粉类",
+    "粉类选一个",
+   "切不切",
+    "切盘",
+    "价格",
+    "切盘选两样"
   ],//做法
   feeding:[    ],//加料
   remarks: [],//备注
   propsGroupSort: [
+    "大小份",
+    "汤粉大小份",
+    "只能选两样",
     "打包",
-    "小吃",
-    "饮料"
+    "肥瘦情况",
+    "粉类",
+    "粉类选一个",
+    "切不切",
+    "切盘",
+    "价格",
+    "切盘选两样"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -65,13 +79,19 @@ function formatFoodProps(foodItem) {
   
   let propsRes = [],props = foodItem.props;
   for (let k = 0; k < props.length; k++) {
-    addPropsGroupArr(propsGroupArr,props[k].p_name)
+    addPropsGroupArr(propsGroupArr, props[k].p_name)
+    let basePrice = 0;
+    if (menuSetting.specifications.indexOf(props[k].p_name)!=-1) { //针对规格属性进行特殊调整
+      basePrice = parseFloat(foodItem.curr_price || 0)
+      
+    }
+    
     propsRes.push({
       name: props[k].p_name,
       values: props[k].values.map(propValItem => { 
         return {
           value: propValItem.p_value,
-          price: propsPriceObj[`#${props[k].p_name_id}_${propValItem.p_value_id}#`],
+          price: parseFloat(propsPriceObj[`#${props[k].p_name_id}_${propValItem.p_value_id}#`] )+ basePrice,
           propName: props[k].p_name,
           type: "",
           isMul:props[k].is_multiple
