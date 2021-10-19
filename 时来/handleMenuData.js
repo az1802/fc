@@ -42,7 +42,8 @@ function processDishes(requestMenuData) {
           // })
           if (attrItem.attrs[0] && attrItem.attrs[0].type === 'SPECIFICATION') {
             // 处理这个规格属性的价格
-            attrItem.attrs[0].skuPrice = dish.price;
+            attrItem.attrs[0].skuPrice = dish.price + attrItem.attrs[0];
+
           }
           if (attrItem.groupId in attrMap) {
             if (attrItem.attrs.length > 0 && attrItem.attrs[0].type === 'SPECIFICATION') { //处理规格属性
@@ -103,9 +104,14 @@ function formatFoodProps(foodItem,menuSetting) {
     let propTemp = {
       name: props[k].groupName,
       values: props[k].attrs.map(propValItem => {
+        let tempPrice = propValItem.reprice;
+        if (attrs[0].type == 'SPECIFICATION') {
+          tempPrice = parseFloat(propValItem.reprice) + parseFloat(foodItem.price)
+          console.log(foodItem.name,propValItem.reprice,foodItem.price)
+        } 
         return {
           value: propValItem.name,
-          price: (parseFloat(propValItem.skuPrice || propValItem.reprice) / 100),
+          price: parseFloat(tempPrice/ 100),
           propName: props[k].groupName,
           isMul: true
         }
@@ -170,7 +176,7 @@ async function handleMenuData(requestShopData, requestMenuData, menuSetting) {
             props: [],
           };
           foodData.name = foodData.name.trim().replace(/\//ig, "-")
-          foodData.props = formatFoodProps(foodItem,menuSetting)
+          foodData.props = formatFoodProps(foodItem, menuSetting)
           res.push(foodData)
         }
         return res;
@@ -187,9 +193,9 @@ async function handleMenuData(requestShopData, requestMenuData, menuSetting) {
           foodsArr.map(foodsArrItem=>{
             foodsArrItem.props.map(foodsArrItemProps=>{
               if(foodsArrItemProps.name == '规格'){
-                let price = foodsItem.price
+                // let price = foodsItem.price
                 foodsArrItem.price = ''
-                foodsArrItemProps.values[0].price = price
+                // foodsArrItemProps.values[0].price = price
               }
             })
           })
@@ -200,10 +206,10 @@ async function handleMenuData(requestShopData, requestMenuData, menuSetting) {
               if(foodsArrItemProps.name == '规格'){
                 foodsItem.props.map(foodsItemProps =>{
                   if(foodsItemProps.name == '规格'){
-                    let price = foodsItem.price
+                    // let price = foodsItem.price
                     foodsArrItem.price = ''
-                    foodsItemProps.values[0].price = price
-                    foodsArrItemProps.values.push(foodsItemProps.values[0])
+                    // foodsItemProps.values[0].price = price
+                    // foodsArrItemProps.values.push(foodsItemProps.values[0])
                   }
                 })
               }
