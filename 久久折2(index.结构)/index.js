@@ -8,8 +8,8 @@ const defaultImgUrl = ""
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
 const findJsonLen = 1
 const outputDir = path.join(__dirname, "merchantInfos")
 
@@ -18,33 +18,26 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   practice: [
     '规格', '口味', '辣度'
   ],//做法
-  feeding:[],//加料
+  feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    '规格', '口味', '辣度'
+    '规格', '口味', '辣度',"加料"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
   }
 }
 
-let merchantInfo = require("./shopData.json")
-let menuData = require("./menuData.json");
+let merchantInfo = require("./menuData.json");
 merchantInfo = merchantInfo.data
 const categories = merchantInfo.categories
 let categoryObj = {}
-let shopName = merchantInfo.name || merchantInfo.merchantName
 
-
-async function handleCategories() {
-  categories.forEach(item => { 
-    categoryObj[item.id] = item.name
-  })
-}
+let shopName = merchantInfo.store.storeName;
 
 
 // 处理规格属性部分
-function handleFoodPropGroup(foodDetail) {
+function formatFoodProps(foodDetail) {
   let res = []
   let specs = foodDetail.specs || {};
   if (Object.keys(specs).length != 0) {
@@ -52,9 +45,7 @@ function handleFoodPropGroup(foodDetail) {
       name: specs.title,
       values:[]
     }
-  
     addPropsGroupArr(propsGroupArr,propGroup.name)
-  
     propGroup.values = specs.options && specs.options.map(optionItem => {
       return {
         "value": optionItem.name,
@@ -63,13 +54,11 @@ function handleFoodPropGroup(foodDetail) {
         "isMul": false
       }
     })
-  
     res.push(propGroup)
   }
 
 
   let attributes = foodDetail.attributes || [];
-
   attributes.forEach(attrGroup => {
     // console.log( foodDetail.item.name,attrGroup.title)
     addPropsGroupArr(propsGroupArr, attrGroup.title);
@@ -88,6 +77,27 @@ function handleFoodPropGroup(foodDetail) {
     res.push(propGroupTemp)
   })
 
+  let materials = foodDetail.materials || [];
+  if (materials.length > 0) {
+    let feeds = {
+      name: "加料",
+      values: materials.map(item => {
+        return {
+          "value": item.name,
+          "propName": "加料",
+          "isMul": true,
+          "price":parseFloat(item.price/100),
+        }
+      })
+    }
+
+    res.push(feeds)
+  }
+
+
+
+
+
   return res;
 
 }
@@ -96,111 +106,46 @@ function handleFoodPropGroup(foodDetail) {
 //读取dataJson下的所有文件取出 food菜品
 async function genMenuFoods() { 
   let allFoods = [];
-  // for (let i = 0; i < findJsonLen; i++) { 
-  //   let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
-  //   let goods = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods;
-
-  //   // console.log(records)
-  //   goods.forEach(goodItem => {
-  //     goodItem.items.forEach(record => {
-  //       let foodTemp = {
-  //         id:record.item.id,
-  //         name:record.item.name + (!!record.item.description ? `(${record.item.description})`: ""),
-  //         price:record.item.price/100,
-  //         imgUrl: record.item.photo_url&&record.item.photo_url.split(",")[0] || defaultImgUrl,
-  //         categoryName: categoryObj[record.item.category_id],
-  //         categoryId:record.item.category_id,
-  //         foodDetail: record,
-  //         specs: record.specs || [],
-  //         attributes:record.attributes || []
-  //       }
-  //       foodTemp.name = foodTemp.name.replace(/\//ig, '-');
-  //       foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".")+1)
-  //       allFoods.push(foodTemp)
-  //     })
-     
-  //   })
-  // }
+  for (let i = 0; i < findJsonLen; i++) { 
+    let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
+    let goods = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods;
+    allFoods.push(...goods)
+  }
   
-  let goods = menuData.data.goods;
-  goods.forEach(goodItem => {
-    goodItem.items.forEach(record => {
+  let category = merchantInfo.category, categoryArr = [];
+  category = category.slice(0,2).concat(...merchantInfo.goods.pages,allFoods[1]) //推荐加前半目录
+   category.forEach(categoryItem => {
+
+    let temp = {
+      name: categoryItem.name || categoryItem.category_name,
+      foods:[]
+    }
+    categoryItem.items.forEach(record => {
       let foodTemp = {
-        id:record.item.id,
-        name:record.item.name + (!!record.item.description ? `(${record.item.description})`: ""),
+        name:record.item.name || "",
+        picUrl:  record.item.photo_url&&record.item.photo_url.split(",")[0] || defaultImgUrl,
         price:record.item.price/100,
-        imgUrl: record.item.photo_url&&record.item.photo_url.split(",")[0] || defaultImgUrl,
-        categoryName: categoryObj[record.item.category_id],
-        categoryId:record.item.category_id,
-        foodDetail: record,
-        specs: record.specs || [],
-        attributes:record.attributes || []
+        unit: record.item.unit || "份",
+        categoryName:temp.name,
+        props:formatFoodProps(record),
       }
       foodTemp.name = foodTemp.name.replace(/\//ig, '-');
-      foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".")+1)
-      allFoods.push(foodTemp)
+      foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".") + 1)
+      
+      temp.foods.push(foodTemp)
     })
-  })
-
-  let categoryData = {};
-  allFoods.forEach(foodItem => {
-    let { categoryId, categoryName } = foodItem;
-
-    if (!categoryData[categoryId]) {
-      categoryData[categoryId] = {
-        id: categoryId,
-        name: categoryName,
-        foods:[]
-      };
-    }
-    let foods = categoryData[categoryId].foods;
-
-    let foodDetail = foodItem.foodDetail;
-    // console.log( foodDetail.item.name)
-    foods.push({
-      id: foodItem.id,
-      name:foodItem.name,
-      picUrl: foodItem.imgUrl,
-      categoryName: categoryName,
-      price: parseFloat(foodItem.price),
-      unit: "份",
-      props:handleFoodPropGroup(foodDetail),
-    })
-  })
-
-  let categoryArr = []
- 
-  categories.forEach(categoryItem => {
-    
-    (categoryData[categoryItem.id])&&categoryArr.push(categoryData[categoryItem.id])
+     
+    categoryArr.push(temp)
   })
 
   return categoryArr;
-
 }
-
-async function exists(pathStr) { 
-  // return fs.existsSync(pathStr)
-  // return new Promise((resolve, reject) => { 
-  //   fs.exists(pathStr, function(exists) {
-  //     console.log(exists ? resolve(true): resolve(false));
-  //   })
-  // })
-}
-
-
-
-let tempObj = {}
-
-
 
 let propsGroupArr = [];
-
 // 打印日志到test.json 文件夹
 async function logInfo(info,fileName="test") { 
   fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
 }
-
 
 async function mkShopDir(shopDir) { 
   delDirSync(shopDir);
@@ -208,7 +153,6 @@ async function mkShopDir(shopDir) {
 }
 
 async function genExcelAndWord(){ 
-  await handleCategories();
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
@@ -228,10 +172,7 @@ async function genExcelAndWord(){
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir, menuSetting);
     genExcelAll(merchantInfo, outputDir, menuSetting);
-    
-  } else {
-    // genWord(merchantInfo, outputDir, menuSetting)
-    // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+  } else if(exportMode == "feie"){
     genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
 
