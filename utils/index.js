@@ -270,6 +270,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     categoryItem.foods.forEach(async foodItem => {
 
       let url = foodItem.picUrl
+      foodItem.name = formatFileName(foodItem.name)
       let imgName= foodItem.name
       if (url) {
         let ext =  url.slice(url.lastIndexOf("."));
