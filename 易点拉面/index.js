@@ -8,7 +8,7 @@ const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName
 
 
 
-const shopId =1002272
+const shopId =1003209
 // const shopId = 1001500
 // const exportMode = "keruyun"
 const exportMode = "feie"
@@ -17,32 +17,18 @@ const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_g
 
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[ "大小份","汤粉大小份"],//规格
+  specifications:[ ],//规格
   practice: [
-    "只能选两样",
-    "打包",
-    "肥瘦情况",
-    "粉类",
-    "粉类选一个",
-   "切不切",
-    "切盘",
-    "价格",
-    "切盘选两样"
+  	"小吃",
+	"备注"
   ],//做法
   feeding:[    ],//加料
-  remarks: [],//备注
+  remarks: [
+   
+  ],//备注
   propsGroupSort: [
-    "大小份",
-    "汤粉大小份",
-    "只能选两样",
-    "打包",
-    "肥瘦情况",
-    "粉类",
-    "粉类选一个",
-    "切不切",
-    "切盘",
-    "价格",
-    "切盘选两样"
+    "小吃",
+    "备注"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
