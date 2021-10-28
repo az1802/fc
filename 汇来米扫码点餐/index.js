@@ -1,10 +1,10 @@
 /*
  * @Author: your name
  * @Date: 2021-03-09 12:20:00
- * @LastEditTime: 2021-07-15 14:21:05
+ * @LastEditTime: 2021-10-28 10:54:50
  * @LastEditors: sunj
  * @Description: In User Settings Edit
- * @FilePath: /newCreawling/汇来米扫码点餐/index.js
+ * @FilePath: /dish_crawler/汇来米扫码点餐/index.js
  */
 
 const fs = require("fs");
@@ -16,15 +16,16 @@ let goodsList = requestMenuJson.respData.goodsList;
 let categoryList = categoryJson.respData.goodsGroupDTOList;
 
 let shopInfo = {
-  name: "狐椒粉",
+  name: "吉小胖黄焖鸡米饭-大学城店",
   logo:""
 }
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genFeieExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genFeieExcelAll,genExportData} = require("../utils/index")
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
+// const exportMode = "feie"
+const exportMode = "shilai"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
@@ -144,17 +145,12 @@ async function genImgsAndExcel() {
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
 
-  // // mkShopDir(merchantInfo)
-  if (exportMode == "keruyun") {
-    genImgs(merchantInfo,outputDir);
-    genExcel(merchantInfo, outputDir);
-    genExcelAll(merchantInfo,outputDir,menuSetting)
-  } else {
-    // genWord(merchantInfo, outputDir)
-    // genSpecificationsWord(merchantInfo, outputDir,menuSetting)
-    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
-
-  }
+  genExportData({
+    merchantInfo,
+    menuSetting,
+    outputDir,
+    exportMode
+  })
 }
 
 genImgsAndExcel();
