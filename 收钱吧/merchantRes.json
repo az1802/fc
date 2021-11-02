@@ -1,0 +1,4478 @@
+{
+	"shopName": "马家私房牛肉面上海上大店",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "面食-汤",
+			"foods": [
+				{
+					"name": "牛肉拉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9d9396be8a442839ced3478267df1687.jpeg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "面规格",
+							"values": [
+								{
+									"value": "正常",
+									"propName": "面规格",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "毛细",
+									"propName": "面规格",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "二细",
+									"propName": "面规格",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "韭叶",
+									"propName": "面规格",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "宽面",
+									"propName": "面规格",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉拉面（小份）",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/555720abb00825b433c3944868f10b7c.jpeg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不加香菜",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加蒜苗",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要葱",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/54d13c5f63d40e651086c3ebed9040ee.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "不加香菜",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加蒜苗",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要葱",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "口味",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜牛肉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9e5e129a790e03cfd6602523146d400d.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "粗细",
+							"values": [
+								{
+									"value": "正常",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "毛细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "二细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "韭叶",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "宽面",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂拉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7ab3c1b91facdba9b76ec6d0103de416.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "粗细",
+							"values": [
+								{
+									"value": "正常",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "毛细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "二细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "韭叶",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "宽面",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋拉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/cc94bf5785afad9d903617c541156786.jpeg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "粗细",
+							"values": [
+								{
+									"value": "正常",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "毛细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "二细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "韭叶",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "宽面",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉汤面",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "粗细",
+							"values": [
+								{
+									"value": "正常",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "毛细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "二细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "韭叶",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "宽面",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄鸡蛋汤面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/94d7f85f55fcc64660b0a8911cf3c9db.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "粗细",
+							"values": [
+								{
+									"value": "正常",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "毛细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "二细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "韭叶",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "宽面",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉拉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8f6979e3c654db248e65ec32dcde18eb.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "粗细",
+							"values": [
+								{
+									"value": "正常",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "毛细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "二细",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "韭叶",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "宽面",
+									"propName": "粗细",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉刀削面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e6a3c76541931ff69a5fa107b92cc9d6.jpeg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂刀削面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7ab3c1b91facdba9b76ec6d0103de416.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉泡馍",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8271b5358cadbb8afcca897f92186072.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炮仗面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fcd996a444609b0985d2a4750cb9433a.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉炮仗面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fcd996a444609b0985d2a4750cb9433a.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉泡馍",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8271b5358cadbb8afcca897f92186072.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉烩面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2b899f73aadc5c5fb122e5676fcaa2e8.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡肉炮仗面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fcd996a444609b0985d2a4750cb9433a.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉干饺",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b10b33bb59c2c3a183c12727d23ab4a4.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉水饺",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b10b33bb59c2c3a183c12727d23ab4a4.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "面食-汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "炒面拌面",
+			"foods": [
+				{
+					"name": "葱油拌面",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/9e0f1e469b15f2ba6fbb10dca6a8371c.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "不加香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不加葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆拌面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e2515d6a967fa1e14a2075cb92142d6e.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉凉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7405d6a349310ee1517ef2d98b194999.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉干拌面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/245731ea04c0045022acfacfd201b4a2.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋炒刀削面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/81d3abf84a5f77d544ab8201c590b77e.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒刀削面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b73549c00f31da9babd8969ee9628fcc.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋炒拉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/19d7bf47238dccf320c87b15f31e0695.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒拉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/25ebd551fddfe89e1fe7acfd26de2134.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "炒面拌面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "盖浇饭",
+			"foods": [
+				{
+					"name": "牛肉炒蛋盖浇饭",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ac107ece8a12fc1b6c9d7b247219c0c.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆鸡蛋盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ac107ece8a12fc1b6c9d7b247219c0c.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/61ab9efbe59fff111c77850b3327985a.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3ef8d77efffe5b50be870522af7bea12.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茄子牛肉盖浇饭",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a6ebf29b062ab4de73a730f00171e9c3.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆鸡蛋盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b1381db04616114f714c419a7c58ccac.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/47d7144dbae9f70382dd23eaba8152b4.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白菜牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/63c817421c4a02995fc3ccf98a2306ae.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5c4e43e4f2dc17e13f7327ced6eaabc0.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苔牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d948f466510d92bc391067f3b3c8070f.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7a37e3101d08617388a1ef0be930d4e6.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0a0996ab954db7d95b889828bb0df0cb.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蘑菇牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b1381db04616114f714c419a7c58ccac.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鸡肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/619be82b9745dc3e3215c88589a46ec5.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然牛肉盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5b187f7ddb0132ba8d57c665b5fbc734.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆鸡块盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ac107ece8a12fc1b6c9d7b247219c0c.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/63c817421c4a02995fc3ccf98a2306ae.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d4f38ab253a956c0a69f72830d95537d.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒土豆丝盖浇饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d4f38ab253a956c0a69f72830d95537d.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "盖浇饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "盖浇面",
+			"foods": [
+				{
+					"name": "牛肉炒蛋盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆牛肉盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆鸡蛋盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒牛肉盖浇面",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋盖浇面",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茄子牛肉盖浇面",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆牛肉盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆鸡蛋盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳牛肉盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白菜牛肉盖浇面",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱牛肉盖浇面",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苔牛肉盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蘑菇牛肉盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然牛肉盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉盖浇面",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉盖浇面",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鸡块盖浇面",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆鸡块盖浇面",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜盖浇面",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝盖浇面",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒土豆丝盖浇面",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "盖浇面",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加面",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "炒饭",
+			"foods": [
+				{
+					"name": "酸菜牛肉炒饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9396abb2ddfda8951ef42c80a5f15b34.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "炒饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蛋炒饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/48ec426cd5a66e940744a9ceea7c1d04.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "炒饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "兰州炒饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c3e80dfc210bd43cb6fb255f47ebc198.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "炒饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒饭",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "炒饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "加饭",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加鸡蛋炒",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤类",
+			"foods": [
+				{
+					"name": "牛肉汤",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/04444ab1148a7bedb4c24a7154949fa6.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂汤",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e1a858ffe02d95238bcce9f01c79f0d1.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿鸡蛋汤",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6c70b0886d4706a1e3691fb286a95d62.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉粉丝汤",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8271b5358cadbb8afcca897f92186072.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								},
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色菜",
+			"foods": [
+				{
+					"name": "红烧牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/43ba62dcd9100d841da5ea45217651f3.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "葱爆牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5d89e15521cb61919b579d042c09c304.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "葱爆羊肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/60f7f1b47881a1cd37567384c8c344e7.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "孜然羊肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f7f62ba1e864098079494fbaa0dd75e3.jpg",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "红烧鸡块",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/996e02e16d9abfb49a75cfc745e58052.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "土豆烧牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/63bd8579cb550fd33cccc01372087109.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "青椒炒牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/66afb15ed61026375c98ed0a65f156b2.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "蘑菇炒牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f421b96b92cbb58862fab2b175477124.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "木耳炒牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1406cf09edca5bf37b9422f58f9e89cf.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "蒜苔炒牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/47881c3f1d45f944095c47c2cae55474.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9aaf1d76d28f2f3f245636c049eacca6.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/299d93b399cce4da33f88dc48440876a.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "青椒土豆丝",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6877cba98713aa50e9ed79f1fdfd5403.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "洋葱炒牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9439ca833af2458bc11781de7e0d3465.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "茄子炒牛肉",
+					"picUrl": "",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "素炒青菜",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/97be05fe22eb8c66275cd8d6ed861aa8.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "红烧茄子",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "酸辣土豆丝",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6be3e1148e78976342905cd6459d1247.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "凉拌类",
+			"foods": [
+				{
+					"name": "凉拌牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2e8dc1580acda4da7ba3bbc0d0d216b3.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "凉拌类",
+					"props": []
+				},
+				{
+					"name": "凉拌黄瓜",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/35e37a87d8c02d09d395d926ef82ce31.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "凉拌类",
+					"props": []
+				},
+				{
+					"name": "凉拌土豆丝",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/928e2ff2faac1789a82a18f6df6ba7fb.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "凉拌类",
+					"props": []
+				},
+				{
+					"name": "凉拌洋葱木耳",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/c6b5eed0b23565b848e310c7c3b851d0.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "凉拌类",
+					"props": []
+				},
+				{
+					"name": "糖拌西红柿",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6d4537888d7bac66c693e91f10bf48f3.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "凉拌类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小吃",
+			"foods": [
+				{
+					"name": "白素饼",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/699377abc1e323e99ce760c234ff4cc9.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "青菜",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5bce4d289259b7d59b3e04f08e9e69e1.jpeg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "加青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "煎鸡蛋",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/719ed986f037135fe7d0455150b65407.jpeg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白切牛肉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/75d3963a5ce1347b38cfc20d6de3ad31.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "白切牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 12
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡馍饼",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a3fbafde3399063575179e015c48b946.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "泡馍饼",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肉夹馍",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d2385ce2142e28b3e52159f92238985e.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "肉加馍",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "冷饮（饮料自取）",
+			"foods": [
+				{
+					"name": "可口可乐（听）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "百事可乐（听）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "雪碧（听）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "美年达（听）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "水蜜桃（听）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶（听）",
+					"picUrl": "",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "红牛（听）",
+					"picUrl": "",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "王老吉（听）",
+					"picUrl": "",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "百事可乐（瓶）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "美年达（瓶）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "青梅绿茶",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "美汁源果粒橙",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "维他奶",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "维他奶原味（瓶）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "百岁山",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				},
+				{
+					"name": "怡宝",
+					"picUrl": "",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "冷饮（饮料自取）",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "烧烤类",
+			"foods": [
+				{
+					"name": "烤羊排",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/cd50a3a0b42006b6993f32a9e421a3d3.jpeg",
+					"price": 80,
+					"unit": "斤",
+					"categoryName": "烧烤类",
+					"props": []
+				},
+				{
+					"name": "羊肉串",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4ebcf02895b7f0aa49070e6107d5dabc.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "烧烤类",
+					"props": [
+						{
+							"name": "可选",
+							"values": [
+								{
+									"value": "加辣",
+									"propName": "可选",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不加辣",
+									"propName": "可选",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

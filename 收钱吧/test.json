@@ -1,0 +1,2944 @@
+{
+  "code": "200",
+  "message": null,
+  "data": {
+    "total": 125,
+    "goods": [
+      {
+        "category_name": "面食-汤",
+        "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+        "items": [
+          {
+            "item": {
+              "id": "946e22f1-b976-4476-9d11-b2ba74fd90cf",
+              "name": "牛肉拉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9d9396be8a442839ced3478267df1687.jpeg",
+              "description": null,
+              "display_order": 1,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1200,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": "份",
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 371,
+              "hotsale_seq": 1,
+              "hotsale_product": true,
+              "keep_price_equal": false,
+              "arrival_price": 1200,
+              "takeout_price": 1300,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "4d626101-2365-4ff5-bf2b-ca96e3dbeb98",
+                "multiple": 0,
+                "seq": 1,
+                "title": "面规格",
+                "must": 0,
+                "options": [
+                  {
+                    "id": "afc3dfcf-9adf-40a7-959e-343df64bd106",
+                    "name": "正常",
+                    "seq": 1
+                  },
+                  {
+                    "id": "9f0e1ce9-e560-43c3-8170-434e719b5cf5",
+                    "name": "毛细",
+                    "seq": 2
+                  },
+                  {
+                    "id": "530165b8-27ba-4084-bc9a-43a9effd8839",
+                    "name": "二细",
+                    "seq": 3
+                  },
+                  {
+                    "id": "1c181b3e-a69f-482d-900e-da911c9086d2",
+                    "name": "韭叶",
+                    "seq": 4
+                  },
+                  {
+                    "id": "0ee30b71-a5af-4ba5-afb5-905bb57923f0",
+                    "name": "宽面",
+                    "seq": 5
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "c66807e0-d2af-46c6-9eaa-707b41fecb70",
+              "name": "牛肉拉面（小份）",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/555720abb00825b433c3944868f10b7c.jpeg",
+              "description": "",
+              "display_order": 2,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1100,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1100,
+              "takeout_price": 1100,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "fcd22614-213e-4429-b41a-6ef98f33154a",
+                "multiple": 1,
+                "seq": 1,
+                "title": "口味",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "c7f54e6e-29c4-4905-8e5f-ca9d44afb3c5",
+                    "name": "不加香菜",
+                    "seq": 1
+                  },
+                  {
+                    "id": "02357cd8-b287-412a-a58c-72d0828e7abb",
+                    "name": "不加蒜苗",
+                    "seq": 2
+                  },
+                  {
+                    "id": "b1f606ea-618b-4696-ab41-4284a5a9da8f",
+                    "name": "不要葱",
+                    "seq": 3
+                  },
+                  {
+                    "id": "7246e7e3-64bc-4101-aef5-a1e57cee26e2",
+                    "name": "不要蒜",
+                    "seq": 4
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "bbd22baa-d410-42a0-9a4e-3189195f9a37",
+              "name": "红烧牛肉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/54d13c5f63d40e651086c3ebed9040ee.jpeg",
+              "description": null,
+              "display_order": 3,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 2000,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 24,
+              "hotsale_seq": 18,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 2000,
+              "takeout_price": 2000,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "fcd22614-213e-4429-b41a-6ef98f33154a",
+                "multiple": 1,
+                "seq": 1,
+                "title": "口味",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "c7f54e6e-29c4-4905-8e5f-ca9d44afb3c5",
+                    "name": "不加香菜",
+                    "seq": 1
+                  },
+                  {
+                    "id": "02357cd8-b287-412a-a58c-72d0828e7abb",
+                    "name": "不加蒜苗",
+                    "seq": 2
+                  },
+                  {
+                    "id": "b1f606ea-618b-4696-ab41-4284a5a9da8f",
+                    "name": "不要葱",
+                    "seq": 3
+                  },
+                  {
+                    "id": "7246e7e3-64bc-4101-aef5-a1e57cee26e2",
+                    "name": "不要蒜",
+                    "seq": 4
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "d99babc7-442f-43f8-996a-b6bcd87d7c4c",
+              "name": "酸菜牛肉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9e5e129a790e03cfd6602523146d400d.jpeg",
+              "description": null,
+              "display_order": 4,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1500,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 71,
+              "hotsale_seq": 5,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1500,
+              "takeout_price": 1500,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "71f71635-8c7f-4d2a-b6e0-2f8848e9a100",
+                "multiple": 0,
+                "seq": 1,
+                "title": "粗细",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "9cbc77a8-f9f2-48ac-a14c-e05805459460",
+                    "name": "正常",
+                    "seq": 1
+                  },
+                  {
+                    "id": "f9cc93b1-fc1b-42a2-961a-2fd01b559aeb",
+                    "name": "毛细",
+                    "seq": 2
+                  },
+                  {
+                    "id": "32a8232d-c7c5-4b73-a5c4-7e61330f5d6f",
+                    "name": "二细",
+                    "seq": 3
+                  },
+                  {
+                    "id": "c0fd8138-1e5e-4081-9ae4-ba52ed6b9a2e",
+                    "name": "韭叶",
+                    "seq": 4
+                  },
+                  {
+                    "id": "3160d958-bdc8-451f-8256-79f86d4df197",
+                    "name": "宽面",
+                    "seq": 5
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "9d024289-7da6-4e2a-990b-00766d1cb87f",
+              "name": "牛杂拉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7ab3c1b91facdba9b76ec6d0103de416.jpeg",
+              "description": null,
+              "display_order": 5,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 16,
+              "hotsale_seq": 21,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "3b10db7d-2990-40ad-8cee-ab341e2612da",
+                "multiple": 0,
+                "seq": 1,
+                "title": "粗细",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "931f1fb4-1826-4f7a-afad-15496b2c937f",
+                    "name": "正常",
+                    "seq": 1
+                  },
+                  {
+                    "id": "2d21e2d4-44a5-49c2-b5cf-65a0e536065e",
+                    "name": "毛细",
+                    "seq": 2
+                  },
+                  {
+                    "id": "0a66b0f0-bee9-4e9c-8e9b-a57570d86e25",
+                    "name": "二细",
+                    "seq": 3
+                  },
+                  {
+                    "id": "cb4a8523-670c-4216-a4c3-12a931f3a933",
+                    "name": "韭叶",
+                    "seq": 4
+                  },
+                  {
+                    "id": "5e502244-bdc5-4dad-b2e0-b208b120afef",
+                    "name": "宽面",
+                    "seq": 5
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "a5d55a3c-ea47-4dd5-8979-bbecfae496b8",
+                "name": "加饭",
+                "price": 200,
+                "seq": 5,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "7b4d7b44-67cd-413c-a21a-75110d7ef3d1",
+              "name": "鸡蛋拉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/cc94bf5785afad9d903617c541156786.jpeg",
+              "description": null,
+              "display_order": 6,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1200,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 35,
+              "hotsale_seq": 13,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1200,
+              "takeout_price": 1200,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "d80306a4-d69a-4a82-be7b-b1b56cee7451",
+                "multiple": 0,
+                "seq": 1,
+                "title": "粗细",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "c795e54c-5015-49a2-b8f5-4f24bdb89294",
+                    "name": "正常",
+                    "seq": 1
+                  },
+                  {
+                    "id": "78dea344-0c76-4e79-835d-1e9d741d9bc2",
+                    "name": "毛细",
+                    "seq": 2
+                  },
+                  {
+                    "id": "4a388b67-00b8-48aa-8e93-ba31f4705c05",
+                    "name": "二细",
+                    "seq": 3
+                  },
+                  {
+                    "id": "39f69636-c7f8-4128-b693-f30bfec09d91",
+                    "name": "韭叶",
+                    "seq": 4
+                  },
+                  {
+                    "id": "16f4db4a-7abb-47ce-a01e-b71d561bfa6b",
+                    "name": "宽面",
+                    "seq": 5
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "345f9d51-8fa2-408f-8700-cfd9339b6019",
+              "name": "孜然羊肉汤面",
+              "photo_url": null,
+              "description": null,
+              "display_order": 7,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 2000,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 2000,
+              "takeout_price": 2000,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "719ab238-68e3-4a45-b11a-982e7bb86b07",
+                "multiple": 0,
+                "seq": 1,
+                "title": "粗细",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "7d5a3428-6359-4cc5-83b5-6d176923bbb8",
+                    "name": "正常",
+                    "seq": 1
+                  },
+                  {
+                    "id": "64310bde-302b-4aa7-b87f-ef173d99fafd",
+                    "name": "毛细",
+                    "seq": 2
+                  },
+                  {
+                    "id": "c56cfc74-32a8-4839-9593-ce47860e2201",
+                    "name": "二细",
+                    "seq": 3
+                  },
+                  {
+                    "id": "c72ec1b8-a57e-4a74-8f0b-ea0999fee41c",
+                    "name": "韭叶",
+                    "seq": 4
+                  },
+                  {
+                    "id": "094ed66e-63d8-45b3-8ec3-14fd93571286",
+                    "name": "宽面",
+                    "seq": 5
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "df83674e-02de-4cbf-bfed-5cdc2e33fcb5",
+              "name": "番茄鸡蛋汤面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/94d7f85f55fcc64660b0a8911cf3c9db.jpg",
+              "description": null,
+              "display_order": 8,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1600,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 26,
+              "hotsale_seq": 15,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1600,
+              "takeout_price": 1600,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "2efd287b-7d21-4c8a-a012-dca8726af2a5",
+                "multiple": 0,
+                "seq": 1,
+                "title": "粗细",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "3196aa47-67e5-4008-a801-2b0e7886819a",
+                    "name": "正常",
+                    "seq": 1
+                  },
+                  {
+                    "id": "306ef0c7-74af-4f36-bd41-f2696321666f",
+                    "name": "毛细",
+                    "seq": 2
+                  },
+                  {
+                    "id": "bb0dbd88-c438-4260-bdca-195c55d8736f",
+                    "name": "二细",
+                    "seq": 3
+                  },
+                  {
+                    "id": "4d9916de-55fc-42be-abcc-6b7407a995a4",
+                    "name": "韭叶",
+                    "seq": 4
+                  },
+                  {
+                    "id": "de91a88e-2c66-4146-afaf-45ad494efc5c",
+                    "name": "宽面",
+                    "seq": 5
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "eb9da34b-2b59-4d76-a645-dd9832e603fe",
+              "name": "羊肉拉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8f6979e3c654db248e65ec32dcde18eb.jpg",
+              "description": null,
+              "display_order": 9,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1400,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1400,
+              "takeout_price": 1400,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [
+              {
+                "id": "2e593d03-2696-4260-9403-ae3efaed80ff",
+                "multiple": 0,
+                "seq": 1,
+                "title": "粗细",
+                "must": 1,
+                "options": [
+                  {
+                    "id": "ccc35f63-0c7b-43f7-b4e2-a85c3d008568",
+                    "name": "正常",
+                    "seq": 1
+                  },
+                  {
+                    "id": "96ac420b-7b55-4143-b6b8-3295dd305110",
+                    "name": "毛细",
+                    "seq": 2
+                  },
+                  {
+                    "id": "0e2cc454-d55f-428a-8a98-88be50501d6d",
+                    "name": "二细",
+                    "seq": 3
+                  },
+                  {
+                    "id": "c0be4802-6047-4e0c-a1d9-e2d2a61fc7e6",
+                    "name": "韭叶",
+                    "seq": 4
+                  },
+                  {
+                    "id": "d5cc73bc-8efb-4eba-9ad7-765da94d3abb",
+                    "name": "宽面",
+                    "seq": 5
+                  }
+                ]
+              }
+            ],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "b71e6206-6ba2-420d-a266-ced33b022826",
+              "name": "牛肉刀削面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e6a3c76541931ff69a5fa107b92cc9d6.jpeg",
+              "description": null,
+              "display_order": 10,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1200,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 76,
+              "hotsale_seq": 4,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1200,
+              "takeout_price": 1200,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "a3ca5db8-0780-4b3b-99f7-43f5f1db7214",
+              "name": "牛杂刀削面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7ab3c1b91facdba9b76ec6d0103de416.jpeg",
+              "description": null,
+              "display_order": 11,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "291744db-97d5-45db-ad98-d227e46c4687",
+              "name": "牛肉泡馍",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8271b5358cadbb8afcca897f92186072.jpeg",
+              "description": null,
+              "display_order": 12,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 39,
+              "hotsale_seq": 12,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "a847f4ad-65e5-49ec-9778-02c3be855902",
+              "name": "牛肉炮仗面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fcd996a444609b0985d2a4750cb9433a.jpeg",
+              "description": null,
+              "display_order": 13,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 64,
+              "hotsale_seq": 8,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "5c42b157-7bf6-453c-a55e-a006f966f858",
+              "name": "羊肉炮仗面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fcd996a444609b0985d2a4750cb9433a.jpeg",
+              "description": null,
+              "display_order": 14,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 2000,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 2000,
+              "takeout_price": 2000,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "13f80984-b41a-411d-bf48-c0a39b0712d4",
+              "name": "羊肉泡馍",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8271b5358cadbb8afcca897f92186072.jpeg",
+              "description": null,
+              "display_order": 15,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 2000,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 2000,
+              "takeout_price": 2000,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "2b41b731-4d0a-463f-9d63-2e93a61d0aa1",
+              "name": "牛肉烩面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2b899f73aadc5c5fb122e5676fcaa2e8.jpeg",
+              "description": null,
+              "display_order": 16,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1600,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1600,
+              "takeout_price": 1600,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "7512da92-1f63-4020-8f7f-aa52e13b69e9",
+              "name": "鸡肉炮仗面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fcd996a444609b0985d2a4750cb9433a.jpeg",
+              "description": null,
+              "display_order": 17,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "c48870b6-35ea-49e9-8f88-001349547711",
+              "name": "牛肉干饺",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b10b33bb59c2c3a183c12727d23ab4a4.jpeg",
+              "description": null,
+              "display_order": 18,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1500,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": "份",
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": false,
+              "arrival_price": 1500,
+              "takeout_price": 1700,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "7bd23628-3f9e-4b7f-8b8a-8c41fb4359a6",
+              "name": "牛肉水饺",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b10b33bb59c2c3a183c12727d23ab4a4.jpeg",
+              "description": null,
+              "display_order": 19,
+              "valid": null,
+              "category_id": "b9d355e9-7ae0-45e0-bbd5-df4cec9aa736",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1500,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": 9999,
+              "reset_sku": false,
+              "unit": "份",
+              "unit_type": 0,
+              "category_name": "面食-汤",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1500,
+              "takeout_price": 1500,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          }
+        ]
+      },
+      {
+        "category_name": "炒面拌面",
+        "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+        "items": [
+          {
+            "item": {
+              "id": "2c009c95-1eb2-45bc-833a-bcdef8822457",
+              "name": "葱油拌面",
+              "photo_url": "https://marketing-static.shouqianba.com/gallery/9e0f1e469b15f2ba6fbb10dca6a8371c.jpg",
+              "description": null,
+              "display_order": 17,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1500,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 26,
+              "hotsale_seq": 16,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1500,
+              "takeout_price": 1500,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "a5d55a3c-ea47-4dd5-8979-bbecfae496b8",
+                "name": "加饭",
+                "price": 200,
+                "seq": 5,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "de6ab069-dc25-4cad-b0d5-0d92e2bcb5da",
+                "name": "不加香菜",
+                "price": 0,
+                "seq": 7,
+                "status": 1
+              },
+              {
+                "id": "3d8349d8-bc94-4aa0-b30f-0d14f54e5812",
+                "name": "不加葱",
+                "price": 0,
+                "seq": 8,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "e126d01e-aba6-45d8-bcb1-10e9eed19442",
+              "name": "新疆拌面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e2515d6a967fa1e14a2075cb92142d6e.jpg",
+              "description": null,
+              "display_order": 18,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 2000,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 2000,
+              "takeout_price": 2000,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "bec272ca-53ca-4f74-81c2-b57ac5210a2b",
+              "name": "牛肉凉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7405d6a349310ee1517ef2d98b194999.jpeg",
+              "description": null,
+              "display_order": 19,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1600,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 67,
+              "hotsale_seq": 7,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1600,
+              "takeout_price": 1600,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "b4774d22-7481-4edf-8359-549d99a914a0",
+              "name": "牛肉干拌面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/245731ea04c0045022acfacfd201b4a2.jpeg",
+              "description": null,
+              "display_order": 20,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1600,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 46,
+              "hotsale_seq": 11,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1600,
+              "takeout_price": 1600,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "db8534a8-e007-4a62-8fd0-b4b7549ab025",
+              "name": "鸡蛋炒刀削面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/81d3abf84a5f77d544ab8201c590b77e.jpg",
+              "description": null,
+              "display_order": 22,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1700,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": "份",
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 64,
+              "hotsale_seq": 9,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1700,
+              "takeout_price": 1700,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "568d17de-92d9-425b-b1d1-4a126b4b4f75",
+              "name": "牛肉炒刀削面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b73549c00f31da9babd8969ee9628fcc.jpg",
+              "description": null,
+              "display_order": 23,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1700,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": "份",
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 99,
+              "hotsale_seq": 2,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1700,
+              "takeout_price": 1700,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "218c37e1-7b68-468a-8ae7-40015750f142",
+              "name": "鸡蛋炒拉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/19d7bf47238dccf320c87b15f31e0695.jpg",
+              "description": null,
+              "display_order": 24,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1700,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 68,
+              "hotsale_seq": 6,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1700,
+              "takeout_price": 1700,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "3464b930-48c5-4ba5-95ce-900bb41286ed",
+              "name": "牛肉炒拉面",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/25ebd551fddfe89e1fe7acfd26de2134.jpg",
+              "description": null,
+              "display_order": 25,
+              "valid": null,
+              "category_id": "67cf5277-cb6e-463d-ace3-323fe7774406",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1700,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "炒面拌面",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1700,
+              "takeout_price": 1700,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              },
+              {
+                "id": "ac0eb907-084a-488a-8b10-867fab4dac83",
+                "name": "加面",
+                "price": 200,
+                "seq": 9,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          }
+        ]
+      },
+      {
+        "category_name": "盖浇饭",
+        "category_id": "8ffe4b5a-e8a4-4a15-bc83-a9c61f244740",
+        "items": [
+          {
+            "item": {
+              "id": "cf8a2a2f-9a3c-4099-88cf-a6b73b0e9adf",
+              "name": "牛肉炒蛋盖浇饭",
+              "photo_url": null,
+              "description": null,
+              "display_order": 61,
+              "valid": null,
+              "category_id": "8ffe4b5a-e8a4-4a15-bc83-a9c61f244740",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "盖浇饭",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "a5d55a3c-ea47-4dd5-8979-bbecfae496b8",
+                "name": "加饭",
+                "price": 200,
+                "seq": 5,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "0756ddfb-e7b0-40a6-a9c9-a7430037bd00",
+              "name": "土豆牛肉盖浇饭",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ac107ece8a12fc1b6c9d7b247219c0c.jpg",
+              "description": null,
+              "display_order": 62,
+              "valid": null,
+              "category_id": "8ffe4b5a-e8a4-4a15-bc83-a9c61f244740",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "盖浇饭",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": 2,
+              "add_count": null,
+              "last30_days_sale_count": 92,
+              "hotsale_seq": 3,
+              "hotsale_product": true,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "a5d55a3c-ea47-4dd5-8979-bbecfae496b8",
+                "name": "加饭",
+                "price": 200,
+                "seq": 5,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          },
+          {
+            "item": {
+              "id": "f0de65d1-03bc-42da-a9be-4f8ba02c0dff",
+              "name": "土豆鸡蛋盖浇饭",
+              "photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ac107ece8a12fc1b6c9d7b247219c0c.jpg",
+              "description": null,
+              "display_order": 63,
+              "valid": null,
+              "category_id": "8ffe4b5a-e8a4-4a15-bc83-a9c61f244740",
+              "merchant_id": "da0b31b6-90c1-4432-acdd-2b6b736d6e2e",
+              "store_id": "97b69451-6145-4e10-98f3-dd6cd4e52637",
+              "price": 1800,
+              "activity_price": null,
+              "second_activity_discount": null,
+              "quota_count": null,
+              "for_sale": true,
+              "out_of_stock": false,
+              "sku": null,
+              "sku_default": null,
+              "reset_sku": false,
+              "unit": null,
+              "unit_type": 0,
+              "category_name": "盖浇饭",
+              "category_sort": null,
+              "spu_type": "PRODUCT",
+              "is_multiple": 1,
+              "item_tag": null,
+              "add_count": null,
+              "last30_days_sale_count": null,
+              "hotsale_seq": null,
+              "hotsale_product": false,
+              "keep_price_equal": true,
+              "arrival_price": 1800,
+              "takeout_price": 1800,
+              "min_sale_num": null,
+              "sale_times": null,
+              "barcode": null
+            },
+            "specs": null,
+            "attributes": [],
+            "material_ids": null,
+            "materials": [
+              {
+                "id": "ea691064-dd68-4e26-9e90-7b656920cc94",
+                "name": "白切牛肉",
+                "price": 1200,
+                "seq": 1,
+                "status": 1
+              },
+              {
+                "id": "96552ed5-ab54-4a47-a343-d21ccf8fc300",
+                "name": "煎鸡蛋",
+                "price": 200,
+                "seq": 2,
+                "status": 1
+              },
+              {
+                "id": "78c03d81-9514-4077-91a5-7605f00a7d26",
+                "name": "加青菜",
+                "price": 200,
+                "seq": 3,
+                "status": 1
+              },
+              {
+                "id": "dac135e4-aba2-427b-b0b9-674c94bc58ab",
+                "name": "泡馍饼",
+                "price": 600,
+                "seq": 4,
+                "status": 1
+              },
+              {
+                "id": "a5d55a3c-ea47-4dd5-8979-bbecfae496b8",
+                "name": "加饭",
+                "price": 200,
+                "seq": 5,
+                "status": 1
+              },
+              {
+                "id": "00e69d92-af47-4cce-9870-f6c4d9714d75",
+                "name": "加鸡蛋炒",
+                "price": 200,
+                "seq": 6,
+                "status": 1
+              }
+            ],
+            "package_must_order_products": null,
+            "package_optional_groups": null
+          }
+        ]
+      }
+    ]
+  }
+}
