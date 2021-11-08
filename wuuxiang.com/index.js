@@ -7,44 +7,47 @@ const {
   logInfo,
 } = require("../utils/index")
 let { result } = require("./menuData.json");
-let categoryData = result.itemClassList
+let categoryData = [...result.tcClassList,...result.itemClassList]
 const { dirname } = require("path");
 
 
 function formatFoodProps(foodDetail) {
-  let skuTemp = {
-    name: "规格",
-    values: foodDetail.itemUnitList.map(item => {
-      return {
-        value: item.unName,
-        price: (parseFloat(item.unPrice)),
-        propName: "规格",
-        isMul: true,
-      }
-    })
+  if (foodDetail.itemUnitList) {
+    let skuTemp = {
+      name: "规格",
+      values: foodDetail.itemUnitList.map(item => {
+        return {
+          value: item.unName,
+          price: (parseFloat(item.unPrice)),
+          propName: "规格",
+          isMul: true,
+        }
+      })
+    }
+    return [skuTemp]
   }
-  return [skuTemp]
+  
+  return []
 }
 
 function handleMenuData() {
   
   let merchantInfo = {
-    shopName: "驴太子鲜肉火锅",
+    shopName: "粉公子东城万达店",
     shop_pic: "",
     categories: []
   };
 
   merchantInfo.categories = categoryData.map(categoryItem => {
     let categoryData = {
-      name: categoryItem.itemClassName,
-      foods: categoryItem.itemList.map(foodDetail => {
-        
+      name: categoryItem.tcClassName || categoryItem.itemClassName,
+      foods: (categoryItem.tcItemList || categoryItem.itemList).map(foodDetail => {
         return {
-          name: (foodDetail.itemName || ""),
+          name: (foodDetail.tcName  || foodDetail.itemName || ""),
           picUrl: foodDetail.taFileName || foodDetail.smallTaFileName || "",
           price: (parseFloat(foodDetail.stdPrice)) || "",
           unit: foodDetail.unitname || "份",
-          categoryName: categoryItem.itemClassName,
+          categoryName: categoryItem.tcClassName || categoryItem.itemClassName,
           props: formatFoodProps(foodDetail),
         }
       })

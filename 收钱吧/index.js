@@ -8,27 +8,21 @@ const defaultImgUrl = ""
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
-const findJsonLen = 5
+const exportMode = "feie"
+// const exportMode = "shilai"
+const findJsonLen = 3
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格" ],//规格
   practice: [
-    "面规格",
-    "口味",
-    "粗细",
-    "可选"
+    "规格"
   ],//做法
   feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "面规格",
-    "口味",
-    "粗细",
-    "可选",
-    "加料"
+    "加料",
+    "规格"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -53,7 +47,6 @@ function handleCategory() {
 
 // 处理规格属性部分
 function formatFoodProps(foodDetail) {
-  console.log('%cfoodDetail: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',foodDetail);
   let res = []
   let specs = foodDetail.specs || {};
   if (Object.keys(specs).length != 0) {
@@ -118,6 +111,12 @@ function formatFoodProps(foodDetail) {
 //读取dataJson下的所有文件取出 food菜品
 async function genMenuFoods() { 
   let allFoods = [];
+
+  for (let i = 0; i < merchantInfo.goods.pages[0].length; i++) {
+    let categoryTemp = merchantInfo.goods.pages[0][i];
+      allFoods.push(...categoryTemp.items)
+  }
+
   for (let i = 0; i < findJsonLen; i++) { 
     let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
     let categories= JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods

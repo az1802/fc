@@ -10,7 +10,7 @@ const defaultImgUrl = ""
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
-const findJsonLen = 1
+const findJsonLen = 3
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
@@ -28,7 +28,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   }
 }
 
-let merchantInfo = require("./menuData.json");
+let merchantInfo = require("./shopData.json");
 merchantInfo = merchantInfo.data
 const categories = merchantInfo.categories
 let categoryObj = {}

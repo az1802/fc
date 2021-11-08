@@ -1,757 +1,68 @@
 {
-	"shopName": "驴太子鲜肉火锅",
+	"shopName": "粉公子东城万达店",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "锅底",
+			"name": "螺狮粉火锅煲套餐",
 			"foods": [
 				{
-					"name": "1药膳驴骨腩汤锅",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000405-2.jpg?i=1618044293470&w=800&h=1200&x-oss-process=image/resize,w_1920",
-					"price": 88,
-					"unit": "份",
-					"categoryName": "锅底",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 88,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "麻辣锅底",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 69,
-					"unit": "份",
-					"categoryName": "锅底",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 69,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "驴肉系列",
-			"foods": [
-				{
-					"name": "1 手打驴肉丸",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000406-2.jpg?i=1618044561526&w=800&h=1200&x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "2驴肉片",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000407-2.jpg?i=1618044549229&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 26,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 46,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "3驴皮",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000408-2.jpg?i=1618044471774&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "4驴腩",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000409-2.jpg?i=1618044435979&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 29,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 53,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5驴血",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000410-2.jpg?i=1618044623880&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 26,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 46,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "6驴鞭",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000411-2.jpg?i=1618044386538&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 98,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 98,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 188,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "7驴三宝",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000412-2.jpg?i=1618044587578&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "8驴展肉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000413-2.jpg?i=1618044657985&w=800&h=1200&x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 58,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "9驴腰",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000414-2.jpg?i=1618044639117&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "10驴面肉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000415-2.jpg?i=1618044422222&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 35,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 62,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "12驴嘴唇",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "13驴 心",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "14驴筋",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 60,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "15驴尾",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 60,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "16驴肚",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 60,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "17驴舌",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 58,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "18驴肝",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000423-2.jpg?i=1618044410184&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 26,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 46,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "20驴脑",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000425-2.jpg?i=1618044450280&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 58,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 58,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "21驴杂",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 36,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "23驴板肠",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 58,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "24里脊肉",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "25肩胛肉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000430-2.jpg?i=1618043904454&w=800&h=1199&x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "26驴五花趾",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000554-2.jpg?i=1618306380182&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 68,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色大片驴肉",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 58,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "九宫格",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 88,
-					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 88,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "滋补驴三宝",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"name": "干锅田螺鸭翅煲",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000201-2.jpg?i=1635787124167&w=668&h=489&x-oss-process=image/resize,w_1920",
 					"price": 108,
 					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 108,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "螺狮粉火锅煲套餐",
+					"props": []
 				},
 				{
-					"name": "驴心",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 28,
+					"name": "鸭脚田螺煲.",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000154-2.jpg?i=1621168725391&w=485&h=364&x-oss-process=image/resize,w_1920",
+					"price": 118,
 					"unit": "份",
-					"categoryName": "驴肉系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "螺狮粉火锅煲套餐",
+					"props": []
+				},
+				{
+					"name": "肥肠田螺煲.",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000156-2.jpg?i=1621168758874&w=808&h=607&x-oss-process=image/resize,w_1920",
+					"price": 120,
+					"unit": "份",
+					"categoryName": "螺狮粉火锅煲套餐",
+					"props": []
+				},
+				{
+					"name": "猪脚田螺煲.",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000159-2.jpg?i=1621168825046&w=808&h=604&x-oss-process=image/resize,w_1920",
+					"price": 128,
+					"unit": "份",
+					"categoryName": "螺狮粉火锅煲套餐",
+					"props": []
+				},
+				{
+					"name": "卤猪脚煲",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000189-2.jpg?i=1635788563812&w=808&h=604&x-oss-process=image/resize,w_1920",
+					"price": 128,
+					"unit": "份",
+					"categoryName": "螺狮粉火锅煲套餐",
+					"props": []
 				}
 			]
 		},
 		{
-			"name": "驴肉小炒",
+			"name": "桂林米粉",
 			"foods": [
 				{
-					"name": "1椒盐驴排",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000431-2.jpg?i=1618043931497&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 78,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
+					"name": "桶装螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000001-2.jpg?i=1631372261046&w=1024&h=1692&x-oss-process=image/resize,w_1920",
+					"price": 60,
+					"unit": "箱",
+					"categoryName": "桂林米粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "份",
-									"price": 78,
+									"value": "箱",
+									"price": 60,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -760,1952 +71,17 @@
 					]
 				},
 				{
-					"name": "2红焖驴肉煲",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000432-2.jpg?i=1618043854269&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 68,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 68,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "3萝卜驴杂煲",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000433-2.jpg?i=1618044126127&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "4回锅带皮驴肉",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5葱爆驴肉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000435-2.jpg?i=1618143840927&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5香辣驴肉丝",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000436-2.jpg?i=1618143881995&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "6小炒驴肉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000437-2.jpg?i=1618044253978&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "7酱爆驴板肠",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000438-2.jpg?i=1618143898379&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 46,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 46,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "8香煎驴肝",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000439-2.jpg?i=1618143912011&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "韭菜炒驴血",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "10烤驴肉串",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000441-2.jpg?i=1618043956585&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 33,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 33,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "11红烧乳鸽",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "12特色毛肚锅",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000543-2.jpg?i=1618044203137&w=800&h=1200&x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "13小龙虾",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 99,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 99,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手抓驴排",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 78,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 78,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "驴肉丸粉丝汤",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然小炒驴肉",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 42,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 42,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "7冷面",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000542-2.jpg?i=1618044035183&w=800&h=1199&x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "米饭",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "驴肉小炒",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 3,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "主食系列",
-			"foods": [
-				{
-					"name": "1驴肉煲仔饭",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000443-2.jpg?i=1618044512046&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "主食系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "2驴血煲仔饭",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "主食系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "3驴肉火烧",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000445-2.jpg?i=1618044527220&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "主食系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "4驴肉包子",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000446-2.jpg?i=1618044490767&w=800&h=1199&x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "主食系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5农家腊味饭",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "主食系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "6驴肉蒸饺",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000448-2.jpg?i=1618044574128&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "主食系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "冷拌",
-			"foods": [
-				{
-					"name": "1酱汁带皮驴肉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000449-2.jpg?i=1618143925340&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 58,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 58,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "2蒜泥驴板肠",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000450-2.jpg?i=1618143941600&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "3冷拌驴肚丝",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000451-2.jpg?i=1618044018195&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "4香拌驴舌",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000452-2.jpg?i=1618144009132&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5香拌驴唇",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000453-2.jpg?i=1618144029704&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "7辣拌干豆腐",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000455-2.jpg?i=1618043781233&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "8拌山桔梗",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000456-2.jpg?i=1618044081105&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "9拌明太鱼丝",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000457-2.jpg?i=1618044166436&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "10柠檬香辣鸡脚",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 36,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "11凉拌皮蛋",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000459-2.jpg?i=1618044053962&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "12老醋花生",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000460-2.jpg?i=1618043976282&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "13拌干豆腐丝",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000461-2.jpg?i=1618043795523&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "14凉拌青瓜",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000462-2.jpg?i=1618044060992&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "15油炸花生",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 16,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "16泡椒藕节",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "17泡椒鱼皮",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "18辣白菜",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "19凉拌鸡蛋干",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "虫草花拌驴皮",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "冷拌",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 38,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "卤水",
-			"foods": [
-				{
-					"name": "2卤驴腱肉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000467-2.jpg?i=1618044112679&w=800&h=1200&x-oss-process=image/resize,w_1920",
-					"price": 52,
-					"unit": "份",
-					"categoryName": "卤水",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 52,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "3卤驴板肠",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 46,
-					"unit": "份",
-					"categoryName": "卤水",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 46,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5卤驴心",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "卤水",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "6卤驴肝",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "卤水",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "7卤驴拼盘",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 68,
-					"unit": "份",
-					"categoryName": "卤水",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 68,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "江湖卤驴肉",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 68,
-					"unit": "份",
-					"categoryName": "卤水",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 68,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "滋补炖汤",
-			"foods": [
-				{
-					"name": "3驴杂粉丝汤",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "滋补炖汤",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "1滋补驴鞭汤",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000473-2.jpg?i=1618044352535&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 58,
-					"unit": "份",
-					"categoryName": "滋补炖汤",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 58,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "2滋补驴脑汤",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "滋补炖汤",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 48,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "蔬菜系列",
-			"foods": [
-				{
-					"name": "1皇帝菜",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000476-2.jpg?i=1618043867914&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "2西洋菜",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "3鲜淮山",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000478-2.jpg?i=1618144044850&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "4白萝卜",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000479-2.jpg?i=1618043765790&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 10,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5冬瓜",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000480-2.jpg?i=1618043806529&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 10,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "6土豆",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 10,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "7响铃卷",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "8娃娃菜",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000483-2.jpg?i=1618044229257&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "9甜玉米",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000484-2.jpg?i=1618044218947&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "10香菜",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "11嫩豆腐",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000486-2.jpg?i=1618044185153&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 10,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "12油豆腐",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000487-2.jpg?i=1618044327239&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "13海带",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000488-2.jpg?i=1618043837340&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "14生菜",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "15油麦菜",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000490-2.jpg?i=1618044338750&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 10,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "16蔬菜拼盘",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000491-2.jpg?i=1618144062100&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 16,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "17火锅粉",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000492-2.jpg?i=1618043881228&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "18火锅面",
-					"picUrl": "https://wcp.wuuxiang.com/itemimg/44611/4461100000000000493-2.jpg?i=1618043889508&w=800&h=533&x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "份",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "马蹄",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "虫草花",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 32,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "冻豆腐",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "莴笋片",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "豆皮",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "蔬菜系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "半份(份)",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "份(份)",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "白酒系列",
-			"foods": [
-				{
-					"name": "1劲酒125ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "2江小白100ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 22,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 22,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5小郎酒100ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 20,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 20,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "7小糊涂仙100ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 25,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 25,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "8小糊涂仙500ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 168,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 168,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "9牛栏山二锅头500ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 28,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 28,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "10五粮陈52°500ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 188,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 188,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "11贵州茅台贵宾酒l",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 298,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 298,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5狼纯邑白兰地40°VOL.XO700ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 580,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 580,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "6 狼纯邑白兰地40°VOL.XO 1000ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 780,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 780,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "12江小白白葡萄味168ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "13江小白混合果味168ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "瓶",
-					"categoryName": "白酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 18,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "啤酒系列",
-			"foods": [
-				{
-					"name": "2雪花金标500ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 10,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 10,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "11老青岛600ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 8,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 8,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "5乌苏620ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"name": "叉烧卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000002-2.jpg?i=1589514755445&w=1200&h=800&x-oss-process=image/resize,w_1920",
 					"price": 15,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
+					"unit": "份",
+					"categoryName": "桂林米粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
+									"value": "份",
 									"price": 15,
 									"propName": "规格",
 									"isMul": true
@@ -2715,18 +91,18 @@
 					]
 				},
 				{
-					"name": "7哈尔滨啤酒500ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 8,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
+					"name": "豆皮卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000003-2.jpg?i=1589514768702&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "桂林米粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 8,
+									"value": "份",
+									"price": 13,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2735,18 +111,18 @@
 					]
 				},
 				{
-					"name": "8百威500ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
+					"name": "卤蛋卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000004-2.jpg?i=1589514782142&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "桂林米粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 12,
+									"value": "份",
+									"price": 13,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2755,17 +131,17 @@
 					]
 				},
 				{
-					"name": "3蓝妹330ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"name": "脆皮卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000005-2.jpg?i=1589514794571&w=1500&h=1000&x-oss-process=image/resize,w_1920",
 					"price": 16,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
+					"unit": "份",
+					"categoryName": "桂林米粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
+									"value": "份",
 									"price": 16,
 									"propName": "规格",
 									"isMul": true
@@ -2775,17 +151,37 @@
 					]
 				},
 				{
-					"name": "9福佳白330ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 16,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
+					"name": "炸酱卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000006-2.jpg?i=1589514855185&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "桂林米粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
+									"value": "份",
+									"price": 15,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000007-2.jpg?i=1589514892619&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
 									"price": 16,
 									"propName": "规格",
 									"isMul": true
@@ -2795,18 +191,118 @@
 					]
 				},
 				{
-					"name": "12蓝带王946ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 22,
-					"unit": "瓶",
-					"categoryName": "啤酒系列",
+					"name": "卤肉卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000008-2.jpg?i=1589514914329&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "桂林米粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 22,
+									"value": "份",
+									"price": 16,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000009-2.jpg?i=1589514926759&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 18,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000010-2.jpg?i=1589514937892&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 19,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆泡卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000058-2.jpg?i=1589949676642&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 13,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "煎蛋卤粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000059-2.jpg?i=1589949686339&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 13,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "素卤粉",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "桂林米粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 10,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2817,21 +313,21 @@
 			]
 		},
 		{
-			"name": "红酒系列",
+			"name": "柳州螺蛳粉",
 			"foods": [
 				{
-					"name": "1巅峰十三世纪1207",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 68,
-					"unit": "瓶",
-					"categoryName": "红酒系列",
+					"name": "原味螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000011-2.jpg?i=1589514954671&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 68,
+									"value": "份",
+									"price": 13,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2840,18 +336,18 @@
 					]
 				},
 				{
-					"name": "4金堡垒法定产区干红",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 108,
-					"unit": "瓶",
-					"categoryName": "红酒系列",
+					"name": "豆皮螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000012-2.jpg?i=1589514966141&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 108,
+									"value": "份",
+									"price": 15,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2860,18 +356,18 @@
 					]
 				},
 				{
-					"name": "3西班牙金堡垒老藤葡萄酒",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 218,
-					"unit": "瓶",
-					"categoryName": "红酒系列",
+					"name": "卤蛋螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000013-2.jpg?i=1589514982450&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 218,
+									"value": "份",
+									"price": 15,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2880,43 +376,18 @@
 					]
 				},
 				{
-					"name": "2巅峰十三世纪红钻",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 1180,
-					"unit": "瓶",
-					"categoryName": "红酒系列",
+					"name": "招牌螺肉螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000014-2.jpg?i=1589515008750&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 1180,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "饮料系列",
-			"foods": [
-				{
-					"name": "5可口可乐330ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 5,
-					"unit": "罐",
-					"categoryName": "饮料系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "罐",
-									"price": 5,
+									"value": "份",
+									"price": 18,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2925,18 +396,18 @@
 					]
 				},
 				{
-					"name": "20雪碧330ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 5,
-					"unit": "罐",
-					"categoryName": "饮料系列",
+					"name": "炸酱螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000015-2.jpg?i=1589515023455&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "罐",
-									"price": 5,
+									"value": "份",
+									"price": 16,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2945,18 +416,18 @@
 					]
 				},
 				{
-					"name": "10天地一号330ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 7,
-					"unit": "罐",
-					"categoryName": "饮料系列",
+					"name": "牛肉螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000016-2.jpg?i=1589515046548&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "罐",
-									"price": 7,
+									"value": "份",
+									"price": 19,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2965,18 +436,18 @@
 					]
 				},
 				{
-					"name": "17王老吉310ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 6,
-					"unit": "罐",
-					"categoryName": "饮料系列",
+					"name": "叉烧螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000017-2.jpg?i=1589515060039&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "罐",
-									"price": 6,
+									"value": "份",
+									"price": 17,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -2985,18 +456,18 @@
 					]
 				},
 				{
-					"name": "19红牛250ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 8,
-					"unit": "罐",
-					"categoryName": "饮料系列",
+					"name": "肥肠螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000018-2.jpg?i=1589515080704&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "罐",
-									"price": 8,
+									"value": "份",
+									"price": 17,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3005,18 +476,18 @@
 					]
 				},
 				{
-					"name": "14椰子汁245ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 6,
-					"unit": "罐",
-					"categoryName": "饮料系列",
+					"name": "牛杂螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000019-2.jpg?i=1589515359690&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "罐",
-									"price": 6,
+									"value": "份",
+									"price": 18,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3025,18 +496,18 @@
 					]
 				},
 				{
-					"name": "1元气气泡水330ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 6,
-					"unit": "罐",
-					"categoryName": "饮料系列",
+					"name": "招牌双拼",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000020-2.jpg?i=1589515373306&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "罐",
-									"price": 6,
+									"value": "份",
+									"price": 20,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3045,18 +516,18 @@
 					]
 				},
 				{
-					"name": "12怡宝矿泉水555ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "饮料系列",
+					"name": "豆泡螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000060-2.jpg?i=1589949698759&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 3,
+									"value": "份",
+									"price": 15,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3065,18 +536,18 @@
 					]
 				},
 				{
-					"name": "8大白梨500ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 8,
-					"unit": "瓶",
-					"categoryName": "饮料系列",
+					"name": "煎蛋螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000061-2.jpg?i=1589949708453&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 8,
+									"value": "份",
+									"price": 15,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3085,18 +556,18 @@
 					]
 				},
 				{
-					"name": "2光明酸奶4585ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 23,
-					"unit": "瓶",
-					"categoryName": "饮料系列",
+					"name": "脆皮螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000095-2.jpg?i=1619667662417&w=755&h=697&x-oss-process=image/resize,w_1920",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 23,
+									"value": "份",
+									"price": 17,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3105,18 +576,18 @@
 					]
 				},
 				{
-					"name": "6大可乐1.25L",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "瓶",
-					"categoryName": "饮料系列",
+					"name": "鸭脚螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000128-2.jpg?i=1619667697870&w=717&h=701&x-oss-process=image/resize,w_1920",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 12,
+									"value": "份",
+									"price": 24,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3125,37 +596,17 @@
 					]
 				},
 				{
-					"name": "9大雪碧1.25L",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "瓶",
-					"categoryName": "饮料系列",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "瓶",
-									"price": 12,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "11天地一号650ml",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"name": "猪脚螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000145-2.jpg?i=1619667746140&w=710&h=695&x-oss-process=image/resize,w_1920",
 					"price": 25,
-					"unit": "瓶",
-					"categoryName": "饮料系列",
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
+									"value": "份",
 									"price": 25,
 									"propName": "规格",
 									"isMul": true
@@ -3165,18 +616,18 @@
 					]
 				},
 				{
-					"name": "7大果粒橙1.25L",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 12,
-					"unit": "瓶",
-					"categoryName": "饮料系列",
+					"name": "包装螺狮粉(一箱10包)",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000150-2.jpg?i=1631372395168&w=1024&h=1692&x-oss-process=image/resize,w_1920",
+					"price": 118,
+					"unit": "箱",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "瓶",
-									"price": 12,
+									"value": "箱",
+									"price": 118,
 									"propName": "规格",
 									"isMul": true
 								}
@@ -3185,17 +636,142 @@
 					]
 				},
 				{
-					"name": "21芬达",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 6,
-					"unit": "罐",
-					"categoryName": "饮料系列",
+					"name": "包装螺蛳粉（1包）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000162-2.jpg?i=1631372352303&w=800&h=800&x-oss-process=image/resize,w_1920",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "罐",
+									"value": "份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "素螺蛳粉",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤猪脚螺蛳粉",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "柳州螺蛳粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 25,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "礼盒装螺蛳粉送桶装螺蛳粉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000196-2.jpg?i=1633362858961&w=1024&h=1692&x-oss-process=image/resize,w_1920",
+					"price": 39,
+					"unit": "箱",
+					"categoryName": "柳州螺蛳粉",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "箱",
+									"price": 39,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "加料站",
+			"foods": [
+				{
+					"name": "卤蛋",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000021-2.jpg?i=1589515387494&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 3,
+					"unit": "个",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "个",
+									"price": 3,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "煎蛋",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000022-2.jpg?i=1589515399464&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 3,
+					"unit": "个",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "个",
+									"price": 3,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000026-2.jpg?i=1619340509262&w=1800&h=1350&x-oss-process=image/resize,w_1920",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
 									"price": 6,
 									"propName": "规格",
 									"isMul": true
@@ -3205,18 +781,637 @@
 					]
 				},
 				{
-					"name": "酸梅汤",
-					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
-					"price": 18,
-					"unit": "扎",
-					"categoryName": "饮料系列",
+					"name": "豆皮",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000023-2.jpg?i=1589515426726&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 2,
+					"unit": "块",
+					"categoryName": "加料站",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "扎",
+									"value": "块",
+									"price": 2,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤豆泡",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000140-2.jpg?i=1619448448071&w=600&h=800&x-oss-process=image/resize,w_1920",
+					"price": 1,
+					"unit": "个",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "个",
+									"price": 1,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤牛肉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000032-2.jpg?i=1589515824343&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 25,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤牛杂",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000030-2.jpg?i=1589515518690&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 15,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肥肠",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000031-2.jpg?i=1589515786854&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 20,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "脆皮肉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000075-2.jpg?i=1619448391757&w=600&h=881&x-oss-process=image/resize,w_1920",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 16,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "桂林叉烧肉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000104-2.jpg?i=1619448414995&w=600&h=881&x-oss-process=image/resize,w_1920",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
 									"price": 18,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "田螺肉",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000029-2.jpg?i=1589515505781&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 15,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "炸花生",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000078-2.jpg?i=1619336421762&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 8,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤猪脚",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000146-2.jpg?i=1619667500616&w=1440&h=1080&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "块",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "块",
+									"price": 15,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "娃娃菜（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000025-2.jpg?i=1619340481263&w=1800&h=2400&x-oss-process=image/resize,w_1920",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 6,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆泡（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000024-2.jpg?i=1619362429254&w=1080&h=1080&x-oss-process=image/resize,w_1920",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 6,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "千张（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000139-2.jpg?i=1619340537170&w=1800&h=1350&x-oss-process=image/resize,w_1920",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 6,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鹌鹑蛋（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000124-2.jpg?i=1619345396708&w=1800&h=1800&x-oss-process=image/resize,w_1920",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 8,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芋头（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000138-2.jpg?i=1619340747614&w=1800&h=1350&x-oss-process=image/resize,w_1920",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 7,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金针菇（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000144-2.jpg?i=1619340629936&w=1800&h=1350&x-oss-process=image/resize,w_1920",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 6,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "螺蛳粉（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000125-2.jpg?i=1619340174311&w=2081&h=1561&x-oss-process=image/resize,w_1920",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "田螺（煲类用）",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000137-2.jpg?i=1619340595369&w=1800&h=2400&x-oss-process=image/resize,w_1920",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 15,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭脚",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000127-2.jpg?i=1619544269212&w=806&h=600&x-oss-process=image/resize,w_1920",
+					"price": 5,
+					"unit": "个",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "个",
+									"price": 5,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "口味",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"price": "",
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青菜",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黄豆酱",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000197-2.jpg?i=1633454516433&w=2736&h=3648&x-oss-process=image/resize,w_1920",
+					"price": 10,
+					"unit": "罐",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "罐",
+									"price": 10,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸笋",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 3.5,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "螺肉酱",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000198-2.jpg?i=1633454637919&w=3840&h=5120&x-oss-process=image/resize,w_1920",
+					"price": 12,
+					"unit": "罐",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "罐",
+									"price": 12,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五常大米饭",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000209-2.jpg?i=1635787783139&w=650&h=488&x-oss-process=image/resize,w_1920",
+					"price": 3,
+					"unit": "碗",
+					"categoryName": "加料站",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "碗",
+									"price": 3,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮品",
+			"foods": [
+				{
+					"name": "杨枝甘露",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000152-2.jpg?i=1619663914305&w=800&h=1066&x-oss-process=image/resize,w_1920",
+					"price": 12,
+					"unit": "支",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "支",
+									"price": 12,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杨枝甘露(两支)",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000153-2.jpg?i=1619663933736&w=800&h=1066&x-oss-process=image/resize,w_1920",
+					"price": 19.8,
+					"unit": "两支",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "两支",
+									"price": 19.8,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠乐",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000034-2.jpg?i=1589515888499&w=1500&h=1000&x-oss-process=image/resize,w_1920",
+					"price": 10,
+					"unit": "杯",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "杯",
+									"price": 10,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "美年达果汁气泡饮",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000181-2.jpg?i=1623505194420&w=500&h=500&x-oss-process=image/resize,w_1920",
+					"price": 5,
+					"unit": "支",
+					"categoryName": "饮品",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "支",
+									"price": 5,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "打包盒",
+			"foods": [
+				{
+					"name": "打包盒",
+					"picUrl": "https://cdnpic.wuuxiang.com/pic/merchant/nopic/nopic.jpg?x-oss-process=image/resize,w_1920",
+					"price": 1,
+					"unit": "个",
+					"categoryName": "打包盒",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "个",
+									"price": 1,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "螺蛳粉火锅煲",
+			"foods": []
+		},
+		{
+			"name": "新品小吃",
+			"foods": [
+				{
+					"name": "红糖糍粑",
+					"picUrl": "https://wcp.wuuxiang.com/itemimg/54466/5446600000000000200-2.jpg?i=1635992126570&w=800&h=600&x-oss-process=image/resize,w_1920",
+					"price": 15.8,
+					"unit": "份",
+					"categoryName": "新品小吃",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "份",
+									"price": 15.8,
 									"propName": "规格",
 									"isMul": true
 								}
