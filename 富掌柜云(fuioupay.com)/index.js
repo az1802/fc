@@ -2,13 +2,14 @@ const fs = require("fs");
 const { resolve } = require("path");
 const path = require("path");
 const request = require('request')
-const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord,genFeieExcelAll} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord,genFeieExcelAll,genShilaiExcelAll} = require("../utils/index")
 // const defaultImgUrl = "https://shouqianba-customer.oss-cn-hangzhou.aliyuncs.com/jjz/processedPhoto5/ca06311f-796e-4889-8db4-dfb2f1a43ad1"
 const defaultImgUrl = ""
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
-const findJsonLen = 5
+// const exportMode = "feie"
+const exportMode = "shilai"
+const findJsonLen = 7
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
@@ -26,7 +27,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   }
 }
 
-let shopName = "陈作林陈记牛肉面店"
+let shopName = "阿添沙县小吃店"
 
 let categories = require('./categoryData.json').data;
 let categoryObj = {}
@@ -139,13 +140,18 @@ async function genExcelAndWord(){
 
   logInfo(merchantInfo,"merchantRes")
   logInfo(propsGroupArr, "allPropGroups")
-  
+
+
+
   if (exportMode == "keruyun") {
-    genImgs(merchantInfo,outputDir);
+    genImgs(merchantInfo, outputDir);
     genExcel(merchantInfo, outputDir, menuSetting);
     genExcelAll(merchantInfo, outputDir, menuSetting);
     
-  } else {
+  } else if (exportMode == "shilai") {
+    genShilaiExcelAll(merchantInfo, outputDir,menuSetting)
+
+  }else{
     // genWord(merchantInfo, outputDir, menuSetting)
     // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
     genFeieExcelAll(merchantInfo, outputDir,menuSetting)

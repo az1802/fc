@@ -45,7 +45,7 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
           ext = ext || url.slice(url.lastIndexOf("."));
         }
         try {
-          await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}.${ext}`)));
+          await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}.${ext}`)));
         } catch (err) {
           console.log(`保存图片错误${imgName}`)
         }

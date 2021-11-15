@@ -64,7 +64,7 @@ async function genShilaiExcelAll(merchantInfo, outputDir, menuSetting, isGenImgs
   let excelData = []; //默认添加一套数据作为是否有属性的分割线
 
   // 下载所有菜品的图片,用于菜品的批量单导入
-  if(isGenImgs){
+  if (isGenImgs) {
     genImgs(categories, {shopDir}) 
   } else {
     genImgs2(merchantInfo, outputDir)
