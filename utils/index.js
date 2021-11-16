@@ -250,6 +250,33 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
 }
 
 
+
+async function handelFoodItemImg(foodItem,shopDir){
+
+  let url = foodItem.picUrl
+  foodItem.name = formatFileName(foodItem.name)
+  let imgName= foodItem.name
+  if (url) {
+    let ext = url.slice(url.lastIndexOf("."));
+
+    // ext= ".jpg" 
+    // ext=".jpeg"
+    // ext = ".png"
+    // if (bigImage) {//阿里云模式下下载大图
+    //   url = url.slice(0, -3) + "2048";a
+    // } 
+    try {
+      // console.log(url,ext);
+      await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+    } catch (err) {
+      // noImgUrls[imgName] = foodItem.name
+      console.log("保存图片错误", err)
+    }
+  } else { 
+    // noImgUrls[imgName] = foodItem.name
+  }
+}
+
 // 生成飞蛾模式的excel 
 async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) { 
   let { categories, shopName } = merchantInfo;
@@ -267,31 +294,14 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     if (!categoryItem) {
       return;
     }
-    categoryItem.foods.forEach(async foodItem => {
 
-      let url = foodItem.picUrl
-      foodItem.name = formatFileName(foodItem.name)
-      let imgName= foodItem.name
-      if (url) {
-        let ext =  url.slice(url.lastIndexOf("."));
-        // ext= ".jpg" 
-        // ext=".jpeg"
-        // ext = ".png"
-        // if (bigImage) {//阿里云模式下下载大图
-        //   url = url.slice(0, -3) + "2048";a
-        // } 
-        try {
-          // console.log(url,ext);
-          await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
-          await sleep(2000)
-        } catch (err) {
-          noImgUrls[imgName] = foodItem.name
-          console.log("保存图片错误", url)
-        }
-      } else { 
-        noImgUrls[imgName] = foodItem.name
-      }
-    })
+
+    for (let i = 0; i < categoryItem.foods.length ;i++) {
+      await handelFoodItemImg(categoryItem.foods[i],shopDir)
+      await sleep(2000)
+      
+    }
+    // categoryItem.foods.forEach()
   })
 
 

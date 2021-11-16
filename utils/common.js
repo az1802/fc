@@ -37,6 +37,7 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
     categoryItem.foods.forEach(async foodItem => {
 
       let url = foodItem.picUrl
+      console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url);
       let imgName = foodItem.name
       if (url) {
         if (typeof ext == 'fucntion ') {
