@@ -1,0 +1,3708 @@
+{
+	"shopName": "面舞丝路牛肉面莲安东路店",
+	"shop_pic": "",
+	"categories": [
+		{
+			"id": 206570,
+			"name": "套餐类",
+			"foods": [
+				{
+					"name": "A套餐 牛肉面+牛肉+鸡蛋",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/adba2dcd0b9e3017bd23e798051369f5.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "B套餐 牛肉面+牛肉一份+小菜拼盘+酸奶",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/ebf4de120648db1bfec4207f83ab3c37.png",
+					"price": 39,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": 206643,
+			"name": "汤面类",
+			"foods": [
+				{
+					"name": "招牌牛肉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/e80483e8e782497c11dbcc13c45daea2.webp",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/e64c540120a51c6e5a8d1a8fa6a425cc.jpeg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂拉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/e7fb6cbe1fd087466b6692f846816104.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜牛肉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/3a9c9025455d192bafae2ad5d4931dba.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉刀削面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/5690b3516e5a3af1a2652996b63965fd.jpeg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣牛肉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/5c001673a5dbb406aca673c21308ea92.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉泡馍",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/61757db42b01f95cdaa301faee482f91.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/eed3602e7ca9ffe82a8d2d0a241a0a86.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "馕饼",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "肉夹馍",
+									"price": 12,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "牛肉煎包1个",
+									"price": 5,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "牛肉煎包2个",
+									"price": 9,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "丝路凉面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/957136a921980364b4d880f29f81e691.webp",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 206644,
+			"name": "炒面类",
+			"foods": [
+				{
+					"name": "鸡蛋炒面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/2ae19e3a55f10470f4a1d9217adb28a6.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/410c82559b216a264de43f18436244ea.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒刀削面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/d5cab81f15703a1d4d4d323b0dd69796.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 206645,
+			"name": "汤类",
+			"foods": [
+				{
+					"name": "牛肉汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/5b609fbb637ca87cc704735da53ab670.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/3a01877314c1a4449d0579dde51be6bd.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉粉丝汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/cd7a92b7684db121a35a1adb28ceb993.jpeg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 206646,
+			"name": "拌面类",
+			"foods": [
+				{
+					"name": "葱油拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/b4b4af949af674275a5637dbd423d980.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/be1767d00c48d6b8f75b96004291bea5.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄鸡蛋拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/7a721dd4de3731936ca642f980dc0a23.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蘑菇牛肉拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/ec5224a6fe7910fcced007786a3a31c0.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/4afef7fe6e83a2132f4fbc93c80ef187.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "大盘鸡拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/351d252e3a6715ef4195c7620ff45784.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椒麻鸡拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/bd64e14035b18d93d13ab9a3a2c3ff57.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆牛肉拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/cba769a7494b23cfb93c6a531a56fbcf.jpeg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然牛肉拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/e4a118f44d9ccb1bfde6cf21e9a1077d.jpeg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "面型",
+							"values": [
+								{
+									"value": "细的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "三细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "宽的",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "大宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "二宽",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "韭叶",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								},
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "面型",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "不要香菜",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要辣",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								},
+								{
+									"value": "不要蒜苗",
+									"price": 0,
+									"propName": "要求",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 206647,
+			"name": "盖浇饭类",
+			"foods": [
+				{
+					"name": "鱼香茄子盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/09b67508289161f85dc0abe22b0277f0.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/c5af1a5d4be2aee788b245f0b4d203f8.jpeg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼香鸡肉丝盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/e20905ef6775e7d70d27a006035ddc0e.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻婆豆腐盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/dbd41d7a3c82f2b44dacf6c810adaafb.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄鸡蛋盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/ea58c41d7408151c5aa56721b54f4294.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "宫保鸡丁盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/1037e3e03817423db0e200dd9aa58054.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蘑菇牛肉盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/f3724d75ab720c080985ab82f3492b32.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/d8892529293504b5def1e48c383766d4.png",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然牛肉盖浇饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/844a720528c49fb5b4e8ea0ff7c094c1.jpeg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 206648,
+			"name": "人气爆品",
+			"foods": [
+				{
+					"name": "咖喱鸡肉饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/30e1b1d54bffd8f59cb703b29ad80c80.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "人气爆品",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咖喱牛肉饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/94f4df09862a6bf7ba675f2778ba1625.png",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "人气爆品",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒鸡柳饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/4bc100b3e77df4e883883ee0aaabc28d.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "人气爆品",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒牛柳饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/abbd7927877c282ff95f2c505132c567.jpeg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "人气爆品",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 206649,
+			"name": "炒饭类",
+			"foods": [
+				{
+					"name": "蛋炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/b43312038166509e3ca9e6df4e93eb63.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉鸡蛋炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/a2404be4a6a7399b4c651e7969c2e8a2.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜牛肉炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/ac4a0ad33a6b5170df58854ed873d807.webp",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "小吃",
+							"values": [
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "酸奶",
+									"price": 8,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "小菜拼盘",
+									"price": 6,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "椒麻鸡",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "加牛肉",
+									"price": 15,
+									"propName": "小吃",
+									"isMul": false
+								},
+								{
+									"value": "拌牛肉",
+									"price": 45,
+									"propName": "小吃",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 206650,
+			"name": "小吃类",
+			"foods": [
+				{
+					"name": "荷包蛋",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/4b4c9a02965b25663c793bad1ddaff6e.jpeg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "酸奶",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/cbc733ff07644bd42e53cb188b025f86.jpeg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "小菜拼盘",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/c1ee0503fed7b228865dd8eff0b9580e.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "馕饼",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/e6af00c10242a02f83c565ff6f1d9fe9.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "加牛肉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/711dc3ddcb0c753fbdc9bfcc58766ede.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "拌牛肉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/0132015bc3bc9f320e0ccff3c6c81a53.jpeg",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": 206652,
+			"name": "饮品类",
+			"foods": [
+				{
+					"name": "可口可乐",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/4166355c27ef26c7f0bfdd126e93e123.jpeg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品类",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/128804df4ed800efa8504a684180070d.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品类",
+					"props": []
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/bfec01317a5071557de61b72b1e25c29.jpeg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮品类",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/400847/upload_images/55ea8954de562867b15e6cad90f7f52d.jpeg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品类",
+					"props": []
+				},
+				{
+					"name": "芬达",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/467570c191033a1e560e4356e900b5fc.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品类",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/24282/goods/022b47f4929f7aee101fd38c96c5a8e7.png",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮品类",
+					"props": []
+				}
+			]
+		}
+	]
+}

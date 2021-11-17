@@ -298,7 +298,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 
     for (let i = 0; i < categoryItem.foods.length ;i++) {
       await handelFoodItemImg(categoryItem.foods[i],shopDir)
-      await sleep(2000)
+      // await sleep(2000)
       
     }
     // categoryItem.foods.forEach()
