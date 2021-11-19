@@ -1,235 +1,657 @@
 {
-	"shopName": "猪小糯",
+	"shopName": "阿哈迈牛肉面",
 	"shop_pic": "",
 	"categories": [
 		{
-			"id": "377206085855",
-			"name": "优惠套餐",
+			"id": "853392583411",
+			"name": "汤面类",
 			"foods": [
 				{
-					"name": "招牌香糯猪脚饭单人餐",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021085708277.png",
-					"price": 19.8,
+					"name": "牛肉拉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021180736585.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "优惠套餐",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "猪脚肥肠双人餐",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021090457263.jpg",
-					"price": 49.8,
+					"name": "牛肉刀削面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211002222046988.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "优惠套餐",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "肉肉大满足 2-3人小食",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021091012757.jpg",
-					"price": 66.8,
-					"unit": "份",
-					"categoryName": "优惠套餐",
-					"props": []
-				}
-			]
-		},
-		{
-			"id": "546331843640",
-			"name": "经典美味",
-			"foods": [
-				{
-					"name": "招牌香糯猪脚饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021105458353.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "经典美味",
-					"props": []
-				},
-				{
-					"name": "爆款卤肥肠饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210808191147214.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "经典美味",
-					"props": []
-				},
-				{
-					"name": "潮香肉饼饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210913080238290.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "经典美味",
-					"props": []
-				},
-				{
-					"name": "香卤双鸡腿饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210808191430393.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "经典美味",
-					"props": []
-				},
-				{
-					"name": "金牌烧鸭饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210913080947118.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "经典美味",
-					"props": []
-				},
-				{
-					"name": "金牌油鸡饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210913081417677.jpg",
+					"name": "牛肉泡馍",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211031142207795.jpeg",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "经典美味",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "胶原蛋白猪皮饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211020155023952.jpg",
+					"name": "精品牛肉面",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/c3fbb443a0176d3a.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "红烧刀削面",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/红烧刀削面.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉面",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/红烧牛肉面.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "酸菜刀削面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210917165811375.jpeg",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "经典美味",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "滋补猪蹄肘饭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210913080632901.jpg",
-					"price": 23,
+					"name": "酸菜牛肉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828202134905.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "经典美味",
-					"props": []
-				}
-			]
-		},
-		{
-			"id": "302447818964",
-			"name": "自由加拼",
-			"foods": [
-				{
-					"name": "卤肥肠",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021000018164.jpg",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "自由加拼",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "卤鸡腿",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021000208681.jpg",
-					"price": 7,
+					"name": "青菜刀削面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210524183416610.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "自由加拼",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "肉饼",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021000530845.jpg",
-					"price": 4,
+					"name": "青菜拉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210830104350542.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "自由加拼",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "香糯猪脚",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021102100065366.jpg",
-					"price": 5,
+					"name": "鸡蛋刀削面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210828170635279.jpeg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "自由加拼",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "烧鸭",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021000846247.jpg",
-					"price": 5,
+					"name": "鸡蛋拉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210505185524390.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "自由加拼",
+					"categoryName": "汤面类",
 					"props": []
 				},
 				{
-					"name": "鸭肾",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021002840317.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "自由加拼",
-					"props": []
-				},
-				{
-					"name": "卤猪皮",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021003103924.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "自由加拼",
-					"props": []
-				},
-				{
-					"name": "卤鸡蛋",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210808121959785.jpg",
+					"name": "煎蛋",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/4a335369b583f5d0.jpg",
 					"price": 2,
 					"unit": "份",
-					"categoryName": "自由加拼",
-					"props": []
-				},
-				{
-					"name": "蚝油生菜",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211021110048274.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "自由加拼",
+					"categoryName": "汤面类",
 					"props": []
 				}
 			]
 		},
 		{
-			"id": "665728399809",
-			"name": "饮品饮料",
+			"id": "732223872886",
+			"name": "炒面类",
 			"foods": [
 				{
-					"name": "王老吉",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210809010925170.jpg",
-					"price": 5,
+					"name": "牛肉爆炒面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210928095543788.jpg",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "饮品饮料",
+					"categoryName": "炒面类",
 					"props": []
 				},
 				{
-					"name": "冻柠檬茶",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210913074813571.jpg",
-					"price": 6,
+					"name": "牛肉爆炒刀削",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/204羊肉炒刀削面.jpg",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "饮品饮料",
+					"categoryName": "炒面类",
 					"props": []
 				},
 				{
-					"name": "桂花酸梅汤",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210812203842132.jpg",
+					"name": "鸡蛋爆炒拉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210803122912169.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋爆炒刀削面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210524185638263.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "370008843159",
+			"name": "炒饭类",
+			"foods": [
+				{
+					"name": "兰州炒饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211005150725215.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": []
+				},
+				{
+					"name": "牛肉炒饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828204841427.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": []
+				},
+				{
+					"name": "蛋炒饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211017205241469.jpeg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "837347529875",
+			"name": "盖浇面类",
+			"foods": [
+				{
+					"name": "大盘鸡盖浇面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210826141912970.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "土豆牛肉盖面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210624114857483.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "孜然牛肉盖面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211026115507698.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "木耳炒肉盖浇面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211019134500676.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋盖面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211002223201128.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "青椒土豆丝盖浇面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211019171129978.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "红烧鸡块盖面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/202107132239239.jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "葱爆牛肉盖面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828210202439.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "酸辣白菜盖浇面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828210856671.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				},
+				{
+					"name": "青椒炒肉盖面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828210735503.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "360077408142",
+			"name": "盖浇饭类",
+			"foods": [
+				{
+					"name": "大盘鸡盖浇饭",
+					"picUrl": "http://p0.meituan.net/waimaidpoipicmining/5cc19ccfc50dc0980f561a89e6cf9378145954.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "青椒土豆丝盖浇饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021083021381435.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "红烧鸡块盖饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210903192859544.jpeg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "葱爆牛肉盖饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211026114442972.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "辣白菜盖饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210726134332707.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "青椒炒肉盖饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828211337503.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "木耳炒肉盖浇饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828211147182.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "土豆牛肉盖浇饭",
+					"picUrl": "http://p0.meituan.net/xianfu/36e46209f6877bdc4620a561908f7f96303165.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "孜然牛肉盖饭",
+					"picUrl": "http://p0.meituan.net/waimaidpoipicmining/e59c364886dda715bda2c7785962f27b136691.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋盖饭",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210426191239309.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "921358295949",
+			"name": "套餐类",
+			"foods": [
+				{
+					"name": "套餐A",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114151120636.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "套餐B",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114151152117.jpg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "套餐C",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021111415121056.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "套餐D",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114151137326.jpg",
+					"price": 60,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "718816799996",
+			"name": "饼类",
+			"foods": [
+				{
+					"name": "葱油饼",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/正宗老上海葱油饼(三个).png",
 					"price": 8,
 					"unit": "份",
-					"categoryName": "饮品饮料",
+					"categoryName": "饼类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "171538579650",
+			"name": "饮料",
+			"foods": [
+				{
+					"name": "可口可乐",
+					"picUrl": "http://p0.meituan.net/wmproduct/fc26510648c5918f509a391e5d26efd2144174.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
-					"name": "可乐",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021080901085552.jpg",
+					"name": "芬达",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210915154634452.jpg",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "饮品饮料",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "豆奶",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210929160721326.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
 					"name": "雪碧",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210809010912561.jpg",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/2021091515455583.jpg",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "饮品饮料",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
-					"name": "矿泉水",
-					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210809010937834.jpg",
-					"price": 2,
+					"name": "酷儿",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211025142857372.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "饮品饮料",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "美汁源",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211028234341348.jpeg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "474450980592",
+			"name": "素菜类",
+			"foods": [
+				{
+					"name": "清炒上海青",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/蒜茸上海青.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "素菜类",
+					"props": []
+				},
+				{
+					"name": "番茄炒蛋",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021080911025171.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "素菜类",
+					"props": []
+				},
+				{
+					"name": "酸辣土豆丝",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210824110727374.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "素菜类",
+					"props": []
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210826143145909.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "素菜类",
+					"props": []
+				},
+				{
+					"name": "凉菜",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210803181152502.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "素菜类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "897421360388",
+			"name": "特色菜",
+			"foods": [
+				{
+					"name": "凉拌牛肉",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211019133850527.png",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "土豆牛肉",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210618100400249.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "大盘鸡",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021082614375298.jpeg",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "大盘鸡专用面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "孜然牛肉",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211022145610589.jpg",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "小盘鸡",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210903191207763.jpeg",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211025145140160.jpeg",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "葱爆牛肉",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210903173246552.jpg",
+					"price": 45,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				},
+				{
+					"name": "青椒炒肉",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/青椒炒肉饭.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "特色菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "662259226059",
+			"name": "凉面类",
+			"foods": [
+				{
+					"name": "牛肉凉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210624124437770.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "凉面类",
+					"props": []
+				},
+				{
+					"name": "素凉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210828182700339.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "凉面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋凉面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210817034707204.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "凉面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "554637305531",
+			"name": "饺子",
+			"foods": [
+				{
+					"name": "牛肉水饺",
+					"picUrl": "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/牛肉水饺.png",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "饺子",
+					"props": []
+				},
+				{
+					"name": "牛肉干饺",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210903202905412.jpeg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "饺子",
+					"props": []
+				}
+			]
+		},
+		{
+			"id": "673630374483",
+			"name": "点",
+			"foods": [
+				{
+					"name": "葱油拌面",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "点",
+					"props": []
+				},
+				{
+					"name": "秘制牛肉",
+					"picUrl": "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021083015155576.jpeg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "点",
 					"props": []
 				}
 			]

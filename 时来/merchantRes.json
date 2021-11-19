@@ -1,30 +1,98 @@
 {
-	"shopName": "小军测试",
-	"shop_pic": "",
+	"shopName": "独霸一面（油松店）",
+	"shop_pic": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ce7bde47-cf11-415f-9080-bf28d97cee0c_tmp_be86b9fbcf99f5963abdff0389eb45ac.jpg",
 	"categories": [
 		{
-			"name": "前菜",
+			"name": "招牌推荐",
 			"foods": [
 				{
-					"name": "柠香鱼皮（酸辣）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/594e67e0b97241d88fefe81b09a980df.jpeg",
-					"price": 20,
+					"name": "独霸一面(牛肉＋排骨＋煎蛋)",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/784792f64be88949afbd2ca8ceefccac.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "前菜",
+					"categoryName": "招牌推荐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
-									"value": "堂食",
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
 									"isMul": true
 								},
 								{
-									"value": "打包",
+									"value": "面",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -32,25 +100,93 @@
 					]
 				},
 				{
-					"name": "芥末章鱼",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/aa92d3e10f9445099b506bd8b7e64295.jpg",
-					"price": 20,
+					"name": "我家牛肉面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/011ead22eca54c1648a8a6271c64477b.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "前菜",
+					"categoryName": "招牌推荐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "面",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -58,25 +194,87 @@
 					]
 				},
 				{
-					"name": "咖喱陈皮鱼蛋",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d541098685354204937ff83101d8d2ab.jpeg",
-					"price": 13,
+					"name": "云南卤鸡米线",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/08bd0a51ea44f10d4ef8ce5eef743059.png",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "前菜",
+					"categoryName": "招牌推荐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "面",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -84,25 +282,369 @@
 					]
 				},
 				{
-					"name": "葡式蛋挞（2个）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6cfa198affa54808a3bef85c91c9bc37.jpg",
-					"price": 13,
+					"name": "鲜之味砂锅米线",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c52081f3362520236078c3cdf1f49674.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "前菜",
+					"categoryName": "招牌推荐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "面",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小二家排骨面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/737986a0bbd4e9d326190e28ab80a32e.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "招牌推荐",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "乡味肥肠面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1114803c5300b5e4a6cae7fdc8063bf8.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "招牌推荐",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸酸辣辣鸡杂面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c14350c34a4ee2914b4552f019139229.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "招牌推荐",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -112,189 +654,62 @@
 			]
 		},
 		{
-			"name": "风味烤肉",
+			"name": "独霸简餐",
 			"foods": [
 				{
-					"name": "法式羊排",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/19f2e81fda1b4442bad6cc0c35065c3a.png",
-					"price": 58,
-					"unit": "份",
-					"categoryName": "风味烤肉",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑猪肋排",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0651c692aae64c329b235d2ab396ea56.jpeg",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "风味烤肉",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "雪花牛仔骨",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2b53146e124c4e6aba67bf5c478056b7.jpg",
-					"price": 68,
-					"unit": "份",
-					"categoryName": "风味烤肉",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "美式鸡翅（一对）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6d4c5d665f8b469c8c9048f52f87274e.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "风味烤肉",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "美式大鸡腿（1个）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9ac93c09fe1d4667a80853b09fbd035f.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "风味烤肉",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡翅包饭（1个）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5e0b2473d16c44b1a22434519532be16.png",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "风味烤肉",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "轻食沙拉",
-			"foods": [
-				{
-					"name": "蔬菜沙律",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a6f0d55d6b5045fd8b69df5b89ae0660.jpg",
+					"name": "水煮鱼片饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e7b5547742aefafa5e4d2b1151f6c87f.jpg",
 					"price": 25,
 					"unit": "份",
-					"categoryName": "轻食沙拉",
+					"categoryName": "独霸简餐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -302,25 +717,59 @@
 					]
 				},
 				{
-					"name": "鸡胸蔬菜沙拉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3dba49ab68f3486d9a867b0a34a49214.jpg",
-					"price": 35,
+					"name": "水煮肉片饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/90a0c4fd3388c548f418a684385beb7d.jpg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "轻食沙拉",
+					"categoryName": "独霸简餐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -328,25 +777,59 @@
 					]
 				},
 				{
-					"name": "海鲜蔬菜沙拉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8e320f9fa45d4b529cac2833705e3c63.jpeg",
-					"price": 45,
+					"name": "水煮牛肉饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f5d49d9037808d70813bdf9cfff19819.jpg",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "轻食沙拉",
+					"categoryName": "独霸简餐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -354,25 +837,59 @@
 					]
 				},
 				{
-					"name": "牛肉蔬菜沙拉",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/845d8150eca043d6b453b54ab1e1c84a.jpeg",
-					"price": 45,
+					"name": "酸菜鱼片饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2482b6abfd35fa2d1b9b548e56c67bee.jpg",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "轻食沙拉",
+					"categoryName": "独霸简餐",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -382,28 +899,62 @@
 			]
 		},
 		{
-			"name": "美式炸食",
+			"name": "特色卤肉饭",
 			"foods": [
 				{
-					"name": "双酱鸡中翅（5个）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cbf631eeb7284acd88f8b51a0b9854fb.jpg",
-					"price": 38,
+					"name": "川味卤肉双拼饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a984ad688819e99504dc1ee03cf36aee.jpeg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "特色卤肉饭",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -411,25 +962,141 @@
 					]
 				},
 				{
-					"name": "双酱鸡翅根（5个）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/868b4556ea884d8493cc2f9f76f31329.jpeg",
-					"price": 38,
+					"name": "川味卤肉三拼饭",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e37b4c5e182a7bca107e9393db014109.jpeg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "特色卤肉饭",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "独霸米线",
+			"foods": [
+				{
+					"name": "独霸酸菜鱼米线",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/87529f0e25dd42ddada3eea69a68e2a9.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "独霸米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -437,51 +1104,312 @@
 					]
 				},
 				{
-					"name": "双酱鸡块（5个）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/dc4ab403350f484da23311e2230b5e35.jpeg",
+					"name": "独霸水煮鱼米线",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ec64e315e16458a8418fac3064dd088.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "独霸米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "独霸水煮肉片米线",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/47c45c6fd57848cca3000d7a6f0dc142.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "独霸米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "独霸水煮牛肉米线",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c20ee14a906e4e2f9d9fdfd4d13458b1.jpg",
 					"price": 32,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "独霸米线",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "面",
 									"price": 0,
-									"propName": "选择",
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
 						}
 					]
-				},
+				}
+			]
+		},
+		{
+			"name": "特色重庆小面",
+			"foods": [
 				{
-					"name": "芝士虾排",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5705ce05b2804c099bc55609c82243f6.jpeg",
-					"price": 28,
+					"name": "豌杂面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/120ae05385ea4cceb1317cb4afea8eb6.png",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "特色重庆小面",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
 									"price": 0,
-									"propName": "选择",
+									"propName": "做法",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -489,25 +1417,2629 @@
 					]
 				},
 				{
-					"name": "双酱洋葱圈",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/db46eec5a9eb4e20b2d09fcfa06499fd.jpeg",
+					"name": "豌杂面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fb5bf9c96a374b8baff4bac707291ff0.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/79e82079c82c41c7a4e22a73979ebe98.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f00d8423677f482b9c494e11f631ae84.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/87429eb505054feefed5f0991d1cb5dc.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ff0e2a34e7cbd816459e5648adab0097.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒鸡杂面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3ec86ddcf12d0078e9bce66d051e5543.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒鸡杂面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a390cca72f121c4033f2c4105ce75952.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6e1595c82f3840e4ad26252bc2c23606.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d239e2062f7c4d688bc99d8fd225229d.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7182d84b05580c4caff5816023d11b70.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/81989d9d266af41cbbd53e96b87c3cec.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7cc78942cd066316332486cb66682878.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bcf8882e69e17bdade3655fadd22f500.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤肉面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e46c798a115beee80977f38783c44033.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤肉面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/06024d62172eae30af0ed85be744d6b4.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝面小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/531887d76001dbb97130b1370edd41ba.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝面大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/028c4c915b1f7ccbc80de742d53ca7be.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆小面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色重庆米线",
+			"foods": [
+				{
+					"name": "豌杂米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/875174a3d6da4ad798e1937913031397.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豌杂米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bc1b1e5b3081418c8c7950f70608ced6.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/60d2765c9aa448f7a37ed15a47a12e1d.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/963a000fcf0e4881a1af4012db117dab.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "干拌",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								},
+								{
+									"value": "汤",
+									"price": 0,
+									"propName": "做法",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/19a2acd83c29467d955a628f1ad6e70d.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/72f148ad7dcc4b98983dbaa1109207c5.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9bb6303e123a41b8b30d16fcd7f6cb49.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0b36a351d54e4372b08db8f2ac138f66.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒鸡杂米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0959dcbe19ab489d89aae3b3db0137d6.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒鸡杂米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b0356aadf82645fab16f51672b69a50e.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/eab5a902602a4b6281c10ce305850fc8.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9ebc6875fb0d4929b8a2c08cb693f2af.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/58ea478aae2c4e69a255d82c82fe863d.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c8fb2fe22bb545ae85a182301d3e5af9.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤肉米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3a5e2b0508b04323bb16f9b415a78807.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤肉米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c8de587eb55f4c88b6591b6313ba5183.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝米线小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/52b83c47833249fab5062677ea63f4f9.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝米线大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/adf4495d1d32467db1ce5b02a7ce49da.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "重庆酸辣粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b1c42d569525668213d7346869c4e2ad.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "重庆酸辣粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1375d80b720628afdf990a7402ba8e80.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色重庆米线",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "砂锅米线/面",
+			"foods": [
+				{
+					"name": "三鲜砂锅米线-面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e19c19308ede4946b56257fcd630b4e3.png",
 					"price": 16,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "砂锅米线/面",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -515,25 +4047,76 @@
 					]
 				},
 				{
-					"name": "爆浆芝士鸡肉球",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8ba0e2adf21248eaa5b61ba6f94390ff.jpeg",
-					"price": 28,
+					"name": "排骨砂锅米线-面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7dffd3faf17e40e7940d5b5788774eeb.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "砂锅米线/面",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -541,25 +4124,76 @@
 					]
 				},
 				{
-					"name": "双酱薯格",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a3059b1eba0743bd9026f33a7100c588.jpeg",
-					"price": 22,
+					"name": "牛肉砂锅米线-面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/994010f2a3fb4d8b940fa5d6e9b2fd2a.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "砂锅米线/面",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -567,25 +4201,153 @@
 					]
 				},
 				{
-					"name": "南瓜酥",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/209ea412f8cb4f7cb0269aaad6939b04.jpg",
-					"price": 22,
+					"name": "肥肠砂锅米线-面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d4cd4cedc0c243dea513cb708bb06c89.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "美式炸食",
+					"categoryName": "砂锅米线/面",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤肉砂锅米线-面",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8604359859584e6daa714f50dd97de20.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "砂锅米线/面",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "类别",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "类别",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -595,88 +4357,62 @@
 			]
 		},
 		{
-			"name": "墨西哥taco",
+			"name": "抄手类",
 			"foods": [
 				{
-					"name": "菲力牛排taco",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ec72077299994908b36642782b0bbffa.jpeg",
-					"price": "",
+					"name": "三鲜抄手小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4b3a6cbc34744df4bfbc4c1c3e4d64f1.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "墨西哥taco",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "规格",
+							"name": "打包",
 							"values": [
 								{
-									"value": "1个",
-									"price": 20,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "2个",
-									"price": 20,
-									"propName": "规格",
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "选择",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "打包",
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "德城鲜虾taco",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4383ffee5fb04720a9e0dd79e94de7b4.jpeg",
-					"price": "",
-					"unit": "份",
-					"categoryName": "墨西哥taco",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "1个",
-									"price": 20,
-									"propName": "规格",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "2个",
-									"price": 17,
-									"propName": "规格",
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "选择",
+							"name": "备注",
 							"values": [
 								{
-									"value": "打包",
+									"value": "免葱",
 									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -684,132 +4420,59 @@
 					]
 				},
 				{
-					"name": "黑胡椒鸡胸taco",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/858a5ecca18f46c48dab97d54229c528.jpeg",
-					"price": "",
+					"name": "三鲜抄手大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/97c42c66f2bc44059178bd9ec9c6ee05.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "墨西哥taco",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "规格",
+							"name": "打包",
 							"values": [
 								{
-									"value": "1个",
-									"price": 20,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "2个",
-									"price": 12,
-									"propName": "规格",
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "选择",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "打包",
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
-			"foods": [
-				{
-					"name": "澳门经典t骨猪扒包.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e810987a9150445f969f638447fc2c5e.jpeg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "中辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "扒包可选一到两种口味",
+							"name": "备注",
 							"values": [
 								{
-									"value": "沙拉酱",
+									"value": "免葱",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "芝士酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "黄芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄辣椒酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "青芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咸蛋黄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咖喱酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "烧烤孜然酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -817,169 +4480,59 @@
 					]
 				},
 				{
-					"name": "t骨猪扒菠萝包.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a63196de0909415abd5e591cc198ecce.jpeg",
-					"price": 33,
+					"name": "老麻抄手小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6ccd95e3f11448768a63f997ed9e2ef8.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "扒包可选一到两种口味",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "沙拉酱",
+									"value": "清汤",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "芝士酱",
+									"value": "微辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "黄芥酱",
+									"value": "中辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "番茄酱",
+									"value": "特辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄辣椒酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "青芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咸蛋黄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咖喱酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "烧烤孜然酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "t骨猪扒可颂包.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d623a7f4b27441e28f2cecec2bec27f4.jpeg",
-					"price": 33,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "扒包可选一到两种口味",
+							"name": "备注",
 							"values": [
 								{
-									"value": "沙拉酱",
+									"value": "免葱",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "芝士酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "黄芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄辣椒酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "青芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咸蛋黄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咖喱酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "烧烤孜然酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -987,25 +4540,59 @@
 					]
 				},
 				{
-					"name": "sasa酱美式热狗包.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/acfc4238b6e94c978ea2f745be8e0b68.jpeg",
-					"price": 38,
+					"name": "老麻抄手大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2e54f4ec7be9441a9efc16c9c1c7d170.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1013,25 +4600,59 @@
 					]
 				},
 				{
-					"name": "发哥最爱菠萝油.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/de2dea0f93d04b01915033c3cee362f1.jpeg",
-					"price": 18,
+					"name": "清汤抄手小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/eb68c3e9080c455da7abe2de25edbba6.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1039,226 +4660,59 @@
 					]
 				},
 				{
-					"name": "奶油猪.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1614e71a99574cc082df776844c034a3.jpg",
+					"name": "清汤抄手大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/56ee27a86aed4388919cb04830039dc4.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "经典（冰火）菠萝油.",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/87a0deb4468e4915b3c4dd1d57f6ecc1.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:晚上8点～次日早上6点)",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "澳美餐包(售卖时间:早上10点～晚上8点)",
-			"foods": [
-				{
-					"name": "澳门经典t骨猪扒包",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/96fb563630fa45a4918e0cb0f0c5a6d3.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:早上10点～晚上8点)",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "扒包可选一到两种口味",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "沙拉酱",
+									"value": "清汤",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "芝士酱",
+									"value": "微辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "黄芥酱",
+									"value": "中辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "番茄酱",
+									"value": "特辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄辣椒酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "青芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咸蛋黄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咖喱酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "烧烤孜然酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "t骨猪扒菠萝包",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4517825a2fe548dab52276f790b4b143.jpeg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:早上10点～晚上8点)",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "扒包可选一到两种口味",
+							"name": "备注",
 							"values": [
 								{
-									"value": "沙拉酱",
+									"value": "免葱",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "芝士酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "黄芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄辣椒酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "青芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咸蛋黄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咖喱酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "烧烤孜然酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1266,110 +4720,59 @@
 					]
 				},
 				{
-					"name": "t骨猪扒可颂包",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6ac5f77143ff4e059381f8b9f2178dc6.jpeg",
-					"price": 23,
+					"name": "红油抄手小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5301f84fa5ae4fe39f01700773cbd53b.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:早上10点～晚上8点)",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "扒包可选一到两种口味",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "沙拉酱",
+									"value": "清汤",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "芝士酱",
+									"value": "微辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "黄芥酱",
+									"value": "中辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "番茄酱",
+									"value": "特辣",
 									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "番茄辣椒酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "青芥酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咸蛋黄酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "咖喱酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
-									"isMul": true
-								},
-								{
-									"value": "烧烤孜然酱",
-									"price": 0,
-									"propName": "扒包可选一到两种口味",
+									"propName": "辣度",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "sasa酱美式热狗包",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a27027e996d640e3971e3550599140d5.jpeg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:早上10点～晚上8点)",
-					"props": [
+						},
 						{
-							"name": "选择",
+							"name": "备注",
 							"values": [
 								{
-									"value": "打包",
+									"value": "免葱",
 									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1377,77 +4780,59 @@
 					]
 				},
 				{
-					"name": "发哥最爱菠萝油",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c89b9be84bad47e5a63e20ce5275023f.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:早上10点～晚上8点)",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "奶油猪",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/fad5f85509d541c7b761b9a271985d59.jpg",
+					"name": "红油抄手大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/7ae0b4e6f1334c0da187e9cf02212f19.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:早上10点～晚上8点)",
+					"categoryName": "抄手类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "经典（冰火）菠萝油",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b99ed896a587429b9abc76e80f4d8ea5.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "澳美餐包(售卖时间:早上10点～晚上8点)",
-					"props": [
+						},
 						{
-							"name": "选择",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "打包",
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1457,88 +4842,62 @@
 			]
 		},
 		{
-			"name": "饮品(售卖时间:晚上8点～次日早上6点)",
+			"name": "河粉类",
 			"foods": [
 				{
-					"name": "葡式手打咖啡",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4de640af64bb4f02a2cf043a06dc8e11.jpeg",
-					"price": 23,
+					"name": "杂酱河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6b55f975001e4c58ad5b3a1cff06fb1e.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "河粉类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "温度",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "热",
+									"value": "清汤",
 									"price": 0,
-									"propName": "温度",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "冰",
+									"value": "微辣",
 									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸳鸯",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a39c2ae75b524b70a1586fc55f999ad1.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
-					"props": [
-						{
-							"name": "选择",
-							"values": [
-								{
-									"value": "打包",
-									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "中辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "温度",
+							"name": "备注",
 							"values": [
 								{
-									"value": "热",
+									"value": "免葱",
 									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "温度",
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1546,42 +4905,59 @@
 					]
 				},
 				{
-					"name": "港式丝袜奶茶",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2a031b149a454c8b812f9d6436c3f02a.png",
-					"price": 17,
+					"name": "杂酱河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/432cf21d22634d9a881abc7297c195c9.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "河粉类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": 0,
-									"propName": "选择",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "选择",
+									"price": 1,
+									"propName": "打包",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "温度",
+							"name": "辣度",
 							"values": [
 								{
-									"value": "热",
+									"value": "清汤",
 									"price": 0,
-									"propName": "温度",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "冰",
+									"value": "微辣",
 									"price": 0,
-									"propName": "温度",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1589,25 +4965,59 @@
 					]
 				},
 				{
-					"name": "冻柠茶（冰）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/869ac440ab754651858bd00f9a8172f4.jpg",
-					"price": 13,
+					"name": "红烧牛肉河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2acf272bb72c405a91e239ce9db6c045.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "河粉类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1615,25 +5025,59 @@
 					]
 				},
 				{
-					"name": "柠檬利宾纳（冰）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e76224a4008d49278e1821e3a12b1e2d.png",
-					"price": 13,
+					"name": "红烧牛肉河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e27131817248453fb814e683a21b530c.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "河粉类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1641,25 +5085,59 @@
 					]
 				},
 				{
-					"name": "咸柠七（冰）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c6d8c0e0515a41759436af59735aa8a9.jpg",
-					"price": 13,
+					"name": "泡椒鸡杂河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4b4f61d6fbac41e5ba156ce3b0e7fd5f.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "河粉类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1667,25 +5145,59 @@
 					]
 				},
 				{
-					"name": "薄荷柠七（冰）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/9927f82c09cc45f3a6682181bd9c5a90.jpeg",
-					"price": 13,
+					"name": "泡椒鸡杂河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c5821aaafbed446199b3c990554f266f.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "河粉类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1693,25 +5205,599 @@
 					]
 				},
 				{
-					"name": "柠乐（冰）",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/60342e52cc9b4023bedb09bb093de624.jpg",
-					"price": 13,
+					"name": "红烧河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/62e043bfcb094b799120d08693ec5398.jpeg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饮品(售卖时间:晚上8点～次日早上6点)",
+					"categoryName": "河粉类",
 					"props": [
 						{
-							"name": "选择",
+							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "微辣",
 									"price": 0,
-									"propName": "选择",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bb2c2d5e40ed42879be3d92d1506eead.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/af961bfbbcb844cfbff5f63a918974e0.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/17d87d0bb3184e309ab193da7181983c.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/8779eadb8d6f4bfdbedaea4b18f3a9d4.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧肥肠河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1831005d85624f12ba43baee1e6d7d2d.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤肉河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d4fd42f417c94539b68770ccbc326a36.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香卤肉河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d4902f78024440cc9d6a24ad0cd834b8.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝河粉小份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/615fd5cbab23492e9aaa78640b65ab66.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝河粉大份",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b366ba27dcc444c8afd0b733eb36a920.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "河粉类",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1721,22 +5807,56 @@
 			]
 		},
 		{
-			"name": "精酿啤酒",
+			"name": "+小食",
 			"foods": [
 				{
-					"name": "芙力草莓",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bf127ed6d9e74fbda0fc5daa7a21dea2.png",
-					"price": 51,
+					"name": "麻辣牛肉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a88d1a8c888cf47e339cd790c39b7284.png",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
+					"categoryName": "+小食",
 					"props": [
 						{
-							"name": "产品描述",
+							"name": "打包",
 							"values": [
 								{
-									"value": "容量400ml-酒精度4.1%vol-原麦汁浓度14.0°P",
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
 									"price": 0,
-									"propName": "产品描述",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1744,19 +5864,53 @@
 					]
 				},
 				{
-					"name": "白熊IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/ff9dd0ba51d34a5a8d2958b99adae976.jpeg",
-					"price": 39,
+					"name": "红油猪耳",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6af03c41eabb88b0979dcb1c3857feff.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
+					"categoryName": "+小食",
 					"props": [
 						{
-							"name": "产品描述",
+							"name": "打包",
 							"values": [
 								{
-									"value": "容量400ml-酒精度4.7%vol-原麦汁浓度11.6°P",
+									"value": "打包",
+									"price": 1,
+									"propName": "打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
 									"price": 0,
-									"propName": "产品描述",
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "免葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -1764,704 +5918,102 @@
 					]
 				},
 				{
-					"name": "迷失海岸幽灵浑浊IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/02762000e50442f89c1422986f5901bc.jpeg",
-					"price": 57,
+					"name": "美味煎蛋",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a385d505ec4a500ce6fc95b0c8fa9e55.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度6.7%vol-原麦汁浓度14.0°P-苦度值38",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "+小食",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮料酒水",
+			"foods": [
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/81391e92960d98af88218b382ba8ad39.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "迷失海岸花生酱桶世涛",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/869134309bfd475a9606c8a4d8a2d3b8.jpeg",
-					"price": 52,
+					"name": "王老吉",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f0b2416161e231c04176720a1bea5c0d.jpg",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度5.6%vo-原麦汁浓度13.7°P-苦度值20",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "迷失海岸迷雾快艇双倍IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/0bab89002cfa4f14945e5274569dd4b7.jpeg",
-					"price": 60,
+					"name": "可乐",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/43f14370cf82b138f87074a980d2239e.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度8.7%vol-原麦汁浓度18.0°P-苦度值80",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "猛士黑啤",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/da440b37033c4a2aa03903f94e065ed9.jpg",
-					"price": 47,
+					"name": "雪碧",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/eca6a295075e0bf822959c99c9fbd32b.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.9%vol-原麦汁浓度12.4°P",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "鲸乐德式小麦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2312254fd97142eeb98de66f98852599.jpeg",
-					"price": 20,
+					"name": "豆奶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6eb9bd0c391980bf5514525d74efa8b6.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.0%vol-原麦汁浓度11.0°P",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "十八酒馆不接受批评IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4894449da8aa46cda318d0b4f91ee02c.jpeg",
-					"price": 45,
+					"name": "康师傅水蜜桃",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/dc806ac402b1fe49dd3ba84bfdc4cb98.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.5%vol-原麦汁浓度11.5°P-苦度值30",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "牛啤堂浑牵梦要浑浊IP",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3db04a1002c246ccb5881e72210c72ff.jpeg",
-					"price": 47,
+					"name": "清凉茶",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/aa416b8e01ac78bb05582ddb4290935f.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度7.6%vol-苦度值40",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "牛啤堂芒果",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/cfcebf6ab8784587836b77ebe635d53d.png",
-					"price": 44,
+					"name": "矿泉水",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/95c05db45d0abf019395165f0dc08db8.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度5.0%vol-原麦汁浓度10.0°P",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "饮料酒水",
+					"props": []
 				},
 				{
-					"name": "牛啤堂帝都海盐",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/b1c832ef5b7a41fa8c0a9b29c297330e.png",
-					"price": 41,
+					"name": "百威啤酒",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e79afba12b16f28c132014b34cf98f97.jpg",
+					"price": 8,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.5%vol-原麦汁浓度10.0°P-苦度值5",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
+					"categoryName": "饮料酒水",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "打包",
+			"foods": [
 				{
-					"name": "罗塞尔东海岸浑浊IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/e3760c13621444f3868af7ea958e1bd5.jpeg",
-					"price": 30,
+					"name": "打包盒",
+					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/5de8c314e7304c1884c36ee335cccd31.jpg",
+					"price": 1,
 					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度5.5%vol-原麦汁浓度14.5°P-苦度值55(回收桶)",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "罗塞尔百香果",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/518a364c8ef54ff190b46c56f72bef43.jpeg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.3%vol-原麦汁浓度13.0°P-苦度值8(回收桶)",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "罗塞尔水蜜桃原浆",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/4b1a4d26123444749c04ee77709281f0.jpeg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.3%vol-原麦汁浓度14.0°P-苦度值8(回收桶)",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "罗塞尔草莓",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6ce47b0113714352b4a88b44912b6e7c.jpeg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.3%vol-原麦汁浓度14.0°P-苦度值8(回收桶)",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "罗塞尔德式豪麦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/58a54cfce0dc438095e96aecee7623f0.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度5.0%vol-原麦汁浓度13.0°P-苦度值15(回收桶)",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜂狂精酿桂花蜂蜜小麦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d1842ac348b3460bb1a004c66bd09c31.jpeg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.2%vol-原麦汁浓度11.0°P-苦度值10.5",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜂狂精酿车厘子小麦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/f5f706b0ae394aef9f60c90df63ac600.jpeg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.5%vol-原麦汁浓度11.5°P-苦度值2.2",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜂狂精酿白桃乌龙",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/2e432d825f744e92859506015480a41a.jpeg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.8%vol",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜂狂精酿德式小麦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/20d6e4f65f6d42a8b6f1b345eb7009ff.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.0%vol-原麦汁浓度10.0°P",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "麦小野-柚",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/6ec6594c4d92466fa65ab6eab9a1a9de.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-原麦汁浓度12.5°P-苦度值21",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "麦小野-风笛IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a191054dc2f049fc846061cc23db78ee.jpeg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-原麦汁浓度16.0°P-苦度值64",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "麦小野-杨枝甘露IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c08a83282c4f4448af76de4505f1cb62.jpeg",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度5.8%vol-原麦汁浓度15.3°P-苦度值64",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "麦小野-白世涛",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/969f61b8e6a2438ab2a37b941b77219e.jpeg",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度5.5%vol-原麦汁浓度14.5°P-苦度值12",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "北平机器龙井小麦",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/59207ae15fed4bf2a1d7f5f16361e4e1.jpeg",
-					"price": 27,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.5%vol-原麦汁浓度11.8°P-苦度值11",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "北平机器苹果西打",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c387a5fbf26f4a0891009ef0cb529832.jpeg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.0%vol",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "北平机器百花深处IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/d841e1ebd8fd41eabf95ba26e6ebf845.jpeg",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度6.5%vol-原麦汁浓度15°P-苦度值65",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "北平机器乌梅IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1c9ed624b46e4011ac262fe2d8e74bb7.jpeg",
-					"price": 33,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度4.5%vol-原麦汁浓度11.8°P-苦度值10",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "北平机器蛇麻果汁浑浊IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c3e98169d620490d9801f42c5c7cd61d.jpeg",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度5.2%vol-苦度值50",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "北平机器新生472浑浊IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/624f419ccb3d48b59348264f6e3af67a.jpeg",
-					"price": 48,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度6.0%vol-苦度值45",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "高狗精酿龙井",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1f0ed19e38614470973763714e59f5e1.jpeg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.7%vol-原麦汁浓度11.0°P-苦度值10",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "高狗精酿哈密瓜",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/3b031c728b614b41ada7d4c3939b3df0.jpeg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.3%vol-原麦汁浓度9.0°P-苦度值8",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "高狗精酿比利时",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/a41cfdb51f8946f3890321c81ab9f017.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.7%vol-原麦汁浓度12.0°P",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "高狗精酿（夜雾）浑浊IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/1eb940f06c8a4ebf801bf8686297ae6f.jpeg",
-					"price": 34,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度6.7%vol-原麦汁浓度16.0°P-苦度值25",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "高狗精酿(风暴)双倍浑浊IPA",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/bb505aac065f4eff9de145c8e22caf1a.jpeg",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度7.5%vol-原麦汁浓度17.5°P-苦度值40",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "高狗精酿荔枝接骨木",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/24e4d68b8ebd40d98bca030142982acf.jpeg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度3.7%vol-原麦汁浓度11.0°P",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "高狗精酿百香果",
-					"picUrl": "https://shilai-images.oss-cn-shenzhen.aliyuncs.com/c279b32ba9af4f169caff664d7dc3f07.jpeg",
-					"price": 24,
-					"unit": "份",
-					"categoryName": "精酿啤酒",
-					"props": [
-						{
-							"name": "产品描述",
-							"values": [
-								{
-									"value": "容量400ml-酒精度2.5%vol-原麦汁浓度8.0°P-苦度值8",
-									"price": 0,
-									"propName": "产品描述",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "打包",
+					"props": []
 				}
 			]
 		}

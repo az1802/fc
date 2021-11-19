@@ -266,8 +266,8 @@ async function handelFoodItemImg(foodItem,shopDir){
     //   url = url.slice(0, -3) + "2048";a
     // } 
     try {
-      // console.log(url,ext);
-      await request(url).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+      console.log(url,ext,imgName);
+      await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
     } catch (err) {
       // noImgUrls[imgName] = foodItem.name
       console.log("保存图片错误", err)
@@ -298,7 +298,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 
     for (let i = 0; i < categoryItem.foods.length ;i++) {
       await handelFoodItemImg(categoryItem.foods[i],shopDir)
-      // await sleep(2000)
+      await sleep(2000)
       
     }
     // categoryItem.foods.forEach()

@@ -19,7 +19,7 @@ let rquestMerchantInfo = require('./merchantInfo.json')
 let allCategory= rquestMerchantInfo.data
 const outputDir = path.join(__dirname, "merchantInfos")
 let shop = {
-  name: "猪小糯",
+  name: "阿哈迈牛肉面",
   shop_pic:""
 }
 

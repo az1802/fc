@@ -8,7 +8,7 @@ const { requestUrl,genImgs,genExcel,genWord,genSpecificationsWord,formatFileName
 
 
 
-const shopId =1003209
+const shopId =1003060
 // const shopId = 1001500
 // const exportMode = "keruyun"
 const exportMode = "feie"

@@ -1,39 +1,130 @@
 {
-	"shopName": "王道公园3",
+	"shopName": "清麦牛肉面)",
 	"categories": [
 		{
-			"name": "热门",
+			"name": "套餐类",
 			"foods": [
 				{
-					"name": "牛肉粉丝汤",
-					"picUrl": "",
-					"price": 18,
+					"name": "A套餐",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/00418619DD0E42E6984012F64FCCB16C.jpg",
+					"price": 32,
 					"unit": "份",
-					"categoryName": "热门",
+					"categoryName": "套餐类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "B套餐",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/99CEC9AB3E3D4125ABC61174F50C9AD5.jpg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "C套餐",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/CB5CE92656044380BDDA30C156BA77E8.jpg",
+					"price": 34,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "D套餐",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/13D9BC9B37AB4D87877E707A7A925251.jpg",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -44,763 +135,45 @@
 			]
 		},
 		{
-			"name": "粉丝类",
+			"name": "汤面类",
 			"foods": [
 				{
-					"name": "不香菜。",
-					"picUrl": "",
-					"price": "",
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "不葱。",
-					"picUrl": "",
-					"price": "",
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "，，打包盒",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "荷包蛋。。。",
-					"picUrl": "",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "烧饼，，",
-					"picUrl": "",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "鸡腿粉丝汤",
-					"picUrl": "",
-					"price": 16,
+					"name": "招牌牛肉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B3DF20CAFA454100B8B4A1CA90CF36DE.jpg",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "粉丝类",
+					"categoryName": "汤面类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
 									"propName": "默认",
 									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛杂面疙瘩",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "鸡腿面疙瘩",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "鸭腿面疙瘩",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "牛杂粉丝汤",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
 								},
 								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
+									"value": "荷包蛋",
+									"price": 2,
 									"propName": "默认",
 									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿粉丝汤",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
 								},
 								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
+									"value": "饮料一瓶",
+									"price": 3,
 									"propName": "默认",
 									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸡腿年糕",
-					"picUrl": "",
-					"price": 16,
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
 								},
 								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿年糕",
-					"picUrl": "",
-					"price": 16,
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛杂年糕",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉粉丝汤",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤肉豆腐粉丝汤",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉面疙瘩",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "排骨粉丝汤",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉年糕",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜜汁卤肉粉丝汤",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "肥牛粉丝汤",
-					"picUrl": "",
-					"price": 20,
-					"unit": "个",
-					"categoryName": "粉丝类",
-					"props": []
-				},
-				{
-					"name": "卤猪蹄粉丝汤",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛肉粉",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "筒骨粉丝汤",
-					"picUrl": "",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛骨粉丝汤",
-					"picUrl": "",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "粉丝类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "面类",
-			"foods": [
-				{
-					"name": "不香菜。。",
-					"picUrl": "",
-					"price": "",
-					"unit": "个",
-					"categoryName": "面类",
-					"props": []
-				},
-				{
-					"name": "不葱。。",
-					"picUrl": "",
-					"price": "",
-					"unit": "个",
-					"categoryName": "面类",
-					"props": []
-				},
-				{
-					"name": "，打包盒",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "面类",
-					"props": []
-				},
-				{
-					"name": "荷包蛋，。",
-					"picUrl": "",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "面类",
-					"props": []
-				},
-				{
-					"name": "烧饼，，。。",
-					"picUrl": "",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "面类",
-					"props": []
-				},
-				{
-					"name": "鸡腿面",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛杂面",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿面",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -810,34 +183,108 @@
 				},
 				{
 					"name": "牛肉面",
-					"picUrl": "",
-					"price": 18,
+					"picUrl": "https://img-static.keruyun.com/kry-dir/EF98944B20C944A9B9D9548DDC1314B0.jpg",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "面类",
+					"categoryName": "汤面类",
 					"props": [
 						{
-							"name": "牛肉汤",
+							"name": "默认",
 							"values": [
 								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
 									"isMul": true
 								}
 							]
 						},
 						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "毛细",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "宽面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "二细",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋拉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/62F8373BDA694343AD8424B5C247EF36.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -846,141 +293,162 @@
 					]
 				},
 				{
-					"name": "卤肉豆腐汤面",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨面",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "秘汁卤肉面",
-					"picUrl": "",
+					"name": "羊肉拉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7AB2F7870E624120BC21D521C2A51C7F.jpg",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "面类",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "肥牛面",
-					"picUrl": "",
-					"price": 20,
-					"unit": "个",
-					"categoryName": "面类",
-					"props": []
+					"name": "牛杂拉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7B96C0CFD3D14EE6B900D8960C4B2308.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "猪蹄面",
-					"picUrl": "",
+					"name": "羊肉泡馍",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1631176500-215239.image",
 					"price": 22,
 					"unit": "份",
-					"categoryName": "面类",
-					"props": []
-				},
-				{
-					"name": "卤猪蹄面",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "面类",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
 					"name": "红烧牛肉面",
-					"picUrl": "",
-					"price": 22,
+					"picUrl": "https://img-static.keruyun.com/kry-dir/09325BE2008E4C6AA625AEB2F67FDAD2.jpg",
+					"price": 23,
 					"unit": "份",
-					"categoryName": "面类",
+					"categoryName": "汤面类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -989,35 +457,42 @@
 					]
 				},
 				{
-					"name": "筒骨面",
-					"picUrl": "",
-					"price": 26,
+					"name": "香菇牛肉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/853DFF4034B44F4BB0C7A2E2507158DF.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "面类",
+					"categoryName": "汤面类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1026,35 +501,382 @@
 					]
 				},
 				{
-					"name": "牛骨面",
-					"picUrl": "",
-					"price": 26,
+					"name": "酸菜牛肉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/BAEF6A7AFFE3437FB5246BAC256DF826.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "面类",
+					"categoryName": "汤面类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄鸡蛋面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/F1F62610CB624CB296C24FFE944B7A4E.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉烩面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5CA31A22A6CF4C7BA5AD9ADEC4B89DD6.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "臊子面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6727FA43F657447AA2733D4AA4F8BA9B.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉刀削面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C170E8E608F349029260192A9CFE87B3.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋刀削面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/09867D3401EE4A949D7850168B6FC864.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂刀削面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/83FF295D0957423BA8C2F54F0D93C285.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤饺",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/2A804B4CFF8F4F60B91D430E5A5C2124.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干饺",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/BF8802C965234B08A8E2B9EDFD2E86FC.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1065,256 +887,45 @@
 			]
 		},
 		{
-			"name": "米粉类",
+			"name": "炒面类",
 			"foods": [
 				{
-					"name": "牛杂米粉",
-					"picUrl": "https://cube.elemecdn.com/1/52/f7e58c77b6f6bd8d3bf88848b4d40jpeg.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "米粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "不香菜，。",
-					"picUrl": "",
-					"price": "",
-					"unit": "个",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "不葱，。",
-					"picUrl": "",
-					"price": "",
-					"unit": "个",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "不要香菜、",
-					"picUrl": "",
-					"price": "",
-					"unit": "个",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "打包盒，",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "，荷包蛋",
-					"picUrl": "",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "烧饼。。。",
-					"picUrl": "",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "鸡腿米粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "米粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿米粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "米粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨米粉",
-					"picUrl": "",
+					"name": "牛肉炸酱面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/FFFCC9AEA30147F991E59A9DF373D084.jpg",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "米粉类",
+					"categoryName": "炒面类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
-									"price": 1,
+									"value": "加面",
+									"price": 2,
 									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉米粉",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "米粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
 									"isMul": true
 								},
 								{
 									"value": "打包",
 									"price": 1,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤肉豆腐米粉",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "米粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
+									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
+								},
 								{
-									"value": "打包。",
-									"price": 1,
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1323,92 +934,43 @@
 					]
 				},
 				{
-					"name": "秘汁卤肉米粉",
-					"picUrl": "",
-					"price": 20,
+					"name": "牛肉炒拉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/414AC8DC58254A599B337076F9C19B56.jpg",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "肥牛米粉",
-					"picUrl": "",
-					"price": 20,
-					"unit": "个",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "卤猪蹄米粉",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "米粉类",
-					"props": []
-				},
-				{
-					"name": "红烧牛肉米粉",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "米粉类",
+					"categoryName": "炒面类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
-									"price": 1,
+									"value": "加面",
+									"price": 2,
 									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "筒骨米粉",
-					"picUrl": "",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "米粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
 									"isMul": true
 								},
 								{
 									"value": "打包",
 									"price": 1,
-									"propName": "牛肉汤",
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
 									"isMul": true
 								}
 							]
@@ -1416,35 +978,218 @@
 					]
 				},
 				{
-					"name": "牛骨米粉",
-					"picUrl": "",
-					"price": 26,
+					"name": "鸡蛋炒面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/E9D79C9F940649E1BC660A706962F341.jpg",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "米粉类",
+					"categoryName": "炒面类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒刀削面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/63E2F1A555F24DFDA44CF1949675B0EC.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋炒刀削面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/0B3C354A9D8A40EA854DD9E37709A434.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱油拌面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5B949EE5F0DB460ABA42F5941D012B4F.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉凉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/879357B0522E46F897141DA59022B622.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1458,165 +1203,46 @@
 			"name": "拌面类",
 			"foods": [
 				{
-					"name": "打包盒",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "拌面类",
-					"props": []
-				},
-				{
-					"name": "荷包蛋。。",
-					"picUrl": "",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "拌面类",
-					"props": []
-				},
-				{
-					"name": "烧饼，，。",
-					"picUrl": "",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "拌面类",
-					"props": []
-				},
-				{
-					"name": "鸡腿拌面",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "拌面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿拌面",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "拌面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉拌面",
-					"picUrl": "",
+					"name": "番茄炒蛋拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/86D02823945A483390D6F446FFA0A368.jpg",
 					"price": 18,
 					"unit": "份",
 					"categoryName": "拌面类",
 					"props": [
 						{
-							"name": "牛肉汤",
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
 							"values": [
 								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
 									"isMul": true
 								},
 								{
 									"value": "打包",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤肉豆腐拌面",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "拌面类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
+									"price": 1,
+									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
 									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
+								},
 								{
-									"value": "打包。",
-									"price": 1,
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1625,35 +1251,46 @@
 					]
 				},
 				{
-					"name": "排骨拌面",
-					"picUrl": "",
-					"price": 18,
+					"name": "红烧牛肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/0A7189C330BB4846AB2FFA0D0FA6AA86.jpg",
+					"price": 23,
 					"unit": "份",
 					"categoryName": "拌面类",
 					"props": [
 						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
+							"name": "默认",
+							"values": []
 						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1662,51 +1299,46 @@
 					]
 				},
 				{
-					"name": "蜜汁卤肉拌面",
-					"picUrl": "",
+					"name": "土豆牛肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/D7F4064AB06D4DB5BF4BE1837BD673F5.jpg",
 					"price": 20,
 					"unit": "份",
 					"categoryName": "拌面类",
-					"props": []
-				},
-				{
-					"name": "卤猪蹄拌面",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "拌面类",
-					"props": []
-				},
-				{
-					"name": "红烧牛肉拌面",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "拌面类",
 					"props": [
 						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
+							"name": "默认",
+							"values": []
 						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1715,35 +1347,46 @@
 					]
 				},
 				{
-					"name": "筒骨拌面",
-					"picUrl": "",
-					"price": 26,
+					"name": "洋葱牛肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/3173D9F8134747728C9C1B481083B034.jpg",
+					"price": 18,
 					"unit": "份",
 					"categoryName": "拌面类",
 					"props": [
 						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
+							"name": "默认",
+							"values": []
 						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1752,29 +1395,430 @@
 					]
 				},
 				{
-					"name": "牛骨拌面",
-					"picUrl": "",
-					"price": 26,
+					"name": "孜然羊肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C6DB0C019F16430E84EB647AD56733FB.jpg",
+					"price": 23,
 					"unit": "份",
 					"categoryName": "拌面类",
 					"props": [
 						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
+							"name": "默认",
+							"values": []
 						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆丝拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1631176755-199510.image",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒牛肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5ABEAEF038C34B9E98874A87396AE3CD.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇牛肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B6880E92A23D4634AF16904CA8B92C40.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆羊肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1631176687-247521.image",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/50A7DAA7086B4398A41B4876A0D65A13.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/DE20F6128C6C4FF2A86E4B95A6B8B4B7.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣子肉拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/D4E761AC339448F795C2BA250F7E9036.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "大盘鸡拌面-饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/19B786A8E8234C7CAB8EF5773CEE0950.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "拌面类",
+					"props": [
+						{
+							"name": "默认",
+							"values": []
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加面",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1785,474 +1829,115 @@
 			]
 		},
 		{
-			"name": "牛肉汤类",
+			"name": "炒饭类",
 			"foods": [
 				{
-					"name": "牛杂汤",
-					"picUrl": "https://cube.elemecdn.com/5/fc/f7aea4ae27dd45c7dd26c1a3f1305jpeg.jpeg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "牛肉汤类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "打包盒。",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "牛肉汤类",
-					"props": []
-				},
-				{
-					"name": "荷包蛋，",
-					"picUrl": "",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "牛肉汤类",
-					"props": []
-				},
-				{
-					"name": "烧饼：：：",
-					"picUrl": "",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "牛肉汤类",
-					"props": []
-				},
-				{
-					"name": "牛肉汤",
-					"picUrl": "",
+					"name": "蛋炒饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/D03CA45796A940BF996890096019DB62.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "牛肉汤类",
+					"categoryName": "炒饭类",
 					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "筒骨汤",
-					"picUrl": "",
-					"price": 22,
-					"unit": "个",
-					"categoryName": "牛肉汤类",
-					"props": []
-				},
-				{
-					"name": "牛骨汤",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "牛肉汤类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "拌粉类",
-			"foods": [
-				{
-					"name": "打包盒。，，",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "拌粉类",
-					"props": []
-				},
-				{
-					"name": "荷包蛋。。，",
-					"picUrl": "",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "拌粉类",
-					"props": []
-				},
-				{
-					"name": "烧饼。，",
-					"picUrl": "",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "拌粉类",
-					"props": []
-				},
-				{
-					"name": "鸡腿拌粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿拌粉",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉拌粉",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤肉豆腐拌粉",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨拌粉",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜜汁卤肉拌粉",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": []
-				},
-				{
-					"name": "红烧牛肉拌粉",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								},
 								{
 									"value": "打包",
 									"price": 1,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪蹄拌粉",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": []
-				},
-				{
-					"name": "牛骨拌粉",
-					"picUrl": "",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
 									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "筒骨拌粉",
-					"picUrl": "",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": [
-						{
-							"name": "牛肉汤",
-							"values": [
-								{
-									"value": "不要香菜",
-									"price": 0,
-									"propName": "牛肉汤",
 									"isMul": true
 								},
 								{
-									"value": "不要葱",
-									"price": 0,
-									"propName": "牛肉汤",
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "兰州炒饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/36AA589BA9564E15A2F5D4E2E3296E88.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包。",
+									"value": "打包",
 									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜牛肉炒饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5787DCA25C8147BBA91BAD8F9B50FF8E.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "荷包蛋",
+									"price": 2,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饮料一瓶",
+									"price": 3,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "小菜",
+									"price": 5,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -2263,412 +1948,204 @@
 			]
 		},
 		{
-			"name": "米饭类",
+			"name": "饮料小吃",
 			"foods": [
 				{
-					"name": "打包盒：",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "米饭类",
-					"props": []
-				},
-				{
-					"name": "荷包蛋：",
-					"picUrl": "",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "米饭类",
-					"props": []
-				},
-				{
-					"name": "烧饼:",
-					"picUrl": "",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "米饭类",
-					"props": []
-				},
-				{
-					"name": "鸡腿饭",
-					"picUrl": "",
-					"price": 16,
+					"name": "小菜",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/8893A31731F84AD8ABBB63573E1A05E2.jpg",
+					"price": 5,
 					"unit": "份",
-					"categoryName": "米饭类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿饭",
-					"picUrl": "",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤肉豆腐饭",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨饭",
-					"picUrl": "",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜜汁卤肉饭",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": []
-				},
-				{
-					"name": "卤猪蹄饭",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": []
-				},
-				{
-					"name": "红烧牛肉饭",
-					"picUrl": "",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "筒骨饭",
-					"picUrl": "",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛骨饭",
-					"picUrl": "",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "米饭类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "加料区",
-			"foods": [
-				{
-					"name": "矿泉水",
-					"picUrl": "https://cube.elemecdn.com/3/c4/7984c6aa5177eff624771bd60b383jpeg.jpeg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "芬达",
-					"picUrl": "https://cube.elemecdn.com/a/71/22d8700507482bbd895b6e8f1af1ejpeg.jpeg",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "https://cube.elemecdn.com/8/f5/bf0abcb8943227c57b2c2f2a70d4cjpeg.jpeg",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "加料区",
+					"categoryName": "饮料小吃",
 					"props": []
 				},
 				{
 					"name": "可乐",
-					"picUrl": "https://cube.elemecdn.com/6/73/1cc696b1a9097826b1ddc02200e40jpeg.jpeg",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/D4A30E3877E44966A19C7A0C34A6575B.jpg",
 					"price": 3,
-					"unit": "个",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "冰红茶",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/aa431052e89f4ebfb02a9c62dbccfe14.jpg",
-					"price": 3.5,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "饮料小吃",
 					"props": []
 				},
 				{
-					"name": "王老吉",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1632735059-91002.image",
-					"price": 4,
-					"unit": "个",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "牛杂",
-					"picUrl": "https://cube.elemecdn.com/9/03/dbd49b430d08dc7cc8cfc8bf11e47jpeg.jpeg",
-					"price": 10,
+					"name": "雪碧",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5CDB6BDF094246FAA67AEBD6F5F9D856.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "饮料小吃",
 					"props": []
 				},
 				{
-					"name": "卤猪蹄",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1632735034-224629.image",
+					"name": "芬达",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C586E3E8990B4209AFC009546E67FD1A.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料小吃",
+					"props": []
+				},
+				{
+					"name": "矿泉水",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B00F9576A30140DD92C558E98F772C17.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料小吃",
+					"props": []
+				},
+				{
+					"name": "蜜桃汁",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/ABBB3E91A5A54E118B2337F194CB8B17.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料小吃",
+					"props": []
+				},
+				{
+					"name": "肉夹馍",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/680E68F1E6DC4EB6A811AAA8E33542C1.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "饮料小吃",
+					"props": []
+				},
+				{
+					"name": "孜然饼",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/31E61B282BAC4456A074173A5EF36607.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料小吃",
+					"props": []
+				},
+				{
+					"name": "牛肉一份",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/BDB57746107C46C5BB516F0362B9BD73.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "打包盒；",
-					"picUrl": "",
-					"price": 1,
-					"unit": "个",
-					"categoryName": "加料区",
+					"categoryName": "饮料小吃",
 					"props": []
 				},
 				{
 					"name": "荷包蛋",
-					"picUrl": "",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5EB76FC96D6D495C8563982231CC1778.jpg",
 					"price": 2,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "饮料小吃",
 					"props": []
 				},
 				{
-					"name": "烧饼",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "加料区",
+					"name": "鸡翅",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1633848914-203324.image",
+					"price": 8,
+					"unit": "串",
+					"categoryName": "饮料小吃",
 					"props": []
 				},
 				{
-					"name": "卤肉豆腐",
-					"picUrl": "",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "鸭血",
-					"picUrl": "",
+					"name": "羊肉串",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1633848899-318265.image",
 					"price": 5,
+					"unit": "串",
+					"categoryName": "饮料小吃",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "青麦特色小炒",
+			"foods": [
+				{
+					"name": "红烧鸡块",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/E6DAB59EBF0E4ACB87ABD3072D1994F1.jpg",
+					"price": 45,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "鸡腿",
-					"picUrl": "",
-					"price": 6,
+					"name": "红烧牛肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/FCE8599C81F7427894328C9316B279C5.jpg",
+					"price": 50,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "鸭腿",
-					"picUrl": "",
-					"price": 6,
+					"name": "孜然羊肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C3960EC096D84096AEB197FBACEB56F8.jpg",
+					"price": 58,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "牛肉",
-					"picUrl": "",
-					"price": 10,
+					"name": "洋葱炒肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6A5B1ECE140344A5BE9F426BFA532751.jpg",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "排骨",
-					"picUrl": "",
-					"price": 12,
+					"name": "新疆大盘鸡",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/31C541D8DFB84434BB89CEFADF956044.jpg",
+					"price": 98,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "牛肚",
-					"picUrl": "",
-					"price": 12,
+					"name": "土豆烧牛肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/DEBDB88D9BBD4E0681FD458BBEAD2136.jpg",
+					"price": 45,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "加红烧牛肉",
-					"picUrl": "",
-					"price": 12,
+					"name": "番茄炒蛋",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/4DB830A3BD354A659C8B1F876DDC7CCE.jpg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "秘汁卤肉",
-					"picUrl": "",
-					"price": 15,
+					"name": "青椒炒肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/02AB49FB122940C9ACC1E1579489FC4F.jpg",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "青麦特色小炒",
 					"props": []
 				},
 				{
-					"name": "鸡腿凉皮",
-					"picUrl": "",
-					"price": 16,
+					"name": "素炒青菜",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/D5250D60E1B64577821B7EDBAF6B40F3.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "加料区",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "青麦特色小炒",
+					"props": []
 				},
 				{
-					"name": "筒骨",
-					"picUrl": "",
-					"price": 16,
+					"name": "酸辣白菜",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/8D3DBAB18D894B8F86E22CCAAF0451CC.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "加料区",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "青麦特色小炒",
+					"props": []
 				},
 				{
-					"name": "牛骨",
-					"picUrl": "",
-					"price": 16,
+					"name": "酸辣土豆丝",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C8746BCB8AB04C20BC7070C30F6BDC86.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "加料区",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包。",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "青麦特色小炒",
+					"props": []
+				},
+				{
+					"name": "凉拌牛肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/E338BD222974463BAF8498A7388180FF.jpg",
+					"price": 56,
+					"unit": "份",
+					"categoryName": "青麦特色小炒",
+					"props": []
 				}
 			]
 		}
