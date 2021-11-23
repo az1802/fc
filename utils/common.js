@@ -3,6 +3,12 @@ var path = require("path");
 const request = require('request')
 const { resolve } = path;
 
+async function sleep() {
+  return new Promise((resolve, reject) => {
+    setTimeout(resolve,3000)
+  })
+}
+
 // 格式化文件名称
 function formatFileName(name="") {
   return name.replace(/\//ig, "-")
@@ -37,7 +43,6 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
     categoryItem.foods.forEach(async foodItem => {
 
       let url = foodItem.picUrl
-      console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url);
       let imgName = foodItem.name
       if (url) {
         if (typeof ext == 'fucntion ') {
@@ -46,7 +51,10 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
           ext = ext || url.slice(url.lastIndexOf("."));
         }
         try {
+      console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url);
+
           await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}.${ext}`)));
+          await sleep(3000)
         } catch (err) {
           console.log(`保存图片错误${imgName}`)
         }
