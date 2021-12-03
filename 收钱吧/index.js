@@ -10,7 +10,7 @@ const defaultImgUrl = ""
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
-const findJsonLen = 3
+const findJsonLen = 1
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
@@ -117,13 +117,13 @@ async function genMenuFoods() {
       allFoods.push(...categoryTemp.items)
   }
 
-  for (let i = 0; i < findJsonLen; i++) { 
-    let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
-    let categories= JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods
-    categories.forEach((categoryItem) => {
-      allFoods.push(...categoryItem.items)
-    })
-  }
+  // for (let i = 0; i < findJsonLen; i++) { 
+  //   let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
+  //   let categories= JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods
+  //   categories.forEach((categoryItem) => {
+  //     allFoods.push(...categoryItem.items)
+  //   })
+  // }
   let foodMapObj = {};
   allFoods = allFoods.filter(foodInfo => {
     if (foodMapObj[foodInfo.item.id]) {
