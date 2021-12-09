@@ -9,13 +9,13 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
+// const exportMode = "feie"
 
-// const exportMode = "shilai"
+const exportMode = "shilai"
 
 let allMerchantInfo = require("./merchantInfo.json")
 let requestShopData = {name:"清麦牛肉面)",shop_pic:""}
-let requestMenuData = allMerchantInfo.data.data.components[2].data.dishMenu.data.dishCates
+let requestMenuData = allMerchantInfo.data.data.components[3].data.dishMenu.data.dishCates
 
 const { isRegExp } = require("util");
 
@@ -30,16 +30,23 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
     "默认",
     "备注",
     '牛肉汤',
-    "打包"
+    "打包",
+    
+    "辣度",
+    // "小吃加料"
   ],//做法
-  feeding:[ ],//加料
+  feeding:["用餐类型","小吃加料","米粉类",],//加料
   remarks: [],//备注
   propsGroupSort: [
     "规格默认",
     "默认",
     "备注",
     '牛肉汤',
-    "打包"
+    "辣度",
+    "打包",
+    "用餐类型",
+    "米粉类",
+    "小吃加料"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -68,28 +75,28 @@ function addPropsGroupArr(propsGroupArr,name) {
 }
 
 function formatFoodProps(foodItem) {
+ 
   let propsRes = [];
   
   let cookbookDishSku = foodItem.cookbookDishSkuList && foodItem.cookbookDishSkuList[0]; //处理规格
-  // if (foodItem.cookbookDishSkuList.length) {
-  //   let temp = {
-  //     name:"规格默认",
-  //     values:foodItem.cookbookDishSkuList.map(comboItem => {
-  //       return {
-  //         value: comboItem.skuName,
-  //         price: parseFloat( comboItem.sellPrice || 0)/100,
-  //         propName:"规格默认",
-  //         isMul:false
-  //       }
-  //     })
-  //   }
-  //   propsRes.push(temp)
-  // }
+  if (foodItem.cookbookDishSkuList.length) {
+    let temp = {
+      name:"规格默认",
+      values:foodItem.cookbookDishSkuList.map(comboItem => {
+        return {
+          value: comboItem.skuName,
+          price: parseFloat( comboItem.sellPrice || 0)/100,
+          propName:"规格默认",
+          isMul:false
+        }
+      })
+    }
+    propsRes.push(temp)
+  }
 
   let practiceGroupsTemp = [], sideDishGroupsTemp = [];
   let { practiceGroups = [], sideDishGroups = [] ,remarks=[]} = cookbookDishSku || {}
   let {specGroupList = [] } = foodItem
-
 
   practiceGroups.forEach((practiceGroupItem,index) => {
     propsRes.push({
@@ -103,6 +110,21 @@ function formatFoodProps(foodItem) {
         }
       }) || []
     })
+    // console.log('propsRes', propsRes)
+  })
+  practiceGroups.forEach((practiceGroupItem,index) => {
+    propsRes.push({
+      name: practiceGroupItem.groupName,
+      values: practiceGroupItem.dishProperties && practiceGroupItem.dishProperties.map(specItem => {
+        return {
+          value: specItem.name,
+          price: parseFloat( specItem.addPrice || 0)/100,
+          propName:practiceGroupItem.groupName,
+          isMul:true
+        }
+      }) || []
+    })
+    // console.log('propsRes', propsRes)
   })
 
   sideDishGroups.forEach((sideDishGroupItem,index) => {
@@ -132,7 +154,6 @@ function formatFoodProps(foodItem) {
       }) || []
     })
   }
-
   return propsRes;
 }
 
