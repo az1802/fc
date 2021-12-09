@@ -3,12 +3,13 @@ const path = require("path");
 const { requestUrl, genExcel } = require("../utils/index");
 const xlsx = require('node-xlsx');
 let str = "";
-let shopId = 1001561
-let mode = "shilai"
+let shopId = 1003658
+// let mode = "shilai"
+let mode = "feie"
 const memberUrl = `https://op.huanxiongdd.com/dd_op/mem_account/gets?shop_id=${shopId}&current_page=1&page_size=9999&whitelistId=${shopId}`
 const shopRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
 
-
+console.log(memberUrl)
 async function genMemberTxt() {
   let shopInfo = await requestUrl(shopRequestUrl);
   let { sname } = shopInfo;
