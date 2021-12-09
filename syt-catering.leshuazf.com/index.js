@@ -19,9 +19,10 @@ let priceKey = 'currentPrice' //现价(折扣价)
 
 
 let merchantAllData =  require("./merchantInfo.json");
-merchantAllData = merchantAllData.data
-let requestShopData =merchantAllData.shopInfo
-let requestMenuData = merchantAllData.dishCategories
+let storeData =  require("./storeInfo.json");
+
+let requestShopData = storeData.data
+let requestMenuData = merchantAllData.data
 let allsSuIds = merchantAllData.spuDetail;
 const { isRegExp } = require("util");
 
@@ -33,16 +34,13 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //导出的菜品属性归为规格,备注,加料,做法
   specifications:['规格'],//规格
   practice: [
-    '规格',
-    "加料",
-    "辣度"
+   
   ],//做法
   feeding:['加料'],//加料
   remarks: [],//备注
   propsGroupSort: [
     '规格',
-    "加料",
-    "辣度"
+    "加料"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -67,7 +65,6 @@ function formatFoodProps(foodItem) {
   let skuMenuItems = foodItem.skuMenuItems;
   let methods = foodItem.methods;//普通属性
   let propGroupName = methods.groupName;
-  // let originalPrice = foodItem[priceKey]  //原价
   let tastes = foodItem.tastes
   let res = []
 
@@ -147,7 +144,7 @@ async function  handleRequestData(requestShopData,requestMenuData) {
   try {
     // 商户信息
     let merchantInfo = {
-      shopName: requestShopData.shopName,
+      shopName: requestShopData.store_name,
       shop_pic: "",
       categories:[]
     }
@@ -158,33 +155,30 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         name: "",
         foods:[]
       };
-      categoryData.name = categoryItem.categoryName;
+      categoryData.name = categoryItem.name;
       let categroySpuIds = []
-      if (categoryItem.spuIds) {
-        categroySpuIds = categoryItem.spuIds;
+      if (categoryItem.goods_group_code) {
+        categroySpuIds = categoryItem.goods_group_code;
       } else {
         categoryItem.childDishCategories && categoryItem.childDishCategories.forEach(childCategoryItem => {
-          categroySpuIds.push(...(childCategoryItem.spuIds || []));
+          categroySpuIds.push(...(childCategoryItem.goods_group_code || []));
         })
       }
-      categoryData.foods =categroySpuIds.reduce((res, foodItem) => {
-        foodItem = allsSuIds[foodItem]
+      categoryData.foods = categoryItem.list.reduce((res, foodItem) => {
+        console.log('res', res)
+        console.log('foodItem', foodItem)
         if (foodItem) {
-          let picUrl = foodItem.detailPicUrls[0] || "";
-          picUrl = picUrl.replace("%40640w_480h_1e_1c_1l%7Cwatermark%3D0", "");
-          picUrl = picUrl.replace("%40180w_180h_1e_1c_1l%7Cwatermark%3D0", "");
-          picUrl = picUrl.split("@")[0];
-        
-          foodItem.spuName = foodItem.spuName.replace('/', "-")
+          let picUrl = foodItem.img[0] || "";
+          foodItem.goods_name = foodItem.goods_name.replace('/', "-")
           let foodData = {
-            name: foodItem.spuName.trim()|| "",
+            name: foodItem.goods_name.trim()|| "",
             picUrl: picUrl || "",
-            price: foodItem[priceKey] || "",
+            price: foodItem.price || "",
             unit: foodItem.unit || "份",
             categoryName: categoryData.name,
             props: [],
           };
-          foodData.props = formatFoodProps(foodItem)
+          // foodData.props = formatFoodProps(foodItem)
           res.push(foodData)
         }
         return res;
