@@ -1,0 +1,1927 @@
+{
+	"shopName": "深圳市南山区云线米线店",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "热销",
+			"foods": [
+				{
+					"name": "一碗香米饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6417aae688954522873ac8cb22d443c2.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉小锅",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/10ef955edd244604b0cd470cf84a85b4.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "苦瓜炒蛋饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6ee378ed773b4c89bbd4c5e910324750.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茄子豆角饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/f65cbe6360504e279f5877ab152cea99.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苗炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bdc4bc8bcbca4151ae027c527badf645.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿炒蛋饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/d3d4ea00f3c64f19859508a931e9fce5.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱汤粉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/1c21af95fa7948058144dd098d3176cc.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制红烧焖肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/869b76be6c294cbbb7a229118540e609.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱小锅米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/dbe8a0d1e2bc4457a34bee1de5d2563c.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "胡萝卜炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bac41a4e70d64b4a83cb4a36fe148426.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "云线招牌米线",
+			"foods": [
+				{
+					"name": "鲜肉焖肉双帽米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/034320ec2b4e4cb99aec2b04d6fbec78.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "云线招牌米线",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉小锅",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/10ef955edd244604b0cd470cf84a85b4.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "云线招牌米线",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "臭豆腐小锅米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/74f09b8353ce40d7beba470d53625642.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "云线招牌米线",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱小锅米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/dbe8a0d1e2bc4457a34bee1de5d2563c.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "云线招牌米线",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉杂酱双帽米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/c28779423ec14320a02adf461490721c.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "云线招牌米线",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "云南味道米线/面条类",
+			"foods": [
+				{
+					"name": "土鸡米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7cc4a074cc8e446896ee409871ea3edc.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "云南味道米线/面条类",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛腩",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5faa1fc48c58461898587fc43b4b8c6d.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "云南味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制红烧焖肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/869b76be6c294cbbb7a229118540e609.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "云南味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "原汤酸菜肉沫",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/0b6c591c2b7649a68b535b6a7223dc6d.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "云南味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱汤粉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/1c21af95fa7948058144dd098d3176cc.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "云南味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "加米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "原汤素粉面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/bae260df62014d519f81639047fc770c.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "云南味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "时尚味道米线/面条类",
+			"foods": [
+				{
+					"name": "香辣土鸡",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/fc3c577f7cbe477ea1e038f75fc91b77.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣肥牛",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/534327e2dd7c4291b6ac415573ac2dd1.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣鱼片",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/d15e7184b4894b28a224db1521ae9796.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肉丸菌菇",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/0032286f27c349efbe180842b09eb438.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬酸汤肥牛",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/ae2825822d054103844fd4a08aac1b91.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "柠檬酸汤鱼片",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/04348e1855194a9c90b824102b6e95d2.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾酸汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/941e47538b9548a780ca84c375a6d451.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/7523ebbf79e043fbbfa4046c6e3e8a15.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "时尚味道米线/面条类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "干拌类米线/面条",
+			"foods": [
+				{
+					"name": "干拌杂酱米线-面条",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/dc942e9b226b4fea936bc00c06d612be.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "干拌类米线/面条",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌米线",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/2e44e3fd656c4f03b2ce6e500d95fcdc.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "干拌类米线/面条",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "米线",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面条",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "饵丝",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "今日米饭套餐",
+			"foods": [
+				{
+					"name": "胡萝卜炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bac41a4e70d64b4a83cb4a36fe148426.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "云南腊肉炒蒜苗",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/rc-upload-1640845588-254688.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "苦瓜炒蛋饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6ee378ed773b4c89bbd4c5e910324750.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1632970308-262544.image",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": []
+				},
+				{
+					"name": "蒜苗炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bdc4bc8bcbca4151ae027c527badf645.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿炒蛋饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/d3d4ea00f3c64f19859508a931e9fce5.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "一碗香米饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6417aae688954522873ac8cb22d443c2.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茄子豆角饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/f65cbe6360504e279f5877ab152cea99.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/d2a062c259d24d3cbde4f2380693ab33.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/906106999a8344389562e9954eeebff8.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苔炒肉饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/e21eb8cee1e84337b180d195206c6662.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "今日米饭套餐",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "馄饨",
+			"foods": [
+				{
+					"name": "纯鲜肉馄饨",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/8099f43e22374816a0f5c55147f86be4.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "馄饨",
+					"props": []
+				},
+				{
+					"name": "香菇鲜肉馄饨",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/7388060a428b494897597c981a83be83.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "馄饨",
+					"props": []
+				},
+				{
+					"name": "玉米鲜肉馄饨",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/de1fff94d1a4412e87552f6ab93b6dbf.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "馄饨",
+					"props": []
+				},
+				{
+					"name": "肉三鲜馄饨",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/824d98ed1df8480a87fc3d662f69f387.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "馄饨",
+					"props": []
+				},
+				{
+					"name": "荠菜鲜肉馄饨",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/e25ee4b4eb3f4e6ca411a4ea3c9f1e2f.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "馄饨",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "加料",
+			"foods": [
+				{
+					"name": "加生菜(2片叶)",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/1d83b71f863a4bd7a9e62f9b1e7a188a/rc-upload-1646221310-266736.image",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "煎蛋",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/rc-upload-1637746829-275747.image",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加鹌鹑蛋(一份五个)",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635174604-196304.image",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加酸菜肉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/9bd615d6a392462b92fb6d2a25be566b.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加杂酱",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/831d7daf2e47462a885ae4fed3afdadc.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加火腿片",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634865149-258098.image",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加鱼片",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634864576-231490.image",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加红烧牛腩",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635174467-175919.image",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加肥牛",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/f7686389da8242b1b17689ad2a422268.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加肥肠",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/2605e0e0d8b445abb9d7721829581612/rc-upload-1645590510-269540.image",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "粥/汤类",
+			"foods": [
+				{
+					"name": "菌菇土鸡汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/49dea21ef43a4faabd161ad634f50c12.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "粥/汤类",
+					"props": [
+						{
+							"name": "是否打包",
+							"values": [
+								{
+									"value": "需要打包",
+									"price": 1,
+									"propName": "是否打包",
+									"isMul": true
+								},
+								{
+									"value": "堂食",
+									"price": 0,
+									"propName": "是否打包",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "小吃",
+			"foods": [
+				{
+					"name": "鲜花饼",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/ce983db40955461d980a02656ea1fed5.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				},
+				{
+					"name": "花生米",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1630417996-160612.image",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "套餐",
+			"foods": []
+		},
+		{
+			"name": "啤酒/饮品",
+			"foods": []
+		},
+		{
+			"name": "饮品",
+			"foods": []
+		},
+		{
+			"name": "酒水",
+			"foods": []
+		},
+		{
+			"name": "啤酒",
+			"foods": []
+		}
+	]
+}

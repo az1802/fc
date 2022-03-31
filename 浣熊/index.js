@@ -2,17 +2,17 @@
 const fs = require("fs");
 const path = require("path");
 
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync,genFeieExcelAll,genShilaiExcelAll} = require("../utils/index")
+const { requestUrl, genImgs, genExcel, genExcelAll, genWord, genSpecificationsWord, formatFileName, delDirSync, mkdirSync, genFeieExcelAll, genShilaiExcelAll } = require("../utils/index")
 
-const shopId = 31216
+const shopId = 1000383
 // const exportMode = "keruyun"
 // const exportMode = "feie"
 const exportMode = "shilai"
-// const shopRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
-// const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
+const shopRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
+const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
-const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
-const menuRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
+// const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
+// const menuRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
 // let requestShopData = require("./shopData.json");
 // let requestMenuData = require("./menuData.json");
@@ -24,20 +24,19 @@ const { isRegExp } = require("util");
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[],//规格
+  specifications: [],//规格
   practice: [
-  	"口味",
-	"种类",
-	"做法",
-	"加"
+    "另",
+    "要求",
+    "份量"
   ],//做法
-  feeding:[ "加料"],//加料
+  feeding: ["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "口味",
-    "种类",
-    "做法",
-    "加"
+    "另",
+    "要求",
+    "份量",
+    "加料"
   ],
   propsSort: {
   }
@@ -48,14 +47,14 @@ let propsGroupArr = [];
 
 
 // 打印日志到test.json 文件夹
-async function logInfo(info,fileName="test.json") { 
-  fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
+async function logInfo(info, fileName = "test.json") {
+  fs.writeFileSync(`./${fileName}.json`, JSON.stringify(info, null, '\t'))
 }
 
 // 获取原始数据
-async function getMerchantInfo() { 
+async function getMerchantInfo() {
   let requestShopData = await requestUrl(shopRequestUrl);
-  logInfo(requestShopData,"shopData")
+  logInfo(requestShopData, "shopData")
   let requestMenuData = await requestUrl(menuRequestUrl);
   logInfo(requestMenuData, "menuData")
   let merchantInfo = await handleRequestData(requestShopData, requestMenuData)
@@ -63,28 +62,28 @@ async function getMerchantInfo() {
   return merchantInfo;
 }
 
-function formatFoodProps(foodItem) { 
+function formatFoodProps(foodItem) {
   let { propsGroupSort, propsSort } = menuSetting
   let propsPrice = foodItem.prop_prices, propsPriceObj = {};
-  
-  for (let j = 0; j < propsPrice.length; j++){ 
+
+  for (let j = 0; j < propsPrice.length; j++) {
     propsPriceObj[propsPrice[j].keys] = propsPrice[j].price
   }
-  
-  let propsRes = [],props = foodItem.props;
-  for (let k = 0; k < props.length; k++) { 
-    if (propsGroupArr.indexOf(props[k].p_name)==-1) { 
+
+  let propsRes = [], props = foodItem.props;
+  for (let k = 0; k < props.length; k++) {
+    if (propsGroupArr.indexOf(props[k].p_name) == -1) {
       propsGroupArr.push(props[k].p_name);
     }
 
     let propTemp = {
       name: props[k].p_name,
-      values: props[k].values.map(propValItem => { 
+      values: props[k].values.map(propValItem => {
         return {
           value: propValItem.p_value,
           price: propsPriceObj[`#${props[k].p_name_id}_${propValItem.p_value_id}#`],
           propName: props[k].p_name,
-          isMul:props[k].is_multiple
+          isMul: props[k].is_multiple
         }
       })
     }
@@ -111,10 +110,10 @@ function formatFoodProps(foodItem) {
   }
 
 
-  logInfo(propsGroupArr,"./propGroups.txt")
+  logInfo(propsGroupArr, "./propGroups.txt")
   //处理属性组的顺序  
-  
- 
+
+
   // let tempPropsGroup = new Array(propsGroupSort.length)
   // for (let i = 0; i < propsRes.length;i++) { 
   //   let groupIndex = propsGroupSort.indexOf(propsRes[i].name);
@@ -137,79 +136,79 @@ function formatFoodProps(foodItem) {
 
 
 // 爬取的数据中进行信息提取
-async function  handleRequestData(requestShopData,requestMenuData) {
+async function handleRequestData(requestShopData, requestMenuData) {
   // await logInfo(requestMenuData)
-  
+
   try {
     // 商户信息
     let merchantInfo = {
       shopName: requestShopData.sname,
       shop_pic: requestShopData.pic_url,
-      categories:[]
+      categories: []
     }
 
     // 菜品目录
     let categories = []
 
-    categories = requestMenuData.detail.items.map(categoryItem => { 
+    categories = requestMenuData.detail.items.map(categoryItem => {
       let categoryData = {
         name: "",
-        foods:[]
+        foods: []
       };
       categoryData.name = categoryItem.itemname;
-      categoryData.foods = categoryItem.products.reduce((res,foodItem) => { 
-        if (foodItem) { 
+      categoryData.foods = categoryItem.products.reduce((res, foodItem) => {
+        if (foodItem) {
           let foodData = {
-            name:foodItem.name.replace(/\//ig,"-") || "",
+            name: foodItem.name.replace(/\//ig, "-") || "",
             picUrl: foodItem.big_pic || foodItem.small_pic || "",
-            price:foodItem.curr_price || "",
+            price: foodItem.curr_price || "",
             unit: foodItem.unit || "份",
             categoryName: categoryItem.itemname,
-            props:[],
+            props: [],
           };
           foodData.props = formatFoodProps(foodItem)
           res.push(foodData)
         }
         return res;
-      },[])
-      
+      }, [])
+
       return categoryData
     })
     merchantInfo.categories = categories
     return merchantInfo;
-  } catch (err) { 
+  } catch (err) {
     console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`)
   }
 }
 
 // 数据转换提取,写入相关文件
 
-async function mkShopDir(shopDir) { 
+async function mkShopDir(shopDir) {
   delDirSync(shopDir);
   mkdirSync(shopDir)
 }
 
 // 生成图片文件夹以及excel文件
-async function genImgsAndExcel() { 
+async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
-  console.log('%cmerchantInfo: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',merchantInfo);
+  console.log('%cmerchantInfo: ', 'color: MidnightBlue; background: Aquamarine; font-size: 20px;', merchantInfo);
   let { shopName } = merchantInfo
-  console.log('%cshopName: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',shopName);
+  console.log('%cshopName: ', 'color: MidnightBlue; background: Aquamarine; font-size: 20px;', shopName);
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
 
   // // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
-    genImgs(merchantInfo,outputDir);
+    genImgs(merchantInfo, outputDir);
     genExcel(merchantInfo, outputDir);
-    genExcelAll(merchantInfo,outputDir,menuSetting)
+    genExcelAll(merchantInfo, outputDir, menuSetting)
   } else if (exportMode == 'shilai') {
     genShilaiExcelAll(merchantInfo, outputDir, menuSetting, false)
   } else {
     // genWord(merchantInfo, outputDir)
     // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
-    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
   }
 
 }

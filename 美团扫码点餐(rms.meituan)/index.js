@@ -10,8 +10,8 @@ const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDi
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
 
 // let priceKey = 'originalPrice' //原价
 let priceKey = 'currentPrice' //现价(折扣价)

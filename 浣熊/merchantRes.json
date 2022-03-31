@@ -1,419 +1,959 @@
 {
-	"shopName": "煲大人（新闻店）",
+	"shopName": "伊麦源牛肉面",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "煲仔饭套餐",
+			"name": "汤面类",
 			"foods": [
 				{
-					"name": "酱香凤爪煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219183358521089.png",
-					"price": "32",
+					"name": "红烧牛肉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200321140032389197.jpg",
+					"price": "20",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "辣酱凤爪煲仔饭套餐",
-					"picUrl": "",
-					"price": "32",
+					"name": "酸菜牛肉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200417044643847935.jpeg",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "香菇滑鸡煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094845719404.jpg",
-					"price": "30",
+					"name": "牛肉刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200408125415886701.jpg",
+					"price": "14",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "正常",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "加量",
+									"price": "2",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "咸鱼肉饼煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160521102327756390.jpg",
-					"price": "30",
+					"name": "牛肉拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395429597905.jpeg",
+					"price": "14",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "正常",
+									"price": "0",
+									"propName": "份量",
+									"isMul": 0
+								},
+								{
+									"value": "加量",
+									"price": "1",
+									"propName": "份量",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "湘式小炒肉煲仔饭套餐(辣)",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329195951426030.jpeg",
-					"price": "28",
+					"name": "牛肉烩面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200321140255394707.jpg",
+					"price": "20",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "排骨凤爪煲仔饭套餐",
-					"picUrl": "",
-					"price": "34",
+					"name": "羊肉拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200321140113784591.jpg",
+					"price": "16",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "腊味凤爪煲仔饭套餐",
-					"picUrl": "",
-					"price": "34",
+					"name": "羊肉泡馍",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191227140316900309.png",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "梅菜扣肉煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20161202130935607452.jpg",
-					"price": "33",
+					"name": "羊肉烩面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200331111200848936.png",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "广式腊鸭煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329200548238643.jpg",
-					"price": "32",
+					"name": "西红柿鸡蛋面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20171028000152871589.png",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "川式腊味煲仔饭套餐(辣)",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329200526965819.jpg",
-					"price": "33",
+					"name": "青菜拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190816141131737523.jpg",
+					"price": "13",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "鱼香肉丝煲仔饭套餐",
-					"picUrl": "",
-					"price": "28",
+					"name": "鸡蛋拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420153128951925.jpeg",
+					"price": "15",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "窝蛋牛肉煲仔饭套餐",
-					"picUrl": "",
-					"price": "42",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "腊味滑鸡煲仔饭套餐",
-					"picUrl": "",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "咸蛋肉饼煲仔饭套餐",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "咸鱼腊味煲仔饭套餐",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "酱焖猪手煲仔饭套餐",
-					"picUrl": "",
-					"price": "32",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "招牌腊味煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094403029471.jpg",
-					"price": "32",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "烟笋腊肉煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190106205450339635.png",
-					"price": "32",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "腊味三宝煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329200614426322.jpg",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "老干妈排骨煲仔饭套餐(辣)",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329200639592651.jpg",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "咸鱼花腩煲仔饭套餐",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "子姜炆鸭煲仔饭套餐",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "排骨拼肉饼煲仔饭套餐",
-					"picUrl": "",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "老干妈腩肉煲仔饭套餐",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "腊味排骨煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329200701672926.jpg",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "咸鱼排骨煲仔饭套餐",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "飘香排骨煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094810186154.jpg",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "腊味拼牛肉煲仔饭套餐",
-					"picUrl": "",
-					"price": "36",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "罗汉上素煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094817078663.jpg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "腊鸭拼腩肉煲仔饭套餐",
-					"picUrl": "",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "飘香鸡扒煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094826278844.jpg",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "肉丝茄子煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329200959788528.jpg",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "特式牛肉煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201758835637.jpg",
-					"price": "38",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "客家酿豆腐煲仔饭套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201025119194.jpg",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "香辣鸡丁煲仔饭套餐",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
-				},
-				{
-					"name": "辣酱牛肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180903170848772900.jpg",
-					"price": "38",
-					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
 					"name": "测试",
-					"picUrl": "",
-					"price": "0.10",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170428103803988490.jpg",
+					"price": "0.01",
 					"unit": "份",
-					"categoryName": "煲仔饭套餐",
-					"props": []
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190705192437991582.png",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "孜然烧饼5元",
+									"price": "5",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20210501000109977993.jpeg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "孜然烧饼5元",
+									"price": "5",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "煲仔饭",
+			"name": "炒面类",
 			"foods": [
 				{
-					"name": "什菌煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094423962665.jpg",
-					"price": "17",
+					"name": "新疆拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191225202237246632.jpg",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "煲仔饭",
+					"categoryName": "炒面类",
 					"props": [
 						{
-							"name": "加料",
+							"name": "另",
 							"values": [
 								{
-									"value": "腊味",
+									"value": "加牛肉12元",
 									"price": "12",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
+									"value": "白素饼3元",
 									"price": "3",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "煎蛋",
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
 									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								}
 							]
 						},
 						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
+							"name": "要求",
 							"values": [
 								{
 									"value": "打包",
-									"price": "1",
-									"propName": "打包",
+									"price": "0",
+									"propName": "要求",
 									"isMul": 0
 								}
 							]
@@ -421,227 +961,60 @@
 					]
 				},
 				{
-					"name": "窝蛋牛肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160519105538845320.jpg",
-					"price": "32",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "客家酿豆腐煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201055502935.jpg",
+					"name": "牛肉炒刀削面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200321142050365807.jpg",
 					"price": "20",
 					"unit": "份",
-					"categoryName": "煲仔饭",
+					"categoryName": "炒面类",
 					"props": [
 						{
-							"name": "加料",
+							"name": "另",
 							"values": [
 								{
-									"value": "腊味",
+									"value": "加牛肉12元",
 									"price": "12",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
+									"value": "白素饼3元",
 									"price": "3",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "煎蛋",
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
 									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								}
 							]
 						},
 						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
+							"name": "要求",
 							"values": [
 								{
 									"value": "打包",
-									"price": "1",
-									"propName": "打包",
+									"price": "0",
+									"propName": "要求",
 									"isMul": 0
 								}
 							]
@@ -649,341 +1022,60 @@
 					]
 				},
 				{
-					"name": "香菇滑鸡煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415095405089573.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸鱼肉饼煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170208141532287532.jpg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "湘式小炒肉煲仔饭(辣)",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201115558560.jpeg",
+					"name": "牛肉炒拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200321141939718320.jpg",
 					"price": "20",
 					"unit": "份",
-					"categoryName": "煲仔饭",
+					"categoryName": "炒面类",
 					"props": [
 						{
-							"name": "加料",
+							"name": "另",
 							"values": [
 								{
-									"value": "腊味",
+									"value": "加牛肉12元",
 									"price": "12",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
+									"value": "白素饼3元",
 									"price": "3",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "煎蛋",
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
 									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								}
 							]
 						},
 						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
+							"name": "要求",
 							"values": [
 								{
 									"value": "打包",
-									"price": "1",
-									"propName": "打包",
+									"price": "0",
+									"propName": "要求",
 									"isMul": 0
 								}
 							]
@@ -991,1871 +1083,60 @@
 					]
 				},
 				{
-					"name": "烟笋腊肉煲仔饭(辣)",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201144065433.jpg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "梅菜扣肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20161202133632522186.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "广式腊鸭煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201159257087.jpg",
-					"price": "24",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲮鱼腊味煲仔饭",
-					"picUrl": "",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲮鱼排骨煲仔饭",
-					"picUrl": "",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "辣酱鲜鱼煲仔饭",
-					"picUrl": "",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "豉汁鲜鱼煲仔饭",
-					"picUrl": "",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉拼腊味煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415095436510205.png",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊鸭腩肉煲仔饭",
-					"picUrl": "",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸鱼排骨煲仔饭",
-					"picUrl": "",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老干妈腩肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415095320527630.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨拼肉饼煲仔饭",
-					"picUrl": "",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊味凤爪煲仔饭",
-					"picUrl": "",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "野山椒牛肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094607376524.jpg",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸菜滑鸡煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219183022198654.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香辣鸡丁煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181030185410258130.jpg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊鸭拼腩肉煲仔饭",
-					"picUrl": "",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊味拼牛肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190225114435724268.png",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "尖椒炒蛋煲仔饭",
-					"picUrl": "",
+					"name": "鸡蛋炒刀削",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420224624022119.jpeg",
 					"price": "20",
 					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "川式腊味煲仔饭(辣)",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201225198774.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
+					"categoryName": "炒面类",
 					"props": [
 						{
-							"name": "加料",
+							"name": "另",
 							"values": [
 								{
-									"value": "腊味",
+									"value": "加牛肉12元",
 									"price": "12",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
+									"value": "白素饼3元",
 									"price": "3",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "煎蛋",
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
 									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								}
 							]
 						},
 						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
+							"name": "要求",
 							"values": [
 								{
 									"value": "打包",
-									"price": "1",
-									"propName": "打包",
+									"price": "0",
+									"propName": "要求",
 									"isMul": 0
 								}
 							]
@@ -2863,2251 +1144,60 @@
 					]
 				},
 				{
-					"name": "咸鱼花腩煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094550730730.jpg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "辣酱牛肉饭",
-					"picUrl": "",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "辣酱滑鸡煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219183247286269.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "豆豉鲮鱼煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190917200533666455.png",
-					"price": "24",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "咸鱼腊味煲仔饭",
-					"picUrl": "",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨凤爪煲仔饭",
-					"picUrl": "",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "排骨凤爪包煲仔饭套餐",
-					"picUrl": "",
-					"price": "36",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "酸菜牛肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180904101315432043.jpg",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酱香凤爪煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219183126365131.png",
-					"price": "24",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "招牌腊味煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094436529651.jpg",
-					"price": "24",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "辣酱凤爪煲仔饭",
-					"picUrl": "",
-					"price": "24",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": []
-				},
-				{
-					"name": "腊味三宝煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201244269211.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老干妈排骨煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170319203421987919.jpg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊味排骨煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20161216182124098467.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊肠煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201259333369.jpg",
-					"price": "24",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "飘香排骨煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094510871103.jpg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鱼香肉丝煲仔饭(辣)",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301100701681265.jpg",
+					"name": "鸡蛋炒拉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395879551144.jpg",
 					"price": "20",
 					"unit": "份",
-					"categoryName": "煲仔饭",
+					"categoryName": "炒面类",
 					"props": [
 						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
+							"name": "要求",
 							"values": [
 								{
 									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "罗汉上素煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094516057275.jpg",
-					"price": "17",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
+									"price": "0",
+									"propName": "要求",
 									"isMul": 0
 								}
 							]
 						},
 						{
-							"name": "打包",
+							"name": "另",
 							"values": [
 								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酱焖猪手煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201716913919.jpg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
+									"value": "加牛肉12元",
 									"price": "12",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
+									"value": "白素饼3元",
 									"price": "3",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								},
 								{
-									"value": "煎蛋",
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
 									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "飘香鸡扒煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094534165746.jpg",
-					"price": "20",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉丝茄子煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201409677184.jpg",
-					"price": "20",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "咸蛋肉饼煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170329201339955997.jpeg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特式牛肉煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094500221327.jpg",
-					"price": "30",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊味滑鸡煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170320213956399441.png",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						},
-						{
-							"name": "饮料或甜品",
-							"values": [
-								{
-									"value": "可乐",
-									"price": "3",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								},
-								{
-									"value": "绿豆沙",
-									"price": "4",
-									"propName": "饮料或甜品",
-									"isMul": 0
-								}
-							]
-						},
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孜然菜花炒肉煲仔饭",
-					"picUrl": "",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "米椒豆干炒肉煲仔饭",
-					"picUrl": "",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "子姜炆鸭煲仔饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200421095113421866.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "煲仔饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "排骨",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "川腊味",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "鸡扒",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "腩肉",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "滑鸡",
-									"price": "12",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸鱼",
-									"price": "6",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "窝蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "煎蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸蛋",
-									"price": "3",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "咸菜",
-									"price": "2",
-									"propName": "加料",
-									"isMul": 1
-								},
-								{
-									"value": "野山椒",
-									"price": "2",
-									"propName": "加料",
+									"propName": "另",
 									"isMul": 1
 								}
 							]
@@ -5117,261 +1207,3378 @@
 			]
 		},
 		{
-			"name": "原盅炖汤",
+			"name": "凉面类",
 			"foods": [
 				{
-					"name": "西洋菜炖龙骨汤",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094641600946.jpg",
-					"price": "12",
+					"name": "干拌面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114384067606252.jpg",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
+					"categoryName": "凉面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "无花果炖瘦肉汤",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170301094631967600.jpg",
-					"price": "12",
+					"name": "炸酱面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190721172638969324.png",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
+					"categoryName": "凉面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "冬瓜薏米龙骨q",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415094147435010.jpeg",
-					"price": "8",
+					"name": "牛肉凉面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114384035030455.jpg",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
-				},
-				{
-					"name": "茶树菇炖龙骨",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415095059917430.png",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
-				},
-				{
-					"name": "凉瓜炖龙骨汤",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415095235068510.png",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
-				},
-				{
-					"name": "茶树菇炖龙骨.",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415095041511602.png",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
-				},
-				{
-					"name": "冬瓜海带龙骨汤",
-					"picUrl": "",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
-				},
-				{
-					"name": "五指毛桃炖老鸡汤",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190709160204162327.png",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "原盅炖汤",
-					"props": []
+					"categoryName": "凉面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "滋润甜品",
+			"name": "小吃类",
 			"foods": [
 				{
-					"name": "爽口绿豆沙",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20161024171937523246.jpg",
+					"name": "孜然烧饼",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200519191415044091.png",
 					"price": "5",
 					"unit": "份",
-					"categoryName": "滋润甜品",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "燕麦桃胶养颜露",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190418181238028316.jpg",
-					"price": "5",
-					"unit": "份",
-					"categoryName": "滋润甜品",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "饮料",
-			"foods": [
-				{
-					"name": "可乐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318171143-1081140-product_h_pic.jpg",
-					"price": "4",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318171208-1081144-product_h_pic.jpg",
-					"price": "4",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "王老吉",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318171154-1081142-product_h_pic.jpg",
-					"price": "5",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "柠檬茶盒装",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150622/20150622225016-1113768-product_h_pic.jpg",
-					"price": "4",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "元気饮料",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200710093917855249.png",
-					"price": "7",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "矿泉水",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200424114413724417.png",
-					"price": "2",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "青岛啤酒",
-					"picUrl": "",
-					"price": "8",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "维他豆奶",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200429212625353129.jpg",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "加料区",
-			"foods": [
-				{
-					"name": "野山椒",
-					"picUrl": "",
-					"price": "2",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "酸菜",
-					"picUrl": "",
-					"price": "2",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "腊味",
-					"picUrl": "",
+					"name": "加牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200508174611287490.jpg",
 					"price": "12",
 					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "排骨",
-					"picUrl": "",
-					"price": "12",
+					"name": "加羊肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190415213625257603.jpg",
+					"price": "15",
 					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "川腊味",
-					"picUrl": "",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "鸡扒",
-					"picUrl": "",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "腩肉",
-					"picUrl": "",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "滑鸡",
-					"picUrl": "",
-					"price": "12",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "咸鱼",
-					"picUrl": "",
-					"price": "6",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
-				},
-				{
-					"name": "窝蛋",
-					"picUrl": "",
-					"price": "3",
-					"unit": "份",
-					"categoryName": "加料区",
-					"props": []
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
 					"name": "煎蛋",
-					"picUrl": "",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200508180117250646.jpg",
 					"price": "3",
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白素饼",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170309210607501072.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肉夹馍",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114400037820142.jpg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱油饼",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420180653083573.jpeg",
+					"price": "8",
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "盖浇拌面类",
+			"foods": [
+				{
+					"name": "土豆丝盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20160926233813177146.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆牛肉盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420224203356016.jpeg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200419195921010283.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳炒肉盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420225525499982.jpeg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱炒肉盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/20160311/20160311175107-1163795-product_h_pic.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200414125030074436.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆羊肉盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200507221017527277.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苔炒肉盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420225106106999.jpeg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20171209111020173147.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒炒肉盖浇面",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420225127871890.jpeg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "盖浇拌面类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "盖浇饭类",
+			"foods": [
+				{
+					"name": "土豆丝盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190702163351035430.png",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆牛肉盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420112819269901.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然肉盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20160705112431370256.png",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳炒肉盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420230041595761.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱炒肉盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420153819597019.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "番茄炒蛋盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420153548323642.jpeg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆肉盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420154241553360.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苔炒肉盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420153758640616.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420113551870746.jpeg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒炒肉盖浇饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420153630881469.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "盖浇饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色菜类",
+			"foods": [
+				{
+					"name": "西辣蛋",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051114395819340093.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "特色菜类",
 					"props": []
 				},
 				{
-					"name": "咸蛋",
-					"picUrl": "",
-					"price": "3",
+					"name": "凉拌牛肉大份",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190816141131826418.jpg",
+					"price": "40",
 					"unit": "份",
-					"categoryName": "加料区",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌牛肉小份",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190816141131771232.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20190709105628328677.png",
+					"price": "40",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉大份",
+					"picUrl": "",
+					"price": "48",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉小份",
+					"picUrl": "",
+					"price": "40",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆大盘鸡(送面二份)",
+					"picUrl": "",
+					"price": "108",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": []
+				},
+				{
+					"name": "新疆小盘鸡(送面一份)",
+					"picUrl": "",
+					"price": "98",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳炒肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420160937474937.jpeg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "洋葱炒肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200424221933609812.jpeg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉大份",
+					"picUrl": "",
+					"price": "58",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉小份",
+					"picUrl": "",
+					"price": "40",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆羊肉大份",
+					"picUrl": "",
+					"price": "58",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆羊肉小份",
+					"picUrl": "",
+					"price": "40",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蒜苔炒肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420222026034770.jpeg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420160709059020.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒炒肉",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200414120330984007.jpg",
+					"price": "35",
+					"unit": "份",
+					"categoryName": "特色菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "凉菜类",
+			"foods": [
+				{
+					"name": "凉拌土豆丝",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420230715936637.jpeg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "凉菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌油菜",
+					"picUrl": "",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "凉菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌皮蛋",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/20150401/20150401115155-1094183-product_h_pic.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "凉菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌西红柿",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200416201807346910.jpeg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "凉菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "凉拌青瓜",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420115210486303.jpeg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "凉菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红椒拌木耳",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200321142642860325.jpg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "凉菜类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "汤类",
+			"foods": [
+				{
+					"name": "牛肉汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420232746554546.jpeg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉粉丝汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200115133625658921.jpg",
+					"price": "18",
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20200420115509822851.jpeg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉粉丝汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20170209141206056217.jpg",
+					"price": "20",
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿蛋汤",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20191231115346051241.jpeg",
+					"price": "15",
+					"unit": "份",
+					"categoryName": "汤类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "炒饭类",
+			"foods": [
+				{
+					"name": "兰州炒饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051115244055010195.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉炒饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051115273222947166.jpg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蛋炒饭",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051115274501941309.jpg",
+					"price": "16",
+					"unit": "份",
+					"categoryName": "炒饭类",
+					"props": [
+						{
+							"name": "要求",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "要求",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "另",
+							"values": [
+								{
+									"value": "加牛肉12元",
+									"price": "12",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "加羊肉15元",
+									"price": "15",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "葱油饼8元",
+									"price": "8",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "白素饼3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "肉夹馍10元",
+									"price": "10",
+									"propName": "另",
+									"isMul": 1
+								},
+								{
+									"value": "煎蛋3元",
+									"price": "3",
+									"propName": "另",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饺子类",
+			"foods": [
+				{
+					"name": "牛肉水饺",
+					"picUrl": "http://imgcdn.huanxiongdd.com/dd_op/attached/image/600x540/20210123220122466502.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "饺子类",
+					"props": []
+				},
+				{
+					"name": "牛肉干饺",
+					"picUrl": "http://imgcdn.huanxiongdd.com/upload/400x400/20051115084141813736.jpg",
+					"price": "17",
+					"unit": "份",
+					"categoryName": "饺子类",
 					"props": []
 				}
 			]

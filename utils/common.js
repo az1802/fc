@@ -44,16 +44,20 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
 
       let url = foodItem.picUrl
       let imgName = foodItem.name
+      imgName = imgName.replace(/\//ig,'-')
+      url = url.replace('@watermark=1&&object=L3dtcHJvZHVjdC9kZWJiN2M1ZTgyZjJiNjU4Y2ZmNzA1ZTg1N2FjOTcwYjgxLnBuZw==|750w_563h','')
+      url = url.replace('@750w_563h','')
       if (url) {
         if (typeof ext == 'fucntion ') {
-          ext = ext(url)
+          ext = "."+ ext(url)
         } else {
-          ext = ext || url.slice(url.lastIndexOf("."));
+          let imgReg = /\w(\.gif|\.jpeg|\.png|\.jpg|\.bmp|\.image)/i 
+          let matchRes = url&&url.match(imgReg);
+          ext = matchRes&&matchRes[1] || ".jpg";
         }
         try {
-      console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url);
 
-          await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}.${ext}`)));
+          await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}${ext}`)));
           await sleep(3000)
         } catch (err) {
           console.log(`保存图片错误${imgName}`)
