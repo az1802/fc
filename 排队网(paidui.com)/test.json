@@ -1,0 +1,548 @@
+{
+	"shopName": "排队网",
+	"shop_pic": "",
+	"categories": [
+		{
+			"name": "干锅",
+			"foods": [
+				{
+					"name": "干锅小炒鸡",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/1e3450a7-cc09-4646-acc1-5e8a24e3575d.jpg",
+					"price": "48.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "干锅辣牛蛙",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/15863409-7757-4792-88be-0a9efbe9d95a.jpg",
+					"price": "46.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "干锅黄骨鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/f92de763-e4bc-4615-9fd5-aef2312485bd.jpg",
+					"price": "48.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "干锅炭火鱿鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/acdfcaea-3e8b-4b32-8cc8-7b0b71ce1d7d.jpg",
+					"price": "48.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "特色小炒",
+			"foods": [
+				{
+					"name": "辣炒鲜黄牛肉",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/7f7499d6-bdf3-4ebd-a4f6-6389292f23ac.jpg",
+					"price": "58.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "小炒猪肚丝",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/ef1031f1-c0ce-49ed-ab2b-e090a2eab3bf.jpg",
+					"price": "39.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "永州血鸭",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/bfccc15f-86d1-4a1c-8a3d-756469185a29.jpg",
+					"price": "39.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "农家小炒肉",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/325f19fd-dd48-49a0-af06-aef1db1133b7.jpg",
+					"price": "35.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "锅仔千页豆腐",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/2086df46-859a-4c2c-9991-1e594b64033f.jpg",
+					"price": "35.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "本味大山笋丝",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/79a98e3e-7e95-4b01-b8c3-13bcdcb5a7ad.jpg",
+					"price": "36.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "小炒鲜肥肠",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/d991b3eb-79df-458f-8f87-b36e9882bb56.jpg",
+					"price": "39.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "开胃鲜炒鸡杂",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/aff7fabc-b617-416a-a83f-af0073ecbbf0.jpg",
+					"price": "36.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "香煎海鲈鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/95c01129-49db-4a1c-8fd3-ef851fe2272c.jpg",
+					"price": "48.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "青椒多汁香干",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/55bf2899-99f6-4ac6-b4e4-7377de4fb3f2.jpg",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "肉沫煎豆腐",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/f7909ce7-6380-4131-8dd5-13882ae14a4e.jpg",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "青椒炒荷包蛋",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/a19bcf50-053a-4a76-8f27-151c1b5e5354.png",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "茭头炒腊肉",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/0c39e827-ea56-4980-8acf-d2aad5b8df76.jpg",
+					"price": "38.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "青椒衡阳油豆腐",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/46ef2dff-54fd-4d28-9bd7-634bccaff592.jpg",
+					"price": "32.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "小炒藕带",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/363529b5-7f71-490a-8bf9-19720e96cf47.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "下饭扑蕨菜",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/f7a74454-2a1c-4f21-8369-a119e031c20f.png",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "农家雪里红",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/d8b86c14-e46a-4dbf-8600-68fb8c9ce506.jpg",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "凉菜",
+			"foods": [
+				{
+					"name": "擂辣椒皮蛋",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/8077c2c5-d3f0-4397-bacf-75e0e8ba8353.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "爽口泡椒鱼皮",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/42c82f2c-800f-4b56-b790-d98ced38ac1e.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "炸花生米",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/c4ffebf2-bbe0-426a-a721-b17f29ac7037.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "时蔬",
+			"foods": [
+				{
+					"name": "家常丝瓜",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/79462c9a-43e1-42c0-9a53-c65ae1216736.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "土白菜",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/7d471323-eec1-4d19-8e33-bce0652c3840.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "小炒苦瓜",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/6062822b-ac74-4dfc-9acb-b14b14b208f4.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "蒜蓉菜心",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/25ba06d2-5455-4d93-8c6f-f5518fbf2dc3.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "蒜蓉油麦菜",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/df802ae4-42b1-461e-a060-33252931cc9d.jpg",
+					"price": "23.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "茶位费",
+			"foods": [
+				{
+					"name": "茶位费",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/a4d1f1b3-a296-4341-96d8-59b61105aabe.jpg",
+					"price": "3.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "纸巾",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/25d1ffbd-32e8-4229-84b3-fd4c505967d8.jpg",
+					"price": "2.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "烧烤肉类",
+			"foods": [
+				{
+					"name": "鲜羊肉（挂胡）",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/4ba515e7-a59d-4289-8111-c773d8cd31e3.png",
+					"price": "36.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "羊肉串",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/08bf860e-5994-4001-b0cf-8cbbd567540e.jpg",
+					"price": "36.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "羊排串",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/c05d3a3b-88e6-483e-962c-bd9db241ea3b.jpg",
+					"price": "10.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "羊腰",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/1632623e-65ea-4c09-a031-f464fcd0d7f6.jpg",
+					"price": "30.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "羊宝",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/563b70ba-7fff-47c8-9f69-206fc8e4dd79.jpg",
+					"price": "30.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "香辣鲜牛肉",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/5fdb5a75-d9f4-4a6f-9f8a-95e6739f68c8.jpg",
+					"price": "30.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "黑胡椒肥牛",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/1413baee-eaec-4fe1-8941-fa06a02c34e8.jpg",
+					"price": "36.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "牛板筋",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/72ff65f6-716a-4301-8bc9-94e19d67e7d9.jpg",
+					"price": "26.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鸡中翅",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/2ffb4ad9-abb1-489c-8b0f-973adc69434e.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鸡全翅",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/97023a9f-6cfc-4d6c-8af1-6af3be53741d.jpg",
+					"price": "10.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鸡胗",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/634dcdcb-a303-479d-9b81-fe6d64da63cc.jpg",
+					"price": "15.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "蒜香鸡脆骨",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/ea7f2d3a-85dc-4b5f-8cd1-2dd8a96752ca.jpg",
+					"price": "26.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鸡爪（抓钱爪）",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/c7c133e2-c715-4a27-86d2-444be85d2fad.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "香辣五花肉",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/931f9961-5537-4e3e-a7e4-2d1120265bfd.jpg",
+					"price": "26.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "香辣肥肠",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/85378a9d-22a3-4046-aa96-46bc0208060b.jpg",
+					"price": "36.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "海鲜",
+			"foods": [
+				{
+					"name": "生蚝",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/dd78b54d-2451-4bd4-80a2-3a579b18c3c4.jpg",
+					"price": "48.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "扇贝",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/b79f17d7-174d-4491-9cd1-4a24ee11203f.jpg",
+					"price": "48.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鲍鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/b54784d1-20a7-4c31-ad8a-92a525b61aa8.jpg",
+					"price": "88.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "带子",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/333f146c-4633-420b-ae55-fb8e861667e2.jpg",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "青龙",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/49770fff-9ff1-487a-95ba-2b89de4e1e33.jpg",
+					"price": "158.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "秋刀鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/1f3384fc-7dc9-4fc7-bf49-68e634a51040.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鲜鱿鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/c6fb88fd-3e21-4393-9f0b-51c495af8f48.jpg",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鱿鱼须",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/e2687786-99df-4d53-8bee-6a25c438402e.jpg",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "鱿鱼板",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/b775b3e8-edf7-4b1e-b84b-be37c6f63cb5.jpg",
+					"price": "28.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "九节虾",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/5d60682b-1d2e-42be-800c-ec927f972938.jpg",
+					"price": "58.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "多宝鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/a6a87a25-ded6-41c6-9ed1-66e68c553059.jpg",
+					"price": "88.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "一米带鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/ccb38c43-90c0-4390-af0b-50a1894367ff.jpg",
+					"price": "138.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "海鲜大咖",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/9746f1ef-d921-4384-be84-868973b77e7d.jpg",
+					"price": "468.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "锡纸",
+			"foods": [
+				{
+					"name": "锡纸花甲",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/51951755-6d9d-401f-859a-40c6d1ff61a5.jpg",
+					"price": "38.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "锡纸娃娃菜",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/e33d94af-c3ac-4d05-bbc7-d4d285c1a6f6.jpg",
+					"price": "16.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "锡纸鱿鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/9da3f1cd-93d8-456f-971d-602982f3931c.jpg",
+					"price": "32.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "锡纸八爪鱼",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/16912581-8265-44c6-bfd8-a4aa576804c9.jpg",
+					"price": "38.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "青菜",
+			"foods": [
+				{
+					"name": "韭菜花",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/ff2a9ed8-73dc-407a-927e-a82a29aba38c.jpg",
+					"price": "16.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "娃娃菜",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/7b762c31-a10a-4707-b7a9-dc7f1c12f519.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "土豆片",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/7155d1e3-364d-4d95-bd5d-0853fdefe39c.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "蒜蓉香菇",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/1168a0cc-245e-411c-8965-b97aba9fdbe3.jpg",
+					"price": "18.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "蒜蓉茄子",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/917c7a58-bfce-4621-81da-133c7e28d995.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "蒜蓉豆皮",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/b04b632c-63e0-402d-b42c-2ae09c73a5a3.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "奶油馒头",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/04007648-41c0-419b-a3d2-7b43e380d476.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				},
+				{
+					"name": "玉米",
+					"picUrl": "http://hn.img.paidui.com/Content/Images/ROM/0004876677/2022/4/9/d26072cc-37c3-474f-9b6b-c219ee770e31.jpg",
+					"price": "12.00",
+					"unit": "份",
+					"props": []
+				}
+			]
+		}
+	]
+}
