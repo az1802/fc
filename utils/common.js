@@ -47,7 +47,7 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
       imgName = imgName.replace(/\//ig,'-')
       url = url.replace('@watermark=1&&object=L3dtcHJvZHVjdC9kZWJiN2M1ZTgyZjJiNjU4Y2ZmNzA1ZTg1N2FjOTcwYjgxLnBuZw==|750w_563h','')
       url = url.replace('@750w_563h','')
-      if (url) {
+      if (url.trim()) {
         if (typeof ext == 'fucntion ') {
           ext = "."+ ext(url)
         } else {
@@ -56,9 +56,10 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
           ext = matchRes&&matchRes[1] || ".jpg";
         }
         try {
-
+          await sleep(2000)
+          console.log('%curl: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',url, `${imgName}${ext}`);
           await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}${ext}`)));
-          await sleep(3000)
+         
         } catch (err) {
           console.log(`保存图片错误${imgName}`)
         }

@@ -9,16 +9,27 @@ let subGroups = merchantMenuInfo.subGroups
 let specifications = merchantMenuInfo.specifications
 let categoryGoods = merchantMenuInfo.categoryGoods
 
-
-const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord} = require("../utils/index")
+const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord, genShilaiExcelAll} = require("../utils/index")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
-  practice:[],//做法
-  feeding:[	"加料"],//加料
+  practice:[
+    "口味",
+    "美味小吃",
+    "辣度",
+    "份量",
+    "粉面选择",
+    "规格"
+  ],//做法
+  feeding:[	],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "加料"
+    "口味",
+    "美味小吃",
+    "辣度",
+    "份量",
+    "粉面选择",
+    "规格"
   ],
   propsSort: [],
   bigImage:true
@@ -26,7 +37,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
 
 let propsGroupArr = [];
 
-const shopId = 'DyXGz'
+const shopId = 'A6J1V'
 // const shopId = 1001500
 // const exportMode = "keruyun"
 const exportMode = "feie"
@@ -148,12 +159,15 @@ async function genImgsAndExcel() {
   logInfo(propsGroupArr, "allpropGroup")
   // // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {
-    genImgs(merchantInfo, outputDir);
+    genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir);
-    genExcelAll(merchantInfo, outputDir, menuSetting)
-  } else {
-    // genWord(merchantInfo, outputDir)
-    genSpecificationsWord(merchantInfo, outputDir, menuSetting)
+    genExcelAll(merchantInfo,outputDir,menuSetting)
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
+  } else if (exportMode == 'feie') {
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
+  }else {
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
   }
 
 }

@@ -9,13 +9,13 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
+const exportMode = "feie"
 
-const exportMode = "shilai"
+// const exportMode = "shilai"
 
 let allMerchantInfo = require("./merchantInfo.json")
-let requestShopData = {name:"清麦牛肉面)",shop_pic:""}
-let requestMenuData = allMerchantInfo.data.data.components[3].data.dishMenu.data.dishCates
+let requestShopData = {name:"焖天下(中兴店))",shop_pic:""}
+let requestMenuData = allMerchantInfo.data.data.components[2].data.dishMenu.data.dishCates
 
 const { isRegExp } = require("util");
 
@@ -25,28 +25,20 @@ const { isRegExp } = require("util");
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
-  specifications:[ "规格默认",],//规格
+  specifications:["规格默认" ],//规格
   practice: [
-    "默认",
-    "备注",
-    '牛肉汤',
-    "打包",
-    
-    "辣度",
-    // "小吃加料"
+    "规格默认",
+  	"打包",
+	"辣度"
   ],//做法
-  feeding:["用餐类型","小吃加料","米粉类",],//加料
+  feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
+
     "规格默认",
-    "默认",
-    "备注",
-    '牛肉汤',
-    "辣度",
     "打包",
-    "用餐类型",
-    "米粉类",
-    "小吃加料"
+    "辣度",
+
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -99,6 +91,7 @@ function formatFoodProps(foodItem) {
   let {specGroupList = [] } = foodItem
 
   practiceGroups.forEach((practiceGroupItem,index) => {
+    addPropsGroupArr(propsGroupArr,practiceGroupItem.groupName)
     propsRes.push({
       name: practiceGroupItem.groupName,
       values: practiceGroupItem.specs && practiceGroupItem.specs.map(specItem => {

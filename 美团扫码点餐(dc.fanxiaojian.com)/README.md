@@ -10,6 +10,7 @@
 域名https://dc.fanxiaojian.com/
 数据在js脚本之中  window._appData全局变量可以获取  copy(window._appData.data)然后粘贴在merchantInfo.json中
 https://dc.fanxiaojian.com/order-web/page/main?sid=6&hotelid=1410075&tn=3002&dcode=vfhgk&auth=1
+https://dc.fanxiaojian.com/order-web/page/main?sid=6&hotelid=1711740&tn=5&dcode=AtWd&auth=1
 
 
 

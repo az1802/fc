@@ -9,8 +9,8 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 // const exportMode = "keruyun"
-const exportMode = "feie"
-// const exportMode = "shilai"
+// const exportMode = "feie"
+const exportMode = "shilai"
 
 let allMerchantInfo = require("./merchantInfo.json");
 let allImgs = require('./imgs.json')
@@ -172,7 +172,6 @@ async function genImgsAndExcel() {
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
-
 
   // // // mkShopDir(merchantInfo)
   if (exportMode == "keruyun") {

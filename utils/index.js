@@ -251,13 +251,19 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
 
 
 
-async function handelFoodItemImg(foodItem,shopDir){
+async function handelFoodItemImg(foodItem,shopDir,ext = 'jpg' ){
 
   let url = foodItem.picUrl
   foodItem.name = formatFileName(foodItem.name)
   let imgName= foodItem.name
   if (url) {
-    let ext = url.slice(url.lastIndexOf("."));
+    if (typeof ext == 'fucntion ') {
+      ext = "."+ ext(url)
+    } else {
+      let imgReg = /\w(\.gif|\.jpeg|\.png|\.jpg|\.bmp|\.image)/i 
+      let matchRes = url&&url.match(imgReg);
+      ext = matchRes&&matchRes[1] || ".jpg";
+    }
 
     // ext= ".jpg" 
     // ext=".jpeg"

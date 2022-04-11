@@ -7,9 +7,9 @@ const { requestUrl,genImgs,genExcel,genWord,formatFileName,delDirSync,mkdirSync,
 const defaultImgUrl = ""
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
-const findJsonLen = 7
+const exportMode = "feie"
+// const exportMode = "shilai"
+const findJsonLen = 9
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
@@ -27,7 +27,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   }
 }
 
-let shopName = "阿添沙县小吃店"
+let shopName = "陈记三及第（桂庙店）"
 
 let categories = require('./categoryData.json').data;
 let categoryObj = {}

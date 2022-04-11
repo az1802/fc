@@ -1,1042 +1,664 @@
 {
-	"shopName": "光明乳鸽（塘朗店）",
+	"shopName": "田园 农家小炒",
 	"shop_pic": "",
 	"categories": [
-		{
-			"name": "热销",
-			"foods": [
-				{
-					"name": "红烧光明乳鸽",
-					"picUrl": "https://p0.meituan.net/rmscashier/2c76299a4531fd643a05f5793d844920408129.jpg",
-					"price": 47,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "乳鸽",
-							"values": [
-								{
-									"value": "切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								},
-								{
-									"value": "不切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "公明腊味煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/86e12e621c83ab09eebbe21c732ee4fb291868.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "煲仔饭",
-							"values": [
-								{
-									"value": "加半只乳鸽",
-									"price": 20,
-									"propName": "煲仔饭",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "秘制黑叉烧饭",
-					"picUrl": "http://p1.meituan.net/rmscashier/d17978f5bf5cf3e884e232e91ce533471080076.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "光明乳鸽半只",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "超值商务套餐A",
-					"picUrl": "https://p1.meituan.net/rmscashier/b9fbb0e1727550f4ac7d09685bf77f7e158948.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "双拼饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/97d859035f8b2f88add33fd9a9f204af4749462.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "烧腊",
-							"values": [
-								{
-									"value": "脆皮烧鸭",
-									"price": 0,
-									"propName": "烧腊",
-									"isMul": true
-								},
-								{
-									"value": "黑叉烧",
-									"price": 0,
-									"propName": "烧腊",
-									"isMul": true
-								},
-								{
-									"value": "豉油鸡",
-									"price": 0,
-									"propName": "烧腊",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "烧腊2",
-							"values": [
-								{
-									"value": "脆皮烧鸭",
-									"price": 0,
-									"propName": "烧腊2",
-									"isMul": true
-								},
-								{
-									"value": "黑金叉烧",
-									"price": 0,
-									"propName": "烧腊2",
-									"isMul": true
-								},
-								{
-									"value": "豉油鸡",
-									"price": 0,
-									"propName": "烧腊2",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "脆皮烧鸭饭",
-					"picUrl": "http://p0.meituan.net/rmscashier/2360de1a82cf48398546d81a1b877304968829.png",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "光明乳鸽半只",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白灼时蔬",
-					"picUrl": "https://p0.meituan.net/rmscashier/1a2f41a6f34425d101a5843333bc62ae1966672.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "招牌乳鸽饭（乳鸽+米饭+时蔬）",
-					"picUrl": "https://p1.meituan.net/rmscashier/657ece2507105e5650c0b39d472851c6368034.jpg",
-					"price": 56,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "港式豉油鸡饭",
-					"picUrl": "http://p0.meituan.net/rmscashier/1c8fb0255f31d2798637d33beddd21a31285037.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "光明乳鸽半只",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "石斛西洋参乳鸽炖汤",
-					"picUrl": "https://p0.meituan.net/rmscashier/2fee6d045f810d84ca8b935aff4a4604230877.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "车仔面",
-					"picUrl": "https://p1.meituan.net/rmscashier/b51e6d1646ed2b32dbb4643d35c872a42081093.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "金牌秘制黑叉烧",
-					"picUrl": "https://p0.meituan.net/rmscashier/4fd03c2003e07124f3cd97d7e8ebb131456675.jpg",
-					"price": 56,
-					"unit": "半斤",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "卤水光明乳鸽",
-					"picUrl": "https://p1.meituan.net/rmscashier/ba7e8a4a6fc9f36905e42cff680e78a2359323.jpg",
-					"price": 47,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "乳鸽",
-							"values": [
-								{
-									"value": "切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								},
-								{
-									"value": "不切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "乳鸽腊味煲仔饭(半只乳鸽)",
-					"picUrl": "https://p0.meituan.net/rmscashier/1bc9fc0cf18cc09a2f9b74be1d26d3fb1293586.jpg",
-					"price": 49,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "虫草花乳鸽炖汤",
-					"picUrl": "https://p0.meituan.net/rmscashier/e323d081945255206719ac854d5c5adb956028.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "天麻乳鸽炖汤",
-					"picUrl": "https://p0.meituan.net/rmscashier/75b38ebb95617ef0f6e827df10ad2fd7226354.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "超值商务套餐B(半只乳鸽)",
-					"picUrl": "https://p1.meituan.net/rmscashier/5644da97df120a147024ed973dde7d9b1208660.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "虫草花乳鸽炖汤河粉-面",
-					"picUrl": "https://p0.meituan.net/rmscashier/dd8e36af1c62373f51089e9b37d8f540510494.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "河粉/面",
-							"values": [
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "河粉/面",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "河粉/面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式豉油鸡",
-					"picUrl": "https://p0.meituan.net/rmscashier/6a2215058ddb7a63650cb7deaeca2832300409.jpg",
-					"price": 52,
-					"unit": "半斤",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "整只",
-									"price": 100,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "半只",
-									"price": 52,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						}
-					]
-				}
-			]
-		},
 		{
 			"name": "折扣",
 			"foods": []
 		},
 		{
-			"name": "光明乳鸽",
+			"name": "田园农家小炒",
 			"foods": [
 				{
-					"name": "红烧光明乳鸽",
-					"picUrl": "https://p0.meituan.net/rmscashier/2c76299a4531fd643a05f5793d844920408129.jpg",
-					"price": 47,
-					"unit": "份",
-					"categoryName": "光明乳鸽",
-					"props": [
-						{
-							"name": "乳鸽",
-							"values": [
-								{
-									"value": "切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								},
-								{
-									"value": "不切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤水光明乳鸽",
-					"picUrl": "https://p1.meituan.net/rmscashier/ba7e8a4a6fc9f36905e42cff680e78a2359323.jpg",
-					"price": 47,
-					"unit": "份",
-					"categoryName": "光明乳鸽",
-					"props": [
-						{
-							"name": "乳鸽",
-							"values": [
-								{
-									"value": "切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								},
-								{
-									"value": "不切",
-									"price": 0,
-									"propName": "乳鸽",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "招牌煲仔饭",
-			"foods": [
-				{
-					"name": "公明腊味煲仔饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/86e12e621c83ab09eebbe21c732ee4fb291868.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "招牌煲仔饭",
-					"props": [
-						{
-							"name": "煲仔饭",
-							"values": [
-								{
-									"value": "加半只乳鸽",
-									"price": 20,
-									"propName": "煲仔饭",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "乳鸽腊味煲仔饭(半只乳鸽)",
-					"picUrl": "https://p0.meituan.net/rmscashier/1bc9fc0cf18cc09a2f9b74be1d26d3fb1293586.jpg",
-					"price": 49,
-					"unit": "份",
-					"categoryName": "招牌煲仔饭",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "经典粤式烧腊",
-			"foods": [
-				{
-					"name": "金牌秘制黑叉烧",
-					"picUrl": "https://p0.meituan.net/rmscashier/4fd03c2003e07124f3cd97d7e8ebb131456675.jpg",
-					"price": 56,
-					"unit": "半斤",
-					"categoryName": "经典粤式烧腊",
-					"props": []
-				},
-				{
-					"name": "港式豉油鸡",
-					"picUrl": "https://p0.meituan.net/rmscashier/6a2215058ddb7a63650cb7deaeca2832300409.jpg",
-					"price": 52,
-					"unit": "半斤",
-					"categoryName": "经典粤式烧腊",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "整只",
-									"price": 100,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "半只",
-									"price": 52,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "脆皮烧鸭",
-					"picUrl": "https://p1.meituan.net/rmscashier/6a7dc599483ee2fc613eefab244b2c7e200507.jpg",
-					"price": 46,
-					"unit": "例",
-					"categoryName": "经典粤式烧腊",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "整只",
-									"price": 145,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "半只",
-									"price": 75,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "例",
-									"price": 46,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酱香卤鹅",
-					"picUrl": "https://p1.meituan.net/rmscashier/cc417816c7d227234cfe0b618d529c99449403.png",
-					"price": 49,
-					"unit": "例",
-					"categoryName": "经典粤式烧腊",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "整只",
-									"price": 189,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "半只",
-									"price": 98,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "例",
-									"price": 49,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "碟头饭",
-			"foods": [
-				{
-					"name": "超值商务套餐A",
-					"picUrl": "https://p1.meituan.net/rmscashier/b9fbb0e1727550f4ac7d09685bf77f7e158948.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": []
-				},
-				{
-					"name": "超值商务套餐B(半只乳鸽)",
-					"picUrl": "https://p1.meituan.net/rmscashier/5644da97df120a147024ed973dde7d9b1208660.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": []
-				},
-				{
-					"name": "双拼饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/97d859035f8b2f88add33fd9a9f204af4749462.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": [
-						{
-							"name": "烧腊",
-							"values": [
-								{
-									"value": "脆皮烧鸭",
-									"price": 0,
-									"propName": "烧腊",
-									"isMul": true
-								},
-								{
-									"value": "黑叉烧",
-									"price": 0,
-									"propName": "烧腊",
-									"isMul": true
-								},
-								{
-									"value": "豉油鸡",
-									"price": 0,
-									"propName": "烧腊",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "烧腊2",
-							"values": [
-								{
-									"value": "脆皮烧鸭",
-									"price": 0,
-									"propName": "烧腊2",
-									"isMul": true
-								},
-								{
-									"value": "黑金叉烧",
-									"price": 0,
-									"propName": "烧腊2",
-									"isMul": true
-								},
-								{
-									"value": "豉油鸡",
-									"price": 0,
-									"propName": "烧腊2",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "三拼饭（叉烧+烧鸭+豉油鸡+卤蛋）",
-					"picUrl": "http://p0.meituan.net/rmscashier/91bd0b2887141ad6d10a945a9a859e48660242.png",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": []
-				},
-				{
-					"name": "秘制黑叉烧饭",
-					"picUrl": "http://p1.meituan.net/rmscashier/d17978f5bf5cf3e884e232e91ce533471080076.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "光明乳鸽半只",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式豉油鸡饭",
-					"picUrl": "http://p0.meituan.net/rmscashier/1c8fb0255f31d2798637d33beddd21a31285037.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "光明乳鸽半只",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "港式豉油鸡肶饭",
-					"picUrl": "https://p1.meituan.net/rmscashier/c4470bc9ed085eee413343e5201d2bbf458885.png",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": []
-				},
-				{
-					"name": "脆皮烧鸭饭",
-					"picUrl": "http://p0.meituan.net/rmscashier/2360de1a82cf48398546d81a1b877304968829.png",
+					"name": "香干回锅肉",
+					"picUrl": "http://p1.meituan.net/rmscashier/6cb62f0574ecc2ddbe3376fb2b351e5380019.jpg",
 					"price": 22,
 					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "光明乳鸽半只",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酱香卤鹅饭（偏肥）",
-					"picUrl": "https://p0.meituan.net/rmscashier/31c276fca92154b3730ac80eeaf97034164672.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "碟头饭",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "光明乳鸽半只",
-									"price": 20,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "喝个汤",
-			"foods": [
-				{
-					"name": "天麻乳鸽炖汤",
-					"picUrl": "https://p0.meituan.net/rmscashier/75b38ebb95617ef0f6e827df10ad2fd7226354.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "喝个汤",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "虫草花乳鸽炖汤",
-					"picUrl": "https://p0.meituan.net/rmscashier/e323d081945255206719ac854d5c5adb956028.jpg",
-					"price": 19,
+					"name": "小笋炒腊肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/e2ab38df65273c7c8f9fa03d21f73ccf104607.jpg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "喝个汤",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "石斛西洋参乳鸽炖汤",
-					"picUrl": "https://p0.meituan.net/rmscashier/2fee6d045f810d84ca8b935aff4a4604230877.jpg",
-					"price": 19,
+					"name": "农家一碗香",
+					"picUrl": "http://p0.meituan.net/rmscashier/2b6d20c1b5a8170f7204983447ee1fd8113361.jpg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "喝个汤",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "乳鸽套餐",
-			"foods": [
-				{
-					"name": "招牌乳鸽饭（乳鸽+米饭+时蔬）",
-					"picUrl": "https://p1.meituan.net/rmscashier/657ece2507105e5650c0b39d472851c6368034.jpg",
-					"price": 56,
-					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "光明三宝（招牌乳鸽+金银玉米+晨光固体酸奶）",
-					"picUrl": "https://p0.meituan.net/rmscashier/89410ed6efef2d228ff4a98681ca2eff342171.jpg",
-					"price": 56,
+					"name": "农家小炒肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/ea4a2954e8160ebe897a0c58021da67296647.jpg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "招牌乳鸽+车仔面+可乐",
-					"picUrl": "https://p0.meituan.net/rmscashier/a6df7d8202c69832d7bf99d0daed0817435847.jpg",
-					"price": 59,
+					"name": "红烧鱼块",
+					"picUrl": "http://p0.meituan.net/rmscashier/d8b71ec353c6f003f5f96f541552328f82355.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "招牌乳鸽+乳鸽枸杞粥",
-					"picUrl": "https://p0.meituan.net/rmscashier/7704a9021799f1ade0fcd4ad60e867e3294869.jpg",
-					"price": 59,
+					"name": "大盘鸡",
+					"picUrl": "http://p1.meituan.net/rmscashier/1bd11884b4d54857716f268d509ca819100457.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "招牌乳鸽+养生汤",
-					"picUrl": "https://p1.meituan.net/rmscashier/c14bab051b36a2fd2e8f0bc472dbbcdd286950.jpg",
-					"price": 65,
+					"name": "辣子鸡",
+					"picUrl": "https://p0.meituan.net/rmscashier/5d913712bfeef1aa8b2be3f9d37278ee129493.jpg",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "公明腊味煲仔饭+养生汤",
-					"picUrl": "https://p1.meituan.net/rmscashier/e1b4fc5f082f3be47a0475ad06353113349734.jpg",
-					"price": 46,
+					"name": "小炒黄牛肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/554f65a7c9027b56e24425e6c22ce5a5133145.jpg",
+					"price": 35,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "乳鸽炖汤+米饭+时蔬",
-					"picUrl": "https://p0.meituan.net/rmscashier/3496095fa848d2e1e9b4bf07bb1035af552599.jpg",
-					"price": 29,
+					"name": "野山椒炒牛肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/62670cd6042ab964206e73c4fa3d19d2120446.jpg",
+					"price": 35,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "乳鸽炖汤+车仔面+金银玉米",
-					"picUrl": "https://p1.meituan.net/rmscashier/e96d7020a8412ec18dc467606bf4301b661880.jpg",
-					"price": 30,
+					"name": "葱爆羊肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/33105731488d310df486710a969504ee123274.jpg",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "乳鸽炖汤+车仔面+白灼时蔬",
-					"picUrl": "https://p0.meituan.net/rmscashier/7048e3319b88abefbcb8f97b5316b905664360.jpg",
-					"price": 30,
+					"name": "水煮鱼片",
+					"picUrl": "http://p0.meituan.net/rmscashier/70d5250fcee344cd5c47b448f7ea75aa53116.jpg",
+					"price": 36,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "招牌双人套餐（招牌乳鸽+招牌煲仔饭+养生汤*2+时蔬）",
-					"picUrl": "https://p0.meituan.net/rmscashier/b17f6755ab0dd177e9b5c8f3decd970a580198.jpg",
-					"price": 119,
+					"name": "酸辣鸡杂",
+					"picUrl": "http://p0.meituan.net/rmscashier/814f8833e8fc0287cea31fb25c0cf14e76421.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "团购单人餐",
-					"picUrl": "https://p1.meituan.net/rmscashier/f895f20bc0c56f260f8ce5e2b77ada2f443816.jpg",
-					"price": 58,
+					"name": "腐竹炒肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/faf2668d7143ea0c650e67fc23c21c4779010.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "乳鸽套餐",
+					"categoryName": "田园农家小炒",
 					"props": []
-				}
-			]
-		},
-		{
-			"name": "养生粥/粉/面",
-			"foods": [
+				},
 				{
-					"name": "乳鸽枸杞粥",
-					"picUrl": "https://p1.meituan.net/rmscashier/d636d5acd6fc42dfd3bdbd059679e3c1504640.jpg",
+					"name": "青椒肉丝",
+					"picUrl": "https://p0.meituan.net/rmscashier/2342d76a68b2bee1aedc0244a994513879513.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "土豆牛腩",
+					"picUrl": "http://p0.meituan.net/rmscashier/95c56685709c7d931e6c04a2b0b89da781790.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "鱼香肉丝",
+					"picUrl": "https://p1.meituan.net/rmscashier/5e9417858959621e245269a1c5fa0433108128.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "油豆腐回锅肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/17456db2f9f53084c451a5419df8820473419.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "香辣虾",
+					"picUrl": "http://p0.meituan.net/rmscashier/eb51be7589573b800504eef0c3891db1125723.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "干锅牛杂",
+					"picUrl": "http://p1.meituan.net/rmscashier/3ec038ecce9e0b113e4103c04519494f77050.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "干锅千叶豆腐",
+					"picUrl": "http://p0.meituan.net/rmscashier/d16ff42b09cf6688a93f13ea943eb04c125611.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "干锅肥肠",
+					"picUrl": "http://p0.meituan.net/rmscashier/ae11edd7262585796140b6b754ef53d287703.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "家常豆腐",
+					"picUrl": "https://p1.meituan.net/rmscashier/79232225828bf92cc31cdd27593db412106382.jpg",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "养生粥/粉/面",
+					"categoryName": "田园农家小炒",
 					"props": []
 				},
 				{
-					"name": "虫草花乳鸽炖汤河粉-面",
-					"picUrl": "https://p0.meituan.net/rmscashier/dd8e36af1c62373f51089e9b37d8f540510494.jpg",
-					"price": 25,
+					"name": "西红柿炒蛋",
+					"picUrl": "http://p0.meituan.net/rmscashier/a7f8cf456a8a57abebfb0b4b050477ba125989.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "养生粥/粉/面",
-					"props": [
-						{
-							"name": "河粉/面",
-							"values": [
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "河粉/面",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "河粉/面",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "田园农家小炒",
+					"props": []
 				},
 				{
-					"name": "石斛西洋参乳鸽炖汤河粉-面",
-					"picUrl": "https://p1.meituan.net/rmscashier/ad7a66c2e5e1347484b387f0c15f0c53518994.jpg",
+					"name": "铁板豆腐",
+					"picUrl": "http://p0.meituan.net/rmscashier/440e4ad1b0df9d97630e7a64f0c311e085870.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "苦瓜牛肉",
+					"picUrl": "http://p1.meituan.net/rmscashier/72ba947e20206f01ac6bf9d941558e4370352.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "香干炒腊肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/5fade71c4f215a0a374b336e11e9859d89598.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "辣椒炒鸡蛋",
+					"picUrl": "http://p0.meituan.net/rmscashier/d82d31548b38e8e5272418bdf8ab2e03117608.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "干锅包菜",
+					"picUrl": "http://p0.meituan.net/rmscashier/fa1b9b70b4a2d4614a26413e10e3dabe68379.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "红烧茄子",
+					"picUrl": "http://p1.meituan.net/rmscashier/67ccce45dfe9ad30044a530a7b783f6b82202.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "小炒鸡",
+					"picUrl": "http://p0.meituan.net/rmscashier/b5a8c0ef6ed70578f2c745d6c95efd7f501043.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "大盆花菜",
+					"picUrl": "http://p0.meituan.net/rmscashier/9dcd95c7969bd6bf9b219cc571fdfec5133560.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "爆炒上海青",
+					"picUrl": "http://p0.meituan.net/rmscashier/e4e6f59eb2652a97963410d7e86b06db92629.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "爆炒油麦菜",
+					"picUrl": "http://p1.meituan.net/rmscashier/7cdedad16027811e612495118db9ff5083567.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "荷兰豆炒腊肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/52b08d7316b3d62b79b57f980ee96f7475968.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "杏鲍菇炒肉",
+					"picUrl": "http://p1.meituan.net/rmscashier/6f68db1c3a2a5f00e4b421c58395be0857662.jpg",
 					"price": 25,
 					"unit": "份",
-					"categoryName": "养生粥/粉/面",
-					"props": [
-						{
-							"name": "河粉/面",
-							"values": [
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "河粉/面",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "河粉/面",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "红烧鲫鱼",
+					"picUrl": "http://p1.meituan.net/rmscashier/7d9966ba198c2629d5e52e4b08adf75872633.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "大盘鸡（大份）",
+					"picUrl": "http://p1.meituan.net/rmscashier/36ac54aed3cd3c5c974f031e30839c5c122847.jpg",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "腐竹牛腩",
+					"picUrl": "http://p0.meituan.net/rmscashier/634090579de4298349e453ebc34fca1054679.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "麻婆豆腐",
+					"picUrl": "http://p0.meituan.net/rmscashier/f218d26eaeaa9a0a5e6582d5885f07de59211.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "苦瓜炒蛋",
+					"picUrl": "http://p0.meituan.net/rmscashier/cd5da6603bba0324d60e8595704d629f59741.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "芹菜炒肉丝",
+					"picUrl": "http://p1.meituan.net/rmscashier/f746c972012f52fc29609892c2acb2f366592.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "苦瓜炒肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/b8b8840125b4f6c0f7d49e69294b101390562.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "酸辣娃娃菜",
+					"picUrl": "http://p0.meituan.net/rmscashier/62d2340224ba2bea6cc65eaa7eb5c8b162419.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "青椒炒千张",
+					"picUrl": "http://p0.meituan.net/rmscashier/a993b28c7f202d85651588e00e860dd743062.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "蚂蚁上树",
+					"picUrl": "http://p0.meituan.net/rmscashier/c7fde97f9b7cd5528be066b6708ece3270864.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "酸豆角炒肉丝",
+					"picUrl": "http://p0.meituan.net/rmscashier/ed753fa187335ad1c69491d5a379f696133590.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "小炒茄子",
+					"picUrl": "http://p0.meituan.net/rmscashier/a5288008767e29451f5fd2a310a9b83971312.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "胡萝卜炒肉丝",
+					"picUrl": "http://p0.meituan.net/rmscashier/a8f1ce17167ab69a7e615ec96fc12c1478501.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "孜然肉片",
+					"picUrl": "http://p0.meituan.net/rmscashier/430090f666e3ac7474c1c33cef78888272443.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "糖醋里脊",
+					"picUrl": "http://p0.meituan.net/rmscashier/964e800a629cab37e10ac3e45224adc742693.jpg",
+					"price": 32,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "梅菜扣肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/3634bec0450bd0be4ac5c707456cfc4948773.jpg",
+					"price": 36,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "爆炒猪头肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/045cb177313ca7cfcc2f2ae0b0549c6477116.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
+				},
+				{
+					"name": "爆炒花甲",
+					"picUrl": "http://p0.meituan.net/rmscashier/8a1d77d240423f578d845070672e203149983.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "田园农家小炒",
+					"props": []
 				}
 			]
 		},
 		{
-			"name": "精美小吃茶点",
+			"name": "凉菜系列",
 			"foods": [
 				{
-					"name": "豉汁金钱肚",
-					"picUrl": "https://p1.meituan.net/rmscashier/eb6d8be51cbee7f754dbdf1de7d0195b411834.jpg",
-					"price": 21,
+					"name": "凉拌黄牛肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/702f67b01e894a21645ce290c2e5fca0107288.jpg",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "精美小吃茶点",
+					"categoryName": "凉菜系列",
 					"props": []
 				},
 				{
-					"name": "马拉糕",
-					"picUrl": "https://p0.meituan.net/rmscashier/47cb92a4be64994b70d29c6a31c45cfe230524.jpg",
-					"price": 12,
+					"name": "凉拌猪头肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/ad0b177cf50235c0c0737551e011cb0f113904.jpg",
+					"price": 38,
 					"unit": "份",
-					"categoryName": "精美小吃茶点",
+					"categoryName": "凉菜系列",
 					"props": []
 				},
 				{
-					"name": "薯条",
-					"picUrl": "https://p0.meituan.net/rmscashier/d77ac9fd1534a3b83982c55253a645ad793690.jpg",
-					"price": 9,
+					"name": "红油猪耳",
+					"picUrl": "http://p0.meituan.net/rmscashier/f67bdfc5609e84255ed2d79654947e05150111.jpg",
+					"price": 32,
 					"unit": "份",
-					"categoryName": "精美小吃茶点",
+					"categoryName": "凉菜系列",
 					"props": []
 				},
 				{
-					"name": "小吃随心配",
-					"picUrl": "https://p0.meituan.net/rmscashier/4c19a39a112038bd23b6bf4b45f479e83196737.jpg",
-					"price": 9.9,
+					"name": "卤豆皮",
+					"picUrl": "http://p0.meituan.net/rmscashier/b051c8937647e355f2447a6a433e71d2103685.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "精美小吃茶点",
+					"categoryName": "凉菜系列",
 					"props": []
 				},
 				{
-					"name": "小吃拼多多",
-					"picUrl": "http://p0.meituan.net/rmscashier/e8e109aa4fafc86d35e5025fe53ec5031391347.png",
-					"price": 32.9,
+					"name": "凉拌黄瓜",
+					"picUrl": "http://p0.meituan.net/rmscashier/23d329fdb66f3eec0e25b12ed6a2b24b118322.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "精美小吃茶点",
+					"categoryName": "凉菜系列",
 					"props": []
 				},
 				{
-					"name": "南瓜饼（六个）",
-					"picUrl": "https://p0.meituan.net/rmscashier/abb186590dd3bee678f42ffb8445a7fe388670.jpg",
-					"price": 9,
+					"name": "凉拌变蛋",
+					"picUrl": "http://p1.meituan.net/rmscashier/c0b2dff7db322efd9a1abccb41e2913a111974.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "精美小吃茶点",
-					"props": []
-				},
-				{
-					"name": "地瓜丸（六个）",
-					"picUrl": "https://p0.meituan.net/rmscashier/7eae5dcea61ca92028b9fac38ad41988241013.jpg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "精美小吃茶点",
+					"categoryName": "凉菜系列",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "主食配菜",
+			"name": "火锅系列",
 			"foods": [
 				{
-					"name": "白灼时蔬",
-					"picUrl": "https://p0.meituan.net/rmscashier/1a2f41a6f34425d101a5843333bc62ae1966672.jpg",
+					"name": "牛杂火锅",
+					"picUrl": "http://p1.meituan.net/rmscashier/16f05b847fc7afb233a84c9f9830169578773.jpg",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				},
+				{
+					"name": "奇味鸡煲",
+					"picUrl": "http://p0.meituan.net/rmscashier/a646fe6ca20d878853d54f7f530351e665861.jpg",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "火锅系列",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "主食（汤）",
+			"foods": [
+				{
+					"name": "羊肉烩面",
+					"picUrl": "http://p0.meituan.net/rmscashier/24d7b131753eb5a17dacd7419d614a0925866.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "主食（汤）",
+					"props": []
+				},
+				{
+					"name": "羊肉汤",
+					"picUrl": "http://p1.meituan.net/rmscashier/39693d284e7bdc2f5aa8ebb2020dc63261078.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "主食（汤）",
+					"props": []
+				},
+				{
+					"name": "油酥烧饼",
+					"picUrl": "http://p0.meituan.net/rmscashier/d7f9be7c8ec61a8082211e2fc095337590718.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "主食（汤）",
+					"props": []
+				},
+				{
+					"name": "油酥烧饼夹豆皮",
+					"picUrl": "http://p0.meituan.net/rmscashier/27d2da697164ffe9449b29ad29f99aec71044.jpg",
 					"price": 8,
 					"unit": "份",
-					"categoryName": "主食配菜",
+					"categoryName": "主食（汤）",
 					"props": []
 				},
 				{
-					"name": "车仔面",
-					"picUrl": "https://p1.meituan.net/rmscashier/b51e6d1646ed2b32dbb4643d35c872a42081093.jpg",
-					"price": 10,
+					"name": "油酥烧饼夹牛肉",
+					"picUrl": "http://p0.meituan.net/rmscashier/b7b233de24ea6a001b8e4364702d634f345767.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "主食配菜",
+					"categoryName": "主食（汤）",
 					"props": []
 				},
 				{
-					"name": "米饭",
-					"picUrl": "https://p0.meituan.net/rmscashier/6f751557415142f6fd1c3b2a7c1c2d92284370.jpg",
-					"price": 3,
+					"name": "胡辣汤",
+					"picUrl": "https://p1.meituan.net/rmscashier/47b3cecb85a371b51c04bdb45dd41d8b41465.jpg",
+					"price": 8,
 					"unit": "份",
-					"categoryName": "主食配菜",
+					"categoryName": "主食（汤）",
 					"props": []
 				},
 				{
-					"name": "金银玉米",
-					"picUrl": "https://p0.meituan.net/rmscashier/fed5e0136a2d232da07c589425cfd9722591662.jpg",
-					"price": 6,
+					"name": "胡辣汤（大）",
+					"picUrl": "https://p1.meituan.net/rmscashier/47b3cecb85a371b51c04bdb45dd41d8b41465.jpg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "主食配菜",
+					"categoryName": "主食（汤）",
+					"props": []
+				},
+				{
+					"name": "紫菜蛋花汤",
+					"picUrl": "https://p0.meituan.net/rmscashier/6611050ca11f1cba29f9ff017d6bfb6450214.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "主食（汤）",
+					"props": []
+				},
+				{
+					"name": "番茄鸡蛋汤",
+					"picUrl": "https://p1.meituan.net/rmscashier/78585374979227a1eafa1973a689823c53027.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "主食（汤）",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "饮料",
+			"name": "饮料🥤酒水",
 			"foods": [
 				{
-					"name": "晨光固体酸奶",
-					"picUrl": "https://p0.meituan.net/rmscashier/4cb1a0c0ec89bc3ccef263523d0ed4c7443116.jpg",
+					"name": "维他奶(玻璃瓶)",
+					"picUrl": "http://p0.meituan.net/rmscashier/c163eaf95ce680a9cff20a4b2e75692425917.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料🥤酒水",
+					"props": []
+				},
+				{
+					"name": "怡宝",
+					"picUrl": "https://p0.meituan.net/rmscashier/e7f4b04a1b698a8bc6e64f6a99f97b1856856.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料🥤酒水",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "https://p0.meituan.net/rmscashier/52a69b0be6d464cb974640b67dcdcbd545204.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料🥤酒水",
+					"props": []
+				},
+				{
+					"name": "老勇闯天涯",
+					"picUrl": "https://p0.meituan.net/rmscashier/035ba188e85adff65b3223db5f921c13104017.jpg",
+					"price": 6,
+					"unit": "瓶",
+					"categoryName": "饮料🥤酒水",
+					"props": []
+				},
+				{
+					"name": "青岛啤酒",
+					"picUrl": "http://p0.meituan.net/rmscashier/fc2ec090674ba114be3393a22517397980828.jpg",
 					"price": 6,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料🥤酒水",
 					"props": []
 				},
 				{
-					"name": "罐装可乐",
-					"picUrl": "https://p0.meituan.net/rmscashier/76345f6d31293953dcca2dcca5adffe0201886.jpg",
-					"price": 5,
+					"name": "百威啤酒",
+					"picUrl": "https://p0.meituan.net/rmscashier/d8f658f7605c1cc8c6d4e02e1a974a9b45801.jpg",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料🥤酒水",
 					"props": []
 				},
 				{
-					"name": "百威罐装大",
-					"picUrl": "https://p0.meituan.net/rmscashier/7e15860f48dcea9855154085eb8784fb315396.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "饮料",
+					"name": "牛栏山二锅头",
+					"picUrl": "https://p0.meituan.net/rmscashier/7fcf8bfc31191f8432f377965a7bc96197789.jpg",
+					"price": 18,
+					"unit": "瓶",
+					"categoryName": "饮料🥤酒水",
 					"props": []
 				},
 				{
-					"name": "可乐（玻璃瓶）",
-					"picUrl": "https://p0.meituan.net/rmscashier/69b8cfa2fcf87e454c2b4807a4f641c7294961.jpg",
-					"price": 2,
+					"name": "七喜（大）",
+					"picUrl": "http://p1.meituan.net/rmscashier/57237064d715efaf5cc1757059dff91247302.jpg",
+					"price": 8,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料🥤酒水",
 					"props": []
 				},
 				{
-					"name": "雪碧(玻璃瓶)",
-					"picUrl": "https://p0.meituan.net/rmscashier/30359be6f3707e35dc0a00b372e96e8b171170.jpg",
-					"price": 2,
+					"name": "百事可乐（大）",
+					"picUrl": "http://p0.meituan.net/rmscashier/254eb3c5d28049c069d1ff6dd78f0c9029378.jpg",
+					"price": 8,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "维他豆奶瓶",
-					"picUrl": "https://p0.meituan.net/rmscashier/c24b32003a7ab5d27bd8e2efebc2cb0169460.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "农夫山矿泉水",
-					"picUrl": "https://p0.meituan.net/rmscashier/eb3b8a8a10e688350aee25d7dd3e423888303.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮料🥤酒水",
 					"props": []
 				}
 			]
