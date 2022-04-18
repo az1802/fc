@@ -1,17 +1,14 @@
 const fs = require("fs");
 const path = require("path");
 
-const {
-  mkShopDir,
-  genExportData,
-  logInfo,
-} = require("../utils/index")
+
+const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord, genShilaiExcelAll} = require("../utils/index")
 
 
 let { data: {
   dishList=[]
 } } = require("./menuData.json");
-
+const outputDir = path.join(__dirname, "merchantInfos")
 console.log(dishList)
 
 // const exportMode = "keruyun"
@@ -31,10 +28,10 @@ let menuSetting = {
   }
 }
 
-
+let propsGroupArr = [];
 async function handleMenuData() {
   let merchantInfo = {
-    shopName: "黎记广州牛杂固戌店",
+    shopName: "南昌拌粉深圳桥南店",
     shop_pic: "",
     categories: []
   };
@@ -63,21 +60,42 @@ async function handleMenuData() {
 // 获取原始数据
 async function getMerchantInfo() {
   let merchantInfo = await handleMenuData()
-  await logInfo(merchantInfo,__dirname,"merchantRes")
   return merchantInfo;
 }
 
-// 生成图片文件夹以及excel文件
-async function genImgsAndExcel() {
-  let merchantInfo = await getMerchantInfo();
-  let outputDir = await mkShopDir(__dirname,merchantInfo.shopName)
-
-  genExportData({
-    merchantInfo,
-    menuSetting,
-    outputDir,
-    exportMode
-  })
+// 打印日志到test.json 文件夹
+async function logInfo(info,fileName="test.json") { 
+  fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
 }
+
+async function mkShopDir(shopDir) { 
+  delDirSync(shopDir);
+  mkdirSync(shopDir)
+}
+
+async function genImgsAndExcel() { 
+  let merchantInfo = await getMerchantInfo();
+  await logInfo(merchantInfo,"merchantRes")
+  let { shopName} = merchantInfo
+  let shopDir = path.join(outputDir, formatFileName(shopName));
+  // // 重建创建商铺目录
+  await mkShopDir(shopDir)
+
+  logInfo(propsGroupArr,"allPropGroups")
+  // // mkShopDir(merchantInfo)
+  if (exportMode == "keruyun") {
+    genImgs(merchantInfo,outputDir);
+    genExcel(merchantInfo, outputDir);
+    genExcelAll(merchantInfo,outputDir,menuSetting)
+  } else if (exportMode == 'shilai') {
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
+  } else if (exportMode == 'feie') {
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
+  }else {
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+  }
+}
+
+
 
 genImgsAndExcel();

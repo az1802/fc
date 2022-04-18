@@ -15,8 +15,8 @@ const {
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
 
 
 let requestMenuDataAll = require("./menuData.json");
@@ -31,18 +31,16 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格"],//规格
   practice: [
-    "忌口",
-    "加料",
-    "规格",
-    "酱料"
+    "香辣",
+    "酱香",
+    "家常味",
   ],//做法
   feeding:["加料",],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "忌口",
-    "加料",
-    "规格",
-    "酱料"
+    "香辣",
+    "酱香",
+    "家常味",
   ],
  
   propsSort: {

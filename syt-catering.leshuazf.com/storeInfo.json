@@ -2,20 +2,20 @@
 	"errCode": "10000",
 	"errMsg": "SUCCESS",
 	"data": {
-		"merchant_code": "6017197812",
+		"merchant_code": "7705659153",
 		"district_code": "0",
-		"store_code": "3549242031",
-		"out_store_code": "2527019314(0)",
-		"store_name": "卤面道手擀面",
+		"store_code": "9181307443",
+		"out_store_code": "6465117872(0)",
+		"store_name": "板烧厨房",
 		"branch_name": "",
-		"store_img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/store/20210824120632428.jpeg"],
+		"store_img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/store/2021112314362625.png"],
 		"is_collect": 2,
-		"lng": "113.831505",
-		"lat": "22.657365",
+		"lng": "114.048012",
+		"lat": "22.606006",
 		"open_time": "[{\"time_area_start_hour\":\"00:00\",\"time_area_end\":\"23:59\",\"is_all_day\":\"1\",\"week\":[1,2,3,4,5,6,7]}]",
-		"open_time_new": "[{\"time_area\":[{\"start\":\"00:00\",\"end\":\"23:59\"}],\"week\":[1,2,3,4,5,6,7]}]",
-		"distance": 12441.87,
-		"deliver_money": 0,
+		"open_time_new": "[{\"time_area\":[{\"start\":\"10:30\",\"end\":\"22:00\"}],\"week\":[1,2,3,4,5,6,7]}]",
+		"distance": 12464.73,
+		"deliver_money": "0",
 		"dc_info": {
 			"opening_status": "1",
 			"is_open": "1",
@@ -27,18 +27,18 @@
 			"pack_cost": "0",
 			"notice": "",
 			"platform_app_pay": "2",
-			"storecode_order": "2",
+			"storecode_order": "1",
 			"tablecode_order": "1"
 		},
 		"wm_info": {
 			"opening_status": 2,
-			"is_open": 2,
-			"is_open_fix_order": 1,
-			"send_mode": 1,
-			"meal_time": 30,
-			"min_price": 0,
-			"mix_fix_day": 1,
-			"interval_time": 15,
+			"is_open": "2",
+			"is_open_fix_order": "1",
+			"send_mode": "1",
+			"meal_time": "30",
+			"min_price": "0",
+			"mix_fix_day": "1",
+			"interval_time": "15",
 			"notice": "",
 			"pack_way": "1",
 			"pack_cost": "0"
@@ -48,10 +48,10 @@
 			"wx_love_donate_status": "1"
 		},
 		"wechat_app_ad_img": [],
-		"address": "广东省深圳市宝安区盐田下山村一排4号",
+		"address": "广东省深圳市龙华区民治街道泰社区玖龙玺一层N19",
 		"freight_free": {
-			"status": 2,
-			"limit_money": 0
+			"status": "2",
+			"limit_money": "0"
 		},
 		"tel": "13988888888"
 	}

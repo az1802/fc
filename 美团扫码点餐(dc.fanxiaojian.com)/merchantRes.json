@@ -1,260 +1,285 @@
 {
-	"shopName": "老番享西北牛骨汤拉面",
-	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1711740",
+	"shopName": "明火煲仔饭",
+	"shop_pic": "http://dc.fanxiaojian.com/?hotelid=1513240",
 	"categories": [
-		{
-			"name": "招牌菜",
-			"foods": []
-		},
 		{
 			"name": "套餐",
 			"foods": [
 				{
-					"name": "超级豪华双人套餐",
-					"picUrl": "",
-					"price": "110.0",
+					"name": "招牌必点套餐",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/64b61f4c82764fc18d3f596874b60ef0.jpg",
+					"price": "38.0",
 					"unit": "份",
 					"categoryName": "套餐",
 					"props": [
 						{
-							"name": "固定菜",
-							"values": []
+							"name": "明火烧煲仔饭",
+							"values": [
+								{
+									"value": "招牌四宝煲仔饭",
+									"price": 28,
+									"propName": "明火烧煲仔饭",
+									"isMul": false
+								},
+								{
+									"value": "金牌腊味煲仔饭",
+									"price": 28,
+									"propName": "明火烧煲仔饭",
+									"isMul": false
+								}
+							]
 						},
 						{
-							"name": "可选分组1",
-							"values": []
-						},
-						{
-							"name": "可选分组2",
-							"values": []
-						},
-						{
-							"name": "可选分组3",
-							"values": []
-						},
-						{
-							"name": "可选分组4",
-							"values": []
-						},
-						{
-							"name": "可选分组5",
-							"values": []
+							"name": "炖足两小时原盅汤",
+							"values": [
+								{
+									"value": "生熟地龙骨炖盅",
+									"price": 12,
+									"propName": "炖足两小时原盅汤",
+									"isMul": false
+								},
+								{
+									"value": "花旗参虫草花龙骨炖盅",
+									"price": 12,
+									"propName": "炖足两小时原盅汤",
+									"isMul": false
+								},
+								{
+									"value": "茶树菇龙骨炖盅",
+									"price": 12,
+									"propName": "炖足两小时原盅汤",
+									"isMul": false
+								}
+							]
 						}
 					]
-				},
+				}
+			]
+		},
+		{
+			"name": "明火烧煲仔饭",
+			"foods": [
 				{
-					"name": "番茄鸡蛋面套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/1148920e9eca47a58b32da9275766552.jpeg@600w_450h_1e_1c_1.jpg",
-					"price": "29.0",
+					"name": "腊鸭腿煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/2259dcdc091e43a98a3dd93b7c476c2c.jpg",
+					"price": "18.0",
 					"unit": "份",
-					"categoryName": "套餐",
+					"categoryName": "明火烧煲仔饭",
 					"props": [
 						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
 						}
 					]
 				},
 				{
-					"name": "碳烤双人套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/4dda8bc27aab43149ae030a6597eb6f0.jpeg@600w_450h_1e_1c_1.jpg",
-					"price": "78.0",
+					"name": "廣式腊肠煲仔饭",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/nJPRKSb4.jpg",
+					"price": "20.0",
 					"unit": "份",
-					"categoryName": "套餐",
+					"categoryName": "明火烧煲仔饭",
 					"props": [
 						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						},
-						{
-							"name": "可选分组2",
-							"values": []
-						},
-						{
-							"name": "可选分组3",
-							"values": []
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
 						}
 					]
 				},
 				{
-					"name": "老番享西北牛骨拉面单人餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/f4490cce2d8b4f98ba60aed98d88f369.jpeg@600w_450h_1e_1c_1.jpg",
+					"name": "冬菇肉饼煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/9f6c5409cbb64f0db36f3cef5b6a6a60.jpg",
+					"price": "20.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "滑鸡腊肠煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/e35b4dc99b34492a99c74f5ce1880abc.jpg",
+					"price": "25.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣排骨煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/00f4b312ac3f46d3a1ce7963abc33c90.jpg",
+					"price": "27.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "湘辣小鱼仔煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/94b9c1d0ca2f4c56a53a8d72dba439f6.jpg",
 					"price": "23.0",
 					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "小盘鸡2人套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/c1029d25ef5a4cdb96d3105bd1d1e18a.jpeg@600w_450h_1e_1c_1.jpg",
-					"price": "148.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						},
-						{
-							"name": "可选分组2",
-							"values": []
-						},
-						{
-							"name": "可选分组3",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "小炒牛肉套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/01/d4c08bf93e524d2ebcbfc53bb3ca8fb1.jpg",
-					"price": "53.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						},
-						{
-							"name": "可选分组2",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "茄子豆角饭套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/01/cdf09e63e2004a5e87077a78468f70bd.jpg",
-					"price": "28.9",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						},
-						{
-							"name": "可选分组2",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "传统手工拉面套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/01/a82d16ab509b4b899a39eca0563b63eb.jpg",
-					"price": "31.9",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						},
-						{
-							"name": "可选分组2",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "超值大盘鸡套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/01/c12eeb1f4943499da090fd8eb68634b0.jpg",
-					"price": "138.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						},
-						{
-							"name": "可选分组2",
-							"values": []
-						},
-						{
-							"name": "可选分组3",
-							"values": []
-						}
-					]
-				},
-				{
-					"name": "印象牛肉爆炒面套餐",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/01/01ce27739d57433196d09914d756919e.jpg",
-					"price": "40.0",
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": [
-						{
-							"name": "固定菜",
-							"values": []
-						},
-						{
-							"name": "可选分组1",
-							"values": []
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "西北拉面",
-			"foods": [
-				{
-					"name": "酸菜大片牛肉面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/a41e84a84a374431b9145fd9e5af92dc.jpg",
-					"price": "32.0",
-					"unit": "碗",
-					"categoryName": "西北拉面",
+					"categoryName": "明火烧煲仔饭",
 					"props": [
 						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "卤牛肉",
-									"price": 14,
+									"value": "咸蛋",
+									"price": 3,
 									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "茶叶蛋",
-									"price": 2,
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
 									"propName": "加料",
 									"isMul": true
 								}
@@ -263,24 +288,36 @@
 					]
 				},
 				{
-					"name": "红烧牛腩拉面",
-					"picUrl": "",
-					"price": "29.0",
-					"unit": "碗",
-					"categoryName": "西北拉面",
+					"name": "牛肉腊肠煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/1d4dbd68aad74a05bab5f4abaada3690.jpg",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
 					"props": [
 						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "卤牛肉",
-									"price": 14,
+									"value": "咸蛋",
+									"price": 3,
 									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "茶叶蛋",
-									"price": 2,
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
 									"propName": "加料",
 									"isMul": true
 								}
@@ -289,73 +326,36 @@
 					]
 				},
 				{
-					"name": "番茄鸡蛋拉面（韭叶）",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/2f6355b50a534b9faef26202020120bf.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "25.0",
-					"unit": "碗",
-					"categoryName": "西北拉面",
-					"props": []
-				},
-				{
-					"name": "优质牛肉拉面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/3e95ad5397584d9682a10fa6e4b8542d.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "29.0",
-					"unit": "碗",
-					"categoryName": "西北拉面",
+					"name": "泡椒牛肉煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/f02d1943d3e24141bab64c35323c814e.jpg",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
 					"props": [
-						{
-							"name": "正常做",
-							"values": [
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "毛细",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "二细",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "二宽",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "韭叶",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "大宽",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "卤牛肉",
-									"price": 14,
+									"value": "咸蛋",
+									"price": 3,
 									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "茶叶蛋",
-									"price": 2,
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
 									"propName": "加料",
 									"isMul": true
 								}
@@ -364,65 +364,150 @@
 					]
 				},
 				{
-					"name": "西北传统手工拉面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/8f0e01fe38ee49b6b5a84b2ebda60d8d.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "21.0",
-					"unit": "碗",
-					"categoryName": "西北拉面",
+					"name": "榨菜牛肉煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/5c83bea978304d70afb7cbe3035f5c10.jpg",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
 					"props": [
-						{
-							"name": "正常做",
-							"values": [
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "毛细",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "二细",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "二宽",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "韭叶",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "大宽",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "卤牛肉",
-									"price": 14,
+									"value": "咸蛋",
+									"price": 3,
 									"propName": "加料",
 									"isMul": true
 								},
 								{
-									"value": "茶叶蛋",
-									"price": 2,
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉汁排骨煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/431e41e9c9134f71ab61f844dba522f6.jpg",
+					"price": "27.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "金牌腊味煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/522dc383652748039e98e8a0cee5a720.jpg",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌四宝煲仔饭",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/03/55448c847b504efe81c6272f4cf536b6.jpg",
+					"price": "28.0",
+					"unit": "份",
+					"categoryName": "明火烧煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "咸蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 7,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "酸梅汁",
+									"price": 6,
 									"propName": "加料",
 									"isMul": true
 								}
@@ -433,641 +518,133 @@
 			]
 		},
 		{
-			"name": "特色拌面II炒面",
+			"name": "炖足两小时营养盅汤",
 			"foods": [
 				{
-					"name": "葱爆牛肉拌面",
-					"picUrl": "",
-					"price": "31.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
+					"name": "花旗参虫草花龙骨炖盅",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/c2e97boZ.jpg",
+					"price": "12.0",
+					"unit": "盅",
+					"categoryName": "炖足两小时营养盅汤",
 					"props": []
 				},
 				{
-					"name": "番茄鸡蛋拌面",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/p0RFvhVl.jpg",
-					"price": "28.0",
-					"unit": "盘",
-					"categoryName": "特色拌面II炒面",
+					"name": "生熟地龙骨炖盅",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/3a43fbb320c448feb5beac8a41d210b7.jpg",
+					"price": "12.0",
+					"unit": "盅",
+					"categoryName": "炖足两小时营养盅汤",
 					"props": []
 				},
 				{
-					"name": "土豆牛肉拌面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/5ca18c229a784c21a40afea9b6295161.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "31.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "孜然牛肉拌面",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ac8125wN.jpg",
-					"price": "31.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "过油肉拌面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/a04fb645a1ea48d0824756d45e913da6.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "大盘鸡拌面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/342d1a96fbe947a5ab4aec777822ee41.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "特色肉沫拌面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/c3907f48a46e4c069e505d3ac174cfca.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "26.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "红烧牛腩拌面",
-					"picUrl": "",
-					"price": "31.0",
-					"unit": "盘",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "香汁凉面",
-					"picUrl": "",
-					"price": "19.0",
-					"unit": "盘",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "大盘鸡白皮面",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/14e2c1sX.jpg",
-					"price": "6.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "牛肉水饺",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/ef5226f4ac0743dd86d616bb774450d5.jpg",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "鸡蛋炒拉面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/09/c94d28d382794a258ba045db173e113f.png@600w_450h_1e_1c_1.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
-					"props": []
-				},
-				{
-					"name": "印象牛肉爆炒面",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/790d24f418c84b2d9ed8db873a79b262.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "特色拌面II炒面",
+					"name": "茶树菇龙骨炖盅",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/12/3b389c2bdf0e4c9fb6d4955473ddf1ec.jpg",
+					"price": "12.0",
+					"unit": "盅",
+					"categoryName": "炖足两小时营养盅汤",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "新疆烤串",
+			"name": "饮料",
 			"foods": [
 				{
-					"name": "烤牛肉串",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/741bce1f12064e2ca3a84e28a0c8915f.jpg",
+					"name": "酸梅汁",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/8999d1eR.jpg",
 					"price": "6.0",
-					"unit": "串",
-					"categoryName": "新疆烤串",
-					"props": [
-						{
-							"name": "正常做",
-							"values": [
-								{
-									"value": "正常",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "不要辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "少点辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊肉串",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/f774202d8a0a44d88593c8ef3880d0e5.jpg",
-					"price": "8.0",
-					"unit": "串",
-					"categoryName": "新疆烤串",
-					"props": [
-						{
-							"name": "正常做",
-							"values": [
-								{
-									"value": "正常",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "不要辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "少点辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "碳烤羊排串",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/876fe9b0806d4c799e2d82df7340c5fd.jpg",
-					"price": "19.8",
-					"unit": "串",
-					"categoryName": "新疆烤串",
-					"props": [
-						{
-							"name": "正常做",
-							"values": [
-								{
-									"value": "正常",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "不要辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "少点辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "碳烤羊腰",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/745ca0fcc31740f19c65cb3005b5df66.jpg",
-					"price": "25.8",
-					"unit": "串",
-					"categoryName": "新疆烤串",
-					"props": [
-						{
-							"name": "正常做",
-							"values": [
-								{
-									"value": "正常",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "不要辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								},
-								{
-									"value": "少点辣",
-									"price": 0,
-									"propName": "正常做",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "特色盖饭",
-			"foods": [
-				{
-					"name": "蛋炒饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/Ywb2J4B9.jpg",
-					"price": "19.0",
-					"unit": "份",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "葱爆牛肉饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/ab0bb8gU.jpg",
-					"price": "29.0",
-					"unit": "份",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "孜然牛肉饭",
-					"picUrl": "",
-					"price": "29.0",
-					"unit": "份",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "兰州炒饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/tzDqzpsw.jpg",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "土豆牛肉盖饭",
-					"picUrl": "",
-					"price": "30.0",
-					"unit": "盘",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "辣椒炒牛肉盖饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/87e867e58354470b82a7d42d4cde2842.jpg",
-					"price": "26.0",
-					"unit": "盘",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "小炒牦牛肉盖饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/aba5a76d3cc441cd8a30584476914810.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "32.0",
-					"unit": "盘",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "白米饭",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/0347dcxP.jpg",
-					"price": "3.0",
-					"unit": "碗",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "豆角茄子饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/7cec7619a3504d72b25d593c587798a5.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "大盘鸡肉盖饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/4f825b53eb644e67ba1283262765febe.jpg",
-					"price": "29.0",
-					"unit": "份",
-					"categoryName": "特色盖饭",
-					"props": []
-				},
-				{
-					"name": "番茄鸡蛋盖饭",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/efe13c7b17974d3f8e72e6b7bf1bfcbf.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "特色盖饭",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "西北小吃",
-			"foods": [
-				{
-					"name": "凉拌皮蛋",
-					"picUrl": "",
-					"price": "8.0",
-					"unit": "盘",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "老醋波菜",
-					"picUrl": "",
-					"price": "8.0",
-					"unit": "盘",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "凉拌木耳",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/HJCxQT08.jpg",
-					"price": "8.0",
-					"unit": "盘",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "新疆馕饼（份）",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/CnrOGIwj.jpg",
-					"price": "6.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "新疆馕饼（个）",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/CnrOGIwj.jpg",
-					"price": "10.0",
-					"unit": "个",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "卤牛肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/03c482xT.jpg",
-					"price": "14.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "卤牛肉（俩份）",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/NSn6FA5p.jpg",
-					"price": "28.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "回民油香饼",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/8b662103cbe344a9a0e192c0d7d32b89.jpg",
-					"price": "6.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "打包盒",
-					"picUrl": "",
-					"price": "1.0",
-					"unit": "个",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "拍黄瓜",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/4a72a0e71c4c42baa0e44a7babd03d46.jpg",
-					"price": "8.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "肉夹馍",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/uaeAWm9v.jpg",
-					"price": "13.0",
-					"unit": "个",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "茶叶蛋",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/793af4eH.jpg",
-					"price": "2.0",
-					"unit": "个",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "西北风味酿皮",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/c65633e5880146f186f04dc53dd57622.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "15.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "开胃萝卜",
-					"picUrl": "",
-					"price": "8.0",
-					"unit": "盘",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "椒香牛健肉",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/bc88fd33d0d049198489f8c444654aff.jpg",
-					"price": "25.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				},
-				{
-					"name": "椒麻鸡",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/5ed34b2b64a24b61a06d8a4afe768b23.JPG@600w_450h_1e_1c_1.jpg",
-					"price": "22.0",
-					"unit": "份",
-					"categoryName": "西北小吃",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "特色菜",
-			"foods": [
-				{
-					"name": "孜然羊肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/q8x3zZvu.jpg",
-					"price": "58.0",
-					"unit": "份",
-					"categoryName": "特色菜",
-					"props": []
-				},
-				{
-					"name": "酸辣土豆丝",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/hH5Be1t7.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "特色菜",
-					"props": []
-				},
-				{
-					"name": "酸辣白菜",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/S6fbTHnE.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "特色菜",
-					"props": []
-				},
-				{
-					"name": "新疆大盘鸡",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/37e4570958ac4d9182af92a9bb672861.jpg",
-					"price": "98.0",
-					"unit": "份",
-					"categoryName": "特色菜",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小份",
-									"price": 98,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大份",
-									"price": 118,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "清炒时蔬",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/a5dadcxE.jpg",
-					"price": "18.0",
-					"unit": "份",
-					"categoryName": "特色菜",
-					"props": []
-				},
-				{
-					"name": "葱爆羊肉",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/YyLQhiHm.jpg",
-					"price": "58.0",
-					"unit": "份",
-					"categoryName": "特色菜",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "特色饮品",
-			"foods": [
-				{
-					"name": "维他命(柠檬茶)",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/ea3c0fcffa08480bad2eb76ccad4e2fb.jpeg@600w_450h_1e_1c_1.jpg",
-					"price": "5.0",
-					"unit": "罐",
-					"categoryName": "特色饮品",
-					"props": []
-				},
-				{
-					"name": "益生菌复合果汁",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/138be698931e4eac8791dec3dbd3dee1.jpeg@600w_450h_1e_1c_1.jpg",
-					"price": "6.0",
-					"unit": "瓶",
-					"categoryName": "特色饮品",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "芒果",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "橙子",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "猕猴桃",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色酸梅汤",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2021/01/7f401f9a2ee04d24a39ac48dd6dca8c8.jpg",
-					"price": "10.0",
 					"unit": "杯",
-					"categoryName": "特色饮品",
-					"props": []
-				},
-				{
-					"name": "青海老奶茶",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/G3xUHBNn.jpg",
-					"price": "33.0",
-					"unit": "壶",
-					"categoryName": "特色饮品",
-					"props": []
-				},
-				{
-					"name": "加多宝",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/91c0b9a66bf54ea587a75e1cb69b1a2b.jpg",
-					"price": "5.0",
-					"unit": "罐",
-					"categoryName": "特色饮品",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
 					"name": "可乐",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/4474ebbK.jpg",
-					"price": "5.0",
-					"unit": "罐",
-					"categoryName": "特色饮品",
-					"props": []
-				},
-				{
-					"name": "矿泉水",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/64cea1eN.jpg",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/ab7458928a9c400196ca1feba9c37437.jpg",
 					"price": "3.0",
-					"unit": "瓶",
-					"categoryName": "特色饮品",
+					"unit": "听",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
-					"name": "雪碧",
-					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/65GFKLqV.jpg",
+					"name": "王老吉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/6bba93daf4ef4a4984dc193ef9057a6b.png@600w_450h_1e_1c_1.jpg",
 					"price": "5.0",
-					"unit": "罐",
-					"categoryName": "特色饮品",
+					"unit": "听",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
-					"name": "青海风味酸奶",
-					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2020/12/9242e4ba27a5405482e1b630b7011181.jpg",
-					"price": "12.0",
-					"unit": "碗",
-					"categoryName": "特色饮品",
+					"name": "维他豆奶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/cdffc0b501e743f7965f6688e51f7ffe.jpg",
+					"price": "4.0",
+					"unit": "盒",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/5b3ec8jB.jpg",
+					"price": "4.0",
+					"unit": "盒",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "太魔性茉莉花茶",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/cc4eee4cc7f54533a41807c0e0e86c28.jpg",
+					"price": "2.0",
+					"unit": "盒",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "农夫山泉",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/01/7e2dc13da7ef4063b7a19b731310f0eb.jpg",
+					"price": "2.5",
+					"unit": "瓶",
+					"categoryName": "饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "加料",
+			"foods": [
+				{
+					"name": "咸蛋",
+					"picUrl": "http://recipe-images.passiontec.cn/_res/upload/2022/02/8f0b4c29438d4075af01cd8a57b1a2a3.jpg",
+					"price": "3.0",
+					"unit": "个",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "腊肠",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/U9ABywnc.jpg",
+					"price": "7.0",
+					"unit": "根",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "营养煎蛋",
+					"picUrl": "http://pingxin-recipes.img-cn-qingdao.aliyuncs.com/images/3246dbfT.jpg",
+					"price": "3.0",
+					"unit": "个",
+					"categoryName": "加料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "打包",
+			"foods": [
+				{
+					"name": "打包盒",
+					"picUrl": "",
+					"price": "2.0",
+					"unit": "份",
+					"categoryName": "打包",
 					"props": []
 				}
 			]

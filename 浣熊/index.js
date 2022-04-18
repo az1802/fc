@@ -4,12 +4,12 @@ const path = require("path");
 
 const { requestUrl, genImgs, genExcel, genExcelAll, genWord, genSpecificationsWord, formatFileName, delDirSync, mkdirSync, genFeieExcelAll, genShilaiExcelAll } = require("../utils/index")
 
-const shopId = 1000383
+const shopId = 38620
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
-const shopRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
-const menuRequestUrl = `https://m.huanxiongdd.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
+const exportMode = "feie"
+// const exportMode = "shilai"
+const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
+const menuRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
 
 // const shopRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/getShopInfo?shop_id=${shopId}`
 // const menuRequestUrl = `https://m.diandianwaimai.com/dd_wx_applet/sitdownrts/ajax_getProductDetail.action?shop_id=${shopId}`
@@ -26,17 +26,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications: [],//规格
   practice: [
-    "另",
-    "要求",
-    "份量"
+    "打包"
   ],//做法
   feeding: ["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "另",
-    "要求",
-    "份量",
-    "加料"
+    "打包"
   ],
   propsSort: {
   }
