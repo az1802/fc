@@ -21,737 +21,22 @@
 			"singleActivities": null
 		},
 		"goods": {
-			"total": 110,
+			"total": 48,
 			"pages": [
 				[{
-					"category_name": "鸡汤骨头汤送完即止",
-					"category_id": "af626337-c62d-434a-b106-fd20ea8f07ca",
+					"category_name": "德舍米粉",
+					"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
 					"items": [{
 						"item": {
-							"id": "be6ad920-4549-413b-9971-b55cfc59c67b",
-							"name": "每天随机更换",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/625626d8b48c9822f367efda855b361a.jpeg",
-							"description": null,
-							"display_order": 1,
-							"valid": null,
-							"category_id": "af626337-c62d-434a-b106-fd20ea8f07ca",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 0,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "鸡汤骨头汤送完即止",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 0,
-							"takeout_price": 0,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "e48a4ed8-5f4a-4fae-b93e-0b2b1cb4ca9f",
-							"name": "鸡汤骨头汤自取",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/12848c1c4adf967fe9c06f24ed91b8c6.jpg",
-							"description": null,
-							"display_order": 3,
-							"valid": null,
-							"category_id": "af626337-c62d-434a-b106-fd20ea8f07ca",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 0,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "鸡汤骨头汤送完即止",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 0,
-							"takeout_price": 0,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}]
-				}, {
-					"category_name": "回锅肉腊肉类",
-					"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-					"items": [{
-						"item": {
-							"id": "f2eb2615-0c64-45c1-ac65-f5e0f98609a0",
-							"name": "煎鸡蛋",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/171f7a2d28f39569755444f3c55d38c3.jpg",
-							"description": null,
-							"display_order": 1,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 250,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 250,
-							"takeout_price": 250,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "a1981d10-b3e9-4d7d-9562-666938550f10",
-							"name": "玉米炖脊骨",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b0b3717754368e41378ffabc088240ed.jpg",
+							"id": "0e1f0280-27b4-45ba-9a98-03997b1ece7a",
+							"name": "麻辣牛肉粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7ec9fcb21f13711f71b6b1de612ea2d7.jpg",
 							"description": null,
 							"display_order": 2,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 800,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 800,
-							"takeout_price": 800,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "4bee23d9-5132-48b4-81fd-84377a726e13",
-							"name": "青椒回锅肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/175d51c8396bfcbea3d4c2bc717407aa.jpeg",
-							"description": null,
-							"display_order": 3,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "2100d1ac-a248-40ee-b1ef-0a2136b8127c",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
-							}, {
-								"id": "5fa90581-c286-402b-8a16-6aa1d4af15eb",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
-						"attributes": [{
-							"id": "919a6733-2b66-41fb-b8d5-be1675b6d3e7",
-							"multiple": 0,
-							"seq": 1,
-							"title": "辣度",
-							"must": 1,
-							"options": [{
-								"id": "f1739f7d-86ed-4135-9fbc-1a3d86baae57",
-								"name": "微辣",
-								"seq": 1
-							}, {
-								"id": "a8cad8ec-de25-4f38-9628-62741d969430",
-								"name": "中辣",
-								"seq": 2
-							}, {
-								"id": "9fadde6c-0c72-4bc9-9dd3-a2523a77036e",
-								"name": "特辣",
-								"seq": 3
-							}]
-						}],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "b66a7440-c9ee-4788-9c2c-9310c091c692",
-							"name": "莲藕炖脊骨",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/04c866a5563130f13f406589512cac85.jpg",
-							"description": null,
-							"display_order": 4,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 800,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 800,
-							"takeout_price": 800,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "1eafb5e5-adbd-4821-bfcf-630a018433eb",
-							"name": "包菜回锅肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/bb91b280bc269ab88c6df18919d70208.jpg",
-							"description": null,
-							"display_order": 5,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "4dd93b25-ee23-41a4-b774-01b639efdef3",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
-							}, {
-								"id": "46c20b8f-1ca5-481e-8b13-586799b0f4ec",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
-						"attributes": [{
-							"id": "5a02684a-5ea0-4135-adad-126acfaf968f",
-							"multiple": 0,
-							"seq": 1,
-							"title": "辣度",
-							"must": 1,
-							"options": [{
-								"id": "b7f396dc-9238-4064-966a-ce666bf14655",
-								"name": "微辣",
-								"seq": 1
-							}, {
-								"id": "b013ae3b-3141-4670-aced-f2d8e7b30292",
-								"name": "中辣",
-								"seq": 2
-							}, {
-								"id": "639806d4-14f5-418f-8ba2-10ec7b80cadc",
-								"name": "特辣",
-								"seq": 3
-							}]
-						}],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "a015da5b-05e2-40db-b734-6a21ea9c2f6f",
-							"name": "海带炖脊骨",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ca28db32c0212132456954d6e5850695.jpg",
-							"description": null,
-							"display_order": 6,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 800,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 800,
-							"takeout_price": 800,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "f6c68bc8-9049-45e9-93b8-da6b04d00af6",
-							"name": "土豆丝回锅肉",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4262300304e6f9bf16560f0eb2805333.jpg",
-							"description": null,
-							"display_order": 7,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "eb60673b-ff4f-4fd6-86d9-4fe1df549964",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
-							}, {
-								"id": "4d38cf7b-5384-4ff9-918e-68a8782c5d2b",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "8f51e0ad-1152-49d3-839e-4fdfda9fcc4c",
-							"name": "香干回锅肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/36240be4b350e6837cfa459df20f44f3.jpeg",
-							"description": null,
-							"display_order": 8,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "1570093f-cf87-47a5-a25e-afc3a3051cac",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
-							}, {
-								"id": "c9694365-109f-47b4-b7f7-30764f67afee",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "47225555-6235-4ee9-b075-4e4a3cb659fe",
-							"name": "青椒腊肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/8fb7b9040aa58d1f488e615613b2cab5.jpg",
-							"description": null,
-							"display_order": 9,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "53c15a81-8310-4633-b6b0-c287f65b52ce",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
-							}, {
-								"id": "0db4d5e3-e6bf-422d-8ad6-150b6cb1e5dd",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
-						"attributes": [{
-							"id": "3d1d4c68-4817-48aa-87cb-eefba80bcb3e",
-							"multiple": 0,
-							"seq": 1,
-							"title": "辣度",
-							"must": 1,
-							"options": [{
-								"id": "fea7a26e-1ba5-493e-b351-79280bd9a471",
-								"name": "微辣",
-								"seq": 1
-							}, {
-								"id": "48d560b9-8c33-4d25-939d-9392a70619a6",
-								"name": "中辣",
-								"seq": 2
-							}, {
-								"id": "82cdd0dd-febc-4446-8db1-352c0290b52d",
-								"name": "特辣",
-								"seq": 3
-							}]
-						}],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "36da1c1d-45e4-4918-82cc-08633391f765",
-							"name": "香干炒肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/415cc7c53a235967b5fb64b1ede6abc8.jpg",
-							"description": null,
-							"display_order": 10,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
 							"price": 1600,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -761,12 +46,12 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
@@ -780,51 +65,176 @@
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
+						"specs": null,
+						"attributes": [{
+							"id": "4470c56d-ed8f-412e-bebf-ac110b7a9cf4",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
 							"options": [{
-								"id": "31f79b3d-bd8a-41e9-9e5e-29554f8ae182",
-								"name": "小份",
-								"price": 1600,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1600,
-								"takeout_price": 1600
+								"id": "3aa2d6cd-9683-480b-8266-0095dc29cb6d",
+								"name": "圆粉",
+								"seq": 1
 							}, {
-								"id": "f96939d4-135a-44fc-9a52-18dc8549ac9f",
-								"name": "大份",
-								"price": 2500,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2500,
-								"takeout_price": 2500
+								"id": "3288a86e-ae2d-4f55-9433-bc3ac52c31de",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "eae1c13f-92be-408b-9189-6f0acc21cb7a",
+								"name": "面条",
+								"seq": 3
 							}]
-						},
-						"attributes": [],
+						}, {
+							"id": "4c00e5d2-0ec9-4247-bd4a-f71d23c5a55d",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
+							"options": [{
+								"id": "a79808af-4fd6-4621-bfcb-b779f3d2e5b0",
+								"name": "干捞",
+								"seq": 1
+							}, {
+								"id": "fd7806d2-0f2f-46d2-a66e-ea9d53b35701",
+								"name": "汤",
+								"seq": 2
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "1f615d61-9a19-4f49-99e4-b8110af96d70",
-							"name": "腐竹腊肉",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2a75cc8a4c14df34da50e2551a338532.jpg",
+							"id": "4def1b54-f2ed-4a69-a8a1-f8d610dd037a",
+							"name": "红烧牛肉粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6928596d1ee6114e5922f5cd1e2e404e.jpg",
 							"description": null,
-							"display_order": 11,
+							"display_order": 3,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1400,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -833,89 +243,392 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 1400,
+							"takeout_price": 1400,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "4659abbb-0397-4372-8f6c-50b0e1c93420",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
-							}, {
-								"id": "90a8c20d-0656-4f84-b041-23ea9d4f9de4",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
+						"specs": null,
 						"attributes": [{
-							"id": "4c6c70a9-042f-4cd1-9964-b6b454c28813",
+							"id": "3bf8f80c-049e-4827-a556-a09d54f0a1ed",
 							"multiple": 0,
 							"seq": 1,
-							"title": "辣度",
+							"title": "圆扁面",
 							"must": 1,
 							"options": [{
-								"id": "b9f7efb4-fad3-406e-af10-52140cd093ab",
-								"name": "微辣",
+								"id": "e687d1a6-5f20-4de8-94c6-5f18021629b4",
+								"name": "圆粉",
 								"seq": 1
 							}, {
-								"id": "2bf74fff-f31a-4fc9-a56a-c498b263e0c3",
-								"name": "中辣",
+								"id": "7d47a739-8802-4c20-8101-c9145a53a2e4",
+								"name": "扁粉",
 								"seq": 2
 							}, {
-								"id": "e265b068-0f79-48ce-aa6f-6fe8d36cff4a",
-								"name": "特辣",
+								"id": "96ae2f5a-782a-4905-85f2-0d0d6803a477",
+								"name": "面条",
+								"seq": 3
+							}]
+						}, {
+							"id": "2f860422-71b9-4b3f-89e2-0ce9a08ff928",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
+							"options": [{
+								"id": "366e8faf-11b6-43e7-877d-d3fa793b9f7c",
+								"name": "干捞",
+								"seq": 1
+							}, {
+								"id": "25e390c7-70eb-411c-902c-653428b5b891",
+								"name": "汤",
+								"seq": 2
+							}]
+						}],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "bcf91dd9-a375-4744-a10f-4dbcd684b0a9",
+							"name": "老坛酸菜牛肉粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d6d314272a38eb7d47f7a98255fbe861.jpg",
+							"description": null,
+							"display_order": 4,
+							"valid": null,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1500,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": null,
+							"unit_type": 0,
+							"category_name": "德舍米粉",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1500,
+							"takeout_price": 1500,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [{
+							"id": "f175a3e8-3589-4fca-8fd8-af130f5df83c",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
+							"options": [{
+								"id": "e45a2a5f-9c06-47b2-99ec-34694a3434bd",
+								"name": "干捞",
+								"seq": 1
+							}, {
+								"id": "728072ec-2fe0-4348-827d-c189cbc0557d",
+								"name": "汤",
+								"seq": 2
+							}]
+						}, {
+							"id": "6d6d7e0c-cb67-4c58-a76c-55c56cdc0228",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
+							"options": [{
+								"id": "907cd229-0407-445d-a8b1-8f5c1178b46d",
+								"name": "圆粉",
+								"seq": 1
+							}, {
+								"id": "b1457129-c0f6-48c4-b7a4-b5bc6e7095e0",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "2e5a0c9e-5fba-46e5-8b53-fbf0d6b22c36",
+								"name": "面条",
 								"seq": 3
 							}]
 						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "e54baf68-6935-4464-8871-bb4f0de85071",
-							"name": "香干腊肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/28eb37ea9ae425833c20115c6827bbb6.jpeg",
+							"id": "ad504583-ffbe-4caf-a58f-582f6997342b",
+							"name": "红烧肥肠粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9e2c619c2ddb0a0e42fd41e48d87c481.jpg",
 							"description": null,
-							"display_order": 12,
+							"display_order": 5,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1400,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -924,70 +637,195 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 1400,
+							"takeout_price": 1400,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
+						"specs": null,
+						"attributes": [{
+							"id": "b9bea202-d85f-4880-9ff6-002f725acedf",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
 							"options": [{
-								"id": "a57df1d5-165d-468d-a021-26b3a793f4f3",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"id": "95d03f9e-3a68-4513-b281-73d81544c8e7",
+								"name": "圆粉",
+								"seq": 1
 							}, {
-								"id": "b4bb8b17-f719-4be8-8795-ef7a8a52c5ef",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
+								"id": "c2edfbba-9c09-488d-9997-2e5cef89fd36",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "ca656d78-db4f-44de-a7be-ed82e0186434",
+								"name": "面条",
+								"seq": 3
 							}]
-						},
-						"attributes": [],
+						}, {
+							"id": "a60a9cc8-aacd-44f9-afe7-51af71f7130c",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
+							"options": [{
+								"id": "d637c4ea-ba88-4ab7-bc06-1eb59e3bbab8",
+								"name": "干捞",
+								"seq": 1
+							}, {
+								"id": "d860a6a6-dc35-4f7f-8978-5e915f5a9819",
+								"name": "汤",
+								"seq": 2
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "28d48b57-c865-416c-b5c8-f496fc772660",
-							"name": "家常豆腐",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/36e2ca42f9683a830d6f950a5ef7a130.jpg",
+							"id": "c3016b90-44d9-4ac5-9663-bcd449186ae2",
+							"name": "红烧牛杂粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6d71bc79445029ba206294ca35bd4dd9.jpg",
 							"description": null,
-							"display_order": 13,
+							"display_order": 6,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1400,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -996,70 +834,195 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 1400,
+							"takeout_price": 1400,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
+						"specs": null,
+						"attributes": [{
+							"id": "941877c7-fc8c-4416-8bb2-f70fa28833bd",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
 							"options": [{
-								"id": "ee0ff7b7-179c-4cdf-bcf5-662db116ca18",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"id": "7e54d5e9-e315-4103-81bb-9845e06aa93d",
+								"name": "干捞",
+								"seq": 1
 							}, {
-								"id": "d15e808a-5044-47f0-881d-fa4dc2bf96b1",
-								"name": "大份",
-								"price": 2500,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2500,
-								"takeout_price": 2500
+								"id": "ec33e3c9-5353-4ba0-8cb6-8dd9e92bd658",
+								"name": "汤",
+								"seq": 2
 							}]
-						},
-						"attributes": [],
+						}, {
+							"id": "24e58c1d-49d4-4c6c-b8f0-14ba5edf8718",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
+							"options": [{
+								"id": "c32bf024-4e0d-4b42-8880-054016651e3b",
+								"name": "圆粉",
+								"seq": 1
+							}, {
+								"id": "b63a9597-211c-4e6c-be0a-9c5efea748f6",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "c9cbb346-9b91-40a0-b512-5a785438d198",
+								"name": "面条",
+								"seq": 3
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "cbda954c-83c9-4312-8fbb-4a62e02e0da2",
-							"name": "烟笋腊肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/b4e3de3a7e4a7bac85bcea26b7cdf64d.jpg",
+							"id": "bc334e32-a57a-4e92-b54e-154bd0ffbbe2",
+							"name": "红烧排骨粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/42424a2b78083c5dccfb7adb2189d6bd.jpg",
 							"description": null,
-							"display_order": 14,
+							"display_order": 7,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1400,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1068,70 +1031,195 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 1400,
+							"takeout_price": 1400,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
+						"specs": null,
+						"attributes": [{
+							"id": "6c4c4129-c2aa-4262-96b7-1d7908969c09",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
 							"options": [{
-								"id": "fffbd91f-831e-4ede-b9d6-af636f1c6d11",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"id": "8aab6755-e1b5-4d50-a29b-1cbc485d3c9c",
+								"name": "干捞",
+								"seq": 1
 							}, {
-								"id": "1d6847ab-e766-48a0-81c0-3e31f362b2c3",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
+								"id": "034062fa-4226-40a3-bd86-211d7df53d5d",
+								"name": "汤",
+								"seq": 2
 							}]
-						},
-						"attributes": [],
+						}, {
+							"id": "e156c997-8a94-417c-9251-8bc69e26de84",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
+							"options": [{
+								"id": "a5b362b0-8abe-43d8-b83a-f3c81a02cdbe",
+								"name": "圆粉",
+								"seq": 1
+							}, {
+								"id": "a22874fa-794d-4a89-8ea3-e46b500cc23c",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "aac775d0-f86e-4636-9e1e-650da1d44918",
+								"name": "面条",
+								"seq": 3
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "27a3f39b-a7b1-4f0d-9514-292acd93e911",
-							"name": "农家一碗香",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8862fda52c54cfe92213f780eb549d11.jpg",
+							"id": "8efb9ca6-9883-47d5-984c-33820fef2d6f",
+							"name": "木耳肉丝粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3de8f3b1b8db1008247093fbda6585e6.jpg",
 							"description": null,
-							"display_order": 15,
+							"display_order": 8,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1100,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1140,70 +1228,195 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 1100,
+							"takeout_price": 1100,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
+						"specs": null,
+						"attributes": [{
+							"id": "33075988-8dad-4b47-a3f4-c1e5537ad7c0",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
 							"options": [{
-								"id": "d7925be2-8fe9-4273-a1eb-4a95c4ebafff",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"id": "93ee860c-8462-469c-b39d-5ef268ef4ea1",
+								"name": "圆粉",
+								"seq": 1
 							}, {
-								"id": "dca08f8a-47fb-4a6c-9b04-244afeecc976",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
+								"id": "3e911b28-114c-464e-9a6c-2bd28dc86a3c",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "9c1da922-a6ae-4bf2-b1e0-f061f88c7ac8",
+								"name": "面条",
+								"seq": 3
 							}]
-						},
-						"attributes": [],
+						}, {
+							"id": "17f01ac3-b9f2-4e65-b15b-6a6dae63d156",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
+							"options": [{
+								"id": "56732df4-b1f1-42ce-b774-0c6ae5f4561d",
+								"name": "干捞",
+								"seq": 1
+							}, {
+								"id": "07b74089-ec08-4dd2-af84-324ea8bec13b",
+								"name": "汤",
+								"seq": 2
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "8626e65a-fb94-47b0-a55f-e6dbffebb109",
-							"name": "莴笋腊肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/1a83ef0d7422d8856a587037797bb612.jpg",
+							"id": "06845c93-65b7-4319-a9ad-43bb09b63e4d",
+							"name": "美味杂酱",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7569ab7f327408130ba584b9779f7b75.jpg",
 							"description": null,
-							"display_order": 16,
+							"display_order": 9,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1000,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1212,70 +1425,180 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
+						"specs": null,
+						"attributes": [{
+							"id": "de24b307-3657-4571-9efa-b97ee3491207",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
 							"options": [{
-								"id": "96621659-c0a0-416a-9e57-4d97d163f50a",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"id": "d408e08f-cc1f-4c14-98ee-3d8947fefa6d",
+								"name": "圆粉",
+								"seq": 1
 							}, {
-								"id": "30cf00b8-004a-403f-805b-6ef2f3b8c046",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
+								"id": "990df5e7-058d-474b-a8b2-31efa0202c5d",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "da79ff1a-acca-46fd-b472-6fbb5b2f918c",
+								"name": "面条",
+								"seq": 3
 							}]
-						},
-						"attributes": [],
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
+								"seq": 2,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "36b3f1f2-1d1e-42b0-86b7-aee932242337",
-							"name": "泡椒猪肝",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/2e04b4bfbb7c7cc5732ce18bba36514c.jpeg",
+							"id": "9603579c-e5de-4391-a7ab-d49db599b135",
+							"name": "青菜素粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5444705644a666c189b0ad01d9ab8f08.jpg",
 							"description": null,
-							"display_order": 17,
+							"display_order": 10,
 							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 800,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1284,290 +1607,199 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
+							"category_name": "德舍米粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 800,
+							"takeout_price": 800,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
+						"specs": null,
+						"attributes": [{
+							"id": "9ac6d8d6-f83a-444d-b60a-c1a4ac5fc078",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
 							"options": [{
-								"id": "be01201d-4e43-4ea9-891e-759a70ba6476",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"id": "7b313f08-96ab-4463-9645-9a5b242d4653",
+								"name": "圆粉",
+								"seq": 1
 							}, {
-								"id": "93dba6d0-a69a-449f-bce4-ae1d462a11bf",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
+								"id": "0652762f-68ee-445d-9b04-4ae2e03e23de",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "452ce016-1ecb-4591-9074-8877a8d7f47c",
+								"name": "面条",
+								"seq": 3
 							}]
-						},
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "62adcfea-4f37-4fbb-82ae-3ed7b927e0a1",
-							"name": "酸辣鸡杂",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/49699da3098ab613f8cec5907751aaea.jpeg",
-							"description": null,
-							"display_order": 18,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
+						}, {
+							"id": "9a90feb4-4df6-430a-8ebe-f96282877c0f",
+							"multiple": 0,
+							"seq": 1,
+							"title": "干汤",
+							"must": 1,
 							"options": [{
-								"id": "4ff7a0c2-3d29-4107-8458-46303a0c6e55",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"id": "3fd03743-6bc9-472d-82fb-accacb891af7",
+								"name": "干捞",
+								"seq": 1
 							}, {
-								"id": "c4b8ac54-fd9d-4873-b4a7-2f4c27b4fc4f",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
+								"id": "1eafbb99-1ee1-417f-bb24-3281edc53dbb",
+								"name": "汤",
+								"seq": 2
 							}]
-						},
-						"attributes": [],
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+							"name": "老坛酸菜",
+							"price": 200,
+							"seq": 2,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}, {
+							"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+							"name": "拼排骨",
+							"price": 500,
+							"seq": 5,
+							"status": 1
+						}, {
+							"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+							"name": "拼肥肠",
+							"price": 500,
+							"seq": 6,
+							"status": 1
+						}, {
+							"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+							"name": "拼木耳肉丝",
+							"price": 300,
+							"seq": 7,
+							"status": 1
+						}, {
+							"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+							"name": "拼牛杂",
+							"price": 500,
+							"seq": 8,
+							"status": 1
+						}, {
+							"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+							"name": "拼牛肉",
+							"price": 500,
+							"seq": 9,
+							"status": 1
+						}, {
+							"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+							"name": "拼麻辣牛肉",
+							"price": 600,
+							"seq": 10,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "aeaf6a90-1d3a-4042-be3d-dfd7943a411a",
-							"name": "土匪猪肝",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/4df9fdbf7cad18cf067caf7ac33a5745.jpg",
-							"description": null,
-							"display_order": 19,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "15a587af-756d-4dbe-a862-77a385e57d06",
-								"name": "小份",
-								"price": 1700,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
 								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"status": 1
 							}, {
-								"id": "32b1b2e6-abb9-4378-bf55-08d1f928f675",
-								"name": "大份",
-								"price": 2600,
+								"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+								"name": "老坛酸菜",
+								"price": 200,
 								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "998ccfdf-894a-48ba-b446-a981c8db9362",
-							"name": "蒜苗回锅肉",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c7fb00ca5f1059dede797efef0cb263e.jpg",
-							"description": null,
-							"display_order": 20,
-							"valid": null,
-							"category_id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "回锅肉腊肉类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 2,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "7547c478-f4fc-4936-ba2c-e84851367b87",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
+								"status": 1
 							}, {
-								"id": "185fe0df-0a88-447e-91a2-178ea17c250f",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}, {
+								"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+								"name": "拼排骨",
+								"price": 500,
+								"seq": 5,
+								"status": 1
+							}, {
+								"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+								"name": "拼肥肠",
+								"price": 500,
+								"seq": 6,
+								"status": 1
+							}, {
+								"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+								"name": "拼木耳肉丝",
+								"price": 300,
+								"seq": 7,
+								"status": 1
+							}, {
+								"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+								"name": "拼牛杂",
+								"price": 500,
+								"seq": 8,
+								"status": 1
+							}, {
+								"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+								"name": "拼牛肉",
+								"price": 500,
+								"seq": 9,
+								"status": 1
+							}, {
+								"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+								"name": "拼麻辣牛肉",
+								"price": 600,
+								"seq": 10,
+								"status": 1
 							}]
-						},
-						"attributes": [],
-						"material_ids": null,
-						"materials": null,
-						"item_tags": null,
-						"material_groups": [],
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}]
 				}, {
-					"category_name": "牛肉瘦肉类",
-					"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
+					"category_name": "德舍炒码粉",
+					"category_id": "f8b9d07f-66eb-4d43-a0cc-94408ec30fe6",
 					"items": [{
 						"item": {
-							"id": "9c27bc2f-485d-48c0-a74c-745c65bc6b06",
-							"name": "爆炒猪头肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/7251e22436de193145d91677b16fb198.jpeg",
+							"id": "f840c313-f8a6-4841-92e3-ebfb57778363",
+							"name": "酸辣鸡杂炒码粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0290bcb890aacb4536a09a87116f6026.jpeg",
 							"description": null,
 							"display_order": 1,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 1700,
+							"category_id": "f8b9d07f-66eb-4d43-a0cc-94408ec30fe6",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1800,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1578,68 +1810,75 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍炒码粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 2,
+							"is_multiple": 1,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1700,
-							"takeout_price": 1700,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": {
-							"title": "炒菜",
-							"options": [{
-								"id": "e2c619ca-74f6-4f47-af23-9b344d37c403",
-								"name": "小份",
-								"price": 1700,
-								"seq": 1,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 1700,
-								"takeout_price": 1700
-							}, {
-								"id": "48495920-294f-4f5e-b600-6ee81aa515b2",
-								"name": "大份",
-								"price": 2600,
-								"seq": 2,
-								"activity_price": null,
-								"quota_count": null,
-								"second_activity_discount": null,
-								"arrival_price": 2600,
-								"takeout_price": 2600
-							}]
-						},
+						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "fdda4d17-02b9-4ab5-88c3-7823c03af5be",
-							"name": "土豆红烧肉",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ded39bae4803d4755813fa99d4e583a3.jpg",
+							"id": "20d199b5-ee35-4491-9499-785766b1114f",
+							"name": "酸菜炒大肠炒码粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/278ec0aa89d5ff21c6200f0d1719e652.jpeg",
 							"description": null,
 							"display_order": 2,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 2000,
+							"category_id": "f8b9d07f-66eb-4d43-a0cc-94408ec30fe6",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1800,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1648,9 +1887,9 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍炒码粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1660,35 +1899,88 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2000,
-							"takeout_price": 2000,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
+						"attributes": [{
+							"id": "b6d7f62e-85ae-4a13-ba38-ac208299024b",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
+							"options": [{
+								"id": "0142fb00-7f74-436f-b2be-155f88dd63af",
+								"name": "圆粉",
+								"seq": 1
+							}, {
+								"id": "2fb2afec-0c79-4615-9509-529f7fd0bed3",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "e452b75d-9475-494b-ae89-eda785c61bd9",
+								"name": "面条",
+								"seq": 3
+							}, {
+								"id": "35392729-6a80-4e96-b8b5-66200e8b115c",
+								"name": "河粉",
+								"seq": 4
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "c4b4aaa7-aab6-42d4-91f7-7a7bd6ab692d",
-							"name": "泡椒肥肠",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/900a2b76955d8fe42eabba61e65fce0c.jpg",
+							"id": "737a4525-00a3-4b48-a48a-afc9f487c8a2",
+							"name": "蛋炒肉炒码粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8013dc9186c8127fdaf37cd8419ef2e0.jpeg",
 							"description": null,
 							"display_order": 3,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 2000,
+							"category_id": "f8b9d07f-66eb-4d43-a0cc-94408ec30fe6",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1900,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1697,9 +1989,9 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍炒码粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1709,35 +2001,88 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2000,
-							"takeout_price": 2000,
+							"arrival_price": 1900,
+							"takeout_price": 1900,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
+						"attributes": [{
+							"id": "470e300f-13eb-42e1-8ab7-20ee38c67c12",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
+							"options": [{
+								"id": "12c8080f-cb2d-43ff-8a8e-52c99dca833c",
+								"name": "圆粉",
+								"seq": 1
+							}, {
+								"id": "262f8907-5d71-42e4-a2d1-17ddfb5ddcb2",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "f265ecea-13d2-481d-ae51-d3e73b9755b3",
+								"name": "面条",
+								"seq": 3
+							}, {
+								"id": "17347d20-4a86-4bed-8985-e2c9c0a48476",
+								"name": "河粉",
+								"seq": 4
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "55bcb912-2af9-4114-9d37-ff4390e62043",
-							"name": "土豆牛腩",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/894e0ab9649cdea743d1f456a5efe4ea.jpeg",
+							"id": "0d4c9786-55be-4aea-a92a-f6361cb43831",
+							"name": "辣椒炒肉炒码粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c40613447bed4971094580804373ef07.jpg",
 							"description": null,
 							"display_order": 4,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 2200,
+							"category_id": "f8b9d07f-66eb-4d43-a0cc-94408ec30fe6",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1800,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1746,9 +2091,9 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍炒码粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1758,35 +2103,88 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2200,
-							"takeout_price": 2200,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
+						"attributes": [{
+							"id": "c5d298b2-375d-4a83-8b76-1f1f1887f61e",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
+							"options": [{
+								"id": "990276a5-292f-4a0c-8a53-7833115e0cf7",
+								"name": "圆粉",
+								"seq": 1
+							}, {
+								"id": "b468f316-ffe3-4906-b37c-1b0f5c56847c",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "0b4edb40-373b-4a89-b9dc-1e3fef8befa9",
+								"name": "面条",
+								"seq": 3
+							}, {
+								"id": "ccba6e94-4113-4a53-a88e-842350c666f3",
+								"name": "河粉",
+								"seq": 4
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "47dd075c-0741-4334-b287-725407798e7e",
-							"name": "泡椒牛肉",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3e914373592d7ab0a04352377bfb9804.jpg",
+							"id": "ed566459-de0c-4e00-ad3b-491f82eec1f9",
+							"name": "扑豆角炒肉炒码粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d88a271ab5f31c3c300a45ae2e73f7af.jpg",
 							"description": null,
 							"display_order": 5,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 2200,
+							"category_id": "f8b9d07f-66eb-4d43-a0cc-94408ec30fe6",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1800,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1795,9 +2193,9 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍炒码粉",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1807,34 +2205,91 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2200,
-							"takeout_price": 2200,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
+						"attributes": [{
+							"id": "6e4bb6fd-e7bf-4fc2-b307-f1b618941a21",
+							"multiple": 0,
+							"seq": 1,
+							"title": "圆扁面",
+							"must": 1,
+							"options": [{
+								"id": "90d0b3a7-c465-4826-8999-1aabd41b1b11",
+								"name": "圆粉",
+								"seq": 1
+							}, {
+								"id": "3a4a74bc-3de6-4d0c-ad83-4d5ad96cef22",
+								"name": "扁粉",
+								"seq": 2
+							}, {
+								"id": "6f158e53-553c-48db-8b3a-402aca1f917f",
+								"name": "面条",
+								"seq": 3
+							}, {
+								"id": "97576d63-8e82-4dd3-b937-d0b7e97e0dd6",
+								"name": "河粉",
+								"seq": 4
+							}]
+						}],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
-					}, {
+					}]
+				}, {
+					"category_name": "德舍现炒快餐",
+					"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+					"items": [{
 						"item": {
-							"id": "95b54824-1a2e-4ef1-b14b-6ea431f6ee38",
-							"name": "腐竹红烧肉",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/7e199b08729aaa0941defe60f867d5dd.jpg",
+							"id": "ba97ca04-8cde-4873-a09e-936c2e22a2c9",
+							"name": "永州血鸭饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5b9499f9cc4ec6339503e6a6065acdba.jpeg",
 							"description": null,
-							"display_order": 6,
+							"display_order": 2,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
 							"price": 2000,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -1846,7 +2301,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍现炒快餐",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1866,25 +2321,292 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "a8296fa7-a1b4-4756-8169-57e62f8af49a",
-							"name": "腐竹牛腩",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/a1f58cfd6f5a5abc8552a90dc89736a3.jpeg",
+							"id": "c23f0a9c-2290-4d88-8c30-b1756903d91b",
+							"name": "荷包蛋炒拆骨肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/38810f17df974f4f2fdbb6f98d07a343.jpeg",
+							"description": null,
+							"display_order": 3,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1900,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1900,
+							"takeout_price": 1900,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "7c5138fc-5629-41ea-91c8-a9d114003354",
+							"name": "口水鸡饭",
+							"photo_url": "https://marketing-static.shouqianba.com/gallery/9c83790af075a5c9a459d66c22bbab72.jpg",
+							"description": null,
+							"display_order": 4,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1800,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "316b9f27-a228-4c2b-a1d2-c2a2f71c4c0d",
+							"name": "小炒黄牛肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f967a030523e7edb432034fa35bd7bc0.jpeg",
+							"description": null,
+							"display_order": 6,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1900,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": null,
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1900,
+							"takeout_price": 1900,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "38aeacce-8c6a-43f1-be65-9916b0c7ec9b",
+							"name": "老长沙卤味回锅饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d81a4d0ecef029be115c12c27a8d40f9.jpeg",
 							"description": null,
 							"display_order": 7,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 2200,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1900,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1895,7 +2617,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍现炒快餐",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1905,8 +2627,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2200,
-							"takeout_price": 2200,
+							"arrival_price": 1900,
+							"takeout_price": 1900,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -1915,25 +2637,55 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "11508d2b-97f7-4bbc-b3a1-20be848f96ef",
-							"name": "酸菜鱼片",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/d71fb3b4edff3452280e2e349e3eede0.jpeg",
+							"id": "b4fb188c-288f-4090-b63d-c20ec257be3f",
+							"name": "萝卜干炒腊肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1b2c94f6df1919135de525b97ebdc334.jpeg",
 							"description": null,
 							"display_order": 8,
 							"valid": null,
-							"category_id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-							"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-							"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-							"price": 2200,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1800,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1944,7 +2696,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "牛肉瘦肉类",
+							"category_name": "德舍现炒快餐",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1954,8 +2706,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2200,
-							"takeout_price": 2200,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -1964,9 +2716,829 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
 						"item_tags": null,
-						"material_groups": [],
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "87d7f2a3-6fcc-49b3-9448-c36ba468995d",
+							"name": "酱汁焖鸭饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ab647d042d26c929d68d96cd4695ae4c.jpeg",
+							"description": null,
+							"display_order": 9,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1800,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "43c9226d-18ac-4b94-a548-70dcde8a9734",
+							"name": "卤香头皮肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/068b63fce55644e817b1ae50aed2a7fa.jpeg",
+							"description": null,
+							"display_order": 12,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1600,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1600,
+							"takeout_price": 1600,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "5f6e76e4-68d7-4a16-84de-da673b5864fb",
+							"name": "毛豆肉末饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/05b128baa09fc29c142ba1333cb15c09.jpeg",
+							"description": null,
+							"display_order": 13,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1500,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1500,
+							"takeout_price": 1500,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "b3121fc6-a4c1-4b97-8261-2f3ec7fc8db2",
+							"name": "酸菜小笋饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d4ce11451746493718618c207266785d.png",
+							"description": null,
+							"display_order": 14,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1500,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1500,
+							"takeout_price": 1500,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "9b352f36-a578-4a17-b83d-c2babc167fc0",
+							"name": "家常胡萝卜炒肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0adba7d3ccb1a2ec82d72dc2add6ceed.jpeg",
+							"description": null,
+							"display_order": 18,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1500,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1500,
+							"takeout_price": 1500,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "4d33d1a7-8664-4bfb-9fbb-646bbf687eb1",
+							"name": "有机花菜炒肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b294d7c58c164a83c4258b3cfbcce5cc.jpeg",
+							"description": null,
+							"display_order": 19,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1500,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": null,
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1500,
+							"takeout_price": 1500,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "3d9e1002-892a-4115-a390-3f1deedd1ccf",
+							"name": "扑豆角炒肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a84492327c8a03f330bd8cc29a8b6d3f.jpeg",
+							"description": null,
+							"display_order": 22,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1600,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": null,
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1600,
+							"takeout_price": 1600,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "90bccc46-6adb-4120-aacc-a1554f910c7e",
+							"name": "烟笋腊肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4c23399e0fd7211761f3ece400593446.jpeg",
+							"description": null,
+							"display_order": 24,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1600,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": null,
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1600,
+							"takeout_price": 1600,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "c1dbf847-7a9f-4c1c-9726-1ccc9cfbf2b2",
+							"name": "西红柿炒蛋饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b09aef6ef2d69ac22bda60927b5bd67b.jpeg",
+							"description": null,
+							"display_order": 26,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1400,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1400,
+							"takeout_price": 1400,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "7186b59c-dfc6-486e-bd96-b4ce73e44cc1",
+							"name": "外婆菜茄子肉沫饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7f00812f599db70886507de253b40045.jpeg",
+							"description": null,
+							"display_order": 28,
+							"valid": null,
+							"category_id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+							"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+							"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+							"price": 1500,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": null,
+							"unit_type": 0,
+							"category_name": "德舍现炒快餐",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1500,
+							"takeout_price": 1500,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": [{
+							"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+							"name": "打包(必点)",
+							"price": 100,
+							"seq": 1,
+							"status": 1
+						}, {
+							"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+							"name": "加煎蛋",
+							"price": 200,
+							"seq": 4,
+							"status": 1
+						}],
+						"item_tags": null,
+						"material_groups": [{
+							"group_id": 5762,
+							"name": "加料",
+							"seq": 1,
+							"materials": [{
+								"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+								"name": "打包(必点)",
+								"price": 100,
+								"seq": 1,
+								"status": 1
+							}, {
+								"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+								"name": "加煎蛋",
+								"price": 200,
+								"seq": 4,
+								"status": 1
+							}]
+						}],
+						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
@@ -1976,30 +3548,30 @@
 			]
 		},
 		"terminal": {
-			"id": "9d6f926d-9599-11ec-89bd-7cd30aeb1230",
-			"name": "2",
-			"qr_code": "22022401713053896285",
-			"qr_print_code": "0171305389",
+			"id": "de7c378e-a49f-11ea-89bd-7cd30aeb1230",
+			"name": "B5",
+			"qr_code": "jjzt20060201044331691596",
+			"qr_print_code": "0104433169",
 			"status": 1,
 			"bind_source": "APP",
-			"bind_by": "707742",
-			"bind_time": 1646788992000,
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"terminal_id": "d5a32c48-e991-4481-afd7-948268cb959f",
-			"ctime": 1645724754000,
-			"mtime": 1646788992734,
+			"bind_by": "c6620c2f-b9ea-43f4-b459-6021136556f2",
+			"bind_time": 1594801762000,
+			"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"terminal_id": "19d0c3d0-1cbc-46f4-bc33-9bbe3abfd04b",
+			"ctime": 1591081712000,
+			"mtime": 1594801762315,
 			"deleted": false,
 			"version": 2,
-			"qr_code_type": 32,
+			"qr_code_type": 8,
 			"qrcode_type": "TABLE",
 			"qrcodeBusiness": null,
 			"meal_type": "single",
 			"jjz_business_type": 1,
-			"tableId": 707742,
-			"tableName": "2",
-			"seatCount": 4,
-			"areaId": 115439,
+			"tableId": 103350,
+			"tableName": "B5",
+			"seatCount": null,
+			"areaId": 28847,
 			"tableStatus": "FREE",
 			"require_phone": false
 		},
@@ -2007,11 +3579,11 @@
 			"collectionNums": null,
 			"firstIndustry": "餐饮",
 			"firstIndustryCode": "001",
-			"industry": "快餐",
-			"industryCode": "001010",
-			"merchantName": "蜀湘木桶饭U8智造产业园店",
-			"merchantId": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"merchantSn": "1680005240967",
+			"industry": "其他中餐",
+			"industryCode": "001003",
+			"merchantName": "德舍常德牛肉粉深圳东海百货店",
+			"merchantId": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+			"merchantSn": "1680003630154",
 			"alipayStatus": 0,
 			"wechatStatus": 0,
 			"disabled": 0,
@@ -2031,32 +3603,32 @@
 			"organizationPath": null,
 			"categoriesNames": null,
 			"coupons": [],
-			"storeId": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"storeName": "蜀湘木桶饭U8智造产业园店",
+			"storeId": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"storeName": "德舍常德牛肉粉深圳东海百货店",
 			"storeExtraName": "",
-			"contactPhone": "13640996252",
+			"contactPhone": "13798209020",
 			"slogan": "",
 			"payWay": 1,
 			"categoryId": null,
 			"location": {
-				"lat": "22.604758",
-				"lon": "113.848371"
+				"lat": "22.687924",
+				"lon": "113.802734"
 			},
 			"storeAddress": {
-				"province": "",
-				"city": "",
-				"district": "",
+				"province": "440000",
+				"city": "440300",
+				"district": "440306",
 				"streetAddress": "",
-				"address": "",
+				"address": "德舍·常德牛肉粉(东海店)",
 				"aoiName": null,
-				"houseNumber": "",
+				"houseNumber": "福永路120号东海百货A-21号",
 				"adcode": null
 			},
 			"storePhoto": {
 				"innerPhotos": [],
 				"outerPhotos": [],
 				"goodsPhotos": [],
-				"coverPhoto": "https://statics.wosaimg.com/99zhe/industry/1999.jpg",
+				"coverPhoto": "https://images.wosaimg.com/e2/ab083ed177148eae2aabaa51add4c052ed055a.jpeg",
 				"logoUrl": null
 			},
 			"storeBasic": {
@@ -2067,28 +3639,28 @@
 			},
 			"onceOpened": true,
 			"storeType": 0,
-			"storeSn": "1580000005411911"
+			"storeSn": "1580000003218532"
 		},
 		"login": {
-			"token": "8c10bf35-d120-4105-a376-6b452bd2e6fa",
+			"token": "97e9764e-ce97-44fb-9b30-1775f1ae5c11",
 			"userId": "7edbcb77-f7e4-11ea-8148-506b4beefb1a",
 			"cellphone": "",
-			"thirdpartyUserId": "ofDgL0Ux3RpnU-VTJIfSWDOzNEhM",
+			"thirdpartyUserId": "oThRp5P1tQK89TlmlcOUEzDWv_V8",
 			"unionId": "oc7fLvpcJDTS_NkWygFh82kzJz3E",
 			"wid": null,
 			"ctime": 1600237134000,
-			"updatedAt": null,
+			"updatedAt": 1635847440000,
 			"externalSource": "",
 			"userInfo": {
-				"refUserId": "ofDgL0Ux3RpnU-VTJIfSWDOzNEhM",
-				"type": null,
-				"typeId": null,
-				"nickName": "用户50086668",
-				"gender": null,
-				"avatarUrl": null,
-				"province": null,
-				"city": null,
-				"country": null
+				"refUserId": "7edbcb77-f7e4-11ea-8148-506b4beefb1a",
+				"type": "WECHAT",
+				"typeId": "oThRp5P1tQK89TlmlcOUEzDWv_V8",
+				"nickName": "杰",
+				"gender": 0,
+				"avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLMYZ2Tn86gJ8bLHic0UMUVuWrQ3J5HffiaXCwhgkb7YZb5csib22X3dafx0QxRKq1YsL5ub65HiaQB8Q/132",
+				"province": "",
+				"city": "",
+				"country": ""
 			}
 		},
 		"mcc": {
@@ -2101,18 +3673,20 @@
 			"store_qrcode_types": "[{\"idx\":1,\"title\":\"立牌\",\"scale\":0.711,\"detail\":\"用户制作立牌海报\\n建议尺寸A4纸大小\"},{\"idx\":2,\"title\":\"电视版\",\"scale\":1.771,\"detail\":\"用户电视屏幕展示\\n分辨率：2480x1400\"},{\"idx\":3,\"title\":\"仅保留二维码\",\"scale\":1}]",
 			"show_discount_category": "1",
 			"must_order_enable": "0",
+			"introduce_printer": "",
 			"order_call_display_type": "[\"dine\"]",
 			"order_call_finish_duration": "1200",
 			"table_qrcode_types": "[{\"idx\":1,\"title\":\"横版桌贴\",\"scale\":1.585},{\"idx\":2,\"title\":\"竖版桌贴\",\"scale\":0.815},{\"idx\":3,\"title\":\"仅保留二维码\",\"scale\":1}]",
+			"dineway_config": "{\"dineway\":\"store\",\"dinewaylist\":[\"store\",\"takeout\"]}",
 			"voice_pre": "1",
 			"mobile_order_type": "PRODUCT",
+			"store_bulletin": "欢迎光临本店，很高兴为您服务。",
 			"cashier_mode": "0",
-			"store_bulletin": "赠送小菜例汤，送完即止",
+			"store_must_category": "",
 			"preset_remind_time": "30",
 			"takeout_pre_remind_time": "60",
 			"voice_subscribe": "1",
 			"store_product_tag_use": "1",
-			"scan_activated": "true",
 			"pack_fee": "100",
 			"must_order_editable": "0",
 			"cashier_auto_settle_after_pay": "1",
@@ -2121,9 +3695,11 @@
 			"business_status": "1",
 			"auto_clean_after_settle": "0",
 			"store_takeout_bulletin": "欢迎光临本店，很高兴为您服务。",
-			"material_recommend_method": "1",
+			"material_recommend_method": "2",
+			"notify_material_config": "0",
 			"preset_days": "[0,1,2,3,4,5,6]",
 			"takeout_pre_days": "[0,1,2,3,4,5,6]",
+			"takeout_business_status": "0",
 			"preset_print_time": "2",
 			"pack_type": "0",
 			"order_call_display_duration": "7200",
@@ -2133,109 +3709,109 @@
 			"takeout_pre_print_time": "2",
 			"recomend_show_way": "vertical",
 			"manual_input_takeout_no": "0",
-			"takeout_pre_status": "0"
+			"takeout_pre_status": "0",
+			"activated": "true"
 		},
 		"duration": {
 			"qrcodeParser": {
-				"cost": 25,
-				"start": 1648527062144,
-				"end": 1648527062169
+				"cost": 15,
+				"start": 1650347138296,
+				"end": 1650347138311
 			},
 			"queryMerchantMcc": {
 				"cost": 4,
-				"start": 1648527062169,
-				"end": 1648527062173
+				"start": 1650347138311,
+				"end": 1650347138315
 			},
 			"loadCategory": {
-				"cost": 10,
-				"start": 1648527062181,
-				"end": 1648527062191
+				"cost": 6,
+				"start": 1650347138318,
+				"end": 1650347138324
 			},
 			"loadHotSale": {
 				"cost": 0,
-				"start": 1648527062181,
-				"end": 1648527062181
+				"start": 1650347138318,
+				"end": 1650347138318
 			},
 			"loadProductTag": {
-				"cost": 4,
-				"start": 1648527062182,
-				"end": 1648527062186
+				"cost": 5,
+				"start": 1650347138318,
+				"end": 1650347138323
 			},
 			"queryApolloConfig": {
 				"cost": 0,
-				"start": 1648527062169,
-				"end": 1648527062169
+				"start": 1650347138311,
+				"end": 1650347138311
 			},
 			"loadStoreActivity": {
-				"cost": 83,
-				"start": 1648527062182,
-				"end": 1648527062265
+				"cost": 95,
+				"start": 1650347138318,
+				"end": 1650347138413
 			},
 			"loadDiscountCategory": {
-				"cost": 8,
-				"start": 1648527062182,
-				"end": 1648527062190
+				"cost": 4,
+				"start": 1650347138318,
+				"end": 1650347138322
 			},
 			"login": {
-				"cost": 5,
-				"start": 1648527062143,
-				"end": 1648527062148
+				"cost": 4,
+				"start": 1650347138295,
+				"end": 1650347138299
 			},
 			"queryStoreThemes": {
-				"cost": 12,
-				"start": 1648527062169,
-				"end": 1648527062181
+				"cost": 7,
+				"start": 1650347138311,
+				"end": 1650347138318
 			},
 			"total": {
-				"cost": 125,
-				"start": 1648527062143,
-				"end": 1648527062268
+				"cost": 122,
+				"start": 1650347138295,
+				"end": 1650347138417
 			},
 			"loadSingleActivity": {
-				"cost": 5,
-				"start": 1648527062181,
-				"end": 1648527062186
+				"cost": 3,
+				"start": 1650347138318,
+				"end": 1650347138321
 			},
 			"queryStoreMcc": {
 				"cost": 4,
-				"start": 1648527062169,
-				"end": 1648527062173
+				"start": 1650347138311,
+				"end": 1650347138315
 			},
 			"queryStoreInfo": {
-				"cost": 4,
-				"start": 1648527062169,
-				"end": 1648527062173
+				"cost": 2,
+				"start": 1650347138311,
+				"end": 1650347138313
 			},
 			"loadRecentItems": {
-				"cost": 21,
-				"start": 1648527062181,
-				"end": 1648527062202
+				"cost": 12,
+				"start": 1650347138318,
+				"end": 1650347138330
 			},
 			"loadSecondActivity": {
 				"cost": 2,
-				"start": 1648527062182,
-				"end": 1648527062184
+				"start": 1650347138318,
+				"end": 1650347138320
 			},
 			"loadRecommend": {
-				"cost": 3,
-				"start": 1648527062181,
-				"end": 1648527062184
+				"cost": 32,
+				"start": 1650347138318,
+				"end": 1650347138350
 			},
 			"loadIndexItems": {
-				"cost": 55,
-				"start": 1648527062181,
-				"end": 1648527062236
+				"cost": 47,
+				"start": 1650347138318,
+				"end": 1650347138365
 			}
 		},
 		"extra": {
-			"fullPath": "/pages/meal/index?c=22022401713053896285&qrCode=https://99zhe.com/t/LkwWJ&merchantId=4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e&page=meal&storeId=ae1c1884-ee38-4173-b767-99e6fb1afe98&scene=t&timestamp=1648527062144",
-			"c": "22022401713053896285",
-			"qrCode": "https://99zhe.com/t/LkwWJ",
-			"merchantId": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
+			"fullPath": "/pages/meal/index?qrCode=https://99zhe.com/t/HELz7&merchantId=88c6d03a-5ee5-4fb9-b298-eda92c31c562&page=meal&storeId=367f38b4-ee7e-40d7-82a6-fe0aab590d5e&scene=t&timestamp=1650347138296",
+			"qrCode": "https://99zhe.com/t/HELz7",
+			"merchantId": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
 			"page": "page-home",
-			"storeId": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
+			"storeId": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
 			"scene": "t",
-			"timestamp": 1648527062144
+			"timestamp": 1650347138296
 		},
 		"serviceTypes": {
 			"currentServiceTypeIndex": 0,
@@ -2254,7 +3830,7 @@
 		},
 		"theme": [{
 			"page_id": "p0o2sfaiwk21",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
 			"template_id": 3692,
 			"product_id": null,
 			"theme_id": null,
@@ -2266,25 +3842,100 @@
 				"name": "点单页面",
 				"rank": 1,
 				"config": {
-					"serviceTypeConfirmStyle": {
-						"color": "#FD6D05"
-					},
 					"navigationTextStyle": {
 						"fontFamily": "PingFangSC-Regular, 'PingFang SC'",
 						"color": "#FFFFFF",
 						"fontSize": "34rpx"
+					},
+					"btnServiceTypeTextStyleMy": {
+						"marginTop": "4px"
+					},
+					"iconRecentUrl": "https://marketing-static.shouqianba.com/themes/default/iconRecent.webp?x-oss-process=image/format,png",
+					"tagRecommendUrl": "https://marketing-static.shouqianba.com/themes/default/recommend_tag.webp?x-oss-process=image/format,png",
+					"storeBasicAddressCheckCoverUrl": "https://marketing-static.shouqianba.com/themes/default/icon_store_basic_check_address.webp?x-oss-process=image/format,png",
+					"backButtonColor": "#FFFFFF",
+					"recommendMaterialItemSelectedStyle": {
+						"borderColor": "#ff6a16"
+					},
+					"discountValueStyle": {
+						"fontFamily": "Lato-Medium, Lato",
+						"color": "#F24839"
+					},
+					"recommendGoodsPicSmallWidth": "194rpx",
+					"gray999Color": "#999999",
+					"materialDialogConfirmStyle": {
+						"fontWeight": 500
+					},
+					"addBtnColor": "#ffffff",
+					"btnPayIconUrlAct": "https://marketing-static.shouqianba.com/themes/default/payAct.png",
+					"themeColor": "#FD6D05",
+					"headerStoreWrapStyle": {},
+					"recommendGoodsWrapStyle": {
+						"paddingBottom": "26rpx"
+					},
+					"mealTypeEatInIconStyle": {
+						"backgroundImage": "url(https://marketing-static.shouqianba.com/themes/default/mealTypeEatInIcon.png)",
+						"width": "100rpx",
+						"height": "100rpx"
+					},
+					"btnPreOrderUrl": "https://marketing-static.shouqianba.com/themes/default/btnPreOrder.webp?x-oss-process=image/format,png",
+					"homeTabsStyle": {
+						"paddingTop": "33rpx"
+					},
+					"showStoreBasicAddressCheck": true,
+					"hotsaleRankingText": "销量第##名",
+					"orderSubmitBannerBg": "url(\"https://marketing-static.shouqianba.com/themes/default/orderSubmitBannerBg.webp?x-oss-process=image/format,png\")",
+					"recommendMaterialBadgeStyle": {
+						"width": "66rpx",
+						"height": "27rpx"
+					},
+					"iconRedeemUrl": "https://marketing-static.shouqianba.com/themes/default/iconRedeem.webp?x-oss-process=image/format,png",
+					"selectedMealTypeIconUrl": "https://marketing-static.shouqianba.com/themes/default/select_meal_type.png",
+					"currencyStyle": {
+						"color": "#FD6D05"
+					},
+					"navigationBackColor": "#FFFFFF",
+					"couponTag": "",
+					"btnCallMerchantIconUrlAct": "https://marketing-static.shouqianba.com/themes/default/callMerchantAct.png",
+					"btnTakeOutOrderUrl": "https://marketing-static.shouqianba.com/themes/default/btnTakeOutOrder.webp?x-oss-process=image/format,png",
+					"servicePayOrderSmallCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_pay_order_small.webp?x-oss-process=image/format,png",
+					"iconHotSaleUrl": "https://marketing-static.shouqianba.com/themes/default/iconHotSale.webp?x-oss-process=image/format,png",
+					"iconsHeaderV1": {
+						"iconOrderUrl": "https://marketing-static.shouqianba.com/themes/default/iconOrder.webp?x-oss-process=image/format,png",
+						"iconSearchUrl": "https://marketing-static.shouqianba.com/themes/default/iconSearch.webp?x-oss-process=image/format,png",
+						"iconCollectedUrl": "https://marketing-static.shouqianba.com/themes/default/iconCollected.webp?x-oss-process=image/format,png",
+						"iconGiftUrl": "https://marketing-static.shouqianba.com/themes/default/iconGift.webp?x-oss-process=image/format,png",
+						"iconUncollectedUrl": "https://marketing-static.shouqianba.com/themes/default/iconUncollected.webp?x-oss-process=image/format,png",
+						"iconCollectedMyUrl": "https://marketing-static.shouqianba.com/themes/default/iconCollectedMy.webp?x-oss-process=image/format,png",
+						"iconUncollectedMyUrl": "https://marketing-static.shouqianba.com/themes/default/iconUncollectedMy.webp?x-oss-process=image/format,png"
+					},
+					"serviceSubscribeOrderCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_subscribe_order.webp?x-oss-process=image/format,png",
+					"storedPayIconUrl": "https://marketing-static.shouqianba.com/themes/default/storedPayIcon.png",
+					"servicePayOrderCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_pay_order.webp?x-oss-process=image/format,png",
+					"iconDiscountUrl": "https://marketing-static.shouqianba.com/themes/default/iconDiscount.webp?x-oss-process=image/format,png",
+					"recommendGoodsPicBigWidth": "206rpx",
+					"btnServiceTypeTextStyle": {},
+					"recommendMaterialBadgeCoverUrl": "https://marketing-static.shouqianba.com/themes/default/recommend_material_badge_in_submit_cover.webp?x-oss-process=image/format,png",
+					"mealTypeTextDefaultStyle": {
+						"color": "#666666",
+						"fontSize": "30rpx"
+					},
+					"serviceTypeConfirmStyle": {
+						"color": "#FD6D05"
 					},
 					"btnServiceTypeStyle": {
 						"backgroundImage": "url(https://marketing-static.shouqianba.com/themes/default/bgBtnServiceType.webp?x-oss-process=image/format,png)"
 					},
 					"serviceTakeOutOrderCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_take_out_order.webp?x-oss-process=image/format,png",
 					"priceNumberColor": "#000000",
+					"materialDialogCancelStyle": {
+						"fontWeight": 500
+					},
 					"mealTypeTextActStyle": {
 						"color": "#FF6A16",
 						"fontSize": "30rpx",
 						"fontWeight": "blod"
 					},
-					"iconRecentUrl": "https://marketing-static.shouqianba.com/themes/default/iconRecent.webp?x-oss-process=image/format,png",
 					"storeActivityInCart": ".wrapper{background:linear-gradient(271deg,#fff4ec 0%,#ffffff 100%);}.discountColor{color:#e65245;}.imageTips{position:absolute;top:0;left:0;width:132rpx;height:32rpx;background-size:cover;background-repeat:no-repeat;background-image:url('https://shouqianba.oss-cn-hangzhou.aliyuncs.com/mk/20211228172028.png');}.checked{width:40rpx;height:40rpx;background-size:cover;background-repeat:no-repeat;background-image:url('https://static.shouqianba.com/mk/20220117141832.png');}.unChecked{width:40rpx;height:40rpx;background-size:cover;background-repeat:no-repeat;background-image:url('https://shouqianba.oss-cn-hangzhou.aliyuncs.com/mk/20211228172602.png');}",
 					"servicePreOrderCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_pre_order.webp?x-oss-process=image/format,png",
 					"mealTypeBagIconStyle": {
@@ -2294,16 +3945,10 @@
 					},
 					"tagHotSaleUrl": "https://marketing-static.shouqianba.com/themes/default/hotsale_tag.webp?x-oss-process=image/format,png",
 					"btnCallManIconUrlAct": "https://marketing-static.shouqianba.com/themes/default/callManAct.png",
-					"tagRecommendUrl": "https://marketing-static.shouqianba.com/themes/default/recommend_tag.webp?x-oss-process=image/format,png",
-					"storeBasicAddressCheckCoverUrl": "https://marketing-static.shouqianba.com/themes/default/icon_store_basic_check_address.webp?x-oss-process=image/format,png",
 					"textActStyle": {
 						"color": "#FF6A16"
 					},
 					"btnReorderIconUrlAct": "https://marketing-static.shouqianba.com/themes/default/reOrderAct.png",
-					"backButtonColor": "#FFFFFF",
-					"recommendMaterialItemSelectedStyle": {
-						"borderColor": "#ff6a16"
-					},
 					"iconLightUrl": "https://marketing-static.shouqianba.com/themes/default/iconLight.webp?x-oss-process=image/format,png",
 					"serviceTypeIconStyles": {
 						"take_out_order": {
@@ -2324,11 +3969,6 @@
 					"textNormalStyle": {
 						"color": "#000000"
 					},
-					"discountValueStyle": {
-						"fontFamily": "Lato-Medium, Lato",
-						"color": "#F24839"
-					},
-					"recommendGoodsPicSmallWidth": "194rpx",
 					"storeBasicAddressCheckCoverStyle": {
 						"borderLeft": "1px solid #D7D7D7",
 						"bottom": 0,
@@ -2337,11 +3977,9 @@
 						"paddingLeft": "36rpx",
 						"height": "76rpx"
 					},
-					"gray999Color": "#999999",
 					"statusTextInSubmitOrderStyle": {
 						"color": "#fff"
 					},
-					"addBtnColor": "#ffffff",
 					"tagHotsaleMedalUrl": "https://marketing-static.shouqianba.com/themes/default/hotsale_medal.webp?x-oss-process=image/format,png",
 					"recommendGoodsPicSmallHeight": "194rpx",
 					"mealTypeselectedDefaultStyle": {
@@ -2362,28 +4000,14 @@
 						"right": "-1rpx"
 					},
 					"btnCallMerchantIconUrl": "https://marketing-static.shouqianba.com/themes/default/callMerchant.png",
-					"btnPayIconUrlAct": "https://marketing-static.shouqianba.com/themes/default/payAct.png",
 					"recommendWindowStyle": {
 						"margin": "0rpx 31rpx",
 						"top": "26rpx",
 						"background": "url('https://marketing-static.shouqianba.com/themes/default/recommend_window_bg.webp?x-oss-process=image/format,png') no-repeat center",
 						"backgroundSize": "100% 100%"
 					},
-					"themeColor": "#FD6D05",
-					"headerStoreWrapStyle": {},
-					"recommendGoodsWrapStyle": {
-						"paddingBottom": "26rpx"
-					},
-					"mealTypeEatInIconStyle": {
-						"backgroundImage": "url(https://marketing-static.shouqianba.com/themes/default/mealTypeEatInIcon.png)",
-						"width": "100rpx",
-						"height": "100rpx"
-					},
-					"btnPreOrderUrl": "https://marketing-static.shouqianba.com/themes/default/btnPreOrder.webp?x-oss-process=image/format,png",
+					"materialDialogIndexStyle": {},
 					"memberLoginInEmenuHome": ".memberLogin{padding:0 30rpx;}.wrapper{background-image:url('https://static.shouqianba.com/mk/20220117105516.png');box-shadow:0 2rpx 10rpx 0 rgba(83,83,83,0.14);}.avatar{background-image:url('https://images.wosaimg.com/b8/2e7c21eb00cb731940cb9a2978b416f5fa4fbf.png');background-position:center;background-size:cover;}.loginState{background-image:url('https://images.wosaimg.com/13/e8107d88b9e65ff16e8da89705bbc53e49b1b6.png');background-position:center;background-size:cover;background-repeat:no-repeat;width:144rpx;height:32rpx;}.memberContent{background-image:url('https://images.wosaimg.com/1d/b3a49330accfc7ca9b86d6b660ab41e20a23c2.png');background-position:center;background-size:cover;background-repeat:no-repeat;width:205rpx;height:32rpx;}.mainButton{background-color:#ff6a16;color:#fff3e2;}.memberTitle{color:#000;}",
-					"homeTabsStyle": {
-						"paddingTop": "33rpx"
-					},
 					"recommendWindowScrollStyle": {
 						"background": "linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 50%)"
 					},
@@ -2391,26 +4015,17 @@
 						"width": "202rpx",
 						"height": "36rpx"
 					},
-					"showStoreBasicAddressCheck": true,
 					"btnCallManIconUrl": "https://marketing-static.shouqianba.com/themes/default/callMan.png",
-					"hotsaleRankingText": "销量第##名",
 					"btnPayIconUrl": "https://marketing-static.shouqianba.com/themes/default/pay.png",
 					"storedActivityInMaterial": ".button{background:linear-gradient(97deg,#ecac2a 0,#ffc910 100%)}",
-					"orderSubmitBannerBg": "url(\"https://marketing-static.shouqianba.com/themes/default/orderSubmitBannerBg.webp?x-oss-process=image/format,png\")",
 					"tagRecommendHorizonUrl": "https://marketing-static.shouqianba.com/themes/default/recommend_tag.webp?x-oss-process=image/format,png",
 					"storeBasicAddressCheckStyle": {
 						"position": "relative",
 						"marginLeft": "8rpx"
 					},
-					"recommendMaterialBadgeStyle": {
-						"width": "66rpx",
-						"height": "27rpx"
-					},
-					"iconRedeemUrl": "https://marketing-static.shouqianba.com/themes/default/iconRedeem.webp?x-oss-process=image/format,png",
 					"headerStyle": {
 						"backgroundImage": "url(\"https://marketing-static.shouqianba.com/themes/default/bgHeader.webp?x-oss-process=image/format,png\")"
 					},
-					"selectedMealTypeIconUrl": "https://marketing-static.shouqianba.com/themes/default/select_meal_type.png",
 					"tickStyle": {
 						"color": "#FFF"
 					},
@@ -2419,54 +4034,26 @@
 						"height": "36rpx"
 					},
 					"wxPayIconUrl": "https://marketing-static.shouqianba.com/themes/default/wxPayIcon.png",
-					"currencyStyle": {
-						"color": "#FD6D05"
-					},
-					"navigationBackColor": "#FFFFFF",
-					"couponTag": "",
 					"recommendMaterialSelectedIconUrl": "https://marketing-static.shouqianba.com/themes/default/recommend_material_selected_icon.webp?x-oss-process=image/format,png",
 					"iconHeaderStyle": {
 						"width": "40rpx",
 						"height": "40rpx"
 					},
 					"fourThemeColor": "#FD6D05",
-					"btnCallMerchantIconUrlAct": "https://marketing-static.shouqianba.com/themes/default/callMerchantAct.png",
 					"headerNoticeStyle": {},
 					"navigationBarStyle": {
 						"backgroundImage": "url(\"https://marketing-static.shouqianba.com/themes/default/bgHeader.webp?x-oss-process=image/format,png\")"
 					},
-					"btnTakeOutOrderUrl": "https://marketing-static.shouqianba.com/themes/default/btnTakeOutOrder.webp?x-oss-process=image/format,png",
-					"servicePayOrderSmallCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_pay_order_small.webp?x-oss-process=image/format,png",
-					"iconHotSaleUrl": "https://marketing-static.shouqianba.com/themes/default/iconHotSale.webp?x-oss-process=image/format,png",
-					"iconsHeaderV1": {
-						"iconOrderUrl": "https://marketing-static.shouqianba.com/themes/default/iconOrder.webp?x-oss-process=image/format,png",
-						"iconSearchUrl": "https://marketing-static.shouqianba.com/themes/default/iconSearch.webp?x-oss-process=image/format,png",
-						"iconCollectedUrl": "https://marketing-static.shouqianba.com/themes/default/iconCollected.webp?x-oss-process=image/format,png",
-						"iconGiftUrl": "https://marketing-static.shouqianba.com/themes/default/iconGift.webp?x-oss-process=image/format,png",
-						"iconUncollectedUrl": "https://marketing-static.shouqianba.com/themes/default/iconUncollected.webp?x-oss-process=image/format,png",
-						"iconCollectedMyUrl": "https://marketing-static.shouqianba.com/themes/default/iconCollectedMy.webp?x-oss-process=image/format,png",
-						"iconUncollectedMyUrl": "https://marketing-static.shouqianba.com/themes/default/iconUncollectedMy.webp?x-oss-process=image/format,png"
-					},
-					"serviceSubscribeOrderCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_subscribe_order.webp?x-oss-process=image/format,png",
-					"storedPayIconUrl": "https://marketing-static.shouqianba.com/themes/default/storedPayIcon.png",
-					"servicePayOrderCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_pay_order.webp?x-oss-process=image/format,png",
 					"btnServiceIconUrl": "https://marketing-static.shouqianba.com/themes/default/service.png",
 					"btnReorderIconUrl": "https://marketing-static.shouqianba.com/themes/default/reOrder.png",
 					"servicePreOrderSmallCoverUrl": "https://marketing-static.shouqianba.com/themes/default/service_pre_order_small.webp?x-oss-process=image/format,png",
-					"iconDiscountUrl": "https://marketing-static.shouqianba.com/themes/default/iconDiscount.webp?x-oss-process=image/format,png",
-					"recommendGoodsPicBigWidth": "206rpx",
 					"fontThemeColor": "#FD6D05",
 					"recommendTagBoxStyle": {
 						"padding": "20rpx 20rpx 14rpx"
 					},
-					"mkInEmenuSubmit": ".storedPay{}.storedPayIcon{}.storedPayTitle{}.selectedRadio{flex-shrink:0;width:40rpx;height:40rpx;border-radius:50%;background-image:url('https://images.wosaimg.com/91/67d34b8df9e1c0170a5cb691a22115d04515f2.png');background-size:cover;background-repeat:no-repeat;}.selectedRule{background:rgba(255,126,53,0.08);border-color:#ff6a16;}.unSelectedRule{}.selectedDepositContent{color:#ff6a16;}.selectedDiscountContent{color:#ff6a16;}.unSelectedDepositContent{}.unSelectedDiscountContent{}.chargeContent{color:#ff6a16;}.chargeContentIconArrow{margin-left:15rpx;color:#999;}",
-					"recommendMaterialBadgeCoverUrl": "https://marketing-static.shouqianba.com/themes/default/recommend_material_badge_in_submit_cover.webp?x-oss-process=image/format,png",
+					"mkInEmenuSubmit": ".storedPay{}.storedPayIcon{}.storedPayTitle{}.selectedRadio{flex-shrink:0;width:40rpx;height:40rpx;border-radius:50%;background-image:url('https://images.wosaimg.com/91/67d34b8df9e1c0170a5cb691a22115d04515f2.png');background-size:cover;background-repeat:no-repeat;}.storedPayDescBalance{color:#e65245;}.ruleWrapper{width:100%;height:340rpx;margin-top:20rpx;padding-top:40rpx;box-sizing:border-box;background-size:100% 100%;background-repeat:no-repeat;background-image:url('https://images.wosaimg.com/dd/728d0a95aa1f556039e9ebd2241d087f010c34.png');}.ruleAndTitle{}.ruleTitleWrapper{display:flex;align-items:center;padding-left:233rpx;}.operationalWrapper{display:flex;align-items:center;width:100%;min-height:40rpx;overflow:auto;}.operationalItem{display:flex;align-items:center;flex-shrink:0;padding:6rpx 12rpx;margin-bottom:4rpx;margin-right:16rpx;color:#fff;line-height:24rpx;font-weight:500;font-size:22rpx;background-image:linear-gradient(270deg,#f14e40 0%,#ff5b4d 100%);border-radius:20rpx 4rpx 20rpx 4rpx;}.depositRuleItem{}.selectedRule{background:rgba(255,126,53,0.08);border-color:#ff6a16;}.unSelectedRule{}.selectedRuleNew{border-color:#ff6a16;box-shadow:0 3rpx 12rpx 0 rgba(180,137,65,0.39);}.unSelectedRuleNew{}.selectedDepositContent{color:#ff6a16;}.selectedDiscountContent{color:#ff6a16;}.unSelectedDepositContent{}.unSelectedDiscountContent{}.chargeContent{}.chargeContentIconArrow{margin-left:15rpx;color:#999;}",
 					"themeName": "default",
 					"recommendGoodsPicBigHeight": "194rpx",
-					"mealTypeTextDefaultStyle": {
-						"color": "#666666",
-						"fontSize": "30rpx"
-					},
 					"secondThemeColor": "#E65245",
 					"iconRecommendUrl": "https://marketing-static.shouqianba.com/themes/default/iconRecommend.webp?x-oss-process=image/format,png",
 					"btnSubscribeOrderUrl": "https://marketing-static.shouqianba.com/themes/default/btnSubscribeOrder.webp?x-oss-process=image/format,png"
@@ -2519,84 +4106,499 @@
 			}
 		}],
 		"category": [{
-			"id": "af626337-c62d-434a-b106-fd20ea8f07ca",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "鸡汤骨头汤送完即止",
-			"item_count": 2,
+			"id": "recommend",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"name": "推荐",
+			"item_count": 3,
+			"display_order": -999,
+			"items": [{
+				"item": {
+					"id": "0e1f0280-27b4-45ba-9a98-03997b1ece7a",
+					"name": "麻辣牛肉粉",
+					"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7ec9fcb21f13711f71b6b1de612ea2d7.jpg",
+					"description": null,
+					"display_order": 2,
+					"valid": null,
+					"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+					"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+					"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+					"price": 1600,
+					"activity_price": null,
+					"second_activity_discount": null,
+					"quota_count": null,
+					"for_sale": true,
+					"out_of_stock": false,
+					"sku": null,
+					"sku_default": null,
+					"reset_sku": false,
+					"unit": null,
+					"unit_type": 0,
+					"category_name": "德舍米粉",
+					"category_sort": null,
+					"spu_type": "PRODUCT",
+					"is_multiple": 1,
+					"item_tag": 4,
+					"add_count": null,
+					"last30_days_sale_count": null,
+					"hotsale_seq": null,
+					"hotsale_product": false,
+					"keep_price_equal": true,
+					"arrival_price": 1600,
+					"takeout_price": 1600,
+					"min_sale_num": null,
+					"sale_times": null,
+					"barcode": null,
+					"sale_terminals": [1, 2]
+				},
+				"specs": null,
+				"attributes": [{
+					"id": "4470c56d-ed8f-412e-bebf-ac110b7a9cf4",
+					"multiple": 0,
+					"seq": 1,
+					"title": "圆扁面",
+					"must": 1,
+					"options": [{
+						"id": "3aa2d6cd-9683-480b-8266-0095dc29cb6d",
+						"name": "圆粉",
+						"seq": 1
+					}, {
+						"id": "3288a86e-ae2d-4f55-9433-bc3ac52c31de",
+						"name": "扁粉",
+						"seq": 2
+					}, {
+						"id": "eae1c13f-92be-408b-9189-6f0acc21cb7a",
+						"name": "面条",
+						"seq": 3
+					}]
+				}, {
+					"id": "4c00e5d2-0ec9-4247-bd4a-f71d23c5a55d",
+					"multiple": 0,
+					"seq": 1,
+					"title": "干汤",
+					"must": 1,
+					"options": [{
+						"id": "a79808af-4fd6-4621-bfcb-b779f3d2e5b0",
+						"name": "干捞",
+						"seq": 1
+					}, {
+						"id": "fd7806d2-0f2f-46d2-a66e-ea9d53b35701",
+						"name": "汤",
+						"seq": 2
+					}]
+				}],
+				"material_ids": null,
+				"materials": [{
+					"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+					"name": "打包(必点)",
+					"price": 100,
+					"seq": 1,
+					"status": 1
+				}, {
+					"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+					"name": "老坛酸菜",
+					"price": 200,
+					"seq": 2,
+					"status": 1
+				}, {
+					"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+					"name": "加煎蛋",
+					"price": 200,
+					"seq": 4,
+					"status": 1
+				}, {
+					"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+					"name": "拼排骨",
+					"price": 500,
+					"seq": 5,
+					"status": 1
+				}, {
+					"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+					"name": "拼肥肠",
+					"price": 500,
+					"seq": 6,
+					"status": 1
+				}, {
+					"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+					"name": "拼木耳肉丝",
+					"price": 300,
+					"seq": 7,
+					"status": 1
+				}, {
+					"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+					"name": "拼牛杂",
+					"price": 500,
+					"seq": 8,
+					"status": 1
+				}, {
+					"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+					"name": "拼牛肉",
+					"price": 500,
+					"seq": 9,
+					"status": 1
+				}, {
+					"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+					"name": "拼麻辣牛肉",
+					"price": 600,
+					"seq": 10,
+					"status": 1
+				}],
+				"item_tags": null,
+				"material_groups": [{
+					"group_id": 5762,
+					"name": "加料",
+					"seq": 1,
+					"materials": [{
+						"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+						"name": "打包(必点)",
+						"price": 100,
+						"seq": 1,
+						"status": 1
+					}, {
+						"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+						"name": "老坛酸菜",
+						"price": 200,
+						"seq": 2,
+						"status": 1
+					}, {
+						"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+						"name": "加煎蛋",
+						"price": 200,
+						"seq": 4,
+						"status": 1
+					}, {
+						"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+						"name": "拼排骨",
+						"price": 500,
+						"seq": 5,
+						"status": 1
+					}, {
+						"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+						"name": "拼肥肠",
+						"price": 500,
+						"seq": 6,
+						"status": 1
+					}, {
+						"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+						"name": "拼木耳肉丝",
+						"price": 300,
+						"seq": 7,
+						"status": 1
+					}, {
+						"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+						"name": "拼牛杂",
+						"price": 500,
+						"seq": 8,
+						"status": 1
+					}, {
+						"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+						"name": "拼牛肉",
+						"price": 500,
+						"seq": 9,
+						"status": 1
+					}, {
+						"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+						"name": "拼麻辣牛肉",
+						"price": 600,
+						"seq": 10,
+						"status": 1
+					}]
+				}],
+				"ingredient_names": null,
+				"package_must_order_products": null,
+				"package_optional_groups": null,
+				"bought_times": null,
+				"latest_buy_time": null
+			}, {
+				"item": {
+					"id": "bcf91dd9-a375-4744-a10f-4dbcd684b0a9",
+					"name": "老坛酸菜牛肉粉",
+					"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d6d314272a38eb7d47f7a98255fbe861.jpg",
+					"description": null,
+					"display_order": 4,
+					"valid": null,
+					"category_id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+					"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+					"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+					"price": 1500,
+					"activity_price": null,
+					"second_activity_discount": null,
+					"quota_count": null,
+					"for_sale": true,
+					"out_of_stock": false,
+					"sku": null,
+					"sku_default": null,
+					"reset_sku": false,
+					"unit": null,
+					"unit_type": 0,
+					"category_name": "德舍米粉",
+					"category_sort": null,
+					"spu_type": "PRODUCT",
+					"is_multiple": 1,
+					"item_tag": 4,
+					"add_count": null,
+					"last30_days_sale_count": null,
+					"hotsale_seq": null,
+					"hotsale_product": false,
+					"keep_price_equal": true,
+					"arrival_price": 1500,
+					"takeout_price": 1500,
+					"min_sale_num": null,
+					"sale_times": null,
+					"barcode": null,
+					"sale_terminals": [1, 2]
+				},
+				"specs": null,
+				"attributes": [{
+					"id": "f175a3e8-3589-4fca-8fd8-af130f5df83c",
+					"multiple": 0,
+					"seq": 1,
+					"title": "干汤",
+					"must": 1,
+					"options": [{
+						"id": "e45a2a5f-9c06-47b2-99ec-34694a3434bd",
+						"name": "干捞",
+						"seq": 1
+					}, {
+						"id": "728072ec-2fe0-4348-827d-c189cbc0557d",
+						"name": "汤",
+						"seq": 2
+					}]
+				}, {
+					"id": "6d6d7e0c-cb67-4c58-a76c-55c56cdc0228",
+					"multiple": 0,
+					"seq": 1,
+					"title": "圆扁面",
+					"must": 1,
+					"options": [{
+						"id": "907cd229-0407-445d-a8b1-8f5c1178b46d",
+						"name": "圆粉",
+						"seq": 1
+					}, {
+						"id": "b1457129-c0f6-48c4-b7a4-b5bc6e7095e0",
+						"name": "扁粉",
+						"seq": 2
+					}, {
+						"id": "2e5a0c9e-5fba-46e5-8b53-fbf0d6b22c36",
+						"name": "面条",
+						"seq": 3
+					}]
+				}],
+				"material_ids": null,
+				"materials": [{
+					"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+					"name": "打包(必点)",
+					"price": 100,
+					"seq": 1,
+					"status": 1
+				}, {
+					"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+					"name": "老坛酸菜",
+					"price": 200,
+					"seq": 2,
+					"status": 1
+				}, {
+					"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+					"name": "加煎蛋",
+					"price": 200,
+					"seq": 4,
+					"status": 1
+				}, {
+					"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+					"name": "拼排骨",
+					"price": 500,
+					"seq": 5,
+					"status": 1
+				}, {
+					"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+					"name": "拼肥肠",
+					"price": 500,
+					"seq": 6,
+					"status": 1
+				}, {
+					"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+					"name": "拼木耳肉丝",
+					"price": 300,
+					"seq": 7,
+					"status": 1
+				}, {
+					"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+					"name": "拼牛杂",
+					"price": 500,
+					"seq": 8,
+					"status": 1
+				}, {
+					"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+					"name": "拼牛肉",
+					"price": 500,
+					"seq": 9,
+					"status": 1
+				}, {
+					"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+					"name": "拼麻辣牛肉",
+					"price": 600,
+					"seq": 10,
+					"status": 1
+				}],
+				"item_tags": null,
+				"material_groups": [{
+					"group_id": 5762,
+					"name": "加料",
+					"seq": 1,
+					"materials": [{
+						"id": "44b426b7-36b7-41f1-beb1-64bdbb33a592",
+						"name": "打包(必点)",
+						"price": 100,
+						"seq": 1,
+						"status": 1
+					}, {
+						"id": "8856c7c4-b04a-42f2-852c-9412151fdef6",
+						"name": "老坛酸菜",
+						"price": 200,
+						"seq": 2,
+						"status": 1
+					}, {
+						"id": "b2cd9a0d-5b87-4a5f-b656-2ca2b0821f3d",
+						"name": "加煎蛋",
+						"price": 200,
+						"seq": 4,
+						"status": 1
+					}, {
+						"id": "e5459c36-6657-4b4f-8767-8bb12b666942",
+						"name": "拼排骨",
+						"price": 500,
+						"seq": 5,
+						"status": 1
+					}, {
+						"id": "2c9ce8da-c745-49cf-b740-1bb6597d0ef0",
+						"name": "拼肥肠",
+						"price": 500,
+						"seq": 6,
+						"status": 1
+					}, {
+						"id": "c66eab49-dbc5-4c1a-b54a-228110974fb4",
+						"name": "拼木耳肉丝",
+						"price": 300,
+						"seq": 7,
+						"status": 1
+					}, {
+						"id": "4faa0f78-a11e-4f32-8ba7-d060e1a06d5d",
+						"name": "拼牛杂",
+						"price": 500,
+						"seq": 8,
+						"status": 1
+					}, {
+						"id": "aeb491b8-7d16-4e43-baf5-2b970ae65759",
+						"name": "拼牛肉",
+						"price": 500,
+						"seq": 9,
+						"status": 1
+					}, {
+						"id": "21ac215d-0964-4b78-966c-13ebcaf8cf6b",
+						"name": "拼麻辣牛肉",
+						"price": 600,
+						"seq": 10,
+						"status": 1
+					}]
+				}],
+				"ingredient_names": null,
+				"package_must_order_products": null,
+				"package_optional_groups": null,
+				"bought_times": null,
+				"latest_buy_time": null
+			}, {
+				"item": {
+					"id": "9fe720bd-744b-4042-b642-5b6692256381",
+					"name": "手抓酱骨架",
+					"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/666180a21d206fadd9e6c4d865cab369.png",
+					"description": null,
+					"display_order": 2,
+					"valid": null,
+					"category_id": "0d845a97-b61c-4ad6-868f-57086685cab4",
+					"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+					"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+					"price": 680,
+					"activity_price": null,
+					"second_activity_discount": null,
+					"quota_count": null,
+					"for_sale": true,
+					"out_of_stock": false,
+					"sku": null,
+					"sku_default": null,
+					"reset_sku": false,
+					"unit": "份",
+					"unit_type": 0,
+					"category_name": "德舍小吃",
+					"category_sort": null,
+					"spu_type": "PRODUCT",
+					"is_multiple": 1,
+					"item_tag": 4,
+					"add_count": null,
+					"last30_days_sale_count": null,
+					"hotsale_seq": null,
+					"hotsale_product": false,
+					"keep_price_equal": true,
+					"arrival_price": 680,
+					"takeout_price": 680,
+					"min_sale_num": null,
+					"sale_times": null,
+					"barcode": null,
+					"sale_terminals": [1, 2]
+				},
+				"specs": null,
+				"attributes": [],
+				"material_ids": null,
+				"materials": null,
+				"item_tags": null,
+				"material_groups": [],
+				"ingredient_names": null,
+				"package_must_order_products": null,
+				"package_optional_groups": null,
+				"bought_times": null,
+				"latest_buy_time": null
+			}]
+		}, {
+			"id": "800f129f-4b91-44df-a665-c3100ee1dacf",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+			"name": "德舍米粉",
+			"item_count": 9,
 			"display_order": 1,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "37c43727-8b80-4ece-82e2-30314ba5b9d8",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "回锅肉腊肉类",
-			"item_count": 20,
+			"id": "f8b9d07f-66eb-4d43-a0cc-94408ec30fe6",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+			"name": "德舍炒码粉",
+			"item_count": 5,
 			"display_order": 2,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "1106b46d-a2cf-40e1-9ac4-3f8ed8bfc8e9",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "牛肉瘦肉类",
-			"item_count": 29,
+			"id": "b80a8471-2893-4a30-a389-2aee0a9f3529",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+			"name": "德舍现炒快餐",
+			"item_count": 22,
 			"display_order": 3,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "cfd4e1b4-bb60-4bda-aa62-99daea74a445",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "素菜炒鸡蛋类",
-			"item_count": 14,
-			"display_order": 4,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "c6ae209b-7405-4bb1-9453-7fe50abeaced",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "干锅类",
-			"item_count": 5,
-			"display_order": 5,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "05a090e9-769d-476c-ac87-a00f6db5a60a",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "套餐",
-			"item_count": 10,
+			"id": "0d845a97-b61c-4ad6-868f-57086685cab4",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+			"name": "德舍小吃",
+			"item_count": 7,
 			"display_order": 6,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "1a2ee197-d98d-477c-a3aa-f157a21bea4c",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "水煮类",
-			"item_count": 4,
-			"display_order": 7,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "4bf68b3d-fa0b-4045-af46-41eb62b6d278",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "特色小炒",
-			"item_count": 21,
-			"display_order": 8,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "9bc0fdc8-8953-428b-8f73-39d1d944a13c",
-			"store_id": "ae1c1884-ee38-4173-b767-99e6fb1afe98",
-			"merchant_id": "4eeffe5e-e798-4c2b-b549-6f7c87f7fb5e",
-			"name": "冰饮料自取",
+			"id": "bdaa1494-60b7-4d9f-847d-858eaeae206d",
+			"store_id": "367f38b4-ee7e-40d7-82a6-fe0aab590d5e",
+			"merchant_id": "88c6d03a-5ee5-4fb9-b298-eda92c31c562",
+			"name": "爽口饮料",
 			"item_count": 5,
-			"display_order": 10,
+			"display_order": 7,
 			"category_type": "NORMAL",
 			"type": 1
 		}],

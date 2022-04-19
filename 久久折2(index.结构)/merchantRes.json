@@ -1,602 +1,1696 @@
 {
-	"shopName": "黄焖鸡专家成都银泰城店",
+	"shopName": "德舍常德牛肉粉深圳东海百货店",
 	"shop_pic": "",
 	"categories": [
 		{
-			"id": "cd1e31e7-c454-42c4-a369-29b61c853747",
-			"name": "默认分类",
+			"name": "德舍米粉",
 			"foods": [
 				{
-					"id": "07ab31c3-370d-4fc0-bf3b-39445e366549",
-					"name": "请按手机取单号取餐！",
-					"picUrl": "",
-					"categoryName": "默认分类",
-					"price": 0.01,
-					"unit": "份",
-					"props": []
-				}
-			]
-		},
-		{
-			"id": "60aaa12b-7488-4c1a-93da-b5c1248f1f22",
-			"name": "每日限量",
-			"foods": [
-				{
-					"id": "e1be3d49-2a33-442c-9111-0183dff28600",
-					"name": "秘制酱龙骨",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c76a3db15d9708b5f0911999c98eeaa3.jpg",
-					"categoryName": "每日限量",
-					"price": 22,
-					"unit": "份",
-					"props": []
-				}
-			]
-		},
-		{
-			"id": "fd1f773f-ad93-463b-86ea-b93ec0e990f1",
-			"name": "热卖套餐",
-			"foods": [
-				{
-					"id": "85c59b60-27e1-4621-970f-81fb21e78dcb",
-					"name": "黄焖鸡腿（小份）套餐(黄焖鸡腿小份+米饭+汤饮任选)",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4c2c2171b3b56d78bb02d972d86b2483.jpg",
-					"categoryName": "热卖套餐",
-					"price": 18,
-					"unit": "份",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "汤饮任选",
-							"values": [
-								{
-									"value": "蔬菜芙蓉汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "玉米蛋花汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "醪糟鸡蛋汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "饮料自取",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "d3ec6680-f67e-4504-99e6-1152b8a35fd0",
-					"name": "黄焖鸡腿（大份）套餐(黄焖鸡腿大份+米饭+汤饮任选)",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4c2c2171b3b56d78bb02d972d86b2483.jpg",
-					"categoryName": "热卖套餐",
-					"price": 24,
-					"unit": "份",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "汤饮任选",
-							"values": [
-								{
-									"value": "蔬菜芙蓉汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "玉米蛋花汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "醪糟鸡蛋汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "饮料自取",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "8aade5ee-f5df-41e1-867d-3840c9d1ad01",
-					"name": "黄焖鸡爪套餐(黄焖鸡爪大份+米饭+汤饮任选)",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5faf69c4e928af13449964c3accf4829.jpg",
-					"categoryName": "热卖套餐",
-					"price": 26,
-					"unit": "份",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "汤饮任选",
-							"values": [
-								{
-									"value": "蔬菜芙蓉汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "玉米蛋花汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "醪糟鸡蛋汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "饮料自取",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"id": "36779dad-d19e-41c9-84b8-4b3095079a3b",
-					"name": "黄焖排骨套餐(黄焖排骨大份+米饭+汤饮任选)",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/488ecc1b1cce9e040586e1343a59f94b.jpg",
-					"categoryName": "热卖套餐",
-					"price": 28,
-					"unit": "份",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "汤饮任选",
-							"values": [
-								{
-									"value": "蔬菜芙蓉汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "玉米蛋花汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "醪糟鸡蛋汤",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "饮料自取",
-									"propName": "汤饮任选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"id": "6905812e-bc93-44d3-aa45-d851a73bfe1c",
-			"name": "单品",
-			"foods": [
-				{
-					"id": "a543648e-3c8e-49be-a5d4-7a17b1c3a8f7",
-					"name": "黄焖鸡腿（小份）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0ae262636421d121fb3e6aa742925af8.jpg",
-					"categoryName": "单品",
+					"name": "麻辣牛肉粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7ec9fcb21f13711f71b6b1de612ea2d7.jpg",
 					"price": 16,
 					"unit": "份",
+					"categoryName": "德舍米粉",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "圆扁面",
 							"values": [
 								{
-									"value": "微辣",
-									"propName": "辣度",
+									"value": "圆粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "不辣",
-									"propName": "辣度",
+									"value": "扁粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "中辣",
-									"propName": "辣度",
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "干汤",
+							"values": [
+								{
+									"value": "干捞",
+									"propName": "干汤",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "特辣",
-									"propName": "辣度",
+									"value": "汤",
+									"propName": "干汤",
 									"isMul": false,
 									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "effcef4c-cebe-4eb9-a8a1-13aecf6b9047",
-					"name": "黄焖鸡腿（大份）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0ae262636421d121fb3e6aa742925af8.jpg",
-					"categoryName": "单品",
-					"price": 22,
+					"name": "红烧牛肉粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6928596d1ee6114e5922f5cd1e2e404e.jpg",
+					"price": 14,
 					"unit": "份",
+					"categoryName": "德舍米粉",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "圆扁面",
 							"values": [
 								{
-									"value": "微辣",
-									"propName": "辣度",
+									"value": "圆粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "不辣",
-									"propName": "辣度",
+									"value": "扁粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "中辣",
-									"propName": "辣度",
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "干汤",
+							"values": [
+								{
+									"value": "干捞",
+									"propName": "干汤",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "特辣",
-									"propName": "辣度",
+									"value": "汤",
+									"propName": "干汤",
 									"isMul": false,
 									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "341f122d-1f8e-4d91-83b6-134035f9cdcc",
-					"name": "黄焖鸡爪（大份）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6972d4d85fffee25be5c1580befcf090.jpg",
-					"categoryName": "单品",
-					"price": 23,
+					"name": "老坛酸菜牛肉粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d6d314272a38eb7d47f7a98255fbe861.jpg",
+					"price": 15,
 					"unit": "份",
+					"categoryName": "德舍米粉",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "干汤",
 							"values": [
 								{
-									"value": "微辣",
-									"propName": "辣度",
+									"value": "干捞",
+									"propName": "干汤",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "不辣",
-									"propName": "辣度",
+									"value": "汤",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "中辣",
-									"propName": "辣度",
+									"value": "扁粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "特辣",
-									"propName": "辣度",
+									"value": "面条",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "2b778f82-2772-4e81-b07e-7fcdada3d03e",
-					"name": "黄焖排骨（大份）",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/47821147fc47b001af3bc73ada956e76.jpg",
-					"categoryName": "单品",
-					"price": 25,
+					"name": "红烧肥肠粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9e2c619c2ddb0a0e42fd41e48d87c481.jpg",
+					"price": 14,
 					"unit": "份",
+					"categoryName": "德舍米粉",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "圆扁面",
 							"values": [
 								{
-									"value": "微辣",
-									"propName": "辣度",
+									"value": "圆粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "不辣",
-									"propName": "辣度",
+									"value": "扁粉",
+									"propName": "圆扁面",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "中辣",
-									"propName": "辣度",
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "干汤",
+							"values": [
+								{
+									"value": "干捞",
+									"propName": "干汤",
 									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "特辣",
-									"propName": "辣度",
+									"value": "汤",
+									"propName": "干汤",
 									"isMul": false,
 									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
 								}
 							]
 						}
 					]
 				},
 				{
-					"id": "6ce837f0-df2c-4546-831b-2a7aadaa651f",
-					"name": "米饭-份",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/0fee12e4ba994d038ec5ae84f32ab6fe.jpg",
-					"categoryName": "单品",
-					"price": 2,
+					"name": "红烧牛杂粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6d71bc79445029ba206294ca35bd4dd9.jpg",
+					"price": 14,
 					"unit": "份",
-					"props": []
+					"categoryName": "德舍米粉",
+					"props": [
+						{
+							"name": "干汤",
+							"values": [
+								{
+									"value": "干捞",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "汤",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "475d5870-1a01-47a0-a85a-52dc45a0ab2b",
-					"name": "秘制卤蛋-个",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5410f7802d556bfc4b80bf6d4d434774.jpg",
-					"categoryName": "单品",
-					"price": 2,
+					"name": "红烧排骨粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/42424a2b78083c5dccfb7adb2189d6bd.jpg",
+					"price": 14,
 					"unit": "份",
-					"props": []
+					"categoryName": "德舍米粉",
+					"props": [
+						{
+							"name": "干汤",
+							"values": [
+								{
+									"value": "干捞",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "汤",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳肉丝粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3de8f3b1b8db1008247093fbda6585e6.jpg",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "德舍米粉",
+					"props": [
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "干汤",
+							"values": [
+								{
+									"value": "干捞",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "汤",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "美味杂酱",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7569ab7f327408130ba584b9779f7b75.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "德舍米粉",
+					"props": [
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青菜素粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5444705644a666c189b0ad01d9ab8f08.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "德舍米粉",
+					"props": [
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "干汤",
+							"values": [
+								{
+									"value": "干捞",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "汤",
+									"propName": "干汤",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "老坛酸菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "拼排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼木耳肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "拼牛杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								},
+								{
+									"value": "拼麻辣牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"id": "6f12bc5f-cfe7-40d6-ab20-d8a4114c2095",
-			"name": "汤类",
+			"name": "德舍炒码粉",
 			"foods": [
 				{
-					"id": "bdfd1333-58e1-4c64-baf4-7c1da9f7729e",
-					"name": "蔬菜芙蓉汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2de07896b8e13c737f5a038c72775b25.jpg",
-					"categoryName": "汤类",
-					"price": 3,
+					"name": "酸辣鸡杂炒码粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0290bcb890aacb4536a09a87116f6026.jpeg",
+					"price": 18,
 					"unit": "份",
-					"props": []
+					"categoryName": "德舍炒码粉",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "a2da4d6a-5f8d-4326-a38e-b778e014eb7a",
-					"name": "玉米蛋花汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d9585006b82d8a9394101447747b087b.jpg",
-					"categoryName": "汤类",
-					"price": 3,
+					"name": "酸菜炒大肠炒码粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/278ec0aa89d5ff21c6200f0d1719e652.jpeg",
+					"price": 18,
 					"unit": "份",
-					"props": []
+					"categoryName": "德舍炒码粉",
+					"props": [
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "河粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
 				},
 				{
-					"id": "ae72c732-ad2c-4f3e-bc49-2ba2ed961ca6",
-					"name": "醪糟鸡蛋汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4b8dc5c7f7b249755b4b0b2f3af077da.jpg",
-					"categoryName": "汤类",
-					"price": 3,
+					"name": "蛋炒肉炒码粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8013dc9186c8127fdaf37cd8419ef2e0.jpeg",
+					"price": 19,
 					"unit": "份",
-					"props": []
+					"categoryName": "德舍炒码粉",
+					"props": [
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "河粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣椒炒肉炒码粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/c40613447bed4971094580804373ef07.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "德舍炒码粉",
+					"props": [
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "河粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "扑豆角炒肉炒码粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d88a271ab5f31c3c300a45ae2e73f7af.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "德舍炒码粉",
+					"props": [
+						{
+							"name": "圆扁面",
+							"values": [
+								{
+									"value": "圆粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "扁粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "面条",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "河粉",
+									"propName": "圆扁面",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"id": "2decffd6-5fcd-435f-a670-98347367828b",
-			"name": "豪华加菜",
+			"name": "德舍现炒快餐",
 			"foods": [
 				{
-					"id": "01148878-ec13-42ce-a70c-525f30c63016",
-					"name": "火腿肠5片",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/a2b4f00c291d95dda83c9b2e7fe98790.jpg",
-					"categoryName": "豪华加菜",
-					"price": 4,
+					"name": "永州血鸭饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5b9499f9cc4ec6339503e6a6065acdba.jpeg",
+					"price": 20,
 					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "荷包蛋炒拆骨肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/38810f17df974f4f2fdbb6f98d07a343.jpeg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "口水鸡饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/9c83790af075a5c9a459d66c22bbab72.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小炒黄牛肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f967a030523e7edb432034fa35bd7bc0.jpeg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老长沙卤味回锅饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d81a4d0ecef029be115c12c27a8d40f9.jpeg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "萝卜干炒腊肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1b2c94f6df1919135de525b97ebdc334.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱汁焖鸭饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ab647d042d26c929d68d96cd4695ae4c.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤香头皮肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/068b63fce55644e817b1ae50aed2a7fa.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "毛豆肉末饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/05b128baa09fc29c142ba1333cb15c09.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜小笋饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d4ce11451746493718618c207266785d.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "家常胡萝卜炒肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0adba7d3ccb1a2ec82d72dc2add6ceed.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "有机花菜炒肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b294d7c58c164a83c4258b3cfbcce5cc.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "扑豆角炒肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a84492327c8a03f330bd8cc29a8b6d3f.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烟笋腊肉饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/4c23399e0fd7211761f3ece400593446.jpeg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿炒蛋饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b09aef6ef2d69ac22bda60927b5bd67b.jpeg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "外婆菜茄子肉沫饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7f00812f599db70886507de253b40045.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "德舍现炒快餐",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "打包(必点)",
+									"propName": "加料",
+									"isMul": true,
+									"price": 1
+								},
+								{
+									"value": "加煎蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "德舍小吃",
+			"foods": [
+				{
+					"name": "手抓酱骨架",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/666180a21d206fadd9e6c4d865cab369.png",
+					"price": 6.8,
+					"unit": "份",
+					"categoryName": "德舍小吃",
 					"props": []
 				},
 				{
-					"id": "6c3328fa-6292-4031-8b53-8ab242079872",
-					"name": "时蔬80g",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/06530ac33ba026f7848987a0582521e6.jpg",
-					"categoryName": "豪华加菜",
-					"price": 3,
+					"name": "超好吃麻辣鸡尖",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/fbc57a7e36e69c3545cb1dd968b2fd73.jpeg",
+					"price": 2,
 					"unit": "份",
+					"categoryName": "德舍小吃",
 					"props": []
 				},
 				{
-					"id": "d4c7930e-5e53-4c8d-bea4-f50d67341ab0",
-					"name": "土豆80g",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/059c50a443d932e166d3535153d86551.jpeg",
-					"categoryName": "豪华加菜",
-					"price": 3,
-					"unit": "份",
+					"name": "超好吃麻辣鸡爪",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5a8c30fe75f8c14f5c976004213ef1e9.jpeg",
+					"price": 1.5,
+					"unit": "个",
+					"categoryName": "德舍小吃",
 					"props": []
 				},
 				{
-					"id": "4ce2d2a0-8ffc-40e9-96d4-83299dbf24b7",
-					"name": "香菇60g",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/81e4598f322662572a62257c77620130.jpeg",
-					"categoryName": "豪华加菜",
-					"price": 4,
+					"name": "麻辣牛肉",
+					"picUrl": "",
+					"price": 35,
 					"unit": "份",
+					"categoryName": "德舍小吃",
 					"props": []
 				},
 				{
-					"id": "35463fc4-679a-46d3-b0cb-542feedcaea4",
-					"name": "金针菇80g",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/41f0f08753fdd1748dca9b87d65aa055.jpg",
-					"categoryName": "豪华加菜",
-					"price": 3,
+					"name": "香煎荷包蛋",
+					"picUrl": "",
+					"price": 2,
 					"unit": "份",
+					"categoryName": "德舍小吃",
 					"props": []
 				},
 				{
-					"id": "84ba6507-7ca2-437d-bae9-952a5cd53d1b",
-					"name": "腐竹80g",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/415808af9e8d34f9b6ce93bdffe64df6.jpeg",
-					"categoryName": "豪华加菜",
-					"price": 4,
+					"name": "加码",
+					"picUrl": "",
+					"price": 8,
 					"unit": "份",
+					"categoryName": "德舍小吃",
 					"props": []
 				},
 				{
-					"id": "9b2a5927-9d38-4c55-86ba-452de803f312",
-					"name": "豆皮80g",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/a0977249f7a8e461ac45a9561d122481.jpg",
-					"categoryName": "豪华加菜",
-					"price": 4,
+					"name": "打包盒-个",
+					"picUrl": "",
+					"price": 1,
 					"unit": "份",
-					"props": []
-				},
-				{
-					"id": "f367fabe-ba8f-43b7-add8-83fe57d61f1b",
-					"name": "方便面1份",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/2a230008f3f26ab57acfeb225390ae53.jpg",
-					"categoryName": "豪华加菜",
-					"price": 3,
-					"unit": "份",
+					"categoryName": "德舍小吃",
 					"props": []
 				}
 			]

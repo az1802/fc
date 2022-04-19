@@ -14,14 +14,21 @@ const exportMode = "feie"
 // const exportMode = "shilai"
 
 let allMerchantInfo = require("./merchantInfo.json");
+let otherDishInfo = require("./otherDishInfo.json");
 
 
 let allCategoryData = allMerchantInfo.data.data.components[2].data.dishMenu.data.dishCates;
 // console.log('%ccategoryData: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',allCategoryData);
-let allDishes = allMerchantInfo.data.data.components[2].data.dishMenu.data.spuInfos
+let allDishes = allMerchantInfo.data.data.components[2].data.dishMenu.data.spuInfos;
+let otherDishes = otherDishInfo.data.data || [];
+allDishes = {
+  ...allDishes,
+  ...otherDishes
+}
+
 // console.log('%callDishes: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',allDishes);
 let requestShopData = {
-  name:"深圳市南山区云线米线店",
+  name:"常德牛肉粉 (玖龙荟店)",
   picUrl:""
 }
 
@@ -34,13 +41,13 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ ],//规格
   practice: [
     "是否打包",
-    "默认"
+    "默认","备注"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
     "是否打包",
-    "默认"
+    "默认","备注"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]

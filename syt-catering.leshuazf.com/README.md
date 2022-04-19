@@ -6,13 +6,12 @@
  * @Description: In User Settings Edit
  * @FilePath: /dish_crawler/美团扫码点餐(rms.meituan)/README.md
 -->
-获取到shopId 进行替换,直接浏览器访问
-https://rms.meituan.com/diancan/web/menu?shopId=600344937//商户的网页版本
 
 
- //全部数据
-https://rms.meituan.com/diancan/api/menuHead?mtShopId=600344937
-数据在js文件中查找之后复制到tempData 去除外层包裹之后运行脚本即可
 
+商户菜品
+https://syt-catering.leshuazf.com/cappapi/open?store_code=1666072876&order_type=1&method=catering.goods.list&merchant_code=1011569775&key_word=&app_id=1927647453&sign_type=MD5&version=1.0.0&sign=be95d94043ac0a2ce7e7265dfc3161b9
 
-美团扫码的热销菜品目录只显示数据中的前十个菜品,多的不显示
+商户信息
+
+https://syt-catering.leshuazf.com/cappapi/open?lng=undefined&lat=undefined&store_code=1666072876&method=catering.store.detail&merchant_code=1011569775&app_id=1927647453&sign_type=MD5&version=1.0.0&sign=72e85716634c5e37cf10bf702d94d9ff

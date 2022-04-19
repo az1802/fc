@@ -14,7 +14,7 @@ const exportMode = "feie"
 // const exportMode = "shilai"
 
 let allMerchantInfo = require("./merchantInfo.json")
-let requestShopData = {name:"焖天下(中兴店))",shop_pic:""}
+let requestShopData = {name:"常德牛肉粉 (玖龙荟店)",shop_pic:""}
 let requestMenuData = allMerchantInfo.data.data.components[2].data.dishMenu.data.dishCates
 
 const { isRegExp } = require("util");

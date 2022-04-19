@@ -10,18 +10,20 @@ const defaultImgUrl = ""
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
-const findJsonLen = 4
+const findJsonLen = 1
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格" ],//规格
   practice: [
-    '规格', '口味', '辣度'
+    '规格', '口味', '辣度',	"圆扁面",
+    "干汤"
   ],//做法
   feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    '规格', '口味', '辣度',"加料"
+    '规格', '口味', '辣度',"加料",	"圆扁面",
+    "干汤"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -33,7 +35,7 @@ merchantInfo = merchantInfo.data
 const categories = merchantInfo.categories
 let categoryObj = {}
 
-let shopName = merchantInfo.store.storeName;
+let shopName = merchantInfo.store.merchantName;
 
 
 // 处理规格属性部分
@@ -114,6 +116,8 @@ async function genMenuFoods() {
   
   let category = merchantInfo.category, categoryArr = [];
   category = category.slice(0,2).concat(...merchantInfo.goods.pages,allFoods[1]) //推荐加前半目录
+  category = category.slice(2);
+  console.log('%ccategory: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',category);
    category.forEach(categoryItem => {
 
     let temp = {

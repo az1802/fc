@@ -1,30 +1,60 @@
 {
-	"shopName": "深圳市南山区云线米线店",
+	"shopName": "常德牛肉粉 (玖龙荟店)",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "热销",
+			"name": "牛肉粉系列",
 			"foods": [
 				{
-					"name": "一碗香米饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/6417aae688954522873ac8cb22d443c2.jpg",
-					"price": 18,
+					"name": "卤蛋",
+					"picUrl": "https://img-static.keruyun.com/eed3ef90711c4462b035b28a3a3767d6.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "热销",
+					"categoryName": "牛肉粉系列",
 					"props": [
 						{
-							"name": "是否打包",
+							"name": "备注",
 							"values": [
 								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "不加香菜",
 									"price": 0,
-									"propName": "是否打包",
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -32,46 +62,93 @@
 					]
 				},
 				{
-					"name": "鲜肉小锅",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/10ef955edd244604b0cd470cf84a85b4.jpg",
-					"price": 20,
+					"name": "煎蛋",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635414816-106263.image",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "热销",
+					"categoryName": "牛肉粉系列",
 					"props": [
 						{
-							"name": "是否打包",
+							"name": "备注",
 							"values": [
 								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								},
 								{
-									"value": "堂食",
+									"value": "不加香菜",
 									"price": 0,
-									"propName": "是否打包",
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "卤豆腐",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635414868-167763.image",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": []
+				},
+				{
+					"name": "加米粉",
+					"picUrl": "https://img-static.keruyun.com/ba233526cb56472d99a7911fad911d1c.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "饵丝",
+									"value": "面",
 									"price": 0,
 									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "米线",
+									"value": "扁粉",
 									"price": 0,
 									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "面条",
+									"value": "圆粉(米粉)",
 									"price": 0,
 									"propName": "默认",
 									"isMul": true
@@ -81,150 +158,29 @@
 					]
 				},
 				{
-					"name": "苦瓜炒蛋饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/6ee378ed773b4c89bbd4c5e910324750.jpg",
+					"name": "青菜粉",
+					"picUrl": "https://img-static.keruyun.com/fb82e267d77144de9e6414e0a6baf730.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "热销",
+					"categoryName": "牛肉粉系列",
 					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茄子豆角饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/f65cbe6360504e279f5877ab152cea99.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苗炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bdc4bc8bcbca4151ae027c527badf645.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西红柿炒蛋饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/d3d4ea00f3c64f19859508a931e9fce5.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杂酱汤粉面",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/1c21af95fa7948058144dd098d3176cc.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "饵丝",
+									"value": "面",
 									"price": 0,
 									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "米线",
+									"value": "扁粉",
 									"price": 0,
 									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "面条",
+									"value": "圆粉(米粉)",
 									"price": 0,
 									"propName": "默认",
 									"isMul": true
@@ -232,1213 +188,4281 @@
 							]
 						},
 						{
-							"name": "默认",
+							"name": "备注",
 							"values": [
 								{
-									"value": "加米线",
+									"value": "不加葱",
 									"price": 0,
-									"propName": "默认",
+									"propName": "备注",
 									"isMul": true
 								},
 								{
-									"value": "面条",
+									"value": "不加香菜",
 									"price": 0,
-									"propName": "默认",
+									"propName": "备注",
 									"isMul": true
 								},
 								{
-									"value": "饵丝",
+									"value": "中辣",
 									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "秘制红烧焖肉",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/869b76be6c294cbbb7a229118540e609.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杂酱小锅米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/dbe8a0d1e2bc4457a34bee1de5d2563c.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "胡萝卜炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bac41a4e70d64b4a83cb4a36fe148426.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "云线招牌米线",
-			"foods": [
-				{
-					"name": "鲜肉焖肉双帽米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/034320ec2b4e4cb99aec2b04d6fbec78.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "云线招牌米线",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜肉小锅",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/10ef955edd244604b0cd470cf84a85b4.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "云线招牌米线",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "臭豆腐小锅米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/74f09b8353ce40d7beba470d53625642.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "云线招牌米线",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杂酱小锅米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/dbe8a0d1e2bc4457a34bee1de5d2563c.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "云线招牌米线",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜肉杂酱双帽米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/c28779423ec14320a02adf461490721c.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "云线招牌米线",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "云南味道米线/面条类",
-			"foods": [
-				{
-					"name": "土鸡米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/7cc4a074cc8e446896ee409871ea3edc.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "云南味道米线/面条类",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛腩",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/5faa1fc48c58461898587fc43b4b8c6d.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "云南味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "秘制红烧焖肉",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/869b76be6c294cbbb7a229118540e609.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "云南味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "原汤酸菜肉沫",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/0b6c591c2b7649a68b535b6a7223dc6d.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "云南味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杂酱汤粉面",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/1c21af95fa7948058144dd098d3176cc.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "云南味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "加米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "原汤素粉面",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/bae260df62014d519f81639047fc770c.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "云南味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "时尚味道米线/面条类",
-			"foods": [
-				{
-					"name": "香辣土鸡",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/fc3c577f7cbe477ea1e038f75fc91b77.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香辣肥牛",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/534327e2dd7c4291b6ac415573ac2dd1.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香辣鱼片",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/d15e7184b4894b28a224db1521ae9796.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉丸菌菇",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/0032286f27c349efbe180842b09eb438.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬酸汤肥牛",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/ae2825822d054103844fd4a08aac1b91.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬酸汤鱼片",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/04348e1855194a9c90b824102b6e95d2.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜虾酸汤",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/941e47538b9548a780ca84c375a6d451.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肥肠米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/7523ebbf79e043fbbfa4046c6e3e8a15.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "时尚味道米线/面条类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "干拌类米线/面条",
-			"foods": [
-				{
-					"name": "干拌杂酱米线-面条",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/dc942e9b226b4fea936bc00c06d612be.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "干拌类米线/面条",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉拌米线",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/2e44e3fd656c4f03b2ce6e500d95fcdc.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "干拌类米线/面条",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "米线",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "面条",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								},
-								{
-									"value": "饵丝",
-									"price": 0,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "不辣",
-									"price": 0,
-									"propName": "默认",
+									"propName": "备注",
 									"isMul": true
 								},
 								{
 									"value": "微辣",
 									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415574-229757.image",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "全家福",
+					"picUrl": "https://img-static.keruyun.com/cf80e749f48b4b62956620e740780e74.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌红烧牛肉粉",
+					"picUrl": "https://img-static.keruyun.com/31baaa1400ed42189d1e441d069e81fe.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣牛肉粉",
+					"picUrl": "https://img-static.keruyun.com/fcc17b7bef7d411c95a328ac068ca65d.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨粉",
+					"picUrl": "https://img-static.keruyun.com/b561c026d9d44c05aba75360ee04cfbd.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635414901-255664.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "无",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚粉",
+					"picUrl": "https://img-static.keruyun.com/886b0753d0954a2ba5c71da2f00e935f.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肉丝粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415557-257109.image",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干腌红烧牛肉粉",
+					"picUrl": "https://img-static.keruyun.com/61e8f82d62744e8e9a7188d34f12bf5d.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干腌麻辣牛肉粉",
+					"picUrl": "https://img-static.keruyun.com/cdcccfbebd8847b891ca6b18c47e7bbb.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干腌猪脚粉",
+					"picUrl": "https://img-static.keruyun.com/91f4d3466ba8493cb2aab7baa213ff45.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "打包盒",
+					"picUrl": "",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干腌肉丝粉",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣椒炒肉拌粉",
+					"picUrl": "",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干腌肥肠粉",
+					"picUrl": "",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干腌牛杂粉",
+					"picUrl": "",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "特价红烧牛肉粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635414925-243529.image",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "无",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇炖鸡粉",
+					"picUrl": "",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "牛肉粉系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "常德钵子菜",
+			"foods": [
+				{
+					"name": "红烧牛肉炖粉",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂炖粉",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚炖粉",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠炖粉",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨炖粉",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉炖粉（双人）",
+					"picUrl": "",
+					"price": 78,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂炖粉（双人）",
+					"picUrl": "",
+					"price": 78,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚炖粉（双人）",
+					"picUrl": "",
+					"price": 78,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠炖粉（双人）",
+					"picUrl": "",
+					"price": 78,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨炖粉（双人）",
+					"picUrl": "",
+					"price": 78,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "圆粉(米粉)",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腊肉炖莴笋钵",
+					"picUrl": "",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": []
+				},
+				{
+					"name": "正宗土鸭钵",
+					"picUrl": "",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": []
+				},
+				{
+					"name": "正宗常德土鸡钵",
+					"picUrl": "",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": []
+				},
+				{
+					"name": "常德腊猪脚钵",
+					"picUrl": "",
+					"price": 128,
+					"unit": "份",
+					"categoryName": "常德钵子菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "盖码饭",
+			"foods": [
+				{
+					"name": "木耳肉丝盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415328-211999.image",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415457-229969.image",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣椒炒肉盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415312-217943.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415511-222994.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415418-179394.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/64377/cf050cf279614b19b30cc4bcc388b564.jpg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣牛肉盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/64377/861eb5879c784662a4404f8660e265ca.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝饭",
+					"picUrl": "",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": []
+				},
+				{
+					"name": "香干炒肉饭",
+					"picUrl": "",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": []
+				},
+				{
+					"name": "啤酒鸭饭",
+					"picUrl": "",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": []
+				},
+				{
+					"name": "牛杂盖饭",
+					"picUrl": "",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "全家福盖饭",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣鸡杂盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415359-188473.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧鸡块盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415391-193077.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "啤酒鸭盖饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415492-158945.image",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "盖码饭",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "小吃系列",
+			"foods": [
+				{
+					"name": "北堤麻辣肉",
+					"picUrl": "https://img-static.keruyun.com/40be73ec4b444fe9ab84992bd4562cea.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "小哥柴火香干",
+					"picUrl": "https://img-static.keruyun.com/a7dbbf4895b7447cab2c61019f96cd91.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "小哥牙签招牌牛肉",
+					"picUrl": "https://img-static.keruyun.com/434ac1f5bcfc450f89abea3f64ea3521.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "小哥麻辣牛肉",
+					"picUrl": "https://img-static.keruyun.com/dda0527815e0434f90aba20482722397.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "麻辣藕片",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/64377/1fb1075ee76d4f8cab65c2f31f52c2a6.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "蛋黄锅巴",
+					"picUrl": "https://img-static.keruyun.com/01d0338ed7f74deb97bee509450806df.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "小哥麻辣肉",
+					"picUrl": "https://img-static.keruyun.com/5afeeb77770749c79bc16cab1e7a4d41.jpg",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "酱板鱼",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/0ec4bbeb477643e1a3ff40a91f43944b.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "小哥麻辣脆骨",
+					"picUrl": "https://img-static.keruyun.com/849ba3d2b40940f9b8aa3d9fc7265cd5.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "香辣鱿鱼须",
+					"picUrl": "https://img-static.keruyun.com/dc9f2af969ef453d909490187308d4b0.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "鸡爪",
+					"picUrl": "",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "Q弹魔芋",
+					"picUrl": "",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				},
+				{
+					"name": "酱板鸭",
+					"picUrl": "",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "小吃系列",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮品系列",
+			"foods": [
+				{
+					"name": "怡宝",
+					"picUrl": "https://img-static.keruyun.com/b6875b29b40543beb0012294a79c42f8.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "豆奶",
+					"picUrl": "https://img-static.keruyun.com/daff4c9d279f4fca92bc7e823018d423.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "花生米",
+					"picUrl": "https://img-static.keruyun.com/a54f4eb816f44c319a495d7814ad43e8.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "https://img-static.keruyun.com/b14224c9d3824f4e9144138cd1dd8f9f.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415225-182141.image",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "百威小",
+					"picUrl": "https://img-static.keruyun.com/b3ffd635777240ff8d521e334e55d89a.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "美年达",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "甜酒",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635415211-105597.image",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				},
+				{
+					"name": "冰绿豆汤",
+					"picUrl": "",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "套餐系列",
+			"foods": [
+				{
+					"name": "猪脚拼红烧牛肉粉",
+					"picUrl": "https://img-static.keruyun.com/7cae2e29e15b482c8964fa522d78421b.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉拼麻辣牛肉粉",
+					"picUrl": "https://img-static.keruyun.com/27fefb4d729f4be5a67bea845f9a4880.jpg",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚拼肉丝粉",
+					"picUrl": "",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚拼辣椒炒肉粉",
+					"picUrl": "",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "热",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉拼牛杂粉",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂拼猪脚粉",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉粉拼肥肠",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂粉拼肥肠",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂拼麻辣牛肉粉",
+					"picUrl": "",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "套餐系列",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "加码系列",
+			"foods": [
+				{
+					"name": "烫青菜",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "木耳肉丝",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "猪脚",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "排骨",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "辣椒炒肉",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "红烧牛肉",
+					"picUrl": "",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "牛杂",
+					"picUrl": "",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "肥肠",
+					"picUrl": "",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "麻辣牛肉",
+					"picUrl": "",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				},
+				{
+					"name": "土鸭钵",
+					"picUrl": "",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "加码系列",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "特价套餐",
+			"foods": [
+				{
+					"name": "青菜粉十卤十饮料",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肉丝粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪脚粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣椒炒肉粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "肥肠粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧牛肉粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛杂粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣·",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣牛肉粉十卤蛋十饮料",
+					"picUrl": "",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "少辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "全家福十卤蛋十饮料",
+					"picUrl": "",
+					"price": 39,
+					"unit": "份",
+					"categoryName": "特价套餐",
+					"props": [
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "不加葱",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "不加香菜",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "扁粉",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "订划算",
+			"foods": [
+				{
+					"name": "经典牛杂粉",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "订划算",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热销红烧牛肉粉",
+					"picUrl": "",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "订划算",
+					"props": [
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "清汤",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "加辣",
+									"price": 0,
 									"propName": "默认",
 									"isMul": true
 								}
@@ -1447,481 +4471,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "今日米饭套餐",
-			"foods": [
-				{
-					"name": "胡萝卜炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bac41a4e70d64b4a83cb4a36fe148426.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "云南腊肉炒蒜苗",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/rc-upload-1640845588-254688.image",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "苦瓜炒蛋饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/6ee378ed773b4c89bbd4c5e910324750.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "洋葱炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1632970308-262544.image",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": []
-				},
-				{
-					"name": "蒜苗炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/bdc4bc8bcbca4151ae027c527badf645.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西红柿炒蛋饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/d3d4ea00f3c64f19859508a931e9fce5.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "一碗香米饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/6417aae688954522873ac8cb22d443c2.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "茄子豆角饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/f65cbe6360504e279f5877ab152cea99.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木耳炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/d2a062c259d24d3cbde4f2380693ab33.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/906106999a8344389562e9954eeebff8.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蒜苔炒肉饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/e21eb8cee1e84337b180d195206c6662.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "今日米饭套餐",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "馄饨",
-			"foods": [
-				{
-					"name": "纯鲜肉馄饨",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/8099f43e22374816a0f5c55147f86be4.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "馄饨",
-					"props": []
-				},
-				{
-					"name": "香菇鲜肉馄饨",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/7388060a428b494897597c981a83be83.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "馄饨",
-					"props": []
-				},
-				{
-					"name": "玉米鲜肉馄饨",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/de1fff94d1a4412e87552f6ab93b6dbf.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "馄饨",
-					"props": []
-				},
-				{
-					"name": "肉三鲜馄饨",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/824d98ed1df8480a87fc3d662f69f387.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "馄饨",
-					"props": []
-				},
-				{
-					"name": "荠菜鲜肉馄饨",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/e25ee4b4eb3f4e6ca411a4ea3c9f1e2f.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "馄饨",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "加料",
-			"foods": [
-				{
-					"name": "加生菜(2片叶)",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/1d83b71f863a4bd7a9e62f9b1e7a188a/rc-upload-1646221310-266736.image",
-					"price": 1,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "煎蛋",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/rc-upload-1637746829-275747.image",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加鹌鹑蛋(一份五个)",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635174604-196304.image",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加酸菜肉",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/9bd615d6a392462b92fb6d2a25be566b.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加杂酱",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/831d7daf2e47462a885ae4fed3afdadc.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加火腿片",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634865149-258098.image",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加鱼片",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634864576-231490.image",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加红烧牛腩",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1635174467-175919.image",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加肥牛",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/f7686389da8242b1b17689ad2a422268.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				},
-				{
-					"name": "加肥肠",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/2605e0e0d8b445abb9d7721829581612/rc-upload-1645590510-269540.image",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "加料",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "粥/汤类",
-			"foods": [
-				{
-					"name": "菌菇土鸡汤",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/49dea21ef43a4faabd161ad634f50c12.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "粥/汤类",
-					"props": [
-						{
-							"name": "是否打包",
-							"values": [
-								{
-									"value": "需要打包",
-									"price": 1,
-									"propName": "是否打包",
-									"isMul": true
-								},
-								{
-									"value": "堂食",
-									"price": 0,
-									"propName": "是否打包",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "小吃",
-			"foods": [
-				{
-					"name": "鲜花饼",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/782722/ce983db40955461d980a02656ea1fed5.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				},
-				{
-					"name": "花生米",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1630417996-160612.image",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "小吃",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "套餐",
-			"foods": []
-		},
-		{
-			"name": "啤酒/饮品",
-			"foods": []
-		},
-		{
-			"name": "饮品",
-			"foods": []
-		},
-		{
-			"name": "酒水",
-			"foods": []
-		},
-		{
-			"name": "啤酒",
-			"foods": []
 		}
 	]
 }

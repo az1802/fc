@@ -85,7 +85,7 @@ function formatFoodProps(foodItem) {
       if (propItem.specAttrs[0].value) {
         skuObj.values.push({
           "value": propItem.specAttrs[0].value,
-          "price": propItem[priceKey],
+          "price": propItem[priceKey]/100,
           "propName": "规格",
           "isMul": false
         })
@@ -102,7 +102,7 @@ function formatFoodProps(foodItem) {
       tasteItem.items&&tasteItem.items.forEach(propItem => {
          feedObj.values.push({
            "value": propItem.name,
-           "price": propItem.price,
+           "price": propItem.price/100,
            "propName": "加料",
            "isMul": true
          })
@@ -123,7 +123,7 @@ function formatFoodProps(foodItem) {
         propItem.items.forEach(item => {
           tempObj.values.push({
             "value": item.name.trim(),
-            "price": item.price,
+            "price": item.price/100,
             "propName": tempObj.name,
             "isMul": true
           })
@@ -173,7 +173,7 @@ async function  handleRequestData(requestShopData,requestMenuData) {
           let foodData = {
             name: foodItem.goods_name.trim()|| "",
             picUrl: picUrl || "",
-            price: foodItem.price || "",
+            price: (foodItem.price || 0)/100,
             unit: foodItem.unit || "份",
             categoryName: categoryData.name,
             props: [],
