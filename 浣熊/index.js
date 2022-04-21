@@ -4,7 +4,7 @@ const path = require("path");
 
 const { requestUrl, genImgs, genExcel, genExcelAll, genWord, genSpecificationsWord, formatFileName, delDirSync, mkdirSync, genFeieExcelAll, genShilaiExcelAll } = require("../utils/index")
 
-const shopId = 38620
+const shopId = 20211
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
@@ -26,11 +26,17 @@ const outputDir = path.join(__dirname, "merchantInfos")
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications: [],//规格
   practice: [
+    "打包",
+    "种类",
+    "做法",
     "打包"
   ],//做法
   feeding: ["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
+    "打包",
+    "种类",
+    "做法",
     "打包"
   ],
   propsSort: {

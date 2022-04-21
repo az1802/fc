@@ -1,157 +1,57 @@
 {
-	"shopName": "七津猪角饭",
-	"shop_pic": "",
+	"shopName": "常德牛肉粉",
+	"shop_pic": "https://op.diandianwaimai.com:10091/dd_op/attached/image/20180614/20180614113646-20211-logo.png",
 	"categories": [
 		{
-			"name": "猪角类",
+			"name": "常德牛肉粉(带汤)",
 			"foods": [
 				{
-					"name": "招牌猪脚饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200514223154453528.jpeg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "猪角类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191108141434695847.png",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "猪角类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219164619374998.png",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "猪角类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180509173400723655.jpg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "猪角类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤粉肠饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180910223143979529.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "猪角类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肥肠饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415200553216719.png",
-					"price": "28",
-					"unit": "份",
-					"categoryName": "猪角类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金牌肉卷饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513151009082345.jpeg",
-					"price": "22",
-					"unit": "份",
-					"categoryName": "猪角类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤素拼饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513152748078871.jpeg",
+					"name": "红烧牛肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180603170222991784.jpg",
 					"price": "18",
 					"unit": "份",
-					"categoryName": "猪角类",
+					"categoryName": "常德牛肉粉(带汤)",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -166,20 +66,52 @@
 					]
 				},
 				{
-					"name": "卤鸭饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180910222238062254.jpg",
-					"price": "23",
+					"name": "麻辣牛肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180603170313991211.jpg",
+					"price": "20",
 					"unit": "份",
-					"categoryName": "猪角类",
-					"props": []
-				},
-				{
-					"name": "卤五花肉饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180107104826346519.png",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "猪角类",
+					"categoryName": "常德牛肉粉(带汤)",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -194,12 +126,52 @@
 					]
 				},
 				{
-					"name": "蜜汁叉烧饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200108103332009965.jpg",
-					"price": "28",
+					"name": "清汤牛肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160616111500299945.jpg",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "猪角类",
+					"categoryName": "常德牛肉粉(带汤)",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -214,12 +186,52 @@
 					]
 				},
 				{
-					"name": "卤肠头饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513121418353405.jpeg",
-					"price": "32",
+					"name": "红烧牛肚",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180603170246551379.jpg",
+					"price": "20",
 					"unit": "份",
-					"categoryName": "猪角类",
+					"categoryName": "常德牛肉粉(带汤)",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -234,12 +246,52 @@
 					]
 				},
 				{
-					"name": "卤猪舌饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180528112200224118.jpg",
-					"price": "23",
+					"name": "干豆角红烧肉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180607175155214612.png",
+					"price": "18",
 					"unit": "份",
-					"categoryName": "猪角类",
+					"categoryName": "常德牛肉粉(带汤)",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -254,12 +306,52 @@
 					]
 				},
 				{
-					"name": "卤鸭腿饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180410124537196175.png",
-					"price": "23",
+					"name": "木耳肉丝",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728175940296753.png",
+					"price": "15",
 					"unit": "份",
-					"categoryName": "猪角类",
+					"categoryName": "常德牛肉粉(带汤)",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -274,49 +366,171 @@
 					]
 				},
 				{
-					"name": "卤猪蹄饭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210628093936942656.jpeg",
-					"price": "32",
+					"name": "一品三鲜",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180619112540155475.png",
+					"price": "17",
 					"unit": "份",
-					"categoryName": "猪角类",
-					"props": []
+					"categoryName": "常德牛肉粉(带汤)",
+					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "卤鹅套餐",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20211214213145447866.webp",
-					"price": "33",
+					"name": "红烧肥肠",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210821122300135017.jpeg",
+					"price": "20",
 					"unit": "份",
-					"categoryName": "猪角类",
-					"props": []
+					"categoryName": "常德牛肉粉(带汤)",
+					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "细面",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "1",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "双拼三拼饭类",
+			"name": "拌粉类",
 			"foods": [
 				{
-					"name": "任意双拼",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191205201106348905.jpg",
-					"price": "26",
+					"name": "红烧牛肉拌粉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801125951969058.jpeg",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "双拼三拼饭类",
-					"props": []
-				},
-				{
-					"name": "任意三拼",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181127233939236825.png",
-					"price": "33",
-					"unit": "份",
-					"categoryName": "双拼三拼饭类",
-					"props": []
-				},
-				{
-					"name": "猪脚拼烧鸭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165130231257.jpg",
-					"price": "25",
-					"unit": "份",
-					"categoryName": "双拼三拼饭类",
+					"categoryName": "拌粉类",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -331,12 +545,46 @@
 					]
 				},
 				{
-					"name": "猪脚拼肥肠",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165211937004.jpg",
-					"price": "28",
+					"name": "麻辣牛肉拌粉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801134348075882.jpeg",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "双拼三拼饭类",
+					"categoryName": "拌粉类",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -351,12 +599,46 @@
 					]
 				},
 				{
-					"name": "白切鸡拼猪脚",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165611432344.jpg",
-					"price": "26",
+					"name": "红烧肥肠拌粉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210810194254258176.jpeg",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "双拼三拼饭类",
+					"categoryName": "拌粉类",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -371,12 +653,46 @@
 					]
 				},
 				{
-					"name": "烧鸭拼肉卷",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165252324009.png",
-					"price": "24",
+					"name": "红烧牛肚拌粉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210821131446620970.jpeg",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "双拼三拼饭类",
+					"categoryName": "拌粉类",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -391,52 +707,46 @@
 					]
 				},
 				{
-					"name": "叉烧烧鸭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160508162441122512.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "双拼三拼饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚拼鸭肾",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165219205049.jpg",
-					"price": "26",
-					"unit": "份",
-					"categoryName": "双拼三拼饭类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪舌拼白切鸡",
+					"name": "干豆角红烧肉拌粉",
 					"picUrl": "",
-					"price": "26",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "双拼三拼饭类",
+					"categoryName": "拌粉类",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -451,12 +761,46 @@
 					]
 				},
 				{
-					"name": "猪耳拼烧鸭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165853263397.jpg",
-					"price": "28",
+					"name": "辣椒炒肉拌粉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210730135032243936.jpeg",
+					"price": "22",
 					"unit": "份",
-					"categoryName": "双拼三拼饭类",
+					"categoryName": "拌粉类",
 					"props": [
+						{
+							"name": "种类",
+							"values": [
+								{
+									"value": "米粉（圆）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								},
+								{
+									"value": "河粉（扁）",
+									"price": "0",
+									"propName": "种类",
+									"isMul": 0
+								}
+							]
+						},
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						},
 						{
 							"name": "打包",
 							"values": [
@@ -469,50 +813,55 @@
 							]
 						}
 					]
-				},
-				{
-					"name": "卤猪蹄饭任意双拼",
-					"picUrl": "",
-					"price": "35",
-					"unit": "份",
-					"categoryName": "双拼三拼饭类",
-					"props": []
-				},
-				{
-					"name": "卤猪蹄任意三拼",
-					"picUrl": "",
-					"price": "38",
-					"unit": "份",
-					"categoryName": "双拼三拼饭类",
-					"props": []
 				}
 			]
 		},
 		{
-			"name": "卤水类",
+			"name": "凉皮",
 			"foods": [
 				{
-					"name": "卤猪蹄",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190916160025315403.png",
-					"price": "58",
+					"name": "凉皮",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190224134608648475.png",
+					"price": "10",
 					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
+					"categoryName": "凉皮",
+					"props": [
+						{
+							"name": "做法",
+							"values": [
+								{
+									"value": "免香菜",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "免葱",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								},
+								{
+									"value": "不要辣",
+									"price": "0",
+									"propName": "做法",
+									"isMul": 1
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "小吃",
+			"foods": [
 				{
-					"name": "土豪打赏",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170428103803988490.jpg",
-					"price": "0.10",
+					"name": "汤青菜",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181059696747.jpg",
+					"price": "7",
 					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
-				{
-					"name": "猪脚",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200312213339779780.jpeg",
-					"price": "46",
-					"unit": "份",
-					"categoryName": "卤水类",
+					"categoryName": "小吃",
 					"props": [
 						{
 							"name": "打包",
@@ -528,18 +877,18 @@
 					]
 				},
 				{
-					"name": "白切鸡",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219164619374998.png",
-					"price": "38",
+					"name": "椒盐花生米",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728182027263250.png",
+					"price": "3",
 					"unit": "份",
-					"categoryName": "卤水类",
+					"categoryName": "小吃",
 					"props": [
 						{
 							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": "1",
+									"price": "0",
 									"propName": "打包",
 									"isMul": 0
 								}
@@ -548,206 +897,568 @@
 					]
 				},
 				{
-					"name": "烧鸭",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180315102255622408.png",
-					"price": "38",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肥肠",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200403195158352166.png",
-					"price": "48",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪耳",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513223715262375.jpeg",
-					"price": "48",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭肾",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200108104554534975.jpg",
-					"price": "38",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191221075912859041.jpg",
-					"price": "48",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "粉肠",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191123174747976656.jpeg",
-					"price": "48",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪舌",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171214185124076776.png",
-					"price": "42",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": [
-						{
-							"name": "打包",
-							"values": [
-								{
-									"value": "打包",
-									"price": "1",
-									"propName": "打包",
-									"isMul": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "莲藕",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318160551-1078315-product_h_pic.jpg",
-					"price": "18",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
-				{
-					"name": "豆皮",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191127225650948922.jpeg",
-					"price": "16",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
-				{
-					"name": "海带",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200402194608771661.png",
-					"price": "16",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
-				{
-					"name": "豆干",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200219190601195266.jpeg",
-					"price": "16",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
-				{
-					"name": "咸蛋",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170801100252986090.jpg",
-					"price": "3.50",
-					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
-				{
-					"name": "卤蛋",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190828075046202265.png",
+					"name": "虎皮鸡蛋",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181055437590.jpg",
 					"price": "2",
 					"unit": "份",
-					"categoryName": "卤水类",
-					"props": []
-				},
-				{
-					"name": "掌翅",
-					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191012184610907092.jpeg",
-					"price": "42",
-					"unit": "份",
-					"categoryName": "卤水类",
+					"categoryName": "小吃",
 					"props": [
 						{
 							"name": "打包",
 							"values": [
 								{
 									"value": "打包",
-									"price": "1",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "五香香干",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170214131030848945.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "包心牛肉丸",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181048917340.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "煎鸡蛋",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201009173327098177.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮料",
+			"foods": [
+				{
+					"name": "维他豆奶",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200429212625353129.jpg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "绿豆汤",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728182154670582.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "可乐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181818969828.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181957900116.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "芬达",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181929232323.png",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				},
+				{
+					"name": "酸梅汤",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318160544-1078487-product_h_pic.jpg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150312/20150312162017-1076843-product_h_pic.gif",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728182254747231.png",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "高罐可乐",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20211026135702817668.jpeg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "饮料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "卤味小吃",
+			"foods": [
+				{
+					"name": "千张",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210928115700076388.jpg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭爪(个)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801144625294563.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭肠(捆)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801144647933062.jpeg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801144710197196.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海带(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145033397118.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145049229916.jpeg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "面筋(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145129994077.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "油豆腐(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145145469552.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莲藕(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145200916742.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热狗(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145222779692.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭心(串)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145239790367.jpeg",
+					"price": "3",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭肝(个)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145302300132.jpeg",
+					"price": "2",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭头(个)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145315650891.jpeg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭肾(个)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145403154489.jpeg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭脖(根)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145419009577.jpeg",
+					"price": "7",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭架(个)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145436415035.jpeg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭腿(个)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145556865066.jpeg",
+					"price": "10",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
+									"propName": "打包",
+									"isMul": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭翅(个)",
+					"picUrl": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145016733096.jpeg",
+					"price": "4",
+					"unit": "份",
+					"categoryName": "卤味小吃",
+					"props": [
+						{
+							"name": "打包",
+							"values": [
+								{
+									"value": "打包",
+									"price": "0",
 									"propName": "打包",
 									"isMul": 0
 								}

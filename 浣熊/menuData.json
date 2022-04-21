@@ -1,66 +1,137 @@
 {
 	"detail": {
 		"favorites": [],
-		"week": "2",
+		"week": "3",
 		"if_discounted": -1,
 		"success_link": "",
 		"open_mem_money": 0,
-		"systime": "1649746039314",
+		"systime": "1650443468541",
 		"ret_msg": "操作成功",
 		"sales": [],
-		"minorname": "",
+		"minorname": "豪方",
 		"platform_fee": 0,
 		"is_success_link": 0,
 		"md5sum": "",
-		"shoplogo": "",
-		"shopname": "七津猪角饭",
+		"shoplogo": "https://op.diandianwaimai.com:10091/dd_op/attached/image/20180614/20180614113646-20211-logo.png",
+		"shopname": "常德牛肉粉",
 		"is_open_platform_fee": 0,
-		"min_orderprice_for_platform_fee": 5,
+		"min_orderprice_for_platform_fee": 10,
 		"closed": 0,
-		"shopid": "38620",
+		"shopid": "20211",
 		"ret_code": 0,
 		"show_product_pic": 1,
 		"items": [
 			{
-				"itemname": "猪角类",
+				"itemname": "常德牛肉粉(带汤)",
 				"is_bind": 0,
 				"sale_status": 1,
-				"id": 297782,
+				"id": 172062,
 				"is_attach": 0,
+				"sale_time": "00:00-23:59",
 				"products": [
 					{
 						"is_down": 0,
 						"suit_items": [],
 						"flags": [],
 						"memo": "",
-						"curr_price": "25",
+						"curr_price": "18",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 10373,
+						"sales": 18423,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200514223154684038.jpeg",
-						"price": "25",
-						"id": 3403642,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180603170222578123.jpg",
+						"price": "18",
+						"id": 2301206,
 						"is_suit": 0,
 						"prop_prices": [
 							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 4831289,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 4831290,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 4831291,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186780,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186781,
+								"supply_no": 999
+							},
+							{
 								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824559,
+								"keys": "#234379_1361776#",
+								"id": 24457003,
 								"supply_no": 999
 							}
 						],
 						"min_order_price": "0",
-						"item_id": 297782,
+						"item_id": 172062,
 						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200514223154453528.jpeg",
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180603170222991784.jpg",
 						"props": [
 							{
-								"p_name_id": 149294,
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234379,
 								"is_required": 0,
 								"p_name": "打包",
 								"is_sku": 1,
@@ -68,7 +139,7 @@
 								"values": [
 									{
 										"p_value": "打包",
-										"p_value_id": 815348
+										"p_value_id": 1361776
 									}
 								],
 								"is_multiple": 0
@@ -78,7 +149,7 @@
 						"stop": 0,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "招牌猪脚饭",
+						"name": "红烧牛肉",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -89,34 +160,104 @@
 						"suit_items": [],
 						"flags": [],
 						"memo": "",
-						"curr_price": "22",
+						"curr_price": "20",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 2130,
+						"sales": 7477,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191108141434452283.png",
-						"price": "22",
-						"id": 3403641,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180603170313563800.jpg",
+						"price": "20",
+						"id": 2301208,
 						"is_suit": 0,
 						"prop_prices": [
 							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 4831295,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 4831296,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 4831297,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186782,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186783,
+								"supply_no": 999
+							},
+							{
 								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824558,
+								"keys": "#234380_1361777#",
+								"id": 24457004,
 								"supply_no": 999
 							}
 						],
 						"min_order_price": "0",
-						"item_id": 297782,
+						"item_id": 172062,
 						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191108141434695847.png",
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180603170313991211.jpg",
 						"props": [
 							{
-								"p_name_id": 149294,
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234380,
 								"is_required": 0,
 								"p_name": "打包",
 								"is_sku": 1,
@@ -124,7 +265,7 @@
 								"values": [
 									{
 										"p_value": "打包",
-										"p_value_id": 815348
+										"p_value_id": 1361777
 									}
 								],
 								"is_multiple": 0
@@ -134,283 +275,7 @@
 						"stop": 0,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "烧鸭饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "25",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 624,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191219164619307213.png",
-						"price": "25",
-						"id": 3403644,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824561,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219164619374998.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "白切鸡饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "25",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 1079,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180509173400966483.jpg",
-						"price": "25",
-						"id": 3403643,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824560,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180509173400723655.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤猪耳饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "26",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 303,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180910223143807664.jpg",
-						"price": "26",
-						"id": 3403645,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824562,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180910223143979529.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤粉肠饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "28",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 254,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200415200553489075.png",
-						"price": "28",
-						"id": 3403646,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824563,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200415200553216719.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "肥肠饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"memo": "",
-						"curr_price": "22",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 543,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200513151009075848.jpeg",
-						"price": "22",
-						"id": 3403650,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824566,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513151009082345.jpeg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "金牌肉卷饭",
+						"name": "麻辣牛肉",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -424,31 +289,101 @@
 						"curr_price": "18",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 690,
+						"sales": 4545,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200513152748250337.jpeg",
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20160616111500218340.jpg",
 						"price": "18",
-						"id": 3403653,
+						"id": 2301202,
 						"is_suit": 0,
 						"prop_prices": [
 							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 4831277,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 4831278,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 4831279,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186784,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186785,
+								"supply_no": 999
+							},
+							{
 								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824569,
+								"keys": "#234381_1361778#",
+								"id": 24457005,
 								"supply_no": 999
 							}
 						],
 						"min_order_price": "0",
-						"item_id": 297782,
+						"item_id": 172062,
 						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513152748078871.jpeg",
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160616111500299945.jpg",
 						"props": [
 							{
-								"p_name_id": 149294,
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234381,
 								"is_required": 0,
 								"p_name": "打包",
 								"is_sku": 1,
@@ -456,7 +391,7 @@
 								"values": [
 									{
 										"p_value": "打包",
-										"p_value_id": 815348
+										"p_value_id": 1361778
 									}
 								],
 								"is_multiple": 0
@@ -466,150 +401,7 @@
 						"stop": 0,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "卤素拼饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "23",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 259,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180910222238988566.jpg",
-						"price": "23",
-						"id": 3403649,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180910222238062254.jpg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤鸭饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "26",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 583,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180107104826198910.png",
-						"price": "26",
-						"id": 3403652,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824568,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180107104826346519.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤五花肉饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "28",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 584,
-						"is_discount": 1,
-						"b_src_pic_url": "http://imgcdn.diandianwaimai.com/dd_op_test/attached/image/20160115/20160115172118-1149947-b_product_pic.png",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200108103332340169.jpg",
-						"price": "28",
-						"id": 3403647,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824557,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200108103332009965.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "蜜汁叉烧饭",
+						"name": "清汤牛肉",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -620,34 +412,104 @@
 						"suit_items": [],
 						"flags": [],
 						"memo": "",
-						"curr_price": "32",
+						"curr_price": "20",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 126,
+						"sales": 2443,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200513121418394595.jpeg",
-						"price": "32",
-						"id": 3403648,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180603170246149612.jpg",
+						"price": "20",
+						"id": 2301207,
 						"is_suit": 0,
 						"prop_prices": [
 							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 4831292,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 4831293,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 4831294,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186786,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186787,
+								"supply_no": 999
+							},
+							{
 								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824564,
+								"keys": "#234382_1361779#",
+								"id": 24457006,
 								"supply_no": 999
 							}
 						],
 						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 1,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513121418353405.jpeg",
+						"item_id": 172062,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180603170246551379.jpg",
 						"props": [
 							{
-								"p_name_id": 149294,
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234382,
 								"is_required": 0,
 								"p_name": "打包",
 								"is_sku": 1,
@@ -655,7 +517,1215 @@
 								"values": [
 									{
 										"p_value": "打包",
-										"p_value_id": 815348
+										"p_value_id": 1361779
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "红烧牛肚",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "新品哦！",
+						"curr_price": "18",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 1134,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180607175155924269.png",
+						"price": "18",
+						"id": 2301203,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 4831280,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 4831281,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 4831282,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186790,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186791,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234383_1361780#",
+								"id": 24457007,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 172062,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180607175155214612.png",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234383,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361780
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "干豆角红烧肉",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "15",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 1456,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728175940815240.png",
+						"price": "15",
+						"id": 2301204,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 4831283,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 4831284,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 4831285,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186792,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186793,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234385_1361782#",
+								"id": 24457009,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 172062,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728175940296753.png",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234385,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361782
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "木耳肉丝",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "新品哦！",
+						"curr_price": "17",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 3229,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180619112540985401.png",
+						"price": "17",
+						"id": 2301201,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 4831274,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 4831275,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 4831276,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186794,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186795,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234384_1361781#",
+								"id": 24457008,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 172062,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180619112540155475.png",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234384,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361781
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "一品三鲜",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "20",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 517,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210821122300352219.jpeg",
+						"price": "20",
+						"id": 3711687,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 23446717,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 23446718,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69807#",
+								"id": 23446719,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23446720,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23446721,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234386_1361783#",
+								"id": 24457010,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 172062,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210821122300135017.jpeg",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									},
+									{
+										"p_value": "细面",
+										"p_value_id": 69807
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234386,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361783
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "红烧肥肠",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					}
+				]
+			},
+			{
+				"itemname": "拌粉类",
+				"is_bind": 1,
+				"sale_status": 1,
+				"id": 333673,
+				"is_attach": 0,
+				"products": [
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "22",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 1406,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801125951026459.jpeg",
+						"price": "22",
+						"id": 3699592,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186796,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186797,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 23186808,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 23186809,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234387_1361784#",
+								"id": 24457011,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333673,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801125951969058.jpeg",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234387,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361784
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "红烧牛肉拌粉",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "22",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 1187,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801134348481959.jpeg",
+						"price": "22",
+						"id": 3699593,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186798,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186799,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 23186810,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 23186811,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234388_1361785#",
+								"id": 24457012,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333673,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801134348075882.jpeg",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234388,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361785
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "麻辣牛肉拌粉",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "22",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 538,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210810194254227694.jpeg",
+						"price": "22",
+						"id": 3699595,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186802,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186803,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 23186814,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 23186815,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234390_1361787#",
+								"id": 24457014,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333673,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210810194254258176.jpeg",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234390,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361787
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "红烧肥肠拌粉",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "22",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 393,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210821131446133163.jpeg",
+						"price": "22",
+						"id": 3699596,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186804,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186805,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 23186816,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 23186817,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234391_1361788#",
+								"id": 24457015,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333673,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210821131446620970.jpeg",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234391,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361788
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "红烧牛肚拌粉",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "22",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 100,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "",
+						"price": "22",
+						"id": 3699597,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186806,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186807,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 23186818,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 23186819,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234392_1361789#",
+								"id": 24457016,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333673,
+						"dinein_stop": 0,
+						"big_pic": "",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234392,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361789
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "干豆角红烧肉拌粉",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "22",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 558,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210730135032566421.jpeg",
+						"price": "22",
+						"id": 3699594,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7765_69819#",
+								"id": 23186800,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7765_69820#",
+								"id": 23186801,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69805#",
+								"id": 23186812,
+								"supply_no": 999
+							},
+							{
+								"price": "0",
+								"keys": "#7764_69806#",
+								"id": 23186813,
+								"supply_no": 999
+							},
+							{
+								"price": "1",
+								"keys": "#234389_1361786#",
+								"id": 24457013,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333673,
+						"dinein_stop": 1,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210730135032243936.jpeg",
+						"props": [
+							{
+								"p_name_id": 7764,
+								"is_required": 1,
+								"p_name": "种类",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "米粉（圆）",
+										"p_value_id": 69805
+									},
+									{
+										"p_value": "河粉（扁）",
+										"p_value_id": 69806
+									}
+								],
+								"is_multiple": 0
+							},
+							{
+								"p_name_id": 7765,
+								"is_required": 0,
+								"p_name": "做法",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "免葱",
+										"p_value_id": 69819
+									},
+									{
+										"p_value": "免香菜",
+										"p_value_id": 69820
+									}
+								],
+								"is_multiple": 1
+							},
+							{
+								"p_name_id": 234389,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 1361786
 									}
 								],
 								"is_multiple": 0
@@ -665,185 +1735,7 @@
 						"stop": 1,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "卤肠头饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "23",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 374,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180528112200940699.jpg",
-						"price": "23",
-						"id": 3403651,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824567,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180528112200224118.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤猪舌饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "23",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 195,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180410124537929641.png",
-						"price": "23",
-						"id": 3403654,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824570,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180410124537196175.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤鸭腿饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"memo": "",
-						"curr_price": "32",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 46,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210628093936356365.jpeg",
-						"price": "32",
-						"id": 3686554,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210628093936942656.jpeg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤猪蹄饭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"memo": "",
-						"curr_price": "33",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 0,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20211214213145535671.webp",
-						"price": "33",
-						"id": 3736999,
-						"is_suit": 1,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297782,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20211214213145447866.webp",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤鹅套餐",
+						"name": "辣椒炒肉拌粉",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -852,1176 +1744,84 @@
 				]
 			},
 			{
-				"itemname": "双拼三拼饭类",
+				"itemname": "凉皮",
 				"is_bind": 0,
 				"sale_status": 1,
-				"id": 297783,
+				"id": 338286,
 				"is_attach": 0,
+				"sale_time": "00:00-23:59",
 				"products": [
 					{
 						"is_down": 0,
-						"suit_items": [
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "10",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 6,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20190224134608428357.png",
+						"price": "10",
+						"id": 3747362,
+						"is_suit": 0,
+						"prop_prices": [
 							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407860",
-										"curr_dprice": "99.0",
-										"product_name": "肉卷",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407861",
-										"curr_dprice": "99.0",
-										"product_name": "鸭腿",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407862",
-										"curr_dprice": "99.0",
-										"product_name": "卤鸭",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407863",
-										"curr_dprice": "99.0",
-										"product_name": "五花肉",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407865",
-										"curr_dprice": "99.0",
-										"product_name": "卤肠头",
-										"prop_prices": [],
-										"inc_price": "6.0",
-										"props": []
-									},
-									{
-										"dprice": "42.0",
-										"default_checked": "0",
-										"product_id": "3403674",
-										"curr_dprice": "42.0",
-										"product_name": "猪舌",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403673",
-										"curr_dprice": "48.0",
-										"product_name": "粉肠",
-										"prop_prices": [],
-										"inc_price": "2.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403672",
-										"curr_dprice": "48.0",
-										"product_name": "叉烧",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403671",
-										"curr_dprice": "38.0",
-										"product_name": "鸭肾",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403670",
-										"curr_dprice": "48.0",
-										"product_name": "猪耳",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403669",
-										"curr_dprice": "48.0",
-										"product_name": "肥肠",
-										"prop_prices": [],
-										"inc_price": "2.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403667",
-										"curr_dprice": "38.0",
-										"product_name": "烧鸭",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "46.0",
-										"default_checked": "0",
-										"product_id": "3403665",
-										"curr_dprice": "46.0",
-										"product_name": "猪脚",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403666",
-										"curr_dprice": "38.0",
-										"product_name": "白切鸡",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "拼",
-								"suit_id": "30206",
-								"is_multiple": "1",
-								"max_per_sel_no": "2",
-								"max_select_no": "2"
+								"price": "0",
+								"keys": "#234820_1363912#",
+								"id": 24480319,
+								"supply_no": 999
 							},
 							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407873",
-										"curr_dprice": "99.0",
-										"product_name": "打包",
-										"prop_prices": [],
-										"inc_price": "1.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "打包",
-								"suit_id": "30208",
-								"is_multiple": "0",
-								"max_per_sel_no": "0",
-								"max_select_no": "1"
-							}
-						],
-						"flags": [],
-						"memo": "",
-						"curr_price": "26",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 10360,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191205201106102057.jpg",
-						"price": "26",
-						"id": 3407866,
-						"is_suit": 1,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191205201106348905.jpg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "任意双拼",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [
-							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407860",
-										"curr_dprice": "99.0",
-										"product_name": "肉卷",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407861",
-										"curr_dprice": "99.0",
-										"product_name": "鸭腿",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407862",
-										"curr_dprice": "99.0",
-										"product_name": "卤鸭",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407863",
-										"curr_dprice": "99.0",
-										"product_name": "五花肉",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407865",
-										"curr_dprice": "99.0",
-										"product_name": "卤肠头",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "42.0",
-										"default_checked": "0",
-										"product_id": "3403674",
-										"curr_dprice": "42.0",
-										"product_name": "猪舌",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403673",
-										"curr_dprice": "48.0",
-										"product_name": "粉肠",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403672",
-										"curr_dprice": "48.0",
-										"product_name": "叉烧",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403671",
-										"curr_dprice": "38.0",
-										"product_name": "鸭肾",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403670",
-										"curr_dprice": "48.0",
-										"product_name": "猪耳",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403669",
-										"curr_dprice": "48.0",
-										"product_name": "肥肠",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403667",
-										"curr_dprice": "38.0",
-										"product_name": "烧鸭",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403666",
-										"curr_dprice": "38.0",
-										"product_name": "白切鸡",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "46.0",
-										"default_checked": "0",
-										"product_id": "3403665",
-										"curr_dprice": "46.0",
-										"product_name": "猪脚",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "拼",
-								"suit_id": "30207",
-								"is_multiple": "1",
-								"max_per_sel_no": "3",
-								"max_select_no": "3"
+								"price": "0",
+								"keys": "#234820_1363913#",
+								"id": 24480320,
+								"supply_no": 999
 							},
 							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407873",
-										"curr_dprice": "99.0",
-										"product_name": "打包",
-										"prop_prices": [],
-										"inc_price": "1.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "打包",
-								"suit_id": "30209",
-								"is_multiple": "0",
-								"max_per_sel_no": "0",
-								"max_select_no": "1"
-							}
-						],
-						"flags": [],
-						"memo": "",
-						"curr_price": "33",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 2351,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20181127233939408669.png",
-						"price": "33",
-						"id": 3407867,
-						"is_suit": 1,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20181127233939236825.png",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "任意三拼",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "25",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 2512,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180628165130780536.jpg",
-						"price": "25",
-						"id": 3403656,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824574,
+								"price": "0",
+								"keys": "#234820_1363914#",
+								"id": 24480321,
 								"supply_no": 999
 							}
 						],
 						"min_order_price": "0",
-						"item_id": 297783,
+						"item_id": 338286,
 						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165130231257.jpg",
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190224134608648475.png",
 						"props": [
 							{
-								"p_name_id": 149294,
+								"p_name_id": 234820,
 								"is_required": 0,
-								"p_name": "打包",
+								"p_name": "做法",
 								"is_sku": 1,
 								"is_affects_prices": 1,
 								"values": [
 									{
-										"p_value": "打包",
-										"p_value_id": 815348
+										"p_value": "免香菜",
+										"p_value_id": 1363912
+									},
+									{
+										"p_value": "免葱",
+										"p_value_id": 1363913
+									},
+									{
+										"p_value": "不要辣",
+										"p_value_id": 1363914
 									}
 								],
-								"is_multiple": 0
+								"is_multiple": 1
 							}
 						],
 						"disct_rate": 10,
 						"stop": 0,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "猪脚拼烧鸭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "28",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 1757,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180628165211593891.jpg",
-						"price": "28",
-						"id": 3403658,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824576,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165211937004.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "猪脚拼肥肠",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "26",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 903,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180628165611475173.jpg",
-						"price": "26",
-						"id": 3403659,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824577,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165611432344.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "白切鸡拼猪脚",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "24",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 608,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180628165252125236.png",
-						"price": "24",
-						"id": 3403657,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824575,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165252324009.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "烧鸭拼肉卷",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"memo": "",
-						"curr_price": "26",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 733,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20160508162441762314.jpg",
-						"price": "26",
-						"id": 3403660,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 22827636,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20160508162441122512.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "叉烧烧鸭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "26",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 466,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180628165219357639.jpg",
-						"price": "26",
-						"id": 3403662,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824580,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165219205049.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "猪脚拼鸭肾",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "26",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 85,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "",
-						"price": "26",
-						"id": 3403663,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824581,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "猪舌拼白切鸡",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "28",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 202,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180628165853684124.jpg",
-						"price": "28",
-						"id": 3403664,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824582,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180628165853263397.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "猪耳拼烧鸭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [
-							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "46.0",
-										"default_checked": "0",
-										"product_id": "3403665",
-										"curr_dprice": "46.0",
-										"product_name": "猪脚",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403666",
-										"curr_dprice": "38.0",
-										"product_name": "白切鸡",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403667",
-										"curr_dprice": "38.0",
-										"product_name": "烧鸭",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403669",
-										"curr_dprice": "48.0",
-										"product_name": "肥肠",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403670",
-										"curr_dprice": "48.0",
-										"product_name": "猪耳",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403671",
-										"curr_dprice": "38.0",
-										"product_name": "鸭肾",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403672",
-										"curr_dprice": "48.0",
-										"product_name": "叉烧",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403673",
-										"curr_dprice": "48.0",
-										"product_name": "粉肠",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "42.0",
-										"default_checked": "0",
-										"product_id": "3403674",
-										"curr_dprice": "42.0",
-										"product_name": "猪舌",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "拼",
-								"suit_id": "31603",
-								"is_multiple": "0",
-								"max_per_sel_no": "1",
-								"max_select_no": "1"
-							},
-							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407873",
-										"curr_dprice": "99.0",
-										"product_name": "打包",
-										"prop_prices": [],
-										"inc_price": "1.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "打包",
-								"suit_id": "31606",
-								"is_multiple": "0",
-								"max_per_sel_no": "1",
-								"max_select_no": "1"
-							}
-						],
-						"flags": [],
-						"memo": "",
-						"curr_price": "35",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 38,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "",
-						"price": "35",
-						"id": 3686702,
-						"is_suit": 1,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤猪蹄饭任意双拼",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [
-							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "46.0",
-										"default_checked": "0",
-										"product_id": "3403665",
-										"curr_dprice": "46.0",
-										"product_name": "猪脚",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403666",
-										"curr_dprice": "38.0",
-										"product_name": "白切鸡",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403667",
-										"curr_dprice": "38.0",
-										"product_name": "烧鸭",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403669",
-										"curr_dprice": "48.0",
-										"product_name": "肥肠",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403670",
-										"curr_dprice": "48.0",
-										"product_name": "猪耳",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "38.0",
-										"default_checked": "0",
-										"product_id": "3403671",
-										"curr_dprice": "38.0",
-										"product_name": "鸭肾",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403672",
-										"curr_dprice": "48.0",
-										"product_name": "叉烧",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "48.0",
-										"default_checked": "0",
-										"product_id": "3403673",
-										"curr_dprice": "48.0",
-										"product_name": "粉肠",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									},
-									{
-										"dprice": "42.0",
-										"default_checked": "0",
-										"product_id": "3403674",
-										"curr_dprice": "42.0",
-										"product_name": "猪舌",
-										"prop_prices": [],
-										"inc_price": "0.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "拼",
-								"suit_id": "31604",
-								"is_multiple": "1",
-								"max_per_sel_no": "1",
-								"max_select_no": "2"
-							},
-							{
-								"min_select_no": "0",
-								"suit_products": [
-									{
-										"dprice": "99.0",
-										"default_checked": "0",
-										"product_id": "3407873",
-										"curr_dprice": "99.0",
-										"product_name": "打包",
-										"prop_prices": [],
-										"inc_price": "1.0",
-										"props": []
-									}
-								],
-								"is_required": "0",
-								"name": "打包",
-								"suit_id": "31607",
-								"is_multiple": "0",
-								"max_per_sel_no": "1",
-								"max_select_no": "1"
-							}
-						],
-						"flags": [],
-						"memo": "",
-						"curr_price": "38",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 29,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "",
-						"price": "38",
-						"id": 3686704,
-						"is_suit": 1,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297783,
-						"dinein_stop": 0,
-						"big_pic": "",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "卤猪蹄任意三拼",
+						"name": "凉皮",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -2030,41 +1830,64 @@
 				]
 			},
 			{
-				"itemname": "卤水类",
-				"is_bind": 0,
+				"itemname": "小吃",
+				"is_bind": 1,
 				"sale_status": 1,
-				"id": 297784,
+				"id": 333674,
 				"is_attach": 0,
+				"sale_time": "",
 				"products": [
 					{
 						"is_down": 0,
 						"suit_items": [],
 						"flags": [],
 						"memo": "",
-						"curr_price": "58",
+						"curr_price": "7",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 5,
+						"sales": 284,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20190916160025642882.png",
-						"price": "58",
-						"id": 3686703,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728181059931797.jpg",
+						"price": "7",
+						"id": 3700084,
 						"is_suit": 0,
-						"prop_prices": [],
+						"prop_prices": [
+							{
+								"price": "1",
+								"keys": "#7766_69823#",
+								"id": 23205919,
+								"supply_no": 999
+							}
+						],
 						"min_order_price": "0",
-						"item_id": 297784,
+						"item_id": 333674,
 						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190916160025315403.png",
-						"props": [],
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181059696747.jpg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
 						"disct_rate": 10,
 						"stop": 0,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "卤猪蹄",
+						"name": "汤青菜",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -2075,67 +1898,34 @@
 						"suit_items": [],
 						"flags": [],
 						"memo": "",
-						"curr_price": "0.10",
+						"curr_price": "3",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 32,
+						"sales": 225,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20170428103803868460.jpg",
-						"price": "0.10",
-						"id": 3403890,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170428103803988490.jpg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "土豪打赏",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "46",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 78,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200312213339344203.jpeg",
-						"price": "46",
-						"id": 3403665,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728182027487924.png",
+						"price": "3",
+						"id": 3700085,
 						"is_suit": 0,
 						"prop_prices": [
 							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824583,
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205920,
 								"supply_no": 999
 							}
 						],
 						"min_order_price": "0",
-						"item_id": 297784,
+						"item_id": 333674,
 						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200312213339779780.jpeg",
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728182027263250.png",
 						"props": [
 							{
-								"p_name_id": 149294,
+								"p_name_id": 7766,
 								"is_required": 0,
 								"p_name": "打包",
 								"is_sku": 1,
@@ -2143,7 +1933,7 @@
 								"values": [
 									{
 										"p_value": "打包",
-										"p_value_id": 815348
+										"p_value_id": 69823
 									}
 								],
 								"is_multiple": 0
@@ -2153,614 +1943,7 @@
 						"stop": 0,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "猪脚",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"memo": "",
-						"curr_price": "38",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 45,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191219164619307213.png",
-						"price": "38",
-						"id": 3403666,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824584,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191219164619374998.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "白切鸡",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "38",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 46,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20180315102255571978.png",
-						"price": "38",
-						"id": 3403667,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824585,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20180315102255622408.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "烧鸭",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "48",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 57,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200403195158088631.png",
-						"price": "48",
-						"id": 3403669,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824587,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200403195158352166.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "肥肠",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"memo": "",
-						"curr_price": "48",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 78,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200513223715495085.jpeg",
-						"price": "48",
-						"id": 3403670,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824588,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200513223715262375.jpeg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "猪耳",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "38",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 45,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200108104554540253.jpg",
-						"price": "38",
-						"id": 3403671,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824589,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200108104554534975.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "鸭肾",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "48",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 56,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191221075912919112.jpg",
-						"price": "48",
-						"id": 3403672,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824590,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191221075912859041.jpg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "叉烧",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "48",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 27,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191123174747110188.jpeg",
-						"price": "48",
-						"id": 3403673,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824591,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191123174747976656.jpeg",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "粉肠",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "42",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 14,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20171214185124137510.png",
-						"price": "42",
-						"id": 3403674,
-						"is_suit": 0,
-						"prop_prices": [
-							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824592,
-								"supply_no": 999
-							}
-						],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20171214185124076776.png",
-						"props": [
-							{
-								"p_name_id": 149294,
-								"is_required": 0,
-								"p_name": "打包",
-								"is_sku": 1,
-								"is_affects_prices": 1,
-								"values": [
-									{
-										"p_value": "打包",
-										"p_value_id": 815348
-									}
-								],
-								"is_multiple": 0
-							}
-						],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "猪舌",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "18",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 75,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318160551-1078315-product_h_pic_ios.jpg",
-						"price": "18",
-						"id": 3403675,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318160551-1078315-product_h_pic.jpg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "莲藕",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "16",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 89,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191127225650182950.jpeg",
-						"price": "16",
-						"id": 3403676,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191127225650948922.jpeg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "豆皮",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "16",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 167,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200402194608046611.png",
-						"price": "16",
-						"id": 3403677,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200402194608771661.png",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "海带",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "16",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 47,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200219190601384286.jpeg",
-						"price": "16",
-						"id": 3403678,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200219190601195266.jpeg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "豆干",
-						"price_type": 1,
-						"showcase": 0,
-						"is_attach": 0,
-						"praise_number": 0
-					},
-					{
-						"is_down": 0,
-						"suit_items": [],
-						"flags": [],
-						"curr_price": "3.50",
-						"per_head": 0,
-						"is_gbp": 0,
-						"sales": 449,
-						"is_discount": 1,
-						"b_src_pic_url": "",
-						"curr_rate": 1,
-						"pic_show_patt": 2,
-						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20170801100252916708.jpg",
-						"price": "3.50",
-						"id": 3403679,
-						"is_suit": 0,
-						"prop_prices": [],
-						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170801100252986090.jpg",
-						"props": [],
-						"disct_rate": 10,
-						"stop": 0,
-						"hotlevel": 0,
-						"has_discount": 0,
-						"name": "咸蛋",
+						"name": "椒盐花生米",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -2773,27 +1956,49 @@
 						"curr_price": "2",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 836,
+						"sales": 1409,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20190828075046121805.png",
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728181055424846.jpg",
 						"price": "2",
-						"id": 3403680,
+						"id": 3699599,
 						"is_suit": 0,
-						"prop_prices": [],
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205922,
+								"supply_no": 999
+							}
+						],
 						"min_order_price": "0",
-						"item_id": 297784,
+						"item_id": 333674,
 						"dinein_stop": 0,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20190828075046202265.png",
-						"props": [],
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181055437590.jpg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
 						"disct_rate": 10,
 						"stop": 0,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "卤蛋",
+						"name": "虎皮鸡蛋",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
@@ -2803,34 +2008,34 @@
 						"is_down": 0,
 						"suit_items": [],
 						"flags": [],
-						"curr_price": "42",
+						"curr_price": "3",
 						"per_head": 0,
 						"is_gbp": 0,
-						"sales": 7,
+						"sales": 653,
 						"is_discount": 1,
 						"b_src_pic_url": "",
 						"curr_rate": 1,
 						"pic_show_patt": 2,
 						"is_weight": 0,
-						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20191012184610896981.jpeg",
-						"price": "42",
-						"id": 3403668,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20170214131030436990.png",
+						"price": "3",
+						"id": 3699600,
 						"is_suit": 0,
 						"prop_prices": [
 							{
-								"price": "1",
-								"keys": "#149294_815348#",
-								"id": 17824586,
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205923,
 								"supply_no": 999
 							}
 						],
 						"min_order_price": "0",
-						"item_id": 297784,
-						"dinein_stop": 1,
-						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20191012184610907092.jpeg",
+						"item_id": 333674,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20170214131030848945.png",
 						"props": [
 							{
-								"p_name_id": 149294,
+								"p_name_id": 7766,
 								"is_required": 0,
 								"p_name": "打包",
 								"is_sku": 1,
@@ -2838,7 +2043,117 @@
 								"values": [
 									{
 										"p_value": "打包",
-										"p_value_id": 815348
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "五香香干",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "3",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 360,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728181048437257.jpg",
+						"price": "3",
+						"id": 3699601,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205924,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333674,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181048917340.jpg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "包心牛肉丸",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 1478,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20201009173327588609.jpg",
+						"price": "2",
+						"id": 3699598,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205921,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333674,
+						"dinein_stop": 1,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20201009173327098177.jpg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
 									}
 								],
 								"is_multiple": 0
@@ -2848,7 +2163,1421 @@
 						"stop": 1,
 						"hotlevel": 0,
 						"has_discount": 0,
-						"name": "掌翅",
+						"name": "煎鸡蛋",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					}
+				]
+			},
+			{
+				"itemname": "饮料",
+				"is_bind": 1,
+				"sale_status": 1,
+				"id": 333675,
+				"is_attach": 0,
+				"products": [
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "3",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 1604,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20200429212625473882.jpg",
+						"price": "3",
+						"id": 3699602,
+						"is_suit": 0,
+						"prop_prices": [],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20200429212625353129.jpg",
+						"props": [],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "维他豆奶",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 524,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728182154146779.jpg",
+						"price": "4",
+						"id": 3699608,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205925,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728182154670582.jpg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "绿豆汤",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 1008,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728181818043487.png",
+						"price": "2",
+						"id": 3699603,
+						"is_suit": 0,
+						"prop_prices": [],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 1,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181818969828.png",
+						"props": [],
+						"disct_rate": 10,
+						"stop": 1,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "可乐",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 461,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728181957061049.png",
+						"price": "2",
+						"id": 3699604,
+						"is_suit": 0,
+						"prop_prices": [],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181957900116.png",
+						"props": [],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "雪碧",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 489,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728181929313676.png",
+						"price": "2",
+						"id": 3699605,
+						"is_suit": 0,
+						"prop_prices": [],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728181929232323.png",
+						"props": [],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "芬达",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 350,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318160544-1078487-product_h_pic_ios.jpg",
+						"price": "4",
+						"id": 3699606,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205926,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150318/20150318160544-1078487-product_h_pic.jpg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "酸梅汤",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 132,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150312/20150312162017-1076843-product_h_pic_ios.gif",
+						"price": "4",
+						"id": 3699607,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205927,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/20150312/20150312162017-1076843-product_h_pic.gif",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "王老吉",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"curr_price": "3",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 148,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210728182254657481.png",
+						"price": "3",
+						"id": 3699609,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205928,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210728182254747231.png",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "维他柠檬茶",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "3",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 93,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20211026135702189448.jpeg",
+						"price": "3",
+						"id": 3730593,
+						"is_suit": 0,
+						"prop_prices": [],
+						"min_order_price": "0",
+						"item_id": 333675,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20211026135702817668.jpeg",
+						"props": [],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "高罐可乐",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					}
+				]
+			},
+			{
+				"itemname": "卤味小吃",
+				"is_bind": 0,
+				"sale_status": 0,
+				"id": 333724,
+				"is_attach": 0,
+				"sale_time": "00:00-01:00",
+				"products": [
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 299,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210928115700532933.jpg",
+						"price": "2",
+						"id": 3700831,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205929,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210928115700076388.jpg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "千张",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 154,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801144625661196.jpeg",
+						"price": "2",
+						"id": 3700832,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205930,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801144625294563.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭爪(个)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "3",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 391,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801144647886045.jpeg",
+						"price": "3",
+						"id": 3700833,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205931,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801144647933062.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭肠(捆)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 411,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801144710718894.jpeg",
+						"price": "2",
+						"id": 3700066,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205932,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801144710197196.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "腐竹(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 410,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145033614951.jpeg",
+						"price": "2",
+						"id": 3700067,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205934,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145033397118.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "海带(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 66,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145049793385.jpeg",
+						"price": "4",
+						"id": 3700835,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205935,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145049229916.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "牛肉丸(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 209,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145129034751.jpeg",
+						"price": "2",
+						"id": 3700068,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205936,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145129994077.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "面筋(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 548,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145145333066.jpeg",
+						"price": "2",
+						"id": 3700069,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205937,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145145469552.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "油豆腐(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 435,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145200472561.jpeg",
+						"price": "2",
+						"id": 3700070,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205938,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145200916742.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "莲藕(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 316,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145222982514.jpeg",
+						"price": "2",
+						"id": 3700071,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205939,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145222779692.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "热狗(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "3",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 212,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145239023650.jpeg",
+						"price": "3",
+						"id": 3700072,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205940,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145239790367.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭心(串)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "2",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 310,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145302004300.jpeg",
+						"price": "2",
+						"id": 3700073,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205941,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145302300132.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭肝(个)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 81,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145315368959.jpeg",
+						"price": "4",
+						"id": 3700074,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205942,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145315650891.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭头(个)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 181,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145403054258.jpeg",
+						"price": "4",
+						"id": 3700075,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205943,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145403154489.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭肾(个)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "7",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 44,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145419743072.jpeg",
+						"price": "7",
+						"id": 3700076,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205944,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145419009577.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭脖(根)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 144,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145436397719.jpeg",
+						"price": "4",
+						"id": 3700077,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205945,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145436415035.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭架(个)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "10",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 64,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145556546442.jpeg",
+						"price": "10",
+						"id": 3700078,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205946,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 0,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145556865066.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 0,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭腿(个)",
+						"price_type": 1,
+						"showcase": 0,
+						"is_attach": 0,
+						"praise_number": 0
+					},
+					{
+						"is_down": 0,
+						"suit_items": [],
+						"flags": [],
+						"memo": "",
+						"curr_price": "4",
+						"per_head": 0,
+						"is_gbp": 0,
+						"sales": 47,
+						"is_discount": 1,
+						"b_src_pic_url": "",
+						"curr_rate": 1,
+						"pic_show_patt": 2,
+						"is_weight": 0,
+						"small_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/140x126/20210801145016543268.jpeg",
+						"price": "4",
+						"id": 3700834,
+						"is_suit": 0,
+						"prop_prices": [
+							{
+								"price": "0",
+								"keys": "#7766_69823#",
+								"id": 23205933,
+								"supply_no": 999
+							}
+						],
+						"min_order_price": "0",
+						"item_id": 333724,
+						"dinein_stop": 1,
+						"big_pic": "http://imgcdn.diandianwaimai.com/dd_op/attached/image/600x540/20210801145016733096.jpeg",
+						"props": [
+							{
+								"p_name_id": 7766,
+								"is_required": 0,
+								"p_name": "打包",
+								"is_sku": 1,
+								"is_affects_prices": 1,
+								"values": [
+									{
+										"p_value": "打包",
+										"p_value_id": 69823
+									}
+								],
+								"is_multiple": 0
+							}
+						],
+						"disct_rate": 10,
+						"stop": 1,
+						"hotlevel": 0,
+						"has_discount": 0,
+						"name": "鸭翅(个)",
 						"price_type": 1,
 						"showcase": 0,
 						"is_attach": 0,
