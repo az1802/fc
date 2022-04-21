@@ -16,7 +16,7 @@ let goodsList = requestMenuJson.respData.goodsList;
 let categoryList = categoryJson.respData.goodsGroupDTOList;
 
 let shopInfo = {
-  name: "吉小胖黄焖鸡米饭-大学城店",
+  name: "正果云吞长碰",
   logo:""
 }
 
@@ -24,8 +24,8 @@ const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,fo
 
 
 // const exportMode = "keruyun"
-// const exportMode = "feie"
-const exportMode = "shilai"
+const exportMode = "feie"
+// const exportMode = "shilai"
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[],//规格
