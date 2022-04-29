@@ -11,10 +11,10 @@
 
 
 菜品目录信息 (替换商户id即可)
-https://shilai.zhiyi.cn/merchant/dish_catalog/a0d9828ae01e4645ac036f72b397a669?mealType=EAT_IN&showAll=true (包含了费售卖时间和沽清的菜品)
+https://shilai.zhiyi.cn/merchant/dish_catalog/61e6e677acba46eb9b03d953fa72d0f6?mealType=EAT_IN&showAll=true (包含了费售卖时间和沽清的菜品)
 
 
 https://shilai.zhiyi.cn/v2-41/merchant/dish_catalog/a0d9828ae01e4645ac036f72b397a669?mealType=EAT_IN
 
 商户信息(替换商户id即可)
-https://shilai.zhiyi.cn/v2-41/merchant/a0d9828ae01e4645ac036f72b397a669
+https://shilai.zhiyi.cn/v1.6/merchant/61e6e677acba46eb9b03d953fa72d0f6

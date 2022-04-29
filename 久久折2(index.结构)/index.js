@@ -10,7 +10,7 @@ const defaultImgUrl = ""
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
-const findJsonLen = 1
+const findJsonLen = 6
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
@@ -108,17 +108,34 @@ function formatFoodProps(foodDetail) {
 //读取dataJson下的所有文件取出 food菜品
 async function genMenuFoods() { 
   let allFoods = [];
+  allFoods.push(...merchantInfo.goods.pages[0]);
   for (let i = 0; i < findJsonLen; i++) { 
     let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
     let goods = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods;
+    console.log(goods.length)
     allFoods.push(...goods)
   }
   
   let category = merchantInfo.category, categoryArr = [];
-  category = category.slice(0,2).concat(...merchantInfo.goods.pages,allFoods[1]) //推荐加前半目录
-  category = category.slice(2);
-  console.log('%ccategory: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',category);
-   category.forEach(categoryItem => {
+
+ 
+  let allFooodsTemp = [];
+
+  for(let i = 0 ; i < allFoods.length-1 ; i++){
+    if(allFoods[i].category_id == allFoods[i+1].category_id){
+      allFoods[i].items.push(...allFoods[i+1].items);
+      allFooodsTemp.push( allFoods[i]);
+      i+=1;
+    }else{
+      allFooodsTemp.push( allFoods[i]);
+    }
+  }
+
+  // category = category.slice(0,2).concat(...merchantInfo.goods.pages,allFoods[1]) //推荐加前半目录
+  // category = category.slice(2);
+  // console.log('%ccategory: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',category);
+  allFooodsTemp.forEach(categoryItem => {
+    console.log('categoryItem: ', categoryItem);
 
     let temp = {
       name: categoryItem.name || categoryItem.category_name,
@@ -169,9 +186,11 @@ async function genExcelAndWord(){
     categories:categoryArr
   }
 
+
   logInfo(merchantInfo,"merchantRes")
   logInfo(propsGroupArr, "allPropGroups")
-  
+
+
   if (exportMode == "keruyun") {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir, menuSetting);

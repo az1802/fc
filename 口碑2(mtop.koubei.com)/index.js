@@ -28,7 +28,7 @@ allDishes = {
 
 // console.log('%callDishes: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',allDishes);
 let requestShopData = {
-  name:"常德牛肉粉 (玖龙荟店)",
+  name:"煲仔哥(南山海岸城店)",
   picUrl:""
 }
 

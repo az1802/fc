@@ -11,7 +11,7 @@ https://rms.meituan.com/diancan/web/menu?shopId=600344937//商户的网页版本
 
 
  //全部数据
-https://rms.meituan.com/diancan/api/menuHead?mtShopId=600238451
+https://rms.meituan.com/diancan/api/menuHead?mtShopId=600225901
 数据在js文件中查找之后复制到tempData 去除外层包裹之后运行脚本即可
 
 
