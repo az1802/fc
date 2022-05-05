@@ -1,3631 +1,16 @@
 {
-	"shopName": "一日三餐 - 万科云城店",
+	"shopName": "沙县小吃劳动路店",
 	"shop_pic": "",
 	"categories": [
-		{
-			"name": "新品",
-			"foods": [
-				{
-					"name": "特色猪脚饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9ba2de80e5c0beac066a2ef1608935bccd690e01.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色卤肉饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9ba2de80e5c0beac066a2ef1608935bccd690e01.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/d07b9ce5ea732e0f1559e4d870bb4128f67bc21b.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭+花旗参竹丝鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/847ed40a16cb6e7f14749ae133dc78e4cdd66b10.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧饭+茶树菇炖乳鸽",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/811de022eb66e00d9b53e8fb5e11eed6a2b9e110.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷饭+无花果杏仁炖白肺",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e0f07e6c2060ff1e8454dc80aadc45020777bf84.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭腿饭+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/64ed076862fd16c291cb23b8f9cc179a337979a9.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e628b820ed8058c7a4bfb74de8963d9a20d9cc8f.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭+无花果杏仁炖白肺",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/85b63fbdfc0aa803a21e6a315b8098c14a0e9739.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 33,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色卤肉+花旗参竹丝鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/890a68754c2ca38df26099c72dc52b180053841d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/31b71f6e8b82c90bc43dcc288d905d446a7396cf.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧饭+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/40caa52a4a00ab444418a0acb666da47f1ddf584.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪杂汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1053a97683657d31afcfddd0390536ea7dbe0f50.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉饼汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9259777c96f129f3fb93faea51f1b69a93193822.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1d167955fd7386e02fd00b8932707c4fc00f8c4c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/3db663cfc9c9ad1135ac9943c890eab58cc4f96c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头鱼丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9831f8ed5e952f447c0436009523d56fd46fdff8.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头牛肉丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/d1c4e6960e7f4f09b5ddf4d5945ae6f7d24fd651.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1ea2aa67ff0438cfa3ee5b1c6d9852e86e750f24.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/5d94164ce2746fa6532c11bd8b2cf06695ca7c88.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼烧鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/cf041391c4ec192e685e19a79a44b50a8efbf092.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1066d1d9ce54f33f67d0d24eae8515922246c4c5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/4dee8ea5dcbcbce870e768dd960d9409d45c6e80.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚拼白切鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/26bda0b11a37224e097a083ca28ad03184d54039.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/ea3baea96939bf0aac9742a27ea341e13ded4b06.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/7a6845ec73531bdb670c3273c129c658afc88fcd.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e267d638e887d4a25d7c134bbe18724972f5f033.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/ae0b6b854422ad917a5e1a4f5ad060b011855f82.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼烧鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/aabb9c5885ae68ecc92523e816b3a4d476025215.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/10b3dbab420842f1bd0fcfef86b150e3561dddbc.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/50bc676affb081dd800e60a6b06422d380893bb5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼肉卷",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/27b633c1e51fbd469be4c62427614176ca6ed8c0.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a7567e8def3cb49f801d24bec4dcc6c2472c7cb2.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/6223cb46f330086d5a80c19d95f3435935d0d5f7.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼白切鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/49b9b1590c86d3ff1b29453bfecee43f88d04637.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/50bc676affb081dd800e60a6b06422d380893bb5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/970f6b8e5073725472dad75c249ff0edea26661c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1a4f8c5cc0aabb235128560268f6fb18a9f2a878.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "温馨提示（图片仅供参考）",
-					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
-					"price": "",
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡全腿饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a48b91c529e8855f49fd435e8483fca27bd2d783.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "整只或切块",
-							"values": [
-								{
-									"value": "切块小份",
-									"price": 0,
-									"propName": "整只或切块",
-									"isMul": true
-								},
-								{
-									"value": "整只大份",
-									"price": 500,
-									"propName": "整只或切块",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "虾枣丸",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/0c9d786dd1e72e6bf8df9411ce1334cc1e77e8cc.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜虾粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1d21aff1837b630466ea38de141c10b588a8fe24.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "瘦肉汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a7f9a784f5941b8d330c0b27ba8dcb780f54607d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡腿饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/bfcaffd89d520a53338d28b31cf163eca8610078.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "新品",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
 		{
 			"name": "热卖",
 			"foods": [
 				{
-					"name": "特色猪脚饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9ba2de80e5c0beac066a2ef1608935bccd690e01.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色卤肉饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9ba2de80e5c0beac066a2ef1608935bccd690e01.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/d07b9ce5ea732e0f1559e4d870bb4128f67bc21b.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭+花旗参竹丝鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/847ed40a16cb6e7f14749ae133dc78e4cdd66b10.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧饭+茶树菇炖乳鸽",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/811de022eb66e00d9b53e8fb5e11eed6a2b9e110.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷饭+无花果杏仁炖白肺",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e0f07e6c2060ff1e8454dc80aadc45020777bf84.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭腿饭+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/64ed076862fd16c291cb23b8f9cc179a337979a9.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e628b820ed8058c7a4bfb74de8963d9a20d9cc8f.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭+无花果杏仁炖白肺",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/85b63fbdfc0aa803a21e6a315b8098c14a0e9739.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 33,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色卤肉+花旗参竹丝鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/890a68754c2ca38df26099c72dc52b180053841d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/31b71f6e8b82c90bc43dcc288d905d446a7396cf.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧饭+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/40caa52a4a00ab444418a0acb666da47f1ddf584.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪杂汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1053a97683657d31afcfddd0390536ea7dbe0f50.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉饼汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9259777c96f129f3fb93faea51f1b69a93193822.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1d167955fd7386e02fd00b8932707c4fc00f8c4c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/3db663cfc9c9ad1135ac9943c890eab58cc4f96c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头鱼丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9831f8ed5e952f447c0436009523d56fd46fdff8.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头牛肉丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/d1c4e6960e7f4f09b5ddf4d5945ae6f7d24fd651.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1ea2aa67ff0438cfa3ee5b1c6d9852e86e750f24.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/5d94164ce2746fa6532c11bd8b2cf06695ca7c88.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼烧鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/cf041391c4ec192e685e19a79a44b50a8efbf092.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1066d1d9ce54f33f67d0d24eae8515922246c4c5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/4dee8ea5dcbcbce870e768dd960d9409d45c6e80.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚拼白切鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/26bda0b11a37224e097a083ca28ad03184d54039.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/ea3baea96939bf0aac9742a27ea341e13ded4b06.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/7a6845ec73531bdb670c3273c129c658afc88fcd.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e267d638e887d4a25d7c134bbe18724972f5f033.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/ae0b6b854422ad917a5e1a4f5ad060b011855f82.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼烧鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/aabb9c5885ae68ecc92523e816b3a4d476025215.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/10b3dbab420842f1bd0fcfef86b150e3561dddbc.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/50bc676affb081dd800e60a6b06422d380893bb5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼肉卷",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/27b633c1e51fbd469be4c62427614176ca6ed8c0.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a7567e8def3cb49f801d24bec4dcc6c2472c7cb2.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/6223cb46f330086d5a80c19d95f3435935d0d5f7.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼白切鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/49b9b1590c86d3ff1b29453bfecee43f88d04637.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/50bc676affb081dd800e60a6b06422d380893bb5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/970f6b8e5073725472dad75c249ff0edea26661c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1a4f8c5cc0aabb235128560268f6fb18a9f2a878.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "温馨提示（图片仅供参考）",
-					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
-					"price": "",
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡全腿饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a48b91c529e8855f49fd435e8483fca27bd2d783.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "整只或切块",
-							"values": [
-								{
-									"value": "切块小份",
-									"price": 0,
-									"propName": "整只或切块",
-									"isMul": true
-								},
-								{
-									"value": "整只大份",
-									"price": 500,
-									"propName": "整只或切块",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "虾枣丸",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/0c9d786dd1e72e6bf8df9411ce1334cc1e77e8cc.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜虾粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1d21aff1837b630466ea38de141c10b588a8fe24.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "瘦肉汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a7f9a784f5941b8d330c0b27ba8dcb780f54607d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡腿饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/bfcaffd89d520a53338d28b31cf163eca8610078.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "热卖",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "打折",
-			"foods": [
-				{
-					"name": "鲜虾粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1d21aff1837b630466ea38de141c10b588a8fe24.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "打折",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "虾枣丸",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/0c9d786dd1e72e6bf8df9411ce1334cc1e77e8cc.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "打折",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "瘦肉汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a7f9a784f5941b8d330c0b27ba8dcb780f54607d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "打折",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "打折",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡腿饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/bfcaffd89d520a53338d28b31cf163eca8610078.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "打折",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "饭  类",
-			"foods": [
-				{
-					"name": "白切鸡饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/d25ffa87dd0c664194369d40a6cf01e0.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/96725e5a386c9268e3e1e5e448738e896cf48ce6.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡全腿饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a48b91c529e8855f49fd435e8483fca27bd2d783.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "整只或切块",
-							"values": [
-								{
-									"value": "切块小份",
-									"price": 0,
-									"propName": "整只或切块",
-									"isMul": true
-								},
-								{
-									"value": "整只大份",
-									"price": 500,
-									"propName": "整只或切块",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/4a52b40f3ca68e146dfb471e8ac27bff.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭腿饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/4a52b40f3ca68e146dfb471e8ac27bff.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/fff8d9383b707c0c27920166b1a262ad.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色猪脚饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9ba2de80e5c0beac066a2ef1608935bccd690e01.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色卤肉饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9ba2de80e5c0beac066a2ef1608935bccd690e01.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/d0db18aecb4c2fe7763f3ff579f58126.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪杂汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1053a97683657d31afcfddd0390536ea7dbe0f50.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉饼汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9259777c96f129f3fb93faea51f1b69a93193822.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1d167955fd7386e02fd00b8932707c4fc00f8c4c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/3db663cfc9c9ad1135ac9943c890eab58cc4f96c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头鱼丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/9831f8ed5e952f447c0436009523d56fd46fdff8.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头牛肉丸汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/d1c4e6960e7f4f09b5ddf4d5945ae6f7d24fd651.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "瘦肉汤饭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a7f9a784f5941b8d330c0b27ba8dcb780f54607d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭  类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "双拼类",
-			"foods": [
-				{
-					"name": "白切鸡拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1ea2aa67ff0438cfa3ee5b1c6d9852e86e750f24.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼烧鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/aabb9c5885ae68ecc92523e816b3a4d476025215.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/10b3dbab420842f1bd0fcfef86b150e3561dddbc.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/50bc676affb081dd800e60a6b06422d380893bb5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼肉卷",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/27b633c1e51fbd469be4c62427614176ca6ed8c0.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/a7567e8def3cb49f801d24bec4dcc6c2472c7cb2.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/6223cb46f330086d5a80c19d95f3435935d0d5f7.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼白切鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/49b9b1590c86d3ff1b29453bfecee43f88d04637.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼烧鸭",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/5d94164ce2746fa6532c11bd8b2cf06695ca7c88.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼烧鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/cf041391c4ec192e685e19a79a44b50a8efbf092.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1066d1d9ce54f33f67d0d24eae8515922246c4c5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/4dee8ea5dcbcbce870e768dd960d9409d45c6e80.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚拼白切鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/26bda0b11a37224e097a083ca28ad03184d54039.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/ea3baea96939bf0aac9742a27ea341e13ded4b06.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼猪脚",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/7a6845ec73531bdb670c3273c129c658afc88fcd.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼卤肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e267d638e887d4a25d7c134bbe18724972f5f033.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/ae0b6b854422ad917a5e1a4f5ad060b011855f82.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼鸭腿",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/50bc676affb081dd800e60a6b06422d380893bb5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/970f6b8e5073725472dad75c249ff0edea26661c.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1a4f8c5cc0aabb235128560268f6fb18a9f2a878.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵拼白切鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡腿拼叉烧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/bfcaffd89d520a53338d28b31cf163eca8610078.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "双拼类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "商务套餐",
-			"foods": [
-				{
-					"name": "白切鸡饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/d07b9ce5ea732e0f1559e4d870bb4128f67bc21b.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭+花旗参竹丝鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/847ed40a16cb6e7f14749ae133dc78e4cdd66b10.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧饭+茶树菇炖乳鸽",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/811de022eb66e00d9b53e8fb5e11eed6a2b9e110.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉卷饭+无花果杏仁炖白肺",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e0f07e6c2060ff1e8454dc80aadc45020777bf84.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭腿饭+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/64ed076862fd16c291cb23b8f9cc179a337979a9.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白切鸡腿饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e628b820ed8058c7a4bfb74de8963d9a20d9cc8f.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "烧鸭饭+无花果杏仁炖白肺",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/85b63fbdfc0aa803a21e6a315b8098c14a0e9739.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 33,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "特色卤肉+花旗参竹丝鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/890a68754c2ca38df26099c72dc52b180053841d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪脚饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/31b71f6e8b82c90bc43dcc288d905d446a7396cf.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "叉烧饭+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/40caa52a4a00ab444418a0acb666da47f1ddf584.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤猪耳朵+虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/c427cd3645bc623ec1663fac6b25180a1d6eb923.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "卤鸡腿饭+苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/bfcaffd89d520a53338d28b31cf163eca8610078.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 36,
-					"unit": "份",
-					"categoryName": "商务套餐",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "汤粉类",
-			"foods": [
-				{
-					"name": "猪杂",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/645b56ac578a324b2cfa065e939082c9.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "净汤",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉饼",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/44ac8b589caccca730cc0c7d9c83a361.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "净汤",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肉丸",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/cecb632b2b1ce4074c8ef4f536efc89d.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛  肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/de99fe34170425e91c3fccd3b1039fed.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "净汤",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头鱼丸",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/7bfed768f68ce7f5bf4537ed59653541.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "净汤",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "汕头牛肉丸",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/a055014ba3c00ee4671a9a40c9b3b273.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "净汤",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "虾枣丸",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/0c9d786dd1e72e6bf8df9411ce1334cc1e77e8cc.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲜虾粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/1d21aff1837b630466ea38de141c10b588a8fe24.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "规格",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "肠粉类",
-			"foods": [
-				{
-					"name": "鲜虾肠粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/4d09a58cf39199d735c6f363efe30eb4693f12b5.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "肠粉类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉肠粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/e51ccdb6f5b89b4f32367fc4e412aca847ebf5cd.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "肠粉类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "猪肝肠粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/7d0ff70e72d53c4d2b9eb31eb355e669.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "肠粉类",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "潮汕肠粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/17a5f7db03aba96a19f3424e7106497731522249.jpg?x-oss-process=image/resize,m_pad,h_192",
+					"name": "肉丝炒米粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/91e5771e93d4e4f035a35604b41d8dd7.jpeg?x-oss-process=image/resize,m_pad,h_192",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "肠粉类",
+					"categoryName": "热卖",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3641,11 +26,11 @@
 					]
 				},
 				{
-					"name": "腊肠肠粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/2e62b48b7240a3a8717db0204b2793f35dc887d8.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 15,
+					"name": "鸡腿饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/dc5dc61b8f06790b5ac47860cd0c4df3.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "肠粉类",
+					"categoryName": "热卖",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3661,11 +46,11 @@
 					]
 				},
 				{
-					"name": "肉饼肠粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/dfc082c7f14d0fdf845e32c76f4dcfb78a25d3e8.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
+					"name": "青椒炒蛋盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e7913292bed9ff398b2a94866a0f132b.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "肠粉类",
+					"categoryName": "热卖",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3681,25 +66,1271 @@
 					]
 				},
 				{
-					"name": "普宁炊面",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/4669ad57ee393c113764061c1d6d235dbdc419ba.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 18,
+					"name": "虫草花乌鸡汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/997119b5394b412b0f5331b2d70f2304.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "肠粉类",
+					"categoryName": "热卖",
 					"props": [
 						{
-							"name": "做法",
+							"name": "就餐类型",
 							"values": [
 								{
-									"value": "河粉",
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西红柿炒蛋盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/75e5fac0e1870a7e7dbc10365e87ecb1.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热卖",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "回锅肉盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/4f58d4637e114407e01fd6a7df568e3a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "热卖",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡腿面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f380d0438382460436492c0894794cea.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "热卖",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
 									"price": 0,
-									"propName": "做法",
+									"propName": "主食",
 									"isMul": true
 								},
 								{
-									"value": "米粉",
+									"value": "面",
 									"price": 0,
-									"propName": "做法",
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭腿饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f33a350a9c17226d74207cb5b06a1c7f.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热卖",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "苦瓜炒蛋盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/bebe90ce661b48ad0e5ff3568bd45f72.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "热卖",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青椒肉丝盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/63d31c13ba393b32d582ed30f77842cd.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热卖",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "测试",
+			"foods": [
+				{
+					"name": "测试",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": 0.01,
+					"unit": "份",
+					"categoryName": "测试",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "特色小吃",
+			"foods": [
+				{
+					"name": "一品蒸饺",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/430c9844c01c6d1935ed9e10259c135d.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "飘香拌面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/256e8957be88c4a43ed26e6c4bf4d6e3.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青菜面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/47675394606fc668a01b38b5f1def3b9.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f948a11e16767f4c5e8e95e4c7feb047.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "煎蛋面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/bb40db114ee25d0cacb3b99b5708c05e.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青菜肉丝面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/492891e1f3b1c882e56d028c624410d7.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "云吞面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/facd422436abd9e1df1eb7988a494611.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香炸云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/0e1b7ca3bb2818320e1df4c2c6b59ad0.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香炸水饺",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/a65f98b2760c4aca89f4b0259be2dd09.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爽口云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/c33c24609e129f81c9fa08aca50fe7b6.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "大份",
+									"price": 200,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/2c395e9645ed59fb6bbb3e862b541337.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜汤水饺",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/5f292bb682e1ddc0a9f362ee2b849ac3.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老北京炸酱面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/4e313995267ec98729b36642849e07d0.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣螺蛳粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/cdb0af6b95058b38153ab0becc8b94c5.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/de2ce1126d03fba95b2e3b8d7dd3c90e.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香拌云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香拌云吞面",
+					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "特色小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "营养云吞",
+			"foods": [
+				{
+					"name": "猪心云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/c62ab6b99005a66ee5baf3e410c6848c.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "营养云吞",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "水鸭云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/af7c8c71e35de8badb3ad09c7a04b8ce.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "营养云吞",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/6034300123125d9ba0e859e4c9635cf1.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "营养云吞",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "乌鸡云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/2616b44c81db4ef4168bd6c39cd1dd47.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "营养云吞",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肚云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/85094afbaae2c459118fde692c5d3d77.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "营养云吞",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腰尾云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/be297403c0f933ec584972ea1d34dc6c.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "营养云吞",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸽子云吞",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/836a2b360b6bfb316d23f1891285ea77.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "营养云吞",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "滋补炖品",
+			"foods": [
+				{
+					"name": "党参猪心汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/828466413072b32e0e38227c82bf6339.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茶树菇水鸭汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/84a0f3fa5691afbd640072231ac769aa.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "花生猪肺汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/59343920999a8ad32ff6293f848f68dc.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "玉竹排骨汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/cf6fef1b91876a4ae4b94a656a471e87.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莲子猪肚汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/2c1af965c7f3194729fdd13c4f0cadef.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "虫草花乌鸡汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/997119b5394b412b0f5331b2d70f2304.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "天麻猪脑汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/ea39fc020e8a11d41e3aacebe855a148.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杜仲腰尾汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/b54d3e27c2c7147d05b1103eeacd6c4a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "花旗参鸽子汤",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/9eadfd574a81ae5ad7b77c1532200a28.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "滋补炖品",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "营养面食",
+			"foods": [
+				{
+					"name": "鸡腿面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f380d0438382460436492c0894794cea.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭腿面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e00f1f386cc7174f18226b03a5ff16bc.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "党参猪心面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/69ec7c1e274ff14fe1668b8054a84a34.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "淮山水鸭面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/640f2f38acf65b0a836cd1ee5a59d690.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "花生猪肺面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/641b78edf9efb34f1eaa7ecc7c638332.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "玉竹排骨面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/8d5c6f56dda69345336ad1d4f49a6ee5.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "莲子猪肚面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/5317a92352eb51287ccd12e5fd345913.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "虫草花乌鸡面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/1c08a4eb67edb8ce31e65f72f0b6d46f.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杜仲腰尾面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e762f3990f057613fcbbdd817c828205.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "花旗参鸽子面/粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/56f14ef00e3cffcccdc9ba0cc3a76eea.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "营养面食",
+					"props": [
+						{
+							"name": "主食",
+							"values": [
+								{
+									"value": "粉",
+									"price": 0,
+									"propName": "主食",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "主食",
 									"isMul": true
 								}
 							]
@@ -3720,14 +1351,14 @@
 			]
 		},
 		{
-			"name": "肠粉类【早餐】",
+			"name": "卤水套餐饭",
 			"foods": [
 				{
-					"name": "蛋肠",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/d0ced7058e24bc85f26fb38ea64734a2.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 6,
+					"name": "鸡腿饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/dc5dc61b8f06790b5ac47860cd0c4df3.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "肠粉类【早餐】",
+					"categoryName": "卤水套餐饭",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3743,11 +1374,11 @@
 					]
 				},
 				{
-					"name": "双蛋肠",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/21f5d8db3eb30412ab34de3264535ca0.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 8,
+					"name": "鸡排饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/3193f8884e10a73b75e271fb9f1978f9.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "肠粉类【早餐】",
+					"categoryName": "卤水套餐饭",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3763,76 +1394,11 @@
 					]
 				},
 				{
-					"name": "肉肠",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/7c625613441dcbf21f85efe9ae024a3b.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "肠粉类【早餐】",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉蛋肠",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/e97a51912763461ad1f69f23a94e777a.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "肠粉类【早餐】",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "素肠",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/0350ea6878e8fe5ddca4a4203a70442d.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "肠粉类【早餐】",
-					"props": [
-						{
-							"name": "就餐类型",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "就餐类型",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "炖汤类",
-			"foods": [
-				{
-					"name": "无花果杏仁炖白肺",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/f339317a023d2add2d1cd5b8d911131b.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"name": "鸭腿饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f33a350a9c17226d74207cb5b06a1c7f.jpeg?x-oss-process=image/resize,m_pad,h_192",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "炖汤类",
+					"categoryName": "卤水套餐饭",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3848,11 +1414,11 @@
 					]
 				},
 				{
-					"name": "花旗参竹丝鸡",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/6bb3757aae30c97ace0a4c02c692b47a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"name": "台式卤肉饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f56e2ffda2a320a76bc4e30970ade535.jpeg?x-oss-process=image/resize,m_pad,h_192",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "炖汤类",
+					"categoryName": "卤水套餐饭",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3868,11 +1434,11 @@
 					]
 				},
 				{
-					"name": "虫草花炖瘦肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/0b2ba23c84d3ea697067dd5cc4598129.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"name": "花生焖排骨饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/28d70ed451f1559934d9ff6ae3b73dde.jpeg?x-oss-process=image/resize,m_pad,h_192",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "炖汤类",
+					"categoryName": "卤水套餐饭",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3888,11 +1454,11 @@
 					]
 				},
 				{
-					"name": "苦瓜黄豆炖龙骨",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/a76e01f57a3264256f44b1832a5a50c4.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"name": "排骨汤饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/cb1050895fd4b248e6da1f8148f73db1.jpeg?x-oss-process=image/resize,m_pad,h_192",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "炖汤类",
+					"categoryName": "卤水套餐饭",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3908,11 +1474,111 @@
 					]
 				},
 				{
-					"name": "茶树菇炖乳鸽",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/68c6503f7d1aa7f1122825762f3d0e68.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"name": "水鸭汤饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/c31571128240171fed98d8a1ab104a57.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "卤水套餐饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪心汤饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/759b35f7ce415bfe55cfd37881a6a7dd.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "卤水套餐饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "乌鸡汤饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/3effeaaae3bfe0b3481c13c75f2bbfb7.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "卤水套餐饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "梅菜扣肉饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/38fdf22990b7f745b8b2443e23cbb5d9.jpeg?x-oss-process=image/resize,m_pad,h_192",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "炖汤类",
+					"categoryName": "卤水套餐饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "黑椒牛肉饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/da4bb2c5710f4de93d055aa7bd4915db.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "卤水套餐饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/43c15c1777c6d2e2a1574397afb2b2a2.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "卤水套餐饭",
 					"props": [
 						{
 							"name": "就餐类型",
@@ -3930,192 +1596,624 @@
 			]
 		},
 		{
-			"name": "肠粉/汤粉加料区",
+			"name": "现炒盖浇饭",
 			"foods": [
 				{
-					"name": "鲜虾",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/adfeba58a91a78d4f367d7944926c140.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 5,
+					"name": "西红柿炒蛋盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/75e5fac0e1870a7e7dbc10365e87ecb1.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "猪肝",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/ee49c679cf54fc443273ba9ab39b5baa.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 5,
+					"name": "红烧茄子盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/be332dd88f6a68a85f45e99d3e90d1da.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "牛肉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/0f7696fb38ac95f2eb9dff3df9599338.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 5,
+					"name": "青椒炒蛋盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e7913292bed9ff398b2a94866a0f132b.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "肉沫",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/e8acbd27bb2db8dfd6f91c818b2aa42f.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 5,
+					"name": "香菇肉丝盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/baa08b98907553fe9b4e221db49e541c.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "腊肠",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/a8c372503d9a4a867bf7d15a2ea14e55.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 5,
+					"name": "青椒肉丝盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/63d31c13ba393b32d582ed30f77842cd.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "肉饼",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/74a807761901762b72540b995e3fc76c.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 5,
+					"name": "木耳肉丝盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/27d57d168a2ffc049edec521cc865623.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "加蛋",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/5fc52338e27cbc2979ef974dd72bdd8c.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "回锅肉盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/4f58d4637e114407e01fd6a7df568e3a.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "荷包蛋",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/4b4c9a02965b25663c793bad1ddaff6e.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "香菇滑鸡盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e45b1911b904a6f2cceedc007a583761.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "河粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/c8adb36a4f8f707af0b3cdfbbd3309a7.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "苦瓜炒蛋盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/bebe90ce661b48ad0e5ff3568bd45f72.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 13,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "米粉",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/53ebdd81d9a17dfca7a574fa5717c4b3.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "香干炒肉盖饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/8ddef65160fe77699714d10aa3c78bfe.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
-				},
-				{
-					"name": "手工面",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/14612/goods/b291f7d31c2b14b78eb7189ce67ed39e.jpeg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
-				},
-				{
-					"name": "卤蛋",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/d2625a0cec582c0b5125500cfcf24ff081d93de6.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "肠粉/汤粉加料区",
-					"props": []
+					"categoryName": "现炒盖浇饭",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "饮料",
+			"name": "特色小炒",
 			"foods": [
 				{
-					"name": "百事可乐",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/f2b36784bd2d3a06651653398f61927573637523.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2.5,
+					"name": "蛋炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/b089a5bfcf4828b5563d5628cd2e035f.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "雪碧",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/93a5685d81cf852bbbd7c0cfaec9d58518070ea1.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2.5,
+					"name": "炒米粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/671bfb8b0c83b1158e421c26fea94d84.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "怡宝",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/be04cf2a725f6ff0cdb3f33192d1ff5b64969449.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "炒面",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/69c446347d80023f7076d51e35a753bd.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "冬瓜茶",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/26ee3c4864ee4aa85b5446a5f9856ede56b84fa1.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "香肠炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f3791c6369a94f63bf31af16b1d8f67d.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "菊花茶",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/335b5b74d104e73cad555516c781519b7457f97d.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "雪菜炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/650a4a236446694d06920e5e587f636f.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "清凉茶",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/6250aa7d7fb2493648cd5cbc087f55a2c64de2da.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 2,
+					"name": "扬州炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/702ca842b92a89c7b86f310a2b1a2b57.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "椰汁",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/0f71cb0bc4fb6fd77521eed2572ce2d4d56b9d58.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 4,
+					"name": "肉丝炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/6cc1c7e459c8a049ed74911657e36719.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "小东鹏",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/04b302366aa9450f1351dda9744470f2ba00d6d0.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 3.5,
+					"name": "肉丝炒米粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/91e5771e93d4e4f035a35604b41d8dd7.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "维他奶",
-					"picUrl": "https://static-diancan.lehuipay.com/merchant/goods/dee01b2d352c96fdff30415a31c8d8f47f1554e4.jpg?x-oss-process=image/resize,m_pad,h_192",
-					"price": 3,
+					"name": "鸡排炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/dbbdad955a65962e6f551a1fb0fb8485.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡腿炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/f11116bf119f3d78edb79f82d084b385.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡腿炒米粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/427ee9956bb962de831802d7701bc05b.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭腿炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/ee8a8762d989500085773d5f9e1dace3.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸭腿炒米粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e63503c77640045a66dcc8b500dceceb.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩炒饭",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/395701b0235d41662b459ba8d88487d0.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛腩炒米粉",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e91c719e9a4c03901b30b68850242b39.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "特色小炒",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "温馨提示",
+			"name": "卤水小吃",
 			"foods": [
 				{
-					"name": "温馨提示（图片仅供参考）",
-					"picUrl": "https://static-diancan.lehuipay.com/static/img/logo_2.png",
-					"price": "",
+					"name": "鸭腿",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/b2932e6cf862c7c229a354ed1aeb57a6.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 9,
 					"unit": "份",
-					"categoryName": "温馨提示",
+					"categoryName": "卤水小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡腿",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/e751c8380f17788711cc1fb4fe34ebf6.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "卤水小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡排",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/26951d895294124978259ef66a3941ef.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "卤水小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "热狗",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/c1b1e7ba3eb22f5fd9b0d6f278c7f610.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "卤水小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "煎蛋",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/6b4be7ef213faaad5d854ee147f6d70f.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "卤水小吃",
+					"props": [
+						{
+							"name": "就餐类型",
+							"values": [
+								{
+									"value": "打包",
+									"price": 1,
+									"propName": "就餐类型",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆干",
+					"picUrl": "https://static-diancan.lehuipay.com/merchant/403327/upload_images/cd8cf366632fad02119ccc7ebae94453.jpeg?x-oss-process=image/resize,m_pad,h_192",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "卤水小吃",
 					"props": [
 						{
 							"name": "就餐类型",
