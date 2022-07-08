@@ -1,133 +1,47 @@
 {
-	"shopName": "煲仔哥(南山海岸城店)",
+	"shopName": "汕头辉记肠粉王（海岸城店）",
 	"shop_pic": "",
 	"categories": [
-		{
-			"name": "会员专区",
-			"foods": [
-				{
-					"name": "腊味拼鸡蛋卷套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/53deaa269674437880963a382f877e70.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "虫草花炖汤",
-									"price": 8,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌菜，剁椒香辣排骨套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634054054-233187.image",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				},
-				{
-					"name": "招牌菜，牛腩拼排骨套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634482636-256181.image",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				},
-				{
-					"name": "掌柜四宝套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625276441438-28.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				},
-				{
-					"name": "小炒黄牛肉套餐.",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/4d317ee6fcfe45a0a4aa09c4ce72b83f.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				},
-				{
-					"name": "腊味排骨煲仔饭套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/ace78340048f4de2b856b939d6ed6547.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				},
-				{
-					"name": "腊味拼牛腩煲仔饭套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/44206ef14eac44c2a31b6c3004423d56.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				},
-				{
-					"name": "牛腩拼滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628919394-231479.image",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				},
-				{
-					"name": "剁椒鱼腩煲仔饭，，辣套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/f6d0d0ab6f474d03ab5c49ac4ef77fa7.jpg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "虫草花炖汤",
-									"price": 8,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "五香牛腩拼排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634474626-232524.image",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "会员专区",
-					"props": []
-				}
-			]
-		},
 		{
 			"name": "热销",
 			"foods": [
 				{
-					"name": "掌柜四宝煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-32.jpg",
-					"price": 26,
+					"name": "牛肉蛋肠粉+牛丸汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/3AB2C9584EF64146808442DBBD817604.jpg",
+					"price": 25,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "默认",
+							"name": "规格",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -135,99 +49,74 @@
 					]
 				},
 				{
-					"name": "虫草花炖龙骨汤",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-127.JPG",
-					"price": 13,
+					"name": "猪肉蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7119F34FD74A4A3DB69646CEA6680FA0.jpg",
+					"price": 10,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "默认",
+							"name": "规格",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "腊味拼排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-74.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉沫茄子煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-20.jpg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊味滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-29.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小炒黄牛肉煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-8.jpg",
+					"name": "海鲜炒饭+猪杂汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/4BD4F7D7B73B49538C4DCBB07D0A90F9.jpg",
 					"price": 28,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "默认",
+							"name": "规格",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -235,19 +124,42 @@
 					]
 				},
 				{
-					"name": "香菇滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-45.jpg",
-					"price": 22,
+					"name": "海鲜蛋肠粉+猪杂汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5E686A639E8D4C8C8A6D95114FAFDC57.jpg",
+					"price": 25,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "默认",
+							"name": "规格",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -255,663 +167,237 @@
 					]
 				},
 				{
-					"name": "腊味三宝煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/512352/rc-upload-1638496993-248036.image",
-					"price": 26,
+					"name": "牛肉蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/48811EBA5755400ABB0F867507DF3E4E.jpg",
+					"price": 15,
 					"unit": "份",
 					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "香辣滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/512352/rc-upload-1638498510-219941.image",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "推荐",
-			"foods": [
-				{
-					"name": "土豆咖喱鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1627807950-177782.image",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "特价",
-			"foods": [
-				{
-					"name": "土豆咖喱鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1627807950-177782.image",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "特价",
-					"props": []
-				},
-				{
-					"name": "麻辣牛腩煲火锅",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/f0cd7deb6ef944739dca8420723eaf57.jpg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "特价",
 					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝麻干饺",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/02D554391BDD416591D334656B8D1A06.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝麻干面+猪杂汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/0D06271DC7B54BE99913EDDC996C6CF5.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪杂",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/65AE40B1BE5443BD946B59C79C43573B.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "虫草花炖汤",
-									"price": 8,
+									"value": "河粉",
+									"price": 0,
 									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "金桔柠檬茶",
-									"price": 6,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "必选套餐❥",
-			"foods": [
-				{
-					"name": "剁椒鱼腩煲仔饭，，辣套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/f6d0d0ab6f474d03ab5c49ac4ef77fa7.jpg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "虫草花炖汤",
-									"price": 8,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊味拼鸡蛋卷套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/53deaa269674437880963a382f877e70.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "虫草花炖汤",
-									"price": 8,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "招牌菜，剁椒香辣排骨套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634054054-233187.image",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": []
-				},
-				{
-					"name": "招牌菜，牛腩拼排骨套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634482636-256181.image",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": []
-				},
-				{
-					"name": "掌柜四宝套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625276441438-28.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": []
-				},
-				{
-					"name": "香菇滑鸡套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625276441438-32.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": []
-				},
-				{
-					"name": "小炒黄牛肉套餐.",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/4d317ee6fcfe45a0a4aa09c4ce72b83f.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": []
-				},
-				{
-					"name": "腊味排骨煲仔饭套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/ace78340048f4de2b856b939d6ed6547.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": []
-				},
-				{
-					"name": "腊味拼牛腩煲仔饭套餐",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/44206ef14eac44c2a31b6c3004423d56.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "必选套餐❥",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "今日推荐❥",
-			"foods": [
-				{
-					"name": "扬州炒饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628436832-192045.image",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "剁椒鸡块煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1630590427-231638.image",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "豉汁鱼腩煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/4ffad3c39a9745119e8ece6da37203eb.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "香辣鱼腩煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/462195b769b542c58f61e4d19e487215.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "剁椒鱼腩煲仔饭，辣",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/fbb7055f3335455791f470451562a73e.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "腊味拼鲍汁凤抓",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628609768-212019.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "香辣排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634053758-247940.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "腊味拼金昌鱼煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/ad3a10f348c84ca1b6550c400ae9d16b.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "牛腩拼腊味煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628920183-262042.image",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				},
-				{
-					"name": "腊味拼排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-74.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "梅菜扣肉煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-14.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "腊味滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-29.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "掌柜四宝煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-32.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "三椒肉未（辣）",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628660231-249530.image",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "今日推荐❥",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "精选单品❥",
-			"foods": [
-				{
-					"name": "包装盒",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625281352047-56.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "扬州鸡蛋炒饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628596040-192045.image",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "剁椒鸡肉煲仔饭，辣",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1632007486-244912.image",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "香辣滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/512352/rc-upload-1638498510-219941.image",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "三椒肉末（辣）",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/7c51308d924b42d2bc864707684f61b0.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/0d37aa1a390f47589cc9dd84bb7bc371.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "鸡蛋卷肉煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/a7014a7f602b464d8da1d90a7737167c.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "香辣凤爪煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/512352/rc-upload-1638498356-236984.image",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "招牌菜，掌柜四宝煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1632007627-238769.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "剁椒香辣排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634053904-233187.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "腊味三宝煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/512352/rc-upload-1638496993-248036.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "蒜蓉排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/512352/rc-upload-1638497286-217560.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				},
-				{
-					"name": "豉汁排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-3.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "小炒黄牛肉煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-8.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鲍汁凤爪煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-21.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑胡椒牛肉煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625221275654-38.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "五香牛腩煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-9.jpg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肉沫茄子煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-20.jpg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香菇滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-45.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "打包",
-									"price": 1,
-									"propName": "默认",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "土豆咖喱鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1627807950-177782.image",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "精选单品❥",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "豪华双拼❥",
-			"foods": [
-				{
-					"name": "肉沫茄子拼半个咸鸭蛋煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/512352/rc-upload-1640083222-239362.image",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "豪华双拼❥",
-					"props": []
-				},
-				{
-					"name": "排骨拼滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628919653-204435.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "豪华双拼❥",
-					"props": []
-				},
-				{
-					"name": "腊肠，腊肉，拼排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1632895326-223641.image",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "豪华双拼❥",
-					"props": []
-				},
-				{
-					"name": "牛腩拼滑鸡煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1628919394-231479.image",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "豪华双拼❥",
-					"props": []
-				},
-				{
-					"name": "五香牛腩拼排骨煲仔饭",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1634474626-232524.image",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "豪华双拼❥",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "超值套餐❥",
-			"foods": []
-		},
-		{
-			"name": "煲仔新菜❥",
-			"foods": [
-				{
-					"name": "麻辣牛腩煲火锅",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/f0cd7deb6ef944739dca8420723eaf57.jpg",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "煲仔新菜❥",
-					"props": [
-						{
-							"name": "默认",
-							"values": [
-								{
-									"value": "虫草花炖汤",
-									"price": 8,
+									"value": "面",
+									"price": 0,
 									"propName": "默认",
 									"isMul": true
 								},
 								{
-									"value": "金桔柠檬茶",
-									"price": 6,
+									"value": "米粉",
+									"price": 0,
 									"propName": "默认",
 									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉蛋肠粉+海鲜汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/9EE8E42508F04E56B8EE1C9C9EE43473.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜炒饭.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7F0392C13E7E4C5D9A343C3D3F1FEC5C.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
 								}
 							]
 						}
@@ -920,30 +406,2436 @@
 			]
 		},
 		{
-			"name": "特色面❥",
-			"foods": []
-		},
-		{
-			"name": "美味小吃❥",
-			"foods": []
-		},
-		{
-			"name": "滋补炖汤❥",
+			"name": "生类",
 			"foods": [
 				{
-					"name": "虫草花炖龙骨汤",
-					"picUrl": "https://img-static.keruyun.com/kry-dir/rc-upload-1625274870573-127.JPG",
-					"price": 13,
+					"name": "达濠墨斗丸一斤装",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B30DDE6195654209AB8A4ACBECD559B4.jpg",
+					"price": 108,
 					"unit": "份",
-					"categoryName": "滋补炖汤❥",
+					"categoryName": "生类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "《忌口下单时请写在备注里》",
+			"foods": [
+				{
+					"name": "忌口下单时请备注一下！",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/33A04E69E8D9413EB398D46CCF103C3E.jpg",
+					"price": "",
+					"unit": "份",
+					"categoryName": "《忌口下单时请写在备注里》",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "《肠粉类》",
+			"foods": [
+				{
+					"name": "牛肉海鲜蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/614C73E4FB8F4B4A91C8B2750E978790.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
 					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/48811EBA5755400ABB0F867507DF3E4E.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/978D9EC7E4BE46189F1355ECE00AEE06.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸳鸯蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/DB449F3367ED49F1B66123CD5B486497.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌豪华蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6624591E39254C599690ADC51282E5CF.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉猪肝蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/022E58423C7340C4B4A1A68E08E60343.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7119F34FD74A4A3DB69646CEA6680FA0.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/3B10AEA9E25C473F8D2DD433A0A5B983.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肝蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B3C9E901D28D40DC86D3BA5E72E7FC7E.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/136117E27E4643F9BA827C42ABA25CB9.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/63A47A254B34483CB999935E716F3B5D.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 3,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 8,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蚝仔蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/A13F755BB59940C9B1CB0FDF515909D5.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 3,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 8,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡蛋肠粉",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/623274CB0AE04CF5B4439A02BAEAD2CD.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 2,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 4,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青菜斋肠.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/FDCCDBC83339400FBC6A272CB81E30A1.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "《肠粉类》",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "《营养汤类》",
+			"foods": [
+				{
+					"name": "猪杂汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/8F0B4A7E893240E3900B1336ACB5E087.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/179FD9A95D01426282DDD7A3DF02A0F4.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/6B12E65BB0874F82808D8DA3D7DF4094.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉丸汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5C2F20DCF4D046E483D74987FAB92864.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼丸汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/65ABFCB26F024FCF98DF5E323BDDEB22.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂丸汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/9F68142F7BB54A8BA694330551FAA1AF.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼饺汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/FF74B7ADF2EE4CC4B9DA6F7ECBE9D816.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼卷汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/58DF7FFFBD51468AA154939B2D866C19.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼丸鱼饺汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/FF0419D919EB47C6A1F74543E4EAF9F2.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "原汁猪肚汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/BE38F2231791424A8CE8CC4063C3E18F.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "枸杞猪肝汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/F6375A6A00B7415F8650BD6F62BAEE2F.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "木耳瘦肉汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B52A7FD97DFE455CB2956E3D94A9FBE9.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西洋菜猪血汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/15EF8F54BD2A459BB3787C07BA0D72C7.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "时节青菜汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/9E603D2EC13446A693D05602494EAA26.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西洋菜瘦肉汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5B6E730DC1834D049AE0D1371249B9E0.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "枸杞叶瘦肉汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/F4F63093873B40F6AEA7078CD82A2FF4.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《营养汤类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "《汤粉面类》",
+			"foods": [
+				{
+					"name": "达濠墨斗丸",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/762997F54A3741298A7052D5C16C3378.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "默认",
 							"values": [
 								{
-									"value": "打包",
-									"price": 1,
+									"value": "河粉",
+									"price": 0,
 									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪杂",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/65AE40B1BE5443BD946B59C79C43573B.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/9618C9FB04164EF3ADA7A1E3AB150949.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C13FF94532D5450780197771A65798BE.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉丸",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/1A9AAE0B77DA499AAC4955C3F640DB08.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼丸鱼饺",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7FAEF71021E14B6297FF5ECCEA1B0C24.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼卷",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/E5990FF7F18346048FA943C206D2D8B0.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "青菜",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7EDA34BCCF354A2993079029DF80D8C2.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肚",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/69326814A9F34F2B8DA7A0CAF5A11DF0.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "默认",
+							"values": [
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "默认",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "水饺汤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/EFBFAE98C9CA4682870A0356342691CD.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸水饺.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/57CA8536463742B583568F941C2C3B0F.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪杂水饺",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B9B52E93E80E400BAA11889086551B97.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《汤粉面类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "《特色炒饭汤饭》",
+			"foods": [
+				{
+					"name": "咸肉豆干炒饭.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/16B2FD35D93F459E942B5A95FB11B117.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜炒饭.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7F0392C13E7E4C5D9A343C3D3F1FEC5C.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪杂汤饭.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/4420F6679F934AC1AD12D53897781386.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜汤饭.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/95EC5EB7A42F412485847B324B6F842C.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤饭.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5E5F3D01BEC34B8EA9D7D70F499CB160.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肉丸汤饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/8C915470EAD44985B009FCEEE80464F3.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼丸鱼饺汤饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/9A20597D49CB4E419C20A0A5B45E83F4.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鱼卷汤饭",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C2FB3F3970BA46A4A03FF4CE567F6B5D.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "猪肚汤饭.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C1A0C04FB6B74B93A824B9CEAD465E8A.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "《特色炒饭汤饭》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "《特色小吃类》",
+			"foods": [
+				{
+					"name": "芝麻干饺",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/02D554391BDD416591D334656B8D1A06.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《特色小吃类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝麻干粿",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/1C569642E5854C76876E370A41467086.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《特色小吃类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝麻干面",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/F422656F82E04E8D9B4013340D0B7C86.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《特色小吃类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼青菜.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/ED59062518D04E9B80ECD620530B9158.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《特色小吃类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼生肠.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/802FB5992DBA4C2A93D98C194450EBDB.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "《特色小吃类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 25,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼粉肠.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B7C1DF543CE24EBB91AC5983A6915389.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "《特色小吃类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 25,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白灼猪肚.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/A46C6B85B4E145A7A36E41E7E2497D3C.jpg",
+					"price": 60,
+					"unit": "份",
+					"categoryName": "《特色小吃类》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 60,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "《套餐》",
+			"foods": [
+				{
+					"name": "猪肉蛋肠粉+海鲜汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/9EE8E42508F04E56B8EE1C9C9EE43473.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝麻干面+猪杂汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/0D06271DC7B54BE99913EDDC996C6CF5.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝麻干饺+海鲜汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/76E86DF0F3D743E28EA2AB38EF08C66C.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芝麻干粿+牛丸汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/AE757D7CC0C74DFEBE3ECDDD28128A56.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉蛋肠粉+牛丸汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/3AB2C9584EF64146808442DBBD817604.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜蛋肠粉+猪杂汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/5E686A639E8D4C8C8A6D95114FAFDC57.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "咸肉豆干炒饭+海鲜汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/76EE7EAC2B964C8B8B7305E5809B6E8F.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "海鲜炒饭+猪杂汤",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/4BD4F7D7B73B49538C4DCBB07D0A90F9.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "《套餐》",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 0,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中份",
+									"price": 5,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 10,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "备注",
+							"values": [
+								{
+									"value": "忌口下单时请备注一下",
+									"price": 0,
+									"propName": "备注",
 									"isMul": true
 								}
 							]
@@ -953,20 +2845,190 @@
 			]
 		},
 		{
-			"name": "奶茶诱惑❥",
-			"foods": []
+			"name": "《饮料类》",
+			"foods": [
+				{
+					"name": "百事可乐.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/1BBADD0916174081A7D1E05CA2A6DE6E.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶（罐）",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/570B0B91C509440F9D19A784DD426EC9.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "天地一号.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C7439D7A452F4137B40197543E65B4CC.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "椰子汁.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/E56D19EDFBD8447FA79C9BE787A29802.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "百威.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/077032BC26A94FA8BF4B569F59E5A063.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "加多宝.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/FB1E1CEF5D7743E6967740A1932E1E7B.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "可口可乐.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/DD7F6DC9DBB04FB7A288AB98870DA894.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "维他豆奶",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/4E4E455424A04326B081F9B08DBD0BFB.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/A41FAD5DA8C34A7BBF6FFB8F26D2E9B5.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				},
+				{
+					"name": "百岁山",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/779AB148D35841C9A50D30CBD4E1E1FD.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "《饮料类》",
+					"props": []
+				}
+			]
 		},
 		{
-			"name": "营养鲜粥❥",
-			"foods": []
-		},
-		{
-			"name": "酒水饮料❥",
-			"foods": []
-		},
-		{
-			"name": "小炒",
-			"foods": []
+			"name": "《汕头特产》",
+			"foods": [
+				{
+					"name": "生粿条1斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/CE40B0BE15B941969DE45509100151B5.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "生面一斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/3D62C962B0294592B127EBF43AD8D2D3.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "生饺.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/CC46045DAEEA46BAA5BE851ACA283D08.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "达豪鱼卷（半斤）.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/99C0C0F46FF94C66963C9348B6DC49CE.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "达豪鱼饺（半斤）.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/AE7908E35B544637852680894CDB9E36.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "虾饼一斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B8109D41ADA74731B4EF5714220BF344.jpg",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "鱼饼一斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C274F00F29AE40B6A599391A587AAE57.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "肉饼一斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/B5DAB8E697F34ADC873420EDCCC2C02E.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "达豪鱼丸一斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/7B7C1920EA2A402ABEE9A0AF7D36763F.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "猪肉丸一斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/C913ADF2BA5E4208A04AA23A0DDA4FC6.jpg",
+					"price": 40,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "牛肉丸一斤.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/DEA8F90E439348379579FB87698CD9F7.jpg",
+					"price": 50,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				},
+				{
+					"name": "达濠墨斗丸一斤装.",
+					"picUrl": "https://img-static.keruyun.com/kry-dir/976E792336A04485A840AD2F64E4F195.jpg",
+					"price": 108,
+					"unit": "份",
+					"categoryName": "《汕头特产》",
+					"props": []
+				}
+			]
 		}
 	]
 }

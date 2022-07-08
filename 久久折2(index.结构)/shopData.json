@@ -21,25 +21,23 @@
 			"singleActivities": null
 		},
 		"goods": {
-			"total": 190,
+			"total": 71,
 			"pages": [
-				[
-          {
-					"category_name": "汤面类",
-					"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-					"items": [
-            {
+				[{
+					"category_name": "小吃类",
+					"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+					"items": [{
 						"item": {
-							"id": "35d8b37a-9d2a-4058-8c74-76ee4c9a7136",
-							"name": "牛肉拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5d67ce1ba08c367e0ca9a60a8ae8bfd0.jpg",
+							"id": "fbaf17af-d383-4fb0-a9b7-dbaf0db1ab3e",
+							"name": "一品蒸饺",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 1,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1200,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 600,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -50,7 +48,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -60,8 +58,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1200,
-							"takeout_price": 1200,
+							"arrival_price": 600,
+							"takeout_price": 600,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -70,74 +68,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -145,16 +78,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "179f0a47-a75f-40e6-87d5-e4c75b9b6fc9",
-							"name": "羊肉拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5d67ce1ba08c367e0ca9a60a8ae8bfd0.jpg",
+							"id": "a99970af-758b-46ef-b9f1-d415bd40be40",
+							"name": "酸菜面/粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 2,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1400,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 700,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -165,7 +98,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -175,84 +108,34 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1400,
-							"takeout_price": 1400,
+							"arrival_price": 700,
+							"takeout_price": 700,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
+						"attributes": [{
+							"id": "b605b2bc-0ff0-4982-8866-448ece6517b2",
+							"multiple": 0,
 							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "be2b38a2-3c5a-41b4-9477-e31e7775a27d",
+								"name": "面条",
+								"seq": 1
 							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
+								"id": "a9bc5989-cb74-4233-b710-113db776464b",
+								"name": "米粉",
+								"seq": 2
 							}]
 						}],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -260,16 +143,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "e5c49de2-eeed-4ca5-a59b-69fd5c1717fb",
-							"name": "加大羊肉拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/39a114b7f80ff241dc3383373b0c4e2a.jpg",
+							"id": "78e39f82-e925-4829-96c3-cecd3367483e",
+							"name": "飘香拌面",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 3,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1600,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 700,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -280,7 +163,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -290,8 +173,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1600,
-							"takeout_price": 1600,
+							"arrival_price": 700,
+							"takeout_price": 700,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -300,74 +183,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -375,16 +193,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "2121a7f7-2059-47a0-9f60-6579718de579",
-							"name": "加大羊肉刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/17af8d2dc5cc8cd89ea8da3158e4ceae.jpg",
+							"id": "aff608fe-4283-4d2b-be78-5e78502e5617",
+							"name": "青菜面/粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 4,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1600,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 700,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -395,7 +213,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -405,84 +223,34 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1600,
-							"takeout_price": 1600,
+							"arrival_price": 700,
+							"takeout_price": 700,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
+						"attributes": [{
+							"id": "b605b2bc-0ff0-4982-8866-448ece6517b2",
+							"multiple": 0,
 							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "be2b38a2-3c5a-41b4-9477-e31e7775a27d",
+								"name": "面条",
+								"seq": 1
 							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
+								"id": "a9bc5989-cb74-4233-b710-113db776464b",
+								"name": "米粉",
+								"seq": 2
 							}]
 						}],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -490,16 +258,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "2077a950-6abd-4267-9c69-cf75c1ee0693",
-							"name": "鸡蛋拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6cffb05d7df876a6ddd90eaf0bdce362.jpg",
+							"id": "2a4af454-b8a8-4c1e-a932-27e75b0ae763",
+							"name": "云吞面/粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 5,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1200,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 900,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -510,7 +278,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -520,84 +288,34 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1200,
-							"takeout_price": 1200,
+							"arrival_price": 900,
+							"takeout_price": 900,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
+						"attributes": [{
+							"id": "b605b2bc-0ff0-4982-8866-448ece6517b2",
+							"multiple": 0,
 							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "be2b38a2-3c5a-41b4-9477-e31e7775a27d",
+								"name": "面条",
+								"seq": 1
 							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
+								"id": "a9bc5989-cb74-4233-b710-113db776464b",
+								"name": "米粉",
+								"seq": 2
 							}]
 						}],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -605,16 +323,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "c703fb40-4610-4d4d-913a-c84a8f328fad",
-							"name": "优质拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/177a67ef6895ecdc27aabdd415d32f60.jpg",
+							"id": "d63efa9b-9696-4c6e-9746-d2ac8e511566",
+							"name": "煎蛋面/粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 6,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 2400,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 900,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -625,7 +343,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -635,84 +353,34 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2400,
-							"takeout_price": 2400,
+							"arrival_price": 900,
+							"takeout_price": 900,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
+						"attributes": [{
+							"id": "b605b2bc-0ff0-4982-8866-448ece6517b2",
+							"multiple": 0,
 							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "be2b38a2-3c5a-41b4-9477-e31e7775a27d",
+								"name": "面条",
+								"seq": 1
 							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
+								"id": "a9bc5989-cb74-4233-b710-113db776464b",
+								"name": "米粉",
+								"seq": 2
 							}]
 						}],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -720,16 +388,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "3b3c5653-6870-42ec-9646-8ce37df6545c",
-							"name": "酸菜牛肉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/678eac5130942f55db225c2cf221fc3a.jpg",
+							"id": "413b395f-34dd-4104-afcb-5aaa89c412d0",
+							"name": "爽口云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 7,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1500,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 800,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -740,99 +408,62 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
-							"is_multiple": 1,
+							"is_multiple": 3,
 							"item_tag": null,
 							"add_count": null,
 							"last30_days_sale_count": null,
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1500,
-							"takeout_price": 1500,
+							"arrival_price": 800,
+							"takeout_price": 800,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": -1,
-							"name": "加料",
-							"seq": 0,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
+						"specs": {
+							"title": "规格",
+							"options": [{
+								"id": "4af8e968-36c5-40f3-adef-b1832888db9f",
+								"name": "小份",
+								"price": 800,
 								"seq": 1,
-								"status": 1
+								"activity_price": null,
+								"quota_count": null,
+								"second_activity_discount": null,
+								"arrival_price": 800,
+								"takeout_price": 800
 							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
+								"id": "0858b9d1-0078-4ff8-aca4-c8a1e8613be2",
+								"name": "中份",
+								"price": 1200,
 								"seq": 2,
-								"status": 1
+								"activity_price": null,
+								"quota_count": null,
+								"second_activity_discount": null,
+								"arrival_price": 1200,
+								"takeout_price": 1200
 							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
+								"id": "7fb09986-1f11-4bb4-800f-2e72ed16e167",
+								"name": "大份",
 								"price": 1500,
 								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
+								"activity_price": null,
+								"quota_count": null,
+								"second_activity_discount": null,
+								"arrival_price": 1500,
+								"takeout_price": 1500
 							}]
-						}, {
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						},
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -840,16 +471,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "bf64f145-b67e-409a-b8a3-1e0f803c1023",
-							"name": "笋丝牛肉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f238b7e0b9520a885be93920a0ab1a84.jpg",
+							"id": "f0496423-ac24-4f14-b25d-2fe58969f316",
+							"name": "榨菜肉丝面/粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 8,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1500,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -860,7 +491,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -870,89 +501,34 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1500,
-							"takeout_price": 1500,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
+						"attributes": [{
+							"id": "b605b2bc-0ff0-4982-8866-448ece6517b2",
+							"multiple": 0,
+							"seq": 1,
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "be2b38a2-3c5a-41b4-9477-e31e7775a27d",
+								"name": "面条",
+								"seq": 1
+							}, {
+								"id": "a9bc5989-cb74-4233-b710-113db776464b",
+								"name": "米粉",
+								"seq": 2
+							}]
+						}],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": -1,
-							"name": "加料",
-							"seq": 0,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}]
-						}, {
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -960,16 +536,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "f77a9404-5688-45e3-96e3-c88f5d577d43",
-							"name": "青菜拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/46778a2c2a1436c96169a0a80d375cc0.jpg",
+							"id": "db6952de-be1d-4fdb-93bd-fb73499fa08f",
+							"name": "拌云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 9,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1200,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -980,7 +556,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -990,8 +566,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1200,
-							"takeout_price": 1200,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -1000,74 +576,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -1075,16 +586,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "da120390-c934-4314-ac12-2b2a50c316ef",
-							"name": "加大拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/39a114b7f80ff241dc3383373b0c4e2a.jpg",
+							"id": "625b8424-582a-4940-961a-b81aa308d5ce",
+							"name": "香炸饺子",
+							"photo_url": "https://marketing-static.shouqianba.com/gallery/b07521a3c3131094be54250e76fabb61.jpg",
 							"description": null,
 							"display_order": 10,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1400,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1093,9 +604,9 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1105,8 +616,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1400,
-							"takeout_price": 1400,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -1115,74 +626,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -1190,16 +636,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "41010132-22bc-4430-9d7a-0e1af1391015",
-							"name": "番茄鸡蛋拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3886ddb7b069ecfa449ed80390ff6e07.jpg",
+							"id": "3b85ce40-fb87-4bdf-8e4f-a1d651252b15",
+							"name": "香炸云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 11,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1500,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1210,7 +656,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1220,8 +666,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1500,
-							"takeout_price": 1500,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -1230,74 +676,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -1305,16 +686,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "a587543c-0f22-4c23-a7cb-b81af9e37a03",
-							"name": "番茄牛肉拉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6afe476d7e8e80b320524fe6edb6d4a0.jpg",
+							"id": "6d37baae-d35d-4997-bcee-f4a4073d9b42",
+							"name": "干捞水饺",
+							"photo_url": "https://marketing-static.shouqianba.com/gallery/3f73e732e51b864eb96fe49b56a37a3e.jpg",
 							"description": null,
 							"display_order": 12,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1600,
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1500,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -1323,9 +704,9 @@
 							"sku": null,
 							"sku_default": null,
 							"reset_sku": false,
-							"unit": "份",
+							"unit": null,
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1335,8 +716,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1600,
-							"takeout_price": 1600,
+							"arrival_price": 1500,
+							"takeout_price": 1500,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -1345,74 +726,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -1420,15 +736,15 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "4332fc52-d036-4e98-9348-ac41eb009e89",
-							"name": "红烧牛肉面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6afe476d7e8e80b320524fe6edb6d4a0.jpg",
+							"id": "7835b387-c4f0-494b-9720-765370db2d28",
+							"name": "秘制猪脚粉/面",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 13,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 							"price": 1500,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -1440,7 +756,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -1458,76 +774,26 @@
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
+						"attributes": [{
+							"id": "b605b2bc-0ff0-4982-8866-448ece6517b2",
+							"multiple": 0,
 							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "be2b38a2-3c5a-41b4-9477-e31e7775a27d",
+								"name": "面条",
+								"seq": 1
 							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
+								"id": "a9bc5989-cb74-4233-b710-113db776464b",
+								"name": "米粉",
+								"seq": 2
 							}]
 						}],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -1535,820 +801,15 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "18e60075-2c6a-4a75-bee9-49a767c8d1cd",
-							"name": "牛肉刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d6935edcaabad8b68f414e454da06cfa.jpg",
+							"id": "1827a182-2000-45e6-aea0-f5d0c63d3208",
+							"name": "秘制牛腩粉/面",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
 							"display_order": 14,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1200,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1200,
-							"takeout_price": 1200,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "6f4e04b7-9d75-4f96-bf1c-854b31385757",
-							"name": "羊肉刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d6935edcaabad8b68f414e454da06cfa.jpg",
-							"description": null,
-							"display_order": 15,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1400,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1400,
-							"takeout_price": 1400,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "634ec476-fdf8-4896-bcbc-4b11cb6647e6",
-							"name": "香辣刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/af5a21fef3969f69778c2eba88181216.jpg",
-							"description": null,
-							"display_order": 16,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1500,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1500,
-							"takeout_price": 1500,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "b5696281-ff17-44e8-aa15-0fe9a883a010",
-							"name": "鸡蛋刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/af5a21fef3969f69778c2eba88181216.jpg",
-							"description": null,
-							"display_order": 17,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1200,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1200,
-							"takeout_price": 1200,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "86509731-33f7-46b9-8757-fd1574c5965f",
-							"name": "优质刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/835ead1c54594f7eb35f7dac6026f0ce.jpg",
-							"description": null,
-							"display_order": 18,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 2400,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 2400,
-							"takeout_price": 2400,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "217318b3-bb8d-4a5c-8c2f-4aee16d2c20f",
-							"name": "加大刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/98a83d74caa4329fe9695da9358d41dd.jpg",
-							"description": null,
-							"display_order": 19,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1400,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1400,
-							"takeout_price": 1400,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "67414368-e1a7-4ece-8429-c302f1da7304",
-							"name": "番茄鸡蛋刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bae544dab24cb3e97630df4c0b101467.jpg",
-							"description": null,
-							"display_order": 20,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1500,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1500,
-							"takeout_price": 1500,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "573607e5-759e-4e58-adf6-4584c9dd9788",
-							"name": "番茄牛肉刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e90f4fc72e92cf1ff22d31a6a1bef201.jpg",
-							"description": null,
-							"display_order": 21,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+							"category_id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 							"price": 1600,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -2360,7 +821,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "小吃类",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -2378,207 +839,46 @@
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
+						"attributes": [{
+							"id": "b605b2bc-0ff0-4982-8866-448ece6517b2",
+							"multiple": 0,
 							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "be2b38a2-3c5a-41b4-9477-e31e7775a27d",
+								"name": "面条",
+								"seq": 1
 							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
+								"id": "a9bc5989-cb74-4233-b710-113db776464b",
+								"name": "米粉",
+								"seq": 2
 							}]
 						}],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
-					}, {
+					}]
+				}, {
+					"category_name": "老坛酸菜粉/饭",
+					"category_id": "b4b62ea9-81e7-4818-b879-3799d7849eaf",
+					"items": [{
 						"item": {
-							"id": "bbc43698-229c-444a-92b3-3595afe0eee5",
-							"name": "红烧刀削面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/af5a21fef3969f69778c2eba88181216.jpg",
+							"id": "59ecc8c6-5c54-47b0-8b3c-8d34a5522bc0",
+							"name": "老坛酸菜鱼片粉/面",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
-							"display_order": 22,
+							"display_order": 2,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1500,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1500,
-							"takeout_price": 1500,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "9d5416f5-10f1-4e43-bddb-5d5001d7b39f",
-							"name": "炮仗面",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/5b9352140ea1455eeeb29d8efb09da09.jpeg",
-							"description": null,
-							"display_order": 23,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+							"category_id": "b4b62ea9-81e7-4818-b879-3799d7849eaf",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 							"price": 1600,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -2590,7 +890,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "老坛酸菜粉/饭",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -2608,81 +908,26 @@
 							"sale_terminals": [1, 2]
 						},
 						"specs": null,
-						"attributes": [],
+						"attributes": [{
+							"id": "21951c81-d1c3-4d69-9160-c5eba5cdfb98",
+							"multiple": 0,
+							"seq": 1,
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "46abe24f-ee0c-408e-a379-e7df37e135ad",
+								"name": "粉",
+								"seq": 1
+							}, {
+								"id": "4d4ad78e-a813-42e0-91d4-b4db2500fdec",
+								"name": "面",
+								"seq": 2
+							}]
+						}],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": -1,
-							"name": "加料",
-							"seq": 0,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}]
-						}, {
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -2690,135 +935,15 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "b63f4feb-bf2c-4b2e-8698-e8c418228e59",
-							"name": "牛肉烩面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bf05e220ff8dda4180d3bf455f7c5db4.jpg",
+							"id": "ec08d019-1ba7-4eb3-9931-2751e7659eb0",
+							"name": "老坛酸菜牛肉粉/面",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
-							"display_order": 24,
+							"display_order": 3,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1600,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1600,
-							"takeout_price": 1600,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": -1,
-							"name": "加料",
-							"seq": 0,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}]
-						}, {
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "05033050-872c-4a44-8b4c-3e65ba9beee4",
-							"name": "哨子面",
-							"photo_url": "https://marketing-static.shouqianba.com/gallery/4a94d104932f2933a1d5da08bcee3846.jpg",
-							"description": null,
-							"display_order": 25,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+							"category_id": "b4b62ea9-81e7-4818-b879-3799d7849eaf",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 							"price": 1800,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -2830,7 +955,122 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "老坛酸菜粉/饭",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1800,
+							"takeout_price": 1800,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [{
+							"id": "5c23c67a-9fc6-4fa5-8ebe-92774b7942f0",
+							"multiple": 0,
+							"seq": 1,
+							"title": "可选",
+							"must": 1,
+							"options": [{
+								"id": "6b085e53-8d3f-4820-bbcd-d21d60f16c69",
+								"name": "粉",
+								"seq": 1
+							}, {
+								"id": "7125be21-a904-4c44-a945-ad1a7e650a6b",
+								"name": "面",
+								"seq": 2
+							}]
+						}],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "10b327b8-dc6a-4fa8-8bbe-ef0bc5292947",
+							"name": "老坛牛肉饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 5,
+							"valid": null,
+							"category_id": "b4b62ea9-81e7-4818-b879-3799d7849eaf",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 2000,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "老坛酸菜粉/饭",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 2000,
+							"takeout_price": 2000,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "54384d38-8310-491d-af67-a038fd7a7365",
+							"name": "老坛鱼片饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 6,
+							"valid": null,
+							"category_id": "b4b62ea9-81e7-4818-b879-3799d7849eaf",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1800,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "老坛酸菜粉/饭",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -2850,90 +1090,29 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
 						"bought_times": null,
 						"latest_buy_time": null
-					}, {
+					}]
+				}, {
+					"category_name": "营养云吞",
+					"category_id": "9bf9f773-5c39-4c59-8665-136999cfcbe1",
+					"items": [{
 						"item": {
-							"id": "9a4d4177-0a5d-46c3-bc3a-37c10a1c9fe7",
-							"name": "羊肉烩面",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/bf05e220ff8dda4180d3bf455f7c5db4.jpg",
+							"id": "73ea63e1-5004-4370-a48c-3a8981af6bcd",
+							"name": "排骨云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
-							"display_order": 26,
+							"display_order": 1,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+							"category_id": "9bf9f773-5c39-4c59-8665-136999cfcbe1",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 							"price": 1700,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -2945,7 +1124,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "营养云吞",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -2965,74 +1144,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -3040,15 +1154,115 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "ca312af5-78bc-46ae-ac22-d2636a5bb609",
-							"name": "牛肉烩面片",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/05bdf2288ea9c5ea8b325165d85d4850.jpg",
+							"id": "f877e45a-7497-4a2c-8f41-4d633dc53d06",
+							"name": "乌鸡云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
-							"display_order": 27,
+							"display_order": 2,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+							"category_id": "9bf9f773-5c39-4c59-8665-136999cfcbe1",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1700,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "营养云吞",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1700,
+							"takeout_price": 1700,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "f7cb624c-a40d-4d5f-a0c4-10c29948eb12",
+							"name": "老鸭云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 3,
+							"valid": null,
+							"category_id": "9bf9f773-5c39-4c59-8665-136999cfcbe1",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1700,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "营养云吞",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1700,
+							"takeout_price": 1700,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "6b5ed6ba-95f1-49c5-ae84-a78e292c9604",
+							"name": "牛肉云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 4,
+							"valid": null,
+							"category_id": "9bf9f773-5c39-4c59-8665-136999cfcbe1",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 							"price": 1800,
 							"activity_price": null,
 							"second_activity_discount": null,
@@ -3060,7 +1274,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "营养云吞",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -3080,74 +1294,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -3155,16 +1304,16 @@
 						"latest_buy_time": null
 					}, {
 						"item": {
-							"id": "c451cf1f-5e2b-4c85-b420-7cb4b8b404e1",
-							"name": "羊肉泡馍",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5dc004d9216383b3220bb0622a163cbc.jpg",
+							"id": "485e71c7-a253-419a-8bef-c201f16d5fba",
+							"name": "鸽子云吞",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
 							"description": null,
-							"display_order": 28,
+							"display_order": 5,
 							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1800,
+							"category_id": "9bf9f773-5c39-4c59-8665-136999cfcbe1",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1900,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -3175,7 +1324,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "汤面类",
+							"category_name": "营养云吞",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -3185,8 +1334,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 1800,
-							"takeout_price": 1800,
+							"arrival_price": 1900,
+							"takeout_price": 1900,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -3195,199 +1344,9 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": -1,
-							"name": "加料",
-							"seq": 0,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}]
-						}, {
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
-						"ingredient_names": null,
-						"package_must_order_products": null,
-						"package_optional_groups": null,
-						"bought_times": null,
-						"latest_buy_time": null
-					}, {
-						"item": {
-							"id": "1e3eb1cf-15c9-404d-80ff-bf30d4836056",
-							"name": "牛肉泡馍",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6695146479faf232db46dcbea44a40cc.jpg",
-							"description": null,
-							"display_order": 29,
-							"valid": null,
-							"category_id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 1600,
-							"activity_price": null,
-							"second_activity_discount": null,
-							"quota_count": null,
-							"for_sale": true,
-							"out_of_stock": false,
-							"sku": null,
-							"sku_default": null,
-							"reset_sku": false,
-							"unit": "份",
-							"unit_type": 0,
-							"category_name": "汤面类",
-							"category_sort": null,
-							"spu_type": "PRODUCT",
-							"is_multiple": 1,
-							"item_tag": null,
-							"add_count": null,
-							"last30_days_sale_count": null,
-							"hotsale_seq": null,
-							"hotsale_product": false,
-							"keep_price_equal": true,
-							"arrival_price": 1600,
-							"takeout_price": 1600,
-							"min_sale_num": null,
-							"sale_times": null,
-							"barcode": null,
-							"sale_terminals": [1, 2]
-						},
-						"specs": null,
-						"attributes": [],
-						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
-						"item_tags": null,
-						"material_groups": [{
-							"group_id": -1,
-							"name": "加料",
-							"seq": 0,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}]
-						}, {
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -3395,21 +1354,20 @@
 						"latest_buy_time": null
 					}]
 				}, {
-					"category_name": "套餐",
-					"category_id": "b5cbb76c-dab5-4873-8ba2-209feaaa5e6d",
-					"items": [
-            {
+					"category_name": "营养炖汤",
+					"category_id": "fdd006dc-08ca-471d-ace1-1bfbd0a6d0bd",
+					"items": [{
 						"item": {
-							"id": "47076c0b-8093-4ccc-83d0-c7837f1ec865",
-							"name": "A经典套餐",
-							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1757f4290dae2804563d6416b123be9f.jpg",
-							"description": "牛肉面+牛肉+小凉菜+煎蛋+可乐",
-							"display_order": 163,
+							"id": "9a089d1e-1346-4763-b7ba-fbf2b2366ac4",
+							"name": "生地排骨汤",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 1,
 							"valid": null,
-							"category_id": "b5cbb76c-dab5-4873-8ba2-209feaaa5e6d",
-							"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-							"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-							"price": 2800,
+							"category_id": "fdd006dc-08ca-471d-ace1-1bfbd0a6d0bd",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
 							"activity_price": null,
 							"second_activity_discount": null,
 							"quota_count": null,
@@ -3420,7 +1378,7 @@
 							"reset_sku": false,
 							"unit": "份",
 							"unit_type": 0,
-							"category_name": "套餐",
+							"category_name": "营养炖汤",
 							"category_sort": null,
 							"spu_type": "PRODUCT",
 							"is_multiple": 1,
@@ -3430,8 +1388,8 @@
 							"hotsale_seq": null,
 							"hotsale_product": false,
 							"keep_price_equal": true,
-							"arrival_price": 2800,
-							"takeout_price": 2800,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
 							"min_sale_num": null,
 							"sale_times": null,
 							"barcode": null,
@@ -3440,74 +1398,313 @@
 						"specs": null,
 						"attributes": [],
 						"material_ids": null,
-						"materials": [{
-							"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-							"name": "煎蛋",
-							"price": 200,
-							"seq": 1,
-							"status": 1
-						}, {
-							"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-							"name": "牛肉",
-							"price": 1000,
-							"seq": 2,
-							"status": 1
-						}, {
-							"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-							"name": "羊肉",
-							"price": 1500,
-							"seq": 3,
-							"status": 1
-						}, {
-							"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-							"name": "羊肉串2串",
-							"price": 1000,
-							"seq": 4,
-							"status": 1
-						}, {
-							"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-							"name": "饮料{可乐自取}",
-							"price": 200,
-							"seq": 5,
-							"status": 1
-						}],
+						"materials": null,
 						"item_tags": null,
-						"material_groups": [{
-							"group_id": 1001,
-							"name": "加料",
-							"seq": 1,
-							"materials": [{
-								"id": "0a302419-65a1-44c3-9ac6-b873c1523cf2",
-								"name": "煎蛋",
-								"price": 200,
-								"seq": 1,
-								"status": 1
-							}, {
-								"id": "a2fc9180-f5d5-488c-9ee9-945b8175a07c",
-								"name": "牛肉",
-								"price": 1000,
-								"seq": 2,
-								"status": 1
-							}, {
-								"id": "e3d37381-25f5-4f1f-9777-8376a85301e6",
-								"name": "羊肉",
-								"price": 1500,
-								"seq": 3,
-								"status": 1
-							}, {
-								"id": "64339ac6-e937-42a1-bc74-d2531e92f4bc",
-								"name": "羊肉串2串",
-								"price": 1000,
-								"seq": 4,
-								"status": 1
-							}, {
-								"id": "0c237cdc-4479-44ff-be6a-d0bda04eef1f",
-								"name": "饮料{可乐自取}",
-								"price": 200,
-								"seq": 5,
-								"status": 1
-							}]
-						}],
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "80563547-a6d7-4cd3-bb17-431bea158ac1",
+							"name": "茶树菇老鸭汤",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 2,
+							"valid": null,
+							"category_id": "fdd006dc-08ca-471d-ace1-1bfbd0a6d0bd",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "营养炖汤",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "8e9b9ecf-5b69-48c8-9148-bba0338f8225",
+							"name": "花旗参乌鸡汤",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 3,
+							"valid": null,
+							"category_id": "fdd006dc-08ca-471d-ace1-1bfbd0a6d0bd",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "营养炖汤",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "a982e781-72f5-4016-8c04-ed892eacaf72",
+							"name": "当归牛肉汤",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 4,
+							"valid": null,
+							"category_id": "fdd006dc-08ca-471d-ace1-1bfbd0a6d0bd",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1100,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "营养炖汤",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1100,
+							"takeout_price": 1100,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "5cb04b09-4d32-44ee-8848-293bb0d5c859",
+							"name": "人参鸽子汤",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 5,
+							"valid": null,
+							"category_id": "fdd006dc-08ca-471d-ace1-1bfbd0a6d0bd",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1200,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "营养炖汤",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1200,
+							"takeout_price": 1200,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}]
+				}, {
+					"category_name": "炒粉类",
+					"category_id": "56269e4a-9bbe-444b-ae22-b4ef42c1a702",
+					"items": [{
+						"item": {
+							"id": "7b3b4acb-ee5d-4734-87ab-06dd121d7245",
+							"name": "鸡蛋炒粉",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 1,
+							"valid": null,
+							"category_id": "56269e4a-9bbe-444b-ae22-b4ef42c1a702",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "炒粉类",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
+						"ingredient_names": null,
+						"package_must_order_products": null,
+						"package_optional_groups": null,
+						"bought_times": null,
+						"latest_buy_time": null
+					}, {
+						"item": {
+							"id": "8d702a1b-bc78-4210-9ffe-cb968fd14d82",
+							"name": "鸡蛋炒饭",
+							"photo_url": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+							"description": null,
+							"display_order": 2,
+							"valid": null,
+							"category_id": "56269e4a-9bbe-444b-ae22-b4ef42c1a702",
+							"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+							"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+							"price": 1000,
+							"activity_price": null,
+							"second_activity_discount": null,
+							"quota_count": null,
+							"for_sale": true,
+							"out_of_stock": false,
+							"sku": null,
+							"sku_default": null,
+							"reset_sku": false,
+							"unit": "份",
+							"unit_type": 0,
+							"category_name": "炒粉类",
+							"category_sort": null,
+							"spu_type": "PRODUCT",
+							"is_multiple": 1,
+							"item_tag": null,
+							"add_count": null,
+							"last30_days_sale_count": null,
+							"hotsale_seq": null,
+							"hotsale_product": false,
+							"keep_price_equal": true,
+							"arrival_price": 1000,
+							"takeout_price": 1000,
+							"min_sale_num": null,
+							"sale_times": null,
+							"barcode": null,
+							"sale_terminals": [1, 2]
+						},
+						"specs": null,
+						"attributes": [],
+						"material_ids": null,
+						"materials": null,
+						"item_tags": null,
+						"material_groups": [],
 						"ingredient_names": null,
 						"package_must_order_products": null,
 						"package_optional_groups": null,
@@ -3518,19 +1715,19 @@
 			]
 		},
 		"terminal": {
-			"id": "4dbc586f-f8da-11eb-89bd-7cd30aeb1230",
-			"name": "4B",
-			"qr_code": "jjzt21080901490164251796",
-			"qr_print_code": "0149016425",
+			"id": "4fa46857-a329-11eb-89bd-7cd30aeb1230",
+			"name": "23号桌",
+			"qr_code": "jjzt21042201396228623483",
+			"qr_print_code": "0139622862",
 			"status": 1,
 			"bind_source": "APP",
-			"bind_by": "564403",
-			"bind_time": 1636956035000,
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"terminal_id": "8781efec-2407-480d-8071-056df6fec8a9",
-			"ctime": 1628490205000,
-			"mtime": 1636956035062,
+			"bind_by": "385639",
+			"bind_time": 1626351957000,
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"terminal_id": "6ff07bc1-3d77-43c5-8ad2-2ddcd35150ab",
+			"ctime": 1619068339000,
+			"mtime": 1626351957136,
 			"deleted": false,
 			"version": 2,
 			"qr_code_type": 8,
@@ -3538,10 +1735,10 @@
 			"qrcodeBusiness": null,
 			"meal_type": "single",
 			"jjz_business_type": 1,
-			"tableId": 564403,
-			"tableName": "4B",
-			"seatCount": 4,
-			"areaId": 99160,
+			"tableId": 385639,
+			"tableName": "23号桌",
+			"seatCount": 1,
+			"areaId": 77755,
 			"tableStatus": "FREE",
 			"require_phone": false
 		},
@@ -3551,9 +1748,9 @@
 			"firstIndustryCode": "001",
 			"industry": "快餐",
 			"industryCode": "001010",
-			"merchantName": "中国兰州拉面广州江燕路店",
-			"merchantId": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"merchantSn": "1680004888123",
+			"merchantName": "沙县小吃深圳福田店",
+			"merchantId": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"merchantSn": "1680004442315",
 			"alipayStatus": 0,
 			"wechatStatus": 0,
 			"disabled": 0,
@@ -3566,32 +1763,32 @@
 				"priceBreakCards": [],
 				"returnCards": [],
 				"membershipCards": [],
-				"singleActivity": 0,
-				"secondDiscounts": []
+				"singleActivity": null,
+				"secondDiscounts": null
 			},
 			"discount": null,
 			"organizationPath": null,
 			"categoriesNames": null,
 			"coupons": [],
-			"storeId": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"storeName": "中国兰州拉面广州江燕路店",
+			"storeId": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"storeName": "沙县小吃深圳福田店",
 			"storeExtraName": "",
-			"contactPhone": "17612033784",
+			"contactPhone": "17705982298",
 			"slogan": "",
 			"payWay": 1,
 			"categoryId": null,
 			"location": {
-				"lat": "23.077042",
-				"lon": "113.277655"
+				"lat": "22.564274",
+				"lon": "114.069357"
 			},
 			"storeAddress": {
-				"province": "",
-				"city": "",
-				"district": "",
+				"province": "440000",
+				"city": "440300",
+				"district": "440304",
 				"streetAddress": "",
-				"address": "",
+				"address": "中国邮政储蓄银行(华富支行)",
 				"aoiName": null,
-				"houseNumber": "",
+				"houseNumber": "106",
 				"adcode": null
 			},
 			"storePhoto": {
@@ -3609,10 +1806,10 @@
 			},
 			"onceOpened": true,
 			"storeType": 0,
-			"storeSn": "1580000004955833"
+			"storeSn": "1580000004324000"
 		},
 		"login": {
-			"token": "3f16d9ac-163d-4b42-a358-1c53f7331c2f",
+			"token": "86a894dd-d423-416b-9cab-c7058e9abe93",
 			"userId": "7edbcb77-f7e4-11ea-8148-506b4beefb1a",
 			"cellphone": "",
 			"thirdpartyUserId": "oThRp5P1tQK89TlmlcOUEzDWv_V8",
@@ -3654,9 +1851,9 @@
 			"preset_remind_time": "30",
 			"takeout_pre_remind_time": "60",
 			"voice_subscribe": "1",
-			"unbound_store_qrcode": "jjzb21111820000735522513",
-			"store_product_tag_use": "1",
+			"only_in_store": "true",
 			"scan_activated": "true",
+			"pack_fee": "100",
 			"must_order_editable": "0",
 			"cashier_auto_settle_after_pay": "1",
 			"takeout_pack_type": "1",
@@ -3669,116 +1866,119 @@
 			"preset_days": "[0,1,2,3,4,5,6]",
 			"takeout_pre_days": "[0,1,2,3,4,5,6]",
 			"preset_print_time": "2",
-			"pack_type": "1",
+			"business_times": "[{\"startTime\":\"00:00\",\"endTime\":\"24:00\"}]",
+			"pack_type": "0",
 			"order_call_display_duration": "7200",
 			"voice_cashier": "0",
+			"client_auth_status": "1",
 			"takeoutProfitSharing": false,
 			"order_require_phone": "{\"all_area\":true,\"require_phone\":false,\"all_table_area\": false, \"store_qrcode\": false, \"non_qrcode\": false, \"dineway\":\"store\"}",
 			"takeout_pre_print_time": "2",
 			"recomend_show_way": "vertical",
 			"manual_input_takeout_no": "0",
+			"takeout_activated": "true",
 			"takeout_pre_status": "0"
 		},
 		"duration": {
 			"qrcodeParser": {
-				"cost": 77,
-				"start": 1650857122956,
-				"end": 1650857123033
+				"cost": 15,
+				"start": 1651908587542,
+				"end": 1651908587557
 			},
 			"queryMerchantMcc": {
-				"cost": 8,
-				"start": 1650857123033,
-				"end": 1650857123041
+				"cost": 3,
+				"start": 1651908587558,
+				"end": 1651908587561
 			},
 			"loadCategory": {
-				"cost": 15,
-				"start": 1650857123043,
-				"end": 1650857123058
+				"cost": 10,
+				"start": 1651908587567,
+				"end": 1651908587577
 			},
 			"loadHotSale": {
 				"cost": 0,
-				"start": 1650857123043,
-				"end": 1650857123043
+				"start": 1651908587567,
+				"end": 1651908587567
 			},
 			"loadProductTag": {
 				"cost": 7,
-				"start": 1650857123043,
-				"end": 1650857123050
+				"start": 1651908587567,
+				"end": 1651908587574
 			},
 			"queryApolloConfig": {
 				"cost": 0,
-				"start": 1650857123033,
-				"end": 1650857123033
+				"start": 1651908587558,
+				"end": 1651908587558
 			},
 			"loadStoreActivity": {
-				"cost": 76,
-				"start": 1650857123043,
-				"end": 1650857123119
+				"cost": 62,
+				"start": 1651908587567,
+				"end": 1651908587629
 			},
 			"loadDiscountCategory": {
-				"cost": 9,
-				"start": 1650857123043,
-				"end": 1650857123052
+				"cost": 4,
+				"start": 1651908587568,
+				"end": 1651908587572
 			},
 			"login": {
-				"cost": 4,
-				"start": 1650857122956,
-				"end": 1650857122960
+				"cost": 5,
+				"start": 1651908587542,
+				"end": 1651908587547
 			},
 			"queryStoreThemes": {
-				"cost": 7,
-				"start": 1650857123033,
-				"end": 1650857123040
+				"cost": 9,
+				"start": 1651908587558,
+				"end": 1651908587567
 			},
 			"total": {
-				"cost": 183,
-				"start": 1650857122956,
-				"end": 1650857123139
+				"cost": 90,
+				"start": 1651908587542,
+				"end": 1651908587632
 			},
 			"loadSingleActivity": {
-				"cost": 2,
-				"start": 1650857123043,
-				"end": 1650857123045
+				"cost": 5,
+				"start": 1651908587567,
+				"end": 1651908587572
 			},
 			"queryStoreMcc": {
-				"cost": 8,
-				"start": 1650857123033,
-				"end": 1650857123041
+				"cost": 3,
+				"start": 1651908587558,
+				"end": 1651908587561
 			},
 			"queryStoreInfo": {
-				"cost": 10,
-				"start": 1650857123033,
-				"end": 1650857123043
+				"cost": 3,
+				"start": 1651908587558,
+				"end": 1651908587561
 			},
 			"loadRecentItems": {
-				"cost": 20,
-				"start": 1650857123043,
-				"end": 1650857123063
+				"cost": 11,
+				"start": 1651908587567,
+				"end": 1651908587578
 			},
 			"loadSecondActivity": {
 				"cost": 3,
-				"start": 1650857123043,
-				"end": 1650857123046
+				"start": 1651908587567,
+				"end": 1651908587570
 			},
 			"loadRecommend": {
 				"cost": 3,
-				"start": 1650857123043,
-				"end": 1650857123046
+				"start": 1651908587567,
+				"end": 1651908587570
 			},
 			"loadIndexItems": {
-				"cost": 92,
-				"start": 1650857123043,
-				"end": 1650857123135
+				"cost": 36,
+				"start": 1651908587567,
+				"end": 1651908587603
 			}
 		},
 		"extra": {
-			"fullPath": "/pages/meal/index?qrCode=https://99zhe.com/t/KFP8t&merchantId=4cfc2a33-fcce-42f9-bc08-9c621eda8fff&page=meal&storeId=368bc7b6-b7da-455f-b2d9-2a067f526fd9&scene=t&timestamp=1650857122956",
-			"qrCode": "https://99zhe.com/t/KFP8t",
-			"merchantId": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
+			"fullPath": "/pages/meal/index?qrCode=https://99zhe.com/t/Jb0Ro&merchantId=844c271e-9e3d-4c18-8b2f-66c057927b86&page=meal&storeId=8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0&scene=t&timestamp=1651908587542",
+			"qrCode": "https://99zhe.com/t/Jb0Ro",
+			"merchantId": "844c271e-9e3d-4c18-8b2f-66c057927b86",
 			"page": "page-home",
-			"storeId": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+			"storeId": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 			"scene": "t",
-			"timestamp": 1650857122956
+			"timestamp": 1651908587542
 		},
 		"serviceTypes": {
 			"currentServiceTypeIndex": 0,
@@ -3797,7 +1997,7 @@
 		},
 		"theme": [{
 			"page_id": "p0o2sfaiwk21",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
 			"template_id": 3692,
 			"product_id": null,
 			"theme_id": null,
@@ -4038,7 +2238,7 @@
 				"url": "",
 				"path": null,
 				"source": 2,
-				"source_path": "@wosai/emenu-mini-components/wx/home/index",
+				"source_path": "@wosai/emenu-mini-components-home/wx/home/index",
 				"source_type": 2,
 				"status": 1,
 				"remark": "点单首页",
@@ -4073,138 +2273,84 @@
 			}
 		}],
 		"category": [{
-			"id": "1ab0110a-8799-40cb-8b13-0b4dc2c242ca",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "汤面类",
-			"item_count": 29,
+			"id": "5fa97f57-bdc2-449e-a2d8-58e6fedffe42",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "小吃类",
+			"item_count": 14,
 			"display_order": 1,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "b5cbb76c-dab5-4873-8ba2-209feaaa5e6d",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "套餐",
-			"item_count": 10,
+			"id": "b4b62ea9-81e7-4818-b879-3799d7849eaf",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "老坛酸菜粉/饭",
+			"item_count": 4,
 			"display_order": 2,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "f390f972-0ad8-475c-8792-0d26ba954dd4",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "盖浇面",
-			"item_count": 17,
+			"id": "9bf9f773-5c39-4c59-8665-136999cfcbe1",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "营养云吞",
+			"item_count": 5,
 			"display_order": 3,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "11945788-d96a-4161-bd54-5c92c2ae7c68",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "水饺类",
-			"item_count": 3,
+			"id": "fdd006dc-08ca-471d-ace1-1bfbd0a6d0bd",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "营养炖汤",
+			"item_count": 5,
 			"display_order": 4,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "b44135ea-8fbb-4faf-9308-d023470a06bc",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "炒面类",
-			"item_count": 19,
+			"id": "56269e4a-9bbe-444b-ae22-b4ef42c1a702",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "炒粉类",
+			"item_count": 6,
 			"display_order": 5,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "36a78c5c-3ecd-43ef-9f05-8fefe89a5ef7",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "凉面类",
-			"item_count": 8,
+			"id": "f7ceb51d-6c5d-4cc5-8f6b-b198fedf83dc",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "汤粉类",
+			"item_count": 7,
 			"display_order": 6,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "82037260-785d-4992-9724-bf866443da73",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "凉菜类",
-			"item_count": 8,
+			"id": "f1c9204b-f66d-4b03-ab3d-6e96a8853682",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "卤味类",
+			"item_count": 5,
 			"display_order": 7,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "b733a942-789a-4323-948d-a517f157ce1b",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "盖浇饭",
-			"item_count": 18,
+			"id": "5e3e1245-882b-44c8-93cf-555f67000ba1",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "营养套饭",
+			"item_count": 14,
 			"display_order": 8,
 			"category_type": "NORMAL",
 			"type": 1
 		}, {
-			"id": "1137313a-ab21-4bea-9ec3-62d8495fe8fb",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "炒饭类",
-			"item_count": 8,
+			"id": "502d2435-2c50-4c4b-ba18-bfbb551793aa",
+			"store_id": "8e42ffb4-c379-4a0a-afbc-2bcf8150f2c0",
+			"merchant_id": "844c271e-9e3d-4c18-8b2f-66c057927b86",
+			"name": "老北京炸酱面",
+			"item_count": 11,
 			"display_order": 9,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "4988d662-4528-4a78-b826-b010b0082405",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "汤粉类",
-			"item_count": 12,
-			"display_order": 10,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "ac50a0de-e216-431d-ad16-11bb0d38dcfb",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "炒粉类",
-			"item_count": 9,
-			"display_order": 11,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "5fbb9efc-46fd-42b8-8c4b-acb3dff1828c",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "汤类",
-			"item_count": 6,
-			"display_order": 12,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "403bd03f-f379-419a-91fd-2bac8bd3c552",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "热菜类",
-			"item_count": 22,
-			"display_order": 13,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "80452473-1048-4465-840a-a553d136940c",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "饼类",
-			"item_count": 6,
-			"display_order": 14,
-			"category_type": "NORMAL",
-			"type": 1
-		}, {
-			"id": "c662b3f6-9125-4290-bcf0-093e7bc53835",
-			"store_id": "368bc7b6-b7da-455f-b2d9-2a067f526fd9",
-			"merchant_id": "4cfc2a33-fcce-42f9-bc08-9c621eda8fff",
-			"name": "饮料",
-			"item_count": 15,
-			"display_order": 15,
 			"category_type": "NORMAL",
 			"type": 1
 		}],

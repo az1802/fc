@@ -35,7 +35,7 @@ function genExportDirs(outputDir, shopName) {
 }
 
 // ext 表示爬取图片之后 图片的后缀名
-function genImgs(categories, { shopDir, ext = 'jpg' }) {
+function genImgs(categories, { shopDir, ext = '.jpg' }) {
   categories.forEach(async categoryItem => {
     if (!categoryItem) {
       return;
@@ -61,14 +61,14 @@ function genImgs(categories, { shopDir, ext = 'jpg' }) {
           await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", `${imgName}${ext}`)));
          
         } catch (err) {
-          console.log(`保存图片错误${imgName}`)
+          console.log(`保存图片错误------${imgName}`)
         }
       }
     })
   })
 }
 
-async function genImgs2(merchantInfo,outputDir) { 
+async function genImgs2(merchantInfo,outputDir,ext='.jpg') { 
   let { categories, shopName, shop_pic } = merchantInfo;
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let foodsImgsDir = path.join(shopDir, "imgs");
@@ -81,8 +81,16 @@ async function genImgs2(merchantInfo,outputDir) {
     let foods = categoryItem.foods
     foods.forEach(foodItem => {
       let imgUrl = foodItem.picUrl;
-      let imgName = formatFileName(foodItem.name) + ".jpg"
       if (imgUrl) {
+        if (typeof ext == 'fucntion ') {
+          ext = "."+ ext(url)
+        } else {
+          let imgReg = /\w(\.gif|\.jpeg|\.png|\.jpg|\.bmp|\.image)/i 
+          let matchRes = url&&url.match(imgReg);
+          ext = matchRes&&matchRes[1] || ".jpg";
+        }
+      let imgName = formatFileName(foodItem.name) + ext
+
         try {
           request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, imgName.trim())))
           

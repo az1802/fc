@@ -10,20 +10,18 @@ const defaultImgUrl = ""
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
-const findJsonLen = 6
+const findJsonLen = 5
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格" ],//规格
   practice: [
-    '规格', '口味', '辣度',	"圆扁面",
-    "干汤"
+    '规格', 	"可选",
   ],//做法
   feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    '规格', '口味', '辣度',"加料",	"圆扁面",
-    "干汤"
+    '规格', 	"可选",
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]

@@ -9,6 +9,7 @@ const officegen = require('officegen');
 const docx = officegen('docx');//word
 
 const { genShilaiExcelAll } = require('./genShilaiExcelAll')
+const axios = require('axios')
 
 async function sleep() {
   return new Promise((resolve, reject) => {
@@ -255,13 +256,16 @@ async function handelFoodItemImg(foodItem,shopDir,ext = 'jpg' ){
 
   let url = foodItem.picUrl
   foodItem.name = formatFileName(foodItem.name)
-  let imgName= foodItem.name
+  let imgName= foodItem.name.trim()
   if (url) {
     if (typeof ext == 'fucntion ') {
       ext = "."+ ext(url)
     } else {
-      let imgReg = /\w(\.gif|\.jpeg|\.png|\.jpg|\.bmp|\.image)/i 
+      let suffix = '`(bmp|jpg|png|tif|gif|pcx|tga|exif|fpx|svg|psd|cdr|pcd|dxf|ufo|eps|ai|raw|WMF|webp|jpeg)`';
+      let imgReg = /\w*(\.gif|\.jpeg|\.png|\.jpg|\.bmp|\.image)/i
+      // let imgReg =new RegExp(`.*\.${suffix}`);
       let matchRes = url&&url.match(imgReg);
+      // console.log('matchRes: ', matchRes);
       ext = matchRes&&matchRes[1] || ".jpg";
     }
 
@@ -273,10 +277,18 @@ async function handelFoodItemImg(foodItem,shopDir,ext = 'jpg' ){
     // } 
     try {
       console.log(url,ext,imgName);
-      await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+      // let res = await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+      let response = await  axios({
+        method: 'get',
+        url:encodeURI(url),
+        responseType: 'stream'
+      });
+      response.data.pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
+
+
     } catch (err) {
       // noImgUrls[imgName] = foodItem.name
-      console.log("保存图片错误", err)
+      console.log("保存图片错误1111----",imgName)
     }
   } else { 
     // noImgUrls[imgName] = foodItem.name
@@ -295,21 +307,31 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
   let allPropObj = {};
   let noImgUrls = {};
 
-  // 下载所有菜品的图片,用于菜品的批量单导入
-  categories.forEach(async categoryItem => {
-    if (!categoryItem) {
-      return;
-    }
 
-
+  for(let i = 0 ; i < categories.length;i++){
+    categoryItem = categories[i];
     for (let i = 0; i < categoryItem.foods.length ;i++) {
       await handelFoodItemImg(categoryItem.foods[i],shopDir)
-      await sleep(2000)
+      // await sleep(2000)
       
     }
-    // categoryItem.foods.forEach()
-  })
+  }
 
+//   // 下载所有菜品的图片,用于菜品的批量单导入
+//   await Promise.all(categories.map(async categoryItem => {
+//     if (!categoryItem) {
+//       return;
+//     }
+
+
+//     for (let i = 0; i < categoryItem.foods.length ;i++) {
+//       await handelFoodItemImg(categoryItem.foods[i],shopDir)
+//       await sleep(8000)
+      
+//     }
+//     // categoryItem.foods.forEach()
+//   })
+// )
 
 
   // 调整属性组的顺序

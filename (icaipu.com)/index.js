@@ -11,11 +11,11 @@ const exportMode = "feie"
 
 const outputDir = path.join(__dirname, "merchantInfos")
 let shopInfo = {
-  name:"尊义百年虾子羊肉粉",
+  name: "夺笋呐鱼",
 }
 
 let res = require('./merchantInfo.json');
-let {DisheGrpInfo:menuList} = res;
+let { DisheGrpInfo: menuList } = res;
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications: [],//规格
@@ -48,12 +48,12 @@ async function logInfo(info, fileName = "test.json") {
 
 // 获取原始数据
 async function getMerchantInfo() {
-  
+
   return handleRequestData();
 }
 
 function formatFoodProps(foodItem) {
-  
+
 
   let propsRes = [];
 

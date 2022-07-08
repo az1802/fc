@@ -1,263 +1,242 @@
 {
-	"shopName": "南昌拌粉深圳桥南店",
+	"shopName": "美蛙甲鱼馆",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "拌粉类",
+			"name": "甲鱼",
 			"foods": [
 				{
-					"name": "木耳肉丝拌粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2us71i5l28000jpeg",
-					"price": 12,
+					"name": "甲鱼烧土鸡+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/305dtf21k8200jpeg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "拌粉类",
+					"categoryName": "甲鱼",
 					"props": []
 				},
 				{
-					"name": "红烧排骨拌粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2us71bkse8000jpeg",
-					"price": 12,
+					"name": "红烧甲鱼+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/305dts9k08200jpeg",
+					"price": 32,
 					"unit": "份",
-					"categoryName": "拌粉类",
+					"categoryName": "甲鱼",
 					"props": []
 				},
 				{
-					"name": "南昌经典拌粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usad755m8200jpeg",
-					"price": 7,
+					"name": "甲鱼烧牛蛙+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/305dtmql68200jpeg",
+					"price": 29,
 					"unit": "份",
-					"categoryName": "拌粉类",
+					"categoryName": "甲鱼",
 					"props": []
 				},
 				{
-					"name": "红烧牛肉拌粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2us7166n28200jpeg",
-					"price": 12,
+					"name": "甲鱼烧肥肠+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/305du7tvc8200jpeg",
+					"price": 32,
 					"unit": "份",
-					"categoryName": "拌粉类",
-					"props": []
-				},
-				{
-					"name": "飘香牛肚拌粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usadasuu8200jpeg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "拌粉类",
+					"categoryName": "甲鱼",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "汤粉类",
+			"name": "快餐标准餐",
 			"foods": [
 				{
-					"name": "飘香牛肚汤粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usadg8h68200jpeg",
-					"price": 12,
+					"name": "香辣牛杂烩+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gap3bg8000jpeg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "汤粉类",
+					"categoryName": "快餐标准餐",
 					"props": []
 				},
 				{
-					"name": "红烧排骨汤粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usadrt848200jpeg",
-					"price": 12,
+					"name": "醇香猪杂烩+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gan5fg8200jpeg",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "汤粉类",
+					"categoryName": "快餐标准餐",
 					"props": []
 				},
 				{
-					"name": "红烧牛肉汤粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usadlft08200jpeg",
-					"price": 12,
+					"name": "飘香羊杂烩+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gb0m8u8000jpeg",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "汤粉类",
+					"categoryName": "快餐标准餐",
 					"props": []
 				},
 				{
-					"name": "木耳肉丝汤粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usadv8988200jpeg",
-					"price": 12,
+					"name": "外婆鱼籽+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/301df9mhm8000jpeg",
+					"price": 23,
 					"unit": "份",
-					"categoryName": "汤粉类",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "馋嘴牛蛙煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gboose8200jpeg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "红烧排骨煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gb6dn28000jpeg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "酱香土鸡煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gb8khg8200jpeg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "酱香肥肠煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gbc57m8000jpeg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "牛蛙土鸡煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gbanf28200jpeg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "肥肠土鸡煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gb2scs8200jpeg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "牛蛙肥肠煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gbgkvc8000jpeg",
+					"price": 24,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
+					"props": []
+				},
+				{
+					"name": "肥肠牛腩煲+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gbja2k8000jpeg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "快餐标准餐",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "米饭炒粉类",
+			"name": "快餐加量餐",
 			"foods": [
 				{
-					"name": "飘香牛肚饭",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usaenbqi8200jpeg",
-					"price": 16,
+					"name": "外婆鱼籽（加量）+米饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/301detlhs8200jpeg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "米饭炒粉类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "南昌特色炒粉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usaespiq8000jpeg",
-					"price": 12,
+					"name": "醇香猪杂烩(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur5s71k8000jpeg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "米饭炒粉类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "木耳肉丝饭",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usaebq5g8000jpeg",
-					"price": 14,
+					"name": "醇香牛杂烩(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur65gh28200jpeg",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "米饭炒粉类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "红烧牛肉饭",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usae6ag48000jpeg",
-					"price": 16,
+					"name": "醇香羊杂烩(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur6dtju8000jpeg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "米饭炒粉类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "红烧排骨饭",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usae93388200jpeg",
-					"price": 16,
+					"name": "酱香土鸡煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur6k4r28000jpeg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "米饭炒粉类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "煨汤类",
-			"foods": [
-				{
-					"name": "香菇肉饼汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahiar88200jpeg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "红枣枸纪乌鸡汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah9e648200jpeg",
-					"price": 10,
+					"name": "红烧排骨煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gbruoa8000jpeg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "花旗参土鸡汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah8mri8200jpeg",
-					"price": 12,
+					"name": "香辣牛蛙煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur72ufs8000jpeg",
+					"price": 27,
 					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "虫草花土鸡汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah051s8000jpeg",
-					"price": 12,
+					"name": "砂锅肥肠煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur7coio8200jpeg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "板栗土鸡汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah24ea8000jpeg",
-					"price": 10,
+					"name": "牛蛙肥肠煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vurautu88200jpeg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "冬瓜龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah77am8000jpeg",
-					"price": 9,
+					"name": "牛蛙土鸡煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur6rj3u8000jpeg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "玉米龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahjnak8000jpeg",
-					"price": 9,
+					"name": "肥肠土鸡煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vura522q8000jpeg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				},
 				{
-					"name": "墨鱼肉饼汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahg0q68200jpeg",
-					"price": 8,
+					"name": "肥肠牛腩煲(加量)配饭",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2vur9tv3q8200jpeg",
+					"price": 32,
 					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "莲藕龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahf16o8200jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "茶树菇龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah4qsq8200jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "海带龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah7tsg8000jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "雪梨肉饼汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahj1v68000jpeg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "山药龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahhjhu8200jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋肉饼汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahbqmu8200jpeg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "凉瓜龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usahe6768200jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "煨汤类",
-					"props": []
-				},
-				{
-					"name": "板栗龙骨汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usah3ptm8000jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "煨汤类",
+					"categoryName": "快餐加量餐",
 					"props": []
 				}
 			]
@@ -266,17 +245,73 @@
 			"name": "加料",
 			"foods": [
 				{
-					"name": "茶叶蛋",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usafm1os8000jpeg",
+					"name": "煎蛋",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421769854817337344jpg",
 					"price": 2,
 					"unit": "份",
 					"categoryName": "加料",
 					"props": []
 				},
 				{
-					"name": "荷包蛋",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2usaftvea8000jpeg",
-					"price": 2,
+					"name": "加猪杂",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421904501909946368jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加牛杂",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3422445409436893184jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加羊杂",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3422087546946387968jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加土鸡",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3434226413436600320jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加牛蛙",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3429162135652335616jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加肥肠",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3439449254534774784jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加牛腩",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421935301250449408jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "加料",
+					"props": []
+				},
+				{
+					"name": "加排骨",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421904502144827392jpg",
+					"price": 8,
 					"unit": "份",
 					"categoryName": "加料",
 					"props": []
@@ -284,99 +319,136 @@
 			]
 		},
 		{
-			"name": "饮料",
+			"name": "快餐套餐",
 			"foods": [
 				{
-					"name": "农夫山泉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utemfl9q8200jpeg",
-					"price": 2,
+					"name": "醇香羊杂烩+煎蛋+三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/307qnltm68000jpeg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "快餐套餐",
 					"props": []
 				},
 				{
-					"name": "王老吉",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utekeqm28200jpeg",
-					"price": 4,
+					"name": "醇香牛杂烩+煎蛋+三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/307qnnh1m8200jpeg",
+					"price": 26,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "快餐套餐",
 					"props": []
 				},
 				{
-					"name": "怡宝矿泉水",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utemp8ig8200jpeg",
-					"price": 2,
+					"name": "醇香猪杂烩+煎蛋+三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/307qnpfl48200jpeg",
+					"price": 23,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "快餐套餐",
+					"props": []
+				},
+				{
+					"name": "香辣牛蛙煲+煎蛋+三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/307qnrau08000jpeg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "快餐套餐",
+					"props": []
+				},
+				{
+					"name": "酱香土鸡煲+煎蛋+三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/307qnupbm8200jpeg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "快餐套餐",
+					"props": []
+				},
+				{
+					"name": "酱香肥肠煲+煎蛋+三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/307qo93dm8200jpeg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "快餐套餐",
+					"props": []
+				},
+				{
+					"name": "红烧排骨煲+煎蛋+三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/307qocmd28000jpeg",
+					"price": 29,
+					"unit": "份",
+					"categoryName": "快餐套餐",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮品汤羹",
+			"foods": [
+				{
+					"name": "三鲜汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421769553469177856jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品汤羹",
+					"props": []
+				},
+				{
+					"name": "绿豆汤",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3427338980354883584jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品汤羹",
 					"props": []
 				},
 				{
 					"name": "百事可乐",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utemj3kc8200jpeg",
-					"price": 3,
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421769286141018112jpg",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮品汤羹",
 					"props": []
 				},
 				{
-					"name": "绿茶",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utema5rs8200jpeg",
-					"price": 3,
+					"name": "雪碧",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421769819323039744jpg",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮品汤羹",
 					"props": []
 				},
 				{
-					"name": "冰红茶",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utem513m8000jpeg",
-					"price": 3,
+					"name": "天地一号",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421919159389716480jpg",
+					"price": 5,
 					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮品汤羹",
 					"props": []
 				},
 				{
-					"name": "豆奶",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utemcmi28000jpeg",
-					"price": 3,
+					"name": "加多宝",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/operator3421769409025736704jpg",
+					"price": 5,
 					"unit": "份",
-					"categoryName": "饮料",
-					"props": []
-				},
-				{
-					"name": "优酸乳",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utem1n568000jpeg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "饮料",
+					"categoryName": "饮品汤羹",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "套餐系列",
+			"name": "啤酒",
 			"foods": [
 				{
-					"name": "红烧牛肉饭+任意龙骨汤",
-					"picUrl": "",
-					"price": 22,
+					"name": "百威啤酒",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306ga6c668200jpeg",
+					"price": 8,
 					"unit": "份",
-					"categoryName": "套餐系列",
+					"categoryName": "啤酒",
 					"props": []
 				},
 				{
-					"name": "经典拌粉大份+荷包蛋",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utugv5l08000jpeg",
-					"price": 10,
+					"name": "青岛啤酒",
+					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/306gaffe28000jpeg",
+					"price": 6,
 					"unit": "份",
-					"categoryName": "套餐系列",
-					"props": []
-				},
-				{
-					"name": "经典拌粉小+鸡蛋肉饼汤",
-					"picUrl": "https://leshua-hsy-pic.oss-cn-shenzhen.aliyuncs.com/2utftkck08000jpeg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "套餐系列",
+					"categoryName": "啤酒",
 					"props": []
 				}
 			]

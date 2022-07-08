@@ -1,22 +1,166 @@
 {
-	"shopName": "小鱼号酸菜鱼米饭(万象店)",
+	"shopName": "西域风烧烤主题餐厅",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "无刺的鱼",
+			"name": "推荐",
 			"foods": [
 				{
-					"name": "柠檬无骨鱼+米饭（加单点更优惠）",
-					"picUrl": "http://p0.meituan.net/wmproduct/a433d13eee6b3ba02eaba2255cf9723677762.jpg",
-					"price": 35.8,
+					"name": "招牌羊肉串",
+					"picUrl": "http://p1.meituan.net/wmproduct/9761cda787e2fb841a148c6d3be9f7f8123228.jpg@150w_150h_1e_1c",
+					"price": 0.98,
 					"unit": "份",
-					"categoryName": "无刺的鱼",
+					"categoryName": "推荐",
+					"props": []
+				},
+				{
+					"name": "烤牛板筋",
+					"picUrl": "http://p1.meituan.net/wmproduct/d671423d6b78dfc838ab68ecd1ad07561039396.jpg@150w_150h_1e_1c",
+					"price": 2.9,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": []
+				},
+				{
+					"name": "烤鸡全翅",
+					"picUrl": "http://p0.meituan.net/wmproduct/90e0e4af8b725b7abbfea72ce873f6b6617236.jpg@150w_150h_1e_1c",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "推荐",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "180克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤掌中宝（鸡脆骨串）",
+					"picUrl": "http://p0.meituan.net/wmproduct/b0f09eec1cc4794d568e463a8696a139502508.jpg@150w_150h_1e_1c",
+					"price": 7.14,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤鸡腿",
+					"picUrl": "http://p0.meituan.net/wmproduct/5bc176f5ab301cecd8c5327b8acb2211559100.jpg@150w_150h_1e_1c",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "150克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌烤羊腰子",
+					"picUrl": "http://p0.meituan.net/wmproduct/59c87ecb055bb5af90e8ba83de8a1113722537.jpg@150w_150h_1e_1c",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": []
+				},
+				{
+					"name": "大师炒米粉（传统米粉）点一份炒一份",
+					"picUrl": "http://p0.meituan.net/xianfu/17b5c83031d77e4066da99ab3df1893e212769.jpg@150w_150h_1e_1c",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆大盘鸡（一人份，赠面，赠盲盒饮料）",
+					"picUrl": "http://p0.meituan.net/xianfu/38c5d5e5f74bb55ed24c633a6a344b27381180.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤黄牛肉串",
+					"picUrl": "http://p0.meituan.net/wmproduct/ce851c6fbba6d48fbe1200aee6d8c166340794.jpg@150w_150h_1e_1c",
+					"price": 5.5,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "传统手抓羊肉",
+					"picUrl": "http://p0.meituan.net/xianfu/90d0f45195ff919c31455557cb1faf36353034.jpg@150w_150h_1e_1c",
+					"price": 118,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -28,20 +172,28 @@
 			]
 		},
 		{
-			"name": "花样肉片",
+			"name": "热销",
 			"foods": [
 				{
-					"name": "番茄肉片+米饭",
-					"picUrl": "http://p0.meituan.net/wmproduct/8209ca604e46de12da425a2fb27cb36e482553.png",
-					"price": 37.8,
+					"name": "招牌羊肉串",
+					"picUrl": "http://p1.meituan.net/wmproduct/9761cda787e2fb841a148c6d3be9f7f8123228.jpg@150w_150h_1e_1c",
+					"price": 0.98,
 					"unit": "份",
-					"categoryName": "花样肉片",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "烤掌中宝（鸡脆骨串）",
+					"picUrl": "http://p0.meituan.net/wmproduct/b0f09eec1cc4794d568e463a8696a139502508.jpg@150w_150h_1e_1c",
+					"price": 7.14,
+					"unit": "份",
+					"categoryName": "热销",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "100克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -49,24 +201,19 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "特赞肥牛",
-			"foods": [
+				},
 				{
-					"name": "酸菜肥牛+米饭",
-					"picUrl": "http://p0.meituan.net/wmproduct/d074bb4c7b893e2311d9c46f3c5e8bfe510247.png",
-					"price": 38.8,
+					"name": "烤黄牛肉串",
+					"picUrl": "http://p0.meituan.net/wmproduct/ce851c6fbba6d48fbe1200aee6d8c166340794.jpg@150w_150h_1e_1c",
+					"price": 5.5,
 					"unit": "份",
-					"categoryName": "特赞肥牛",
+					"categoryName": "热销",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "15克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -74,24 +221,19 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "鲜活黑鱼",
-			"foods": [
+				},
 				{
-					"name": "水煮黑鱼+米饭",
-					"picUrl": "http://p1.meituan.net/wmproduct/1fbf8b42823738c88fbf1882337dd90a433815.png",
-					"price": 38.8,
+					"name": "烤韭菜，",
+					"picUrl": "http://p0.meituan.net/wmproduct/67a83d716cc4691a8e9c3f686e17b1a6998507.jpg@150w_150h_1e_1c",
+					"price": 0.5,
 					"unit": "份",
-					"categoryName": "鲜活黑鱼",
+					"categoryName": "热销",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "25克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -99,24 +241,43 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "鸳鸯双拼",
-			"foods": [
+				},
 				{
-					"name": "酸菜双拼+米饭",
-					"picUrl": "http://p0.meituan.net/wmproduct/4233cc988edfa6e2ceb50be9971d0e6b512413.png",
-					"price": 38.8,
+					"name": "烤牛肉香肠",
+					"picUrl": "http://p1.meituan.net/xianfu/b18aeff3c301991379d38f91624f730f350630.jpg@150w_150h_1e_1c",
+					"price": 3.5,
 					"unit": "份",
-					"categoryName": "鸳鸯双拼",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "烤蒜蓉豆腐皮",
+					"picUrl": "http://p0.meituan.net/wmproduct/fa63af6a57db655a0246dab2c52584c3912954.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "烤牛板筋",
+					"picUrl": "http://p1.meituan.net/wmproduct/d671423d6b78dfc838ab68ecd1ad07561039396.jpg@150w_150h_1e_1c",
+					"price": 2.9,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "烤鸡腿",
+					"picUrl": "http://p0.meituan.net/wmproduct/5bc176f5ab301cecd8c5327b8acb2211559100.jpg@150w_150h_1e_1c",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "热销",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "150克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -124,37 +285,52 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "美味鸭腱",
-			"foods": [
+				},
 				{
-					"name": "水煮鸭腱+米饭",
-					"picUrl": "http://p0.meituan.net/wmproduct/a436f115b502a5f066ccd7c3efc944dd94263.jpg",
-					"price": 38.8,
+					"name": "大师炒米粉（传统米粉）点一份炒一份",
+					"picUrl": "http://p0.meituan.net/xianfu/17b5c83031d77e4066da99ab3df1893e212769.jpg@150w_150h_1e_1c",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "美味鸭腱",
+					"categoryName": "热销",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤面筋",
+					"picUrl": "http://p0.meituan.net/wmproduct/41ac5fc5f4eb742a1773c92fd9b77772269641.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "热销",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "新品脆鱼",
+			"name": "折扣",
 			"foods": [
 				{
-					"name": "水煮脆鱼+米饭",
-					"picUrl": "http://p1.meituan.net/wmproduct/b5d766c4364d7f6d20d5b63bbbb2c292447728.png",
-					"price": 43.8,
+					"name": "雪碧330",
+					"picUrl": "http://p1.meituan.net/wmproduct/3627a47e71c0300decaca7e12e192aeb154151.jpg@150w_150h_1e_1c",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "新品脆鱼",
+					"categoryName": "折扣",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "135克",
+									"value": "330克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -162,24 +338,19 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "飘香牛肉",
-			"foods": [
+				},
 				{
-					"name": "水煮牛肉+米饭",
-					"picUrl": "http://p1.meituan.net/wmproduct/fb4e4e5bc6b92509877998e3f7eddcaf474965.png",
-					"price": 46.8,
+					"name": "怡宝矿泉水555毫升",
+					"picUrl": "http://p0.meituan.net/xianfu/458cb92d00ce2ec7e602a13d887842be116922.jpg@150w_150h_1e_1c",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "飘香牛肉",
+					"categoryName": "折扣",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "555克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -187,24 +358,19 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "美味三鲜",
-			"foods": [
+				},
 				{
-					"name": "番茄三鲜+米饭",
-					"picUrl": "http://p1.meituan.net/wmproduct/3dad0e4ff369e1cf841f3023fc5c49a2479002.png",
-					"price": 49.8,
+					"name": "百事可乐330",
+					"picUrl": "http://p0.meituan.net/xianfu/3a28079c76e9e680d78ced599e41630257124.jpg@150w_150h_1e_1c",
+					"price": 3.2,
 					"unit": "份",
-					"categoryName": "美味三鲜",
+					"categoryName": "折扣",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "330毫升",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -212,55 +378,233 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "多人聚餐",
-			"foods": [
+				},
 				{
-					"name": "柠檬无骨鱼（不含米饭）",
-					"picUrl": "http://p0.meituan.net/wmproduct/6c3458148cb91cb89f97de89ff052315570248.png",
-					"price": 108,
+					"name": "椰汁、",
+					"picUrl": "http://p1.meituan.net/xianfu/307e8baa3ab40a53088fdfc31e3f2d02425984.jpg@150w_150h_1e_1c",
+					"price": 6,
 					"unit": "份",
-					"categoryName": "多人聚餐",
+					"categoryName": "折扣",
 					"props": [
 						{
-							"name": "辣度",
+							"name": "份量",
 							"values": [
 								{
-									"value": "微辣",
+									"value": "300克",
 									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "辣度",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "辣度",
+									"propName": "份量",
 									"isMul": true
 								}
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "单点专区",
-			"foods": [
+				},
 				{
-					"name": "鱿鱼50g",
-					"picUrl": "http://p1.meituan.net/wmproduct/c98cd112df7bcc4fc02b31a93855c24c357886.png",
-					"price": 12.6,
+					"name": "新疆原厂乌苏啤酒（绿色或者红色随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c85535f42bd604fe1245064d7bb2c76c503449.jpg@150w_150h_1e_1c",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "单点专区",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "600克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣炒田螺，单点不送",
+					"picUrl": "http://p0.meituan.net/xianfu/60317673c49b3733cc78c9e313b1d704142198.jpg@150w_150h_1e_1c",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "传统手抓羊肉",
+					"picUrl": "http://p0.meituan.net/xianfu/90d0f45195ff919c31455557cb1faf36353034.jpg@150w_150h_1e_1c",
+					"price": 118,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小羊腿（羊棒骨）",
+					"picUrl": "http://p1.meituan.net/wmproduct/c5138a6984dfaf74b20fe670831a2ae4305509.jpg@150w_150h_1e_1c",
+					"price": 47,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "300克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤小羊腿",
+					"picUrl": "http://p1.meituan.net/wmproduct/8dc2fef4771bbc2d705d897b895088d4987404.jpg@150w_150h_1e_1c",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "250克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆羊杂",
+					"picUrl": "http://p0.meituan.net/xianfu/8d7376d9a7c95079b097a9fbe13f4483702158.png@150w_150h_1e_1c",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椒麻羊排",
+					"picUrl": "http://p0.meituan.net/xianfu/c86c5543c74ce5a8a168f848149f646151422.jpg@150w_150h_1e_1c",
+					"price": 118,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "胡辣羊蹄",
+					"picUrl": "http://p1.meituan.net/xianfu/efca6395ffa32a8852f7208386498fff75305.jpg@150w_150h_1e_1c",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆炒肚丝",
+					"picUrl": "http://p1.meituan.net/xianfu/08e23bd24a379e33c7963ea49532c74757802.jpg@150w_150h_1e_1c",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉",
+					"picUrl": "http://p0.meituan.net/xianfu/eeb0dbdf8f2cd71420433e2e87093c70453763.jpg@150w_150h_1e_1c",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "巴掌大的生蚝",
+					"picUrl": "http://p0.meituan.net/wmproduct/15d009a5507269827ed1e08a6334410785040.jpg@150w_150h_1e_1c",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "折扣",
 					"props": [
 						{
 							"name": "份量",
@@ -276,11 +620,1441 @@
 					]
 				},
 				{
-					"name": "魔芋结",
-					"picUrl": "http://p0.meituan.net/wmproduct/97fd8440de2b38168edad0960e8e6a7b298374.png",
-					"price": 4.2,
+					"name": "大师炒米粉（传统米粉）点一份炒一份",
+					"picUrl": "http://p0.meituan.net/xianfu/17b5c83031d77e4066da99ab3df1893e212769.jpg@150w_150h_1e_1c",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "单点专区",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香糯米饭一人份",
+					"picUrl": "http://p0.meituan.net/xianfu/312f3797b3689618e0f7cd0f0c3cffe385769.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "200克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆大盘鸡（一人份，赠面，赠盲盒饮料）",
+					"picUrl": "http://p0.meituan.net/xianfu/38c5d5e5f74bb55ed24c633a6a344b27381180.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆炖牛肉饭",
+					"picUrl": "http://p1.meituan.net/xianfu/99c691cbacafbedbb875ce0fcfbeb4e5435825.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500千克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鸡汤娃娃菜豆腐汤",
+					"picUrl": "http://p0.meituan.net/xianfu/38a34b898f39abfb8c1b593a874ef27d408075.jpg@150w_150h_1e_1c",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "600克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣鸡煲",
+					"picUrl": "http://p0.meituan.net/xianfu/b508f2310c8d81d2776f50cd71c8aebb359634.jpg@150w_150h_1e_1c",
+					"price": 79,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1000克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣牛腩煲",
+					"picUrl": "http://p0.meituan.net/xianfu/74ca5a30a4cfb76cb91ae67ea63f0f6b393803.jpg@150w_150h_1e_1c",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "800克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌羊肉煲（990克鲜羊肉）",
+					"picUrl": "http://p0.meituan.net/wmproduct/4a090c88ee64ba1415e2a9ba724f6f9b717241.jpg@150w_150h_1e_1c",
+					"price": 138,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "传统牛肉炒拉条",
+					"picUrl": "http://p0.meituan.net/xianfu/1d687b427203dc9e020cbdd87e969d7e298671.jpg@150w_150h_1e_1c",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆豉鲮鱼油麦菜。",
+					"picUrl": "http://p1.meituan.net/xianfu/b3c5f9054d4a2a0c68538307b56c0c7e370938.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "一窝羊杂汤",
+					"picUrl": "http://p1.meituan.net/xianfu/545bab5896ec5dc27cde336ba2819d1557101.jpg@150w_150h_1e_1c",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "600克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉炒面片",
+					"picUrl": "http://p0.meituan.net/xianfu/1123035e489dfe8147c962540584236b373745.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆羊肉",
+					"picUrl": "http://p0.meituan.net/xianfu/a40ddb9cb7d188d110ccaef933df5006166416.jpg@150w_150h_1e_1c",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉",
+					"picUrl": "http://p1.meituan.net/xianfu/f714496ed4b4de0f49623b29e94993cd314045.jpg@150w_150h_1e_1c",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉拌面",
+					"picUrl": "http://p1.meituan.net/wmproduct/80a17d70541f8e238f9e2eeccb99f506481115.jpg@150w_150h_1e_1c",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "680克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤面片",
+					"picUrl": "http://p0.meituan.net/xianfu/4590d82bc5e6bbf891b722595883bbd150495.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "http://p0.meituan.net/xianfu/74bd92602ab59754cc2bf3a0fd9f4f87311354.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蛋炒饭",
+					"picUrl": "http://p0.meituan.net/xianfu/d4401d9cfc5cbf6ec8e254564a13a14e281318.jpg@150w_150h_1e_1c",
+					"price": 18.8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤黄牛肉串",
+					"picUrl": "http://p0.meituan.net/wmproduct/ce851c6fbba6d48fbe1200aee6d8c166340794.jpg@150w_150h_1e_1c",
+					"price": 5.5,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "沙漠红柳烤肉",
+					"picUrl": "http://p0.meituan.net/wmproduct/b18b2d1b209e2c9948104e361235b798469039.jpg@150w_150h_1e_1c",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤韭菜，",
+					"picUrl": "http://p0.meituan.net/wmproduct/67a83d716cc4691a8e9c3f686e17b1a6998507.jpg@150w_150h_1e_1c",
+					"price": 0.5,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "25克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌爆炒花甲(单点不送)*抢购",
+					"picUrl": "http://p1.meituan.net/xianfu/06703f04050a074ee25365c8e9c2c97e503449.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "福佳白啤酒",
+					"picUrl": "http://p1.meituan.net/xianfu/cb3358b0ca0c7946727a9a361219af3c245760.jpg@150w_150h_1e_1c",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤小馒头",
+					"picUrl": "http://p1.meituan.net/wmproduct/9ea41e2165164d2dd4ca0ff6c02446d7900003.jpg@150w_150h_1e_1c",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "烧烤味",
+							"values": [
+								{
+									"value": "烧烤原味",
+									"price": 0,
+									"propName": "烧烤味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "蜜糖",
+							"values": [
+								{
+									"value": "蜜糖",
+									"price": 0,
+									"propName": "蜜糖",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌烤羊排串（门店特有）",
+					"picUrl": "http://p0.meituan.net/wmproduct/80eccee15bdd39a63db71f5e5e3beee11022508.jpg@150w_150h_1e_1c",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "380克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌烤馕饼",
+					"picUrl": "http://p1.meituan.net/wmproduct/ec2f98731eddada1bf0c8dff8ffb2012285979.jpg@150w_150h_1e_1c",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "200克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豪牛肉粒炒饭",
+					"picUrl": "http://p0.meituan.net/xianfu/cacfe629dc73e0583e1433d0cbe2c4e1542720.jpg@150w_150h_1e_1c",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "280克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "科罗纳瓶装",
+					"picUrl": "http://p1.meituan.net/xianfu/2c25812821198e53253eef759a59cfd7114688.jpg@150w_150h_1e_1c",
+					"price": 9.75,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "330克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "加多宝罐",
+					"picUrl": "http://p0.meituan.net/xianfu/4012bd72a934742cc97d58abaf39cd79191798.jpg@150w_150h_1e_1c",
+					"price": 5.5,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "330克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "锡纸花甲粉（单点不送）",
+					"picUrl": "http://p0.meituan.net/xianfu/361a4050f6441bdfc8cbac5e829b9f69166894.jpg@150w_150h_1e_1c",
+					"price": 18.76,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "招牌新疆拌面",
+					"picUrl": "http://p0.meituan.net/xianfu/fa4c79d4626226d466de9ae36d7fba9f349585.jpg@150w_150h_1e_1c",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "清炒时蔬菜（白灼）",
+					"picUrl": "http://p1.meituan.net/xianfu/c1e2a1497e8e2b3ce97558aceebb3d55290287.jpg@150w_150h_1e_1c",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝",
+					"picUrl": "http://p1.meituan.net/xianfu/1ad4af152006a2edb3acc06f33c7cc20347855.jpg@150w_150h_1e_1c",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干炒牛河",
+					"picUrl": "http://p1.meituan.net/xianfudwm/01c81d17f045497af6b277dc932547e3183333.jpg@150w_150h_1e_1c",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西域辣子鸡",
+					"picUrl": "http://p1.meituan.net/xianfu/fda755c83cada3ed6dfa3e226335ffb986032.jpg@150w_150h_1e_1c",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "新疆大盘鸡（2斤鸡肉）赠皮带面或者米饭",
+					"picUrl": "http://p1.meituan.net/wmproduct/2bcb59f595ad44c4480d856ea23b5ace986708.jpg@150w_150h_1e_1c",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "900克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌烤羊腰子",
+					"picUrl": "http://p0.meituan.net/wmproduct/59c87ecb055bb5af90e8ba83de8a1113722537.jpg@150w_150h_1e_1c",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤鸡爪",
+					"picUrl": "http://p0.meituan.net/wmproduct/ebdf13be84092a25be7803ca4dcf718d248718.jpg@150w_150h_1e_1c",
+					"price": 3.3,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤鸡中翅一对",
+					"picUrl": "http://p0.meituan.net/wmproduct/189fcf87421934cca80296f8a2b10c09232245.jpg@150w_150h_1e_1c",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤牛肉香肠",
+					"picUrl": "http://p1.meituan.net/xianfu/b18aeff3c301991379d38f91624f730f350630.jpg@150w_150h_1e_1c",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤一整只玉米",
+					"picUrl": "http://p0.meituan.net/wmproduct/a4456e1e467b6c8e44b4c577b15df6d2216566.jpg@150w_150h_1e_1c",
+					"price": 10.34,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤大茄子",
+					"picUrl": "http://p0.meituan.net/wmproduct/840d26b3c0a6972cff593458d5b8553a296105.jpg@150w_150h_1e_1c",
+					"price": 9.82,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "秘制烤整羔羊排",
+					"picUrl": "http://p0.meituan.net/xianfu/891b38ee3a3626c2ef1fde373e2ae3ec485462.jpg@150w_150h_1e_1c",
+					"price": 124.6,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "650克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "霸气烤原装正品大羊腰子",
+					"picUrl": "http://p0.meituan.net/wmproduct/da93a71611887fbb09f9ad74b0fecc44301861.jpg@150w_150h_1e_1c",
+					"price": 25.5,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "150克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "炭烤多春鱼4条",
+					"picUrl": "http://p0.meituan.net/wmproduct/ce6bd2806218e29e6f68d8ecae22f8e5103909.jpg@150w_150h_1e_1c",
+					"price": 6.6,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "大个烤扇贝",
+					"picUrl": "http://p0.meituan.net/wmproduct/f648f8557a97634b23f9c3e8b8718ebd77905.jpg@150w_150h_1e_1c",
+					"price": 7.59,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "锡纸娃娃菜",
+					"picUrl": "http://p0.meituan.net/xianfu/a9daac220d1eaa6718046694db355004429822.jpg@150w_150h_1e_1c",
+					"price": 17.67,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤鸡全翅",
+					"picUrl": "http://p0.meituan.net/wmproduct/90e0e4af8b725b7abbfea72ce873f6b6617236.jpg@150w_150h_1e_1c",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "180克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌羊肉串",
+					"picUrl": "http://p1.meituan.net/wmproduct/9761cda787e2fb841a148c6d3be9f7f8123228.jpg@150w_150h_1e_1c",
+					"price": 0.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤鸡腿",
+					"picUrl": "http://p0.meituan.net/wmproduct/5bc176f5ab301cecd8c5327b8acb2211559100.jpg@150w_150h_1e_1c",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "150克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤牛肚串",
+					"picUrl": "http://p0.meituan.net/wmproduct/6d67467bca2a6e652608847cf44afa5c997411.jpg@150w_150h_1e_1c",
+					"price": 2.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤牛板筋",
+					"picUrl": "http://p1.meituan.net/wmproduct/d671423d6b78dfc838ab68ecd1ad07561039396.jpg@150w_150h_1e_1c",
+					"price": 2.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烧骨肉相连",
+					"picUrl": "http://p0.meituan.net/wmproduct/a996792a745b183af3fdb97c23b988b0936590.jpg@150w_150h_1e_1c",
+					"price": 0.71,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				},
+				{
+					"name": "烤秋刀鱼",
+					"picUrl": "http://p0.meituan.net/wmproduct/ba242efaabc51dee4cfed43f839d0d4f114618.jpg@150w_150h_1e_1c",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "特价福利",
+			"foods": [
+				{
+					"name": "点亮小🌟星赠鸡肉，玉米，小虾，随机小串十串",
+					"picUrl": "http://p0.meituan.net/wmproduct/39e5bda2dc6c2423fa09e43444a687201024759.jpg@150w_150h_1e_1c",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "特惠烤土豆片（单点不送）",
+					"picUrl": "http://p0.meituan.net/wmproduct/40a7fb597e55000f2454bc7ff820e6e4270537.jpg@150w_150h_1e_1c",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "80克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤草原黄牛肉串",
+					"picUrl": "http://p0.meituan.net/wmproduct/701f1a9bec7760bea61fe4de84f82b5499893.jpg@150w_150h_1e_1c",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤韭菜（单点不送。）",
+					"picUrl": "http://p0.meituan.net/wmproduct/1a65b287c4c2d27d5bbe6cc7d6903aeb298581.jpg@150w_150h_1e_1c",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "80克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "收藏🌟店铺送康师傅冰红茶一支",
+					"picUrl": "http://p0.meituan.net/xianfu/375d346d723fc02d51c52bbf172e6902275603.jpg@150w_150h_1e_1c",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "250毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤鸡爪",
+					"picUrl": "http://p0.meituan.net/wmproduct/ebdf13be84092a25be7803ca4dcf718d248718.jpg@150w_150h_1e_1c",
+					"price": 3.3,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": []
+				},
+				{
+					"name": "点亮右上🌟，配送费减6元",
+					"picUrl": "http://p0.meituan.net/wmproduct/16ecd68d7161607567fc792a38f1e6d3991600.jpg@150w_150h_1e_1c",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": []
+				},
+				{
+					"name": "收藏⭐️店铺领3元代金（数量有限）",
+					"picUrl": "http://p0.meituan.net/wmproduct/8825ec196e559814502051ea7903e0f4136332.jpg@150w_150h_1e_1c",
+					"price": 0.1,
+					"unit": "份",
+					"categoryName": "特价福利",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "招牌烤肉",
+			"foods": [
+				{
+					"name": "招牌羊肉串",
+					"picUrl": "http://p1.meituan.net/wmproduct/9761cda787e2fb841a148c6d3be9f7f8123228.jpg@150w_150h_1e_1c",
+					"price": 0.98,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": []
+				},
+				{
+					"name": "烤掌中宝（鸡脆骨串）",
+					"picUrl": "http://p0.meituan.net/wmproduct/b0f09eec1cc4794d568e463a8696a139502508.jpg@150w_150h_1e_1c",
+					"price": 7.14,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤黄牛肉串",
+					"picUrl": "http://p0.meituan.net/wmproduct/ce851c6fbba6d48fbe1200aee6d8c166340794.jpg@150w_150h_1e_1c",
+					"price": 5.5,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤牛肉香肠",
+					"picUrl": "http://p1.meituan.net/xianfu/b18aeff3c301991379d38f91624f730f350630.jpg@150w_150h_1e_1c",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": []
+				},
+				{
+					"name": "烤牛板筋",
+					"picUrl": "http://p1.meituan.net/wmproduct/d671423d6b78dfc838ab68ecd1ad07561039396.jpg@150w_150h_1e_1c",
+					"price": 2.9,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": []
+				},
+				{
+					"name": "烤鸡腿",
+					"picUrl": "http://p0.meituan.net/wmproduct/5bc176f5ab301cecd8c5327b8acb2211559100.jpg@150w_150h_1e_1c",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "150克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤鸡全翅",
+					"picUrl": "http://p0.meituan.net/wmproduct/90e0e4af8b725b7abbfea72ce873f6b6617236.jpg@150w_150h_1e_1c",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "180克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧骨肉相连",
+					"picUrl": "http://p0.meituan.net/wmproduct/a996792a745b183af3fdb97c23b988b0936590.jpg@150w_150h_1e_1c",
+					"price": 0.71,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": []
+				},
+				{
+					"name": "烤牛肚串",
+					"picUrl": "http://p0.meituan.net/wmproduct/6d67467bca2a6e652608847cf44afa5c997411.jpg@150w_150h_1e_1c",
+					"price": 2.9,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": []
+				},
+				{
+					"name": "沙漠红柳烤肉",
+					"picUrl": "http://p0.meituan.net/wmproduct/b18b2d1b209e2c9948104e361235b798469039.jpg@150w_150h_1e_1c",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "100克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤鸡中翅一对",
+					"picUrl": "http://p0.meituan.net/wmproduct/189fcf87421934cca80296f8a2b10c09232245.jpg@150w_150h_1e_1c",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": []
+				},
+				{
+					"name": "烤小羊腿",
+					"picUrl": "http://p1.meituan.net/wmproduct/8dc2fef4771bbc2d705d897b895088d4987404.jpg@150w_150h_1e_1c",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "250克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌烤羊排串（门店特有）",
+					"picUrl": "http://p0.meituan.net/wmproduct/80eccee15bdd39a63db71f5e5e3beee11022508.jpg@150w_150h_1e_1c",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "380克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌烤羊腰子",
+					"picUrl": "http://p0.meituan.net/wmproduct/59c87ecb055bb5af90e8ba83de8a1113722537.jpg@150w_150h_1e_1c",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": []
+				},
+				{
+					"name": "霸气烤原装正品大羊腰子",
+					"picUrl": "http://p0.meituan.net/wmproduct/da93a71611887fbb09f9ad74b0fecc44301861.jpg@150w_150h_1e_1c",
+					"price": 25.5,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "150克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "小羊腿（羊棒骨）",
+					"picUrl": "http://p1.meituan.net/wmproduct/c5138a6984dfaf74b20fe670831a2ae4305509.jpg@150w_150h_1e_1c",
+					"price": 47,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "300克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制烤整羔羊排",
+					"picUrl": "http://p0.meituan.net/xianfu/891b38ee3a3626c2ef1fde373e2ae3ec485462.jpg@150w_150h_1e_1c",
+					"price": 124.6,
+					"unit": "份",
+					"categoryName": "招牌烤肉",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "650克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "烤蔬菜",
+			"foods": [
+				{
+					"name": "烤韭菜，",
+					"picUrl": "http://p0.meituan.net/wmproduct/67a83d716cc4691a8e9c3f686e17b1a6998507.jpg@150w_150h_1e_1c",
+					"price": 0.5,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "25克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤蒜蓉豆腐皮",
+					"picUrl": "http://p0.meituan.net/wmproduct/fa63af6a57db655a0246dab2c52584c3912954.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				},
+				{
+					"name": "烤娃娃菜",
+					"picUrl": "http://p0.meituan.net/wmproduct/a199ae904b83e3aa4c8aca81bee9ff39119288.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				},
+				{
+					"name": "烤面筋",
+					"picUrl": "http://p0.meituan.net/wmproduct/41ac5fc5f4eb742a1773c92fd9b77772269641.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				},
+				{
+					"name": "烤金针菇",
+					"picUrl": "http://p0.meituan.net/wmproduct/4c191adc2e98d4a5c5fe3968e547691f1015426.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				},
+				{
+					"name": "烤螺丝椒",
+					"picUrl": "http://p0.meituan.net/wmproduct/ed3280ed9f548fd072897f9ee72d685d284894.jpg@150w_150h_1e_1c",
+					"price": 2.5,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				},
+				{
+					"name": "烤大茄子",
+					"picUrl": "http://p0.meituan.net/wmproduct/840d26b3c0a6972cff593458d5b8553a296105.jpg@150w_150h_1e_1c",
+					"price": 9.82,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				},
+				{
+					"name": "烤香菇",
+					"picUrl": "http://p0.meituan.net/wmproduct/f65aac475e2d8c7e510e6f9ea3fab1d5299351.jpg@150w_150h_1e_1c",
+					"price": 4.8,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				},
+				{
+					"name": "烤小馒头",
+					"picUrl": "http://p1.meituan.net/wmproduct/9ea41e2165164d2dd4ca0ff6c02446d7900003.jpg@150w_150h_1e_1c",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": [
+						{
+							"name": "烧烤味",
+							"values": [
+								{
+									"value": "烧烤原味",
+									"price": 0,
+									"propName": "烧烤味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "蜜糖",
+							"values": [
+								{
+									"value": "蜜糖",
+									"price": 0,
+									"propName": "蜜糖",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烤一整只玉米",
+					"picUrl": "http://p0.meituan.net/wmproduct/a4456e1e467b6c8e44b4c577b15df6d2216566.jpg@150w_150h_1e_1c",
+					"price": 10.34,
+					"unit": "份",
+					"categoryName": "烤蔬菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "海鲜烧烤",
+			"foods": [
+				{
+					"name": "鱿鱼须",
+					"picUrl": "http://p1.meituan.net/wmproduct/08b5c2cc8b8474eeddc89d012aa52dda245736.jpg@150w_150h_1e_1c",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "海鲜烧烤",
+					"props": []
+				},
+				{
+					"name": "大个烤扇贝",
+					"picUrl": "http://p0.meituan.net/wmproduct/f648f8557a97634b23f9c3e8b8718ebd77905.jpg@150w_150h_1e_1c",
+					"price": 7.59,
+					"unit": "份",
+					"categoryName": "海鲜烧烤",
+					"props": []
+				},
+				{
+					"name": "巴掌大的生蚝",
+					"picUrl": "http://p0.meituan.net/wmproduct/15d009a5507269827ed1e08a6334410785040.jpg@150w_150h_1e_1c",
+					"price": 9.9,
+					"unit": "份",
+					"categoryName": "海鲜烧烤",
 					"props": [
 						{
 							"name": "份量",
@@ -294,37 +2068,40 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"name": "折扣套餐",
-			"foods": [
+				},
 				{
-					"name": "柠檬无骨鱼+米饭",
-					"picUrl": "http://p0.meituan.net/wmproduct/a433d13eee6b3ba02eaba2255cf9723677762.jpg",
-					"price": 35.8,
+					"name": "炭烤多春鱼4条",
+					"picUrl": "http://p0.meituan.net/wmproduct/ce6bd2806218e29e6f68d8ecae22f8e5103909.jpg@150w_150h_1e_1c",
+					"price": 6.6,
 					"unit": "份",
-					"categoryName": "折扣套餐",
+					"categoryName": "海鲜烧烤",
+					"props": []
+				},
+				{
+					"name": "烤秋刀鱼",
+					"picUrl": "http://p0.meituan.net/wmproduct/ba242efaabc51dee4cfed43f839d0d4f114618.jpg@150w_150h_1e_1c",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "海鲜烧烤",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "小鱼主食",
+			"name": "面点主食",
 			"foods": [
 				{
-					"name": "稻花香米饭1盒",
-					"picUrl": "http://p0.meituan.net/wmproduct/c31962b16f7e465f30e46d2e919cafa949172.jpg",
-					"price": 3,
+					"name": "大师炒米粉（传统米粉）点一份炒一份",
+					"picUrl": "http://p0.meituan.net/xianfu/17b5c83031d77e4066da99ab3df1893e212769.jpg@150w_150h_1e_1c",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "小鱼主食",
+					"categoryName": "面点主食",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "500克",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -332,6 +2109,1010 @@
 							]
 						}
 					]
+				},
+				{
+					"name": "招牌烤馕饼",
+					"picUrl": "http://p1.meituan.net/wmproduct/ec2f98731eddada1bf0c8dff8ffb2012285979.jpg@150w_150h_1e_1c",
+					"price": 11,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "200克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蛋炒饭",
+					"picUrl": "http://p0.meituan.net/xianfu/d4401d9cfc5cbf6ec8e254564a13a14e281318.jpg@150w_150h_1e_1c",
+					"price": 18.8,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌新疆拌面",
+					"picUrl": "http://p0.meituan.net/xianfu/fa4c79d4626226d466de9ae36d7fba9f349585.jpg@150w_150h_1e_1c",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豪牛肉粒炒饭",
+					"picUrl": "http://p0.meituan.net/xianfu/cacfe629dc73e0583e1433d0cbe2c4e1542720.jpg@150w_150h_1e_1c",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "280克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆大盘鸡（一人份，赠面，赠盲盒饮料）",
+					"picUrl": "http://p0.meituan.net/xianfu/38c5d5e5f74bb55ed24c633a6a344b27381180.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干炒牛河",
+					"picUrl": "http://p1.meituan.net/xianfudwm/01c81d17f045497af6b277dc932547e3183333.jpg@150w_150h_1e_1c",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆炖牛肉饭",
+					"picUrl": "http://p1.meituan.net/xianfu/99c691cbacafbedbb875ce0fcfbeb4e5435825.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500千克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉炒面片",
+					"picUrl": "http://p0.meituan.net/xianfu/1123035e489dfe8147c962540584236b373745.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "传统牛肉炒拉条",
+					"picUrl": "http://p0.meituan.net/xianfu/1d687b427203dc9e020cbdd87e969d7e298671.jpg@150w_150h_1e_1c",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉拌面",
+					"picUrl": "http://p1.meituan.net/wmproduct/80a17d70541f8e238f9e2eeccb99f506481115.jpg@150w_150h_1e_1c",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "680克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "汤面片",
+					"picUrl": "http://p0.meituan.net/xianfu/4590d82bc5e6bbf891b722595883bbd150495.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香糯米饭一人份",
+					"picUrl": "http://p0.meituan.net/xianfu/312f3797b3689618e0f7cd0f0c3cffe385769.jpg@150w_150h_1e_1c",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "面点主食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "200克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "鲜味汤羹",
+			"foods": [
+				{
+					"name": "鸡汤娃娃菜豆腐汤",
+					"picUrl": "http://p0.meituan.net/xianfu/38a34b898f39abfb8c1b593a874ef27d408075.jpg@150w_150h_1e_1c",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "鲜味汤羹",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "600克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "一窝羊杂汤",
+					"picUrl": "http://p1.meituan.net/xianfu/545bab5896ec5dc27cde336ba2819d1557101.jpg@150w_150h_1e_1c",
+					"price": 31,
+					"unit": "份",
+					"categoryName": "鲜味汤羹",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "600克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "健康时蔬",
+			"foods": [
+				{
+					"name": "清炒时蔬菜（白灼）",
+					"picUrl": "http://p1.meituan.net/xianfu/c1e2a1497e8e2b3ce97558aceebb3d55290287.jpg@150w_150h_1e_1c",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "健康时蔬",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豆豉鲮鱼油麦菜。",
+					"picUrl": "http://p1.meituan.net/xianfu/b3c5f9054d4a2a0c68538307b56c0c7e370938.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "健康时蔬",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣白菜",
+					"picUrl": "http://p0.meituan.net/xianfu/74bd92602ab59754cc2bf3a0fd9f4f87311354.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "健康时蔬",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "铁板粉丝莲花菜",
+					"picUrl": "http://p0.meituan.net/xianfu/19b58ba67d7a61c1d106fe2e455aadf7173021.jpg@150w_150h_1e_1c",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "健康时蔬",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸辣土豆丝",
+					"picUrl": "http://p1.meituan.net/xianfu/1ad4af152006a2edb3acc06f33c7cc20347855.jpg@150w_150h_1e_1c",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "健康时蔬",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "招牌热菜",
+			"foods": [
+				{
+					"name": "传统手抓羊肉",
+					"picUrl": "http://p0.meituan.net/xianfu/90d0f45195ff919c31455557cb1faf36353034.jpg@150w_150h_1e_1c",
+					"price": 118,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆大盘鸡（2斤鸡肉）赠皮带面或者米饭",
+					"picUrl": "http://p1.meituan.net/wmproduct/2bcb59f595ad44c4480d856ea23b5ace986708.jpg@150w_150h_1e_1c",
+					"price": 98,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "900克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌爆炒花甲(单点不送)*抢购",
+					"picUrl": "http://p1.meituan.net/xianfu/06703f04050a074ee25365c8e9c2c97e503449.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌羊肉煲（990克鲜羊肉）",
+					"picUrl": "http://p0.meituan.net/wmproduct/4a090c88ee64ba1415e2a9ba724f6f9b717241.jpg@150w_150h_1e_1c",
+					"price": 138,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "葱爆羊肉",
+					"picUrl": "http://p0.meituan.net/xianfu/a40ddb9cb7d188d110ccaef933df5006166416.jpg@150w_150h_1e_1c",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣牛腩煲",
+					"picUrl": "http://p0.meituan.net/xianfu/74ca5a30a4cfb76cb91ae67ea63f0f6b393803.jpg@150w_150h_1e_1c",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "800克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "辣炒田螺，单点不送",
+					"picUrl": "http://p0.meituan.net/xianfu/60317673c49b3733cc78c9e313b1d704142198.jpg@150w_150h_1e_1c",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "土豆烧牛肉",
+					"picUrl": "http://p1.meituan.net/xianfu/f714496ed4b4de0f49623b29e94993cd314045.jpg@150w_150h_1e_1c",
+					"price": 58,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣鸡煲",
+					"picUrl": "http://p0.meituan.net/xianfu/b508f2310c8d81d2776f50cd71c8aebb359634.jpg@150w_150h_1e_1c",
+					"price": 79,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1000克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "西域辣子鸡",
+					"picUrl": "http://p1.meituan.net/xianfu/fda755c83cada3ed6dfa3e226335ffb986032.jpg@150w_150h_1e_1c",
+					"price": 48,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": []
+				},
+				{
+					"name": "爆羊杂",
+					"picUrl": "http://p0.meituan.net/xianfu/8d7376d9a7c95079b097a9fbe13f4483702158.png@150w_150h_1e_1c",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "胡辣羊蹄",
+					"picUrl": "http://p1.meituan.net/xianfu/efca6395ffa32a8852f7208386498fff75305.jpg@150w_150h_1e_1c",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椒麻羊排",
+					"picUrl": "http://p0.meituan.net/xianfu/c86c5543c74ce5a8a168f848149f646151422.jpg@150w_150h_1e_1c",
+					"price": 118,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "500克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "孜然羊肉",
+					"picUrl": "http://p0.meituan.net/xianfu/eeb0dbdf8f2cd71420433e2e87093c70453763.jpg@150w_150h_1e_1c",
+					"price": 88,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爆炒肚丝",
+					"picUrl": "http://p1.meituan.net/xianfu/08e23bd24a379e33c7963ea49532c74757802.jpg@150w_150h_1e_1c",
+					"price": 68,
+					"unit": "份",
+					"categoryName": "招牌热菜",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "锡纸系列",
+			"foods": [
+				{
+					"name": "锡纸花甲粉（单点不送）",
+					"picUrl": "http://p0.meituan.net/xianfu/361a4050f6441bdfc8cbac5e829b9f69166894.jpg@150w_150h_1e_1c",
+					"price": 18.76,
+					"unit": "份",
+					"categoryName": "锡纸系列",
+					"props": []
+				},
+				{
+					"name": "锡纸娃娃菜",
+					"picUrl": "http://p0.meituan.net/xianfu/a9daac220d1eaa6718046694db355004429822.jpg@150w_150h_1e_1c",
+					"price": 17.67,
+					"unit": "份",
+					"categoryName": "锡纸系列",
+					"props": []
+				},
+				{
+					"name": "锡纸花甲娃娃菜",
+					"picUrl": "http://p0.meituan.net/xianfu/b9b9d2f791b184cfb1aab9806a05a600434243.jpg@150w_150h_1e_1c",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "锡纸系列",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮品系列",
+			"foods": [
+				{
+					"name": "怡宝矿泉水555毫升",
+					"picUrl": "http://p0.meituan.net/xianfu/458cb92d00ce2ec7e602a13d887842be116922.jpg@150w_150h_1e_1c",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "555克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百事可乐330",
+					"picUrl": "http://p0.meituan.net/xianfu/3a28079c76e9e680d78ced599e41630257124.jpg@150w_150h_1e_1c",
+					"price": 3.2,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "330毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "福佳白啤酒",
+					"picUrl": "http://p1.meituan.net/xianfu/cb3358b0ca0c7946727a9a361219af3c245760.jpg@150w_150h_1e_1c",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "400毫升",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "新疆原厂乌苏啤酒（绿色或者红色随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c85535f42bd604fe1245064d7bb2c76c503449.jpg@150w_150h_1e_1c",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "600克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "加多宝罐",
+					"picUrl": "http://p0.meituan.net/xianfu/4012bd72a934742cc97d58abaf39cd79191798.jpg@150w_150h_1e_1c",
+					"price": 5.5,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "330克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "雪碧330",
+					"picUrl": "http://p1.meituan.net/wmproduct/3627a47e71c0300decaca7e12e192aeb154151.jpg@150w_150h_1e_1c",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "330克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椰汁、",
+					"picUrl": "http://p1.meituan.net/xianfu/307e8baa3ab40a53088fdfc31e3f2d02425984.jpg@150w_150h_1e_1c",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "300克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "科罗纳瓶装",
+					"picUrl": "http://p1.meituan.net/xianfu/2c25812821198e53253eef759a59cfd7114688.jpg@150w_150h_1e_1c",
+					"price": 9.75,
+					"unit": "份",
+					"categoryName": "饮品系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "330克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "品牌承诺",
+			"foods": [
+				{
+					"name": "完全门店店里味道，您线上买到的完全和店里相同品质，相同味道，",
+					"picUrl": "http://p0.meituan.net/wmproduct/3f83678a4316706730b26cd5b28a70d484760.png@150w_150h_1e_1c",
+					"price": 499,
+					"unit": "份",
+					"categoryName": "品牌承诺",
+					"props": []
+				},
+				{
+					"name": "透明厨房，欢迎您随时参观指导，",
+					"picUrl": "http://p0.meituan.net/wmproduct/58b60cc2b11967276d865817ac5c89e484206.png@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌承诺",
+					"props": []
+				},
+				{
+					"name": "清真品质，杜绝一切不洁，不真，不鲜食材，当天采购，绝不隔天销",
+					"picUrl": "http://p0.meituan.net/wmproduct/76826018e44c41e08d5229152ee61ad783071.png@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌承诺",
+					"props": []
+				},
+				{
+					"name": "全天24小时值守，竭诚为您服务，",
+					"picUrl": "http://p1.meituan.net/wmproduct/d1d8232e23c4832e620487e07cf3142a86317.png@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌承诺",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "精美包装",
+					"picUrl": "http://p1.meituan.net/wmproduct/bc80737be978bbdc4008a9b95c35a5f787447.png@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "品牌承诺",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "必选品",
+			"foods": [
+				{
+					"name": "特殊忌口请备注",
+					"picUrl": "http://p0.meituan.net/wmproduct/798962dbc37cd89a7be03d0a8b7d1308344642.jpg@150w_150h_1e_1c",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "必选品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10克",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "免辣",
+					"picUrl": "http://p0.meituan.net/wmproduct/81ba683ce8d42e4c3c5dd01fe45ceec2705896.jpg@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "必选品",
+					"props": []
+				},
+				{
+					"name": "超辣",
+					"picUrl": "http://p1.meituan.net/wmproduct/a900a04064decb4efae62871ec3cc044862975.jpg@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "必选品",
+					"props": []
+				},
+				{
+					"name": "微辣",
+					"picUrl": "http://p1.meituan.net/wmproduct/b0c237c0126e60f255103c29231493b1827680.jpg@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "必选品",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "餐具选择",
+			"foods": [
+				{
+					"name": "不需要餐具",
+					"picUrl": "http://p0.meituan.net/wmproduct/4e33526acac92f5fa3a74a462256b70e346189.jpg@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "餐具选择",
+					"props": []
+				},
+				{
+					"name": "需要餐具",
+					"picUrl": "http://p0.meituan.net/wmproduct/264695bd5477364961a221d3b6e60eef460790.jpg@150w_150h_1e_1c",
+					"price": 0.2,
+					"unit": "份",
+					"categoryName": "餐具选择",
+					"props": []
 				}
 			]
 		}

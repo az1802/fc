@@ -1,1559 +1,3085 @@
 {
-	"LanguageInfo": [],
-	"DisheGrpInfo": [
+  "LanguageInfo": [],
+  "DisheGrpInfo": [
     {
-		"bid": 14310,
-		"gid": 1,
-		"sno": 1,
-		"gname": "ä¸»é£",
-		"dishesinfo": [{
-			"bid": 14310,
-			"did": 1,
-			"gid": 1,
-			"sno": 1,
-			"dname": "ç¾èç²ï¼é¢ï¼",
-			"dnamepy": "yrfm",
-			"dcode": "1",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b604f8777-4e06-4936-80be-960cc6dfeb63.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s604f8777-4e06-4936-80be-960cc6dfeb63.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n604f8777-4e06-4936-80be-960cc6dfeb63.jpg",
-			"unitname": "ä»½",
-			"unitprice": 17.0,
-			"unitpricecopy": 17.0,
-			"originprice": 17.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "ç²,é¢",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "1_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 2,
-			"gid": 1,
-			"sno": 2,
-			"dname": "ç¾æç²ï¼é¢ï¼",
-			"dnamepy": "yzfm",
-			"dcode": "2",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b1ef53a3b-85d0-4736-ab50-13a94452e00a.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s1ef53a3b-85d0-4736-ab50-13a94452e00a.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n1ef53a3b-85d0-4736-ab50-13a94452e00a.jpg",
-			"unitname": "ä»½",
-			"unitprice": 17.0,
-			"unitpricecopy": 17.0,
-			"originprice": 17.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "ç²,é¢",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "2_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 3,
-			"gid": 1,
-			"sno": 3,
-			"dname": "è±æºªçèç²ï¼é¢ï¼",
-			"dnamepy": "hxnrfm",
-			"dcode": "3",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b84353cec-8c57-42ed-a424-9eee30d925e8.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s84353cec-8c57-42ed-a424-9eee30d925e8.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n84353cec-8c57-42ed-a424-9eee30d925e8.jpg",
-			"unitname": "ä»½",
-			"unitprice": 16.0,
-			"unitpricecopy": 16.0,
-			"originprice": 16.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "ç²,é¢",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "3_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 4,
-			"gid": 1,
-			"sno": 4,
-			"dname": "ç¹è²çæç²ï¼é¢ï¼",
-			"dnamepy": "tsnzfm",
-			"dcode": "4",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b3be397fb-0c9b-464a-b8a4-84dfcad7e20a.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s3be397fb-0c9b-464a-b8a4-84dfcad7e20a.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n3be397fb-0c9b-464a-b8a4-84dfcad7e20a.jpg",
-			"unitname": "ä»½",
-			"unitprice": 16.0,
-			"unitpricecopy": 16.0,
-			"originprice": 16.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "ç²,é¢",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "4_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 5,
-			"gid": 1,
-			"sno": 5,
-			"dname": "ç¾èæ±¤/ç¾ææ±¤ï¼éé¥¼ï¼",
-			"dnamepy": "yrtyztsb",
-			"dcode": "5",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bf81b4c65-790d-4c31-b658-ecac246dd1ef.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sf81b4c65-790d-4c31-b658-ecac246dd1ef.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/nf81b4c65-790d-4c31-b658-ecac246dd1ef.jpg",
-			"unitname": "ä»½",
-			"unitprice": 20.0,
-			"unitpricecopy": 20.0,
-			"originprice": 20.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "ç¾èæ±¤,ç¾ææ±¤",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "5_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 6,
-			"gid": 1,
-			"sno": 6,
-			"dname": "çèæ±¤ï¼éé¥¼ï¼",
-			"dnamepy": "nrtsb",
-			"dcode": "6",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bcb5a1d23-eb06-47af-bd87-69f47732d923.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/scb5a1d23-eb06-47af-bd87-69f47732d923.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/ncb5a1d23-eb06-47af-bd87-69f47732d923.jpg",
-			"unitname": "ä»½",
-			"unitprice": 18.0,
-			"unitpricecopy": 18.0,
-			"originprice": 18.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "6_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 7,
-			"gid": 1,
-			"sno": 7,
-			"dname": "å¹²æç¾èç²ï¼é¢ï¼",
-			"dnamepy": "gbyrfm",
-			"dcode": "7",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bd9eb0a1b-fac8-4625-a356-be97547a8984.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sd9eb0a1b-fac8-4625-a356-be97547a8984.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/nd9eb0a1b-fac8-4625-a356-be97547a8984.jpg",
-			"unitname": "ä»½",
-			"unitprice": 18.0,
-			"unitpricecopy": 18.0,
-			"originprice": 18.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "ç²,é¢",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "7_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 8,
-			"gid": 1,
-			"sno": 8,
-			"dname": "å¹²æç¾æç²ï¼é¢ï¼",
-			"dnamepy": "gbyzfm",
-			"dcode": "8",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b0e41f5da-2513-4c75-90d0-04f4552692cd.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s0e41f5da-2513-4c75-90d0-04f4552692cd.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n0e41f5da-2513-4c75-90d0-04f4552692cd.jpg",
-			"unitname": "ä»½",
-			"unitprice": 18.0,
-			"unitpricecopy": 18.0,
-			"originprice": 18.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "ç²,é¢",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "8_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 9,
-			"gid": 1,
-			"sno": 9,
-			"dname": "ç¾èæ°´é¥º",
-			"dnamepy": "yrsj",
-			"dcode": "9",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bed5f8e3a-ea28-4192-a9a5-58f5d4f23e8c.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sed5f8e3a-ea28-4192-a9a5-58f5d4f23e8c.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/ned5f8e3a-ea28-4192-a9a5-58f5d4f23e8c.jpg",
-			"unitname": "ä»½",
-			"unitprice": 16.0,
-			"unitpricecopy": 16.0,
-			"originprice": 16.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "9_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 10,
-			"gid": 1,
-			"sno": 10,
-			"dname": "çèæ°´é¥º",
-			"dnamepy": "nrsj",
-			"dcode": "10",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/57/80/03/00/dishes/b3106ac97-4690-4e16-8e38-da0f2c90dedd.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/57/80/03/00/dishes/s3106ac97-4690-4e16-8e38-da0f2c90dedd.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/57/80/03/00/dishes/n3106ac97-4690-4e16-8e38-da0f2c90dedd.jpg",
-			"unitname": "ä»½",
-			"unitprice": 16.0,
-			"unitpricecopy": 16.0,
-			"originprice": 16.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "10_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}, {
-			"bid": 14310,
-			"did": 12,
-			"gid": 1,
-			"sno": 11,
-			"dname": "ç¸é±é¢",
-			"dnamepy": "zjm",
-			"dcode": "12",
-			"fcount": 2,
-			"flavorinfo": [{
-				"fcode": "1",
-				"fname": "å è¾£"
-			}, {
-				"fcode": "2",
-				"fname": "ä¸å è¾£"
-			}],
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/47/89/03/00/dishes/n12e03b60-6a52-43a5-b284-8a7f29547ca2.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/47/89/03/00/dishes/n12e03b60-6a52-43a5-b284-8a7f29547ca2.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/47/89/03/00/dishes/n12e03b60-6a52-43a5-b284-8a7f29547ca2.jpg",
-			"unitname": "ä»½",
-			"unitprice": 10.0,
-			"unitpricecopy": 10.0,
-			"originprice": 10.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "12_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": [{
-				"price": 12.0,
-				"useflag": true,
-				"name": "çç¾è"
-			}, {
-				"price": 12.0,
-				"useflag": true,
-				"name": "å ç¾æ"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "ççè"
-			}, {
-				"price": 10.0,
-				"useflag": true,
-				"name": "å çæ"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç²é¢å é"
-			}, {
-				"price": 3.0,
-				"useflag": true,
-				"name": "ç­çè "
-			}, {
-				"price": 2.0,
-				"useflag": true,
-				"name": "å¤è"
-			}]
-		}]
-	}, {
-		"bid": 14310,
-		"gid": 2,
-		"sno": 2,
-		"gname": "éè",
-		"dishesinfo": [{
-			"bid": 14310,
-			"did": 13,
-			"gid": 2,
-			"sno": 1,
-			"dname": "çç¾è",
-			"dnamepy": "syr",
-			"dcode": "1",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b6bf56df5-b3f6-4ea2-9b70-13ca6126de34.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s6bf56df5-b3f6-4ea2-9b70-13ca6126de34.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n6bf56df5-b3f6-4ea2-9b70-13ca6126de34.jpg",
-			"unitname": "ä»½",
-			"unitprice": 12.0,
-			"unitpricecopy": 12.0,
-			"originprice": 12.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "13_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 16,
-			"gid": 2,
-			"sno": 2,
-			"dname": "å ç¾æ",
-			"dnamepy": "jyz",
-			"dcode": "4",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bff8d5f05-3c30-4afb-a43f-d6e556440aa1.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sff8d5f05-3c30-4afb-a43f-d6e556440aa1.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/nff8d5f05-3c30-4afb-a43f-d6e556440aa1.jpg",
-			"unitname": "ä»½",
-			"unitprice": 12.0,
-			"unitpricecopy": 12.0,
-			"originprice": 12.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "16_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 17,
-			"gid": 2,
-			"sno": 3,
-			"dname": "ççè",
-			"dnamepy": "snr",
-			"dcode": "5",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b8281922b-27a1-448b-b104-e32379fed6fe.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s8281922b-27a1-448b-b104-e32379fed6fe.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n8281922b-27a1-448b-b104-e32379fed6fe.jpg",
-			"unitname": "ä»½",
-			"unitprice": 10.0,
-			"unitpricecopy": 10.0,
-			"originprice": 10.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "17_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 19,
-			"gid": 2,
-			"sno": 4,
-			"dname": "å é²ç±³ç²",
-			"dnamepy": "jxmf",
-			"dcode": "7",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b13040965-3d5e-40cc-ba38-80c81d1d1dfe.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s13040965-3d5e-40cc-ba38-80c81d1d1dfe.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n13040965-3d5e-40cc-ba38-80c81d1d1dfe.jpg",
-			"unitname": "ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "19_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 20,
-			"gid": 2,
-			"sno": 5,
-			"dname": "å æå·¥é¢",
-			"dnamepy": "jsgm",
-			"dcode": "8",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bd92e5949-1891-4a68-ac56-de2af6b93775.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sd92e5949-1891-4a68-ac56-de2af6b93775.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/nd92e5949-1891-4a68-ac56-de2af6b93775.jpg",
-			"unitname": "ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "20_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 21,
-			"gid": 2,
-			"sno": 6,
-			"dname": "çº¢è¯ç²",
-			"dnamepy": "hsf",
-			"dcode": "9",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/anhuicai/b28eb5efc-610a-409a-b0ee-3d7a4acf36c3.JPG",
-			"smallimg": "https://img.icaipu.cn/imglib/anhuicai/s28eb5efc-610a-409a-b0ee-3d7a4acf36c3.JPG",
-			"normalimg": "https://img.icaipu.cn/imglib/anhuicai/n28eb5efc-610a-409a-b0ee-3d7a4acf36c3.JPG",
-			"unitname": "ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "21_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}]
-	}, {
-		"bid": 14310,
-		"gid": 3,
-		"sno": 3,
-		"gname": "ç¹è²å°å",
-		"dishesinfo": [{
-			"bid": 14310,
-			"did": 22,
-			"gid": 3,
-			"sno": 1,
-			"dname": "ç¾èä¸²",
-			"dnamepy": "yrc",
-			"dcode": "1",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/09/79/03/00/dishes/bb5615b5d-67e5-4023-8201-4d294bbc455e.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/09/79/03/00/dishes/sb5615b5d-67e5-4023-8201-4d294bbc455e.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/09/79/03/00/dishes/nb5615b5d-67e5-4023-8201-4d294bbc455e.jpg",
-			"unitname": "ä»½",
-			"unitprice": 5.0,
-			"unitpricecopy": 5.0,
-			"originprice": 5.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "22_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 23,
-			"gid": 3,
-			"sno": 2,
-			"dname": "ç½åé¦é¥¼",
-			"dnamepy": "bjmb",
-			"dcode": "2",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bca2371af-191b-440b-8656-8fdb087fa7a3.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sca2371af-191b-440b-8656-8fdb087fa7a3.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/nca2371af-191b-440b-8656-8fdb087fa7a3.jpg",
-			"unitname": "ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "23_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 24,
-			"gid": 3,
-			"sno": 3,
-			"dname": "å¤é¸¡è",
-			"dnamepy": "ljd",
-			"dcode": "3",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/99/89/03/00/dishes/bb04b54af-e05b-4b9d-b23d-a060ac651c75.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/99/89/03/00/dishes/sb04b54af-e05b-4b9d-b23d-a060ac651c75.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/99/89/03/00/dishes/nb04b54af-e05b-4b9d-b23d-a060ac651c75.jpg",
-			"unitname": "ä»½",
-			"unitprice": 2.0,
-			"unitpricecopy": 2.0,
-			"originprice": 2.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "24_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 25,
-			"gid": 3,
-			"sno": 4,
-			"dname": "å¤æ°´è±è",
-			"dnamepy": "lsdf",
-			"dcode": "4",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/henancai/b1086025b-e615-4ce9-8676-dc016379f9d3.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/henancai/s1086025b-e615-4ce9-8676-dc016379f9d3.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/henancai/n1086025b-e615-4ce9-8676-dc016379f9d3.jpg",
-			"unitname": "ä»½",
-			"unitprice": 5.0,
-			"unitpricecopy": 5.0,
-			"originprice": 5.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "25_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 26,
-			"gid": 3,
-			"sno": 5,
-			"dname": "å¤ç­çè ",
-			"dnamepy": "lrgc",
-			"dcode": "5",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b28d383f1-4ab7-4492-867a-a09a2a02af85.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s28d383f1-4ab7-4492-867a-a09a2a02af85.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n28d383f1-4ab7-4492-867a-a09a2a02af85.jpg",
-			"unitname": "ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "26_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 27,
-			"gid": 3,
-			"sno": 6,
-			"dname": "è±çèè¾£æ¤",
-			"dnamepy": "hsclj",
-			"dcode": "6",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b69aa5208-2e0a-480e-8fb7-4fcd6f4e7345.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s69aa5208-2e0a-480e-8fb7-4fcd6f4e7345.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n69aa5208-2e0a-480e-8fb7-4fcd6f4e7345.jpg",
-			"unitname": "ä»½",
-			"unitprice": 5.0,
-			"unitpricecopy": 5.0,
-			"originprice": 5.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "27_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}]
-	}, {
-		"bid": 14310,
-		"gid": 4,
-		"sno": 4,
-		"gname": "å¤§å£åè",
-		"dishesinfo": [{
-			"bid": 14310,
-			"did": 33,
-			"gid": 4,
-			"sno": 1,
-			"dname": "èå¤¹é¦",
-			"dnamepy": "rjm",
-			"dcode": "6",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/roujiamo/b970ee30e-ab59-4fc4-b18a-85c1ce083fc2.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/roujiamo/s970ee30e-ab59-4fc4-b18a-85c1ce083fc2.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/roujiamo/n970ee30e-ab59-4fc4-b18a-85c1ce083fc2.jpg",
-			"unitname": "ä»½",
-			"unitprice": 9.0,
-			"unitpricecopy": 9.0,
-			"originprice": 9.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "33_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 28,
-			"gid": 4,
-			"sno": 2,
-			"dname": "å¤é¸¡è¿",
-			"dnamepy": "ljt",
-			"dcode": "1",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/99/89/03/00/dishes/b6be7c969-8852-4bf2-8e71-8f4e0abbcc7b.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/99/89/03/00/dishes/s6be7c969-8852-4bf2-8e71-8f4e0abbcc7b.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/99/89/03/00/dishes/n6be7c969-8852-4bf2-8e71-8f4e0abbcc7b.jpg",
-			"unitname": "ä»½",
-			"unitprice": 6.0,
-			"unitpricecopy": 6.0,
-			"originprice": 6.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "28_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 30,
-			"gid": 4,
-			"sno": 3,
-			"dname": "é±å¤çªæ",
-			"dnamepy": "jlzs",
-			"dcode": "3",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/b6c68cac0-243f-4705-8427-87ab2c504117.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/s6c68cac0-243f-4705-8427-87ab2c504117.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/n6c68cac0-243f-4705-8427-87ab2c504117.jpg",
-			"unitname": "ä¸ª",
-			"unitprice": 15.0,
-			"unitpricecopy": 15.0,
-			"originprice": 15.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": null,
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "30_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 43,
-			"gid": 4,
-			"sno": 4,
-			"dname": "å¤ç¾è¹",
-			"dnamepy": "lyt",
-			"dcode": "43",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/51/65/04/00/dishes/b304d0c08-6077-478b-bba3-6f27bd6ab83b.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/51/65/04/00/dishes/s304d0c08-6077-478b-bba3-6f27bd6ab83b.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/51/65/04/00/dishes/n304d0c08-6077-478b-bba3-6f27bd6ab83b.jpg",
-			"unitname": "å/ä»½",
-			"unitprice": 15.0,
-			"unitpricecopy": 15.0,
-			"originprice": 15.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "43_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}]
-	}, {
-		"bid": 14310,
-		"gid": 5,
-		"sno": 5,
-		"gname": "é¥®æ",
-		"dishesinfo": [{
-			"bid": 14310,
-			"did": 41,
-			"gid": 5,
-			"sno": 1,
-			"dname": "æ¤°æ±",
-			"dnamepy": "yz",
-			"dcode": "41",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/42/79/03/00/dishes/ba2d81daf-4c9e-42aa-a20c-9e2e1f9fb555.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/42/79/03/00/dishes/sa2d81daf-4c9e-42aa-a20c-9e2e1f9fb555.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/42/79/03/00/dishes/na2d81daf-4c9e-42aa-a20c-9e2e1f9fb555.jpg",
-			"unitname": "å/ä»½",
-			"unitprice": 5.0,
-			"unitpricecopy": 5.0,
-			"originprice": 5.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "41_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 34,
-			"gid": 5,
-			"sno": 2,
-			"dname": "å å¤å®",
-			"dnamepy": "jdb",
-			"dcode": "34",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/51/74/03/00/dishes/n8563edc8-7116-4745-8a76-e60b26d69f4e.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/51/74/03/00/dishes/n8563edc8-7116-4745-8a76-e60b26d69f4e.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/51/74/03/00/dishes/n8563edc8-7116-4745-8a76-e60b26d69f4e.jpg",
-			"unitname": "å/ä»½",
-			"unitprice": 4.0,
-			"unitpricecopy": 4.0,
-			"originprice": 4.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "34_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 35,
-			"gid": 5,
-			"sno": 3,
-			"dname": "éªç¢§ï¼é«ç½ï¼",
-			"dnamepy": "xbgg",
-			"dcode": "35",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/39/93/03/00/dishes/n582f5a65-a25a-47ee-84e0-75474b6921e5.png",
-			"smallimg": "https://img.icaipu.cn/imglib/39/93/03/00/dishes/n582f5a65-a25a-47ee-84e0-75474b6921e5.png",
-			"normalimg": "https://img.icaipu.cn/imglib/39/93/03/00/dishes/n582f5a65-a25a-47ee-84e0-75474b6921e5.png",
-			"unitname": "å/ä»½",
-			"unitprice": 4.0,
-			"unitpricecopy": 4.0,
-			"originprice": 4.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "35_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 36,
-			"gid": 5,
-			"sno": 4,
-			"dname": "å¯ä¹/è¬è¾¾ï¼é«ç½ï¼",
-			"dnamepy": "klfdgg",
-			"dcode": "36",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/ba102118d-2a02-41c2-ba29-5af106d71d5f.JPEG",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sa102118d-2a02-41c2-ba29-5af106d71d5f.JPEG",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/na102118d-2a02-41c2-ba29-5af106d71d5f.JPEG",
-			"unitname": "å/ä»½",
-			"unitprice": 4.0,
-			"unitpricecopy": 4.0,
-			"originprice": 4.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "36_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 42,
-			"gid": 5,
-			"sno": 5,
-			"dname": "ç»´ä»å¥¶",
-			"dnamepy": "wtn",
-			"dcode": "42",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/96/99/03/00/dishes/n36c55afd-0f35-49d6-8382-42476e4cd9d9.png",
-			"smallimg": "https://img.icaipu.cn/imglib/96/99/03/00/dishes/n36c55afd-0f35-49d6-8382-42476e4cd9d9.png",
-			"normalimg": "https://img.icaipu.cn/imglib/96/99/03/00/dishes/n36c55afd-0f35-49d6-8382-42476e4cd9d9.png",
-			"unitname": "å/ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 5,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "42_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 37,
-			"gid": 5,
-			"sno": 6,
-			"dname": "å°å¯ä¹",
-			"dnamepy": "xkl",
-			"dcode": "37",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/68/07/04/00/dishes/n89552026-d417-40a8-928e-db212efd76bb.jpg",
-			"smallimg": "https://img.icaipu.cn/imglib/68/07/04/00/dishes/n89552026-d417-40a8-928e-db212efd76bb.jpg",
-			"normalimg": "https://img.icaipu.cn/imglib/68/07/04/00/dishes/n89552026-d417-40a8-928e-db212efd76bb.jpg",
-			"unitname": "å/ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "37_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 38,
-			"gid": 5,
-			"sno": 7,
-			"dname": "å°éªç¢§",
-			"dnamepy": "xxb",
-			"dcode": "38",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/bc2bc1109-5188-4c02-81aa-fdaff5df0c34.JPEG",
-			"smallimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/sc2bc1109-5188-4c02-81aa-fdaff5df0c34.JPEG",
-			"normalimg": "https://img.icaipu.cn/imglib/77/48/04/00/dishes/nc2bc1109-5188-4c02-81aa-fdaff5df0c34.JPEG",
-			"unitname": "å/ä»½",
-			"unitprice": 3.0,
-			"unitpricecopy": 3.0,
-			"originprice": 3.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": "",
-			"foodinfo": "",
-			"ismust": false,
-			"ishot": false,
-			"selectnum": 0,
-			"dfid": "38_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}, {
-			"bid": 14310,
-			"did": 40,
-			"gid": 5,
-			"sno": 8,
-			"dname": "æ¡å®",
-			"dnamepy": "yb",
-			"dcode": "40",
-			"fcount": 0,
-			"flavorinfo": null,
-			"dishdesc": "",
-			"bigimg": "https://img.icaipu.cn/imglib/25/88/03/00/dishes/bff765c8e-4544-449f-a146-d5f947e21fb5.png",
-			"smallimg": "https://img.icaipu.cn/imglib/25/88/03/00/dishes/sff765c8e-4544-449f-a146-d5f947e21fb5.png",
-			"normalimg": "https://img.icaipu.cn/imglib/25/88/03/00/dishes/nff765c8e-4544-449f-a146-d5f947e21fb5.png",
-			"unitname": "å/ä»½",
-			"unitprice": 2.0,
-			"unitpricecopy": 2.0,
-			"originprice": 2.0,
-			"startamt": 1,
-			"stocknow": -1,
-			"stockset": "",
-			"recommend": 0,
-			"isdiscount": true,
-			"nodiscount": false,
-			"cookinfo": null,
-			"foodinfo": null,
-			"ismust": false,
-			"ishot": false,
-			"selectnum": null,
-			"dfid": "40_",
-			"fcode": "",
-			"skuinfo": null,
-			"foodsinfo": null
-		}]
-	}],
-	"kitchenInfo": [{
-		"kid": 1,
-		"kname": "é£å",
-		"bid": 14310,
-		"sno": 1,
-		"useflag": true
-	}]
+      "bid": 200084315,
+      "gid": 8,
+      "sno": 1,
+      "gname": "ç¹è²æ±¤é¥­",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 44,
+          "gid": 8,
+          "sno": 1,
+          "dname": "ç´«èææé±¼ä¸¸æ±¤é¥­",
+          "dnamepy": "zcsdywtf",
+          "dcode": "1",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/huoguoshuancai/nc4cb2824-71d9-4df3-b240-3e0e416cbd79.JPG",
+          "smallimg": "https://img.icaipu.cn/imglib/huoguoshuancai/nc4cb2824-71d9-4df3-b240-3e0e416cbd79.JPG",
+          "normalimg": "https://img.icaipu.cn/imglib/huoguoshuancai/nc4cb2824-71d9-4df3-b240-3e0e416cbd79.JPG",
+          "unitname": "ä»½",
+          "unitprice": 15.0,
+          "unitpricecopy": 15.0,
+          "originprice": 15.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "44_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 20.0,
+              "skuoriginprice": 20,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 45,
+          "gid": 8,
+          "sno": 2,
+          "dname": "ç´«èèä¸¸èé¥¼æ±¤é¥­",
+          "dnamepy": "zcrwrbtf",
+          "dcode": "2",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/24/58/04/00/dishes/n4d211a82-f60a-4440-9ff4-37cfed4dfdea.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/24/58/04/00/dishes/n4d211a82-f60a-4440-9ff4-37cfed4dfdea.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/24/58/04/00/dishes/n4d211a82-f60a-4440-9ff4-37cfed4dfdea.jpg",
+          "unitname": "ä»½",
+          "unitprice": 15.0,
+          "unitpricecopy": 15.0,
+          "originprice": 15.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "45_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 20.0,
+              "skuoriginprice": 20,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 46,
+          "gid": 8,
+          "sno": 3,
+          "dname": "ç´«è/æ¸æçªææ±¤é¥­",
+          "dnamepy": "zcgqzztf",
+          "dcode": "3",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/92/79/04/00/dishes/ne9276218-fede-4059-806c-2e363f09a570.jpeg",
+          "smallimg": "https://img.icaipu.cn/imglib/92/79/04/00/dishes/ne9276218-fede-4059-806c-2e363f09a570.jpeg",
+          "normalimg": "https://img.icaipu.cn/imglib/92/79/04/00/dishes/ne9276218-fede-4059-806c-2e363f09a570.jpeg",
+          "unitname": "ä»½",
+          "unitprice": 15.0,
+          "unitpricecopy": 15.0,
+          "originprice": 15.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "46_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 20.0,
+              "skuoriginprice": 20,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 47,
+          "gid": 8,
+          "sno": 4,
+          "dname": "ç´«èæµ·é²æ±¤é¥­",
+          "dnamepy": "zchxtf",
+          "dcode": "4",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/jufan/nf20b9a9c-7641-47d4-af0f-07ab53dbc1a8.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/jufan/nf20b9a9c-7641-47d4-af0f-07ab53dbc1a8.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/jufan/nf20b9a9c-7641-47d4-af0f-07ab53dbc1a8.jpg",
+          "unitname": "ä»½",
+          "unitprice": 18.0,
+          "unitpricecopy": 18.0,
+          "originprice": 18.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "47_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 20.0,
+              "skuoriginprice": 20,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 25.0,
+              "skuoriginprice": 25,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 9,
+      "sno": 2,
+      "gname": "æé¢/ç²",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 48,
+          "gid": 9,
+          "sno": 1,
+          "dname": "è±æ²¹æé¢/ç²",
+          "dnamepy": "cybmf",
+          "dcode": "1",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/68/96/03/00/dishes/n3e871147-8817-4fde-8c13-926948d5a2ee.png",
+          "smallimg": "https://img.icaipu.cn/imglib/68/96/03/00/dishes/n3e871147-8817-4fde-8c13-926948d5a2ee.png",
+          "normalimg": "https://img.icaipu.cn/imglib/68/96/03/00/dishes/n3e871147-8817-4fde-8c13-926948d5a2ee.png",
+          "unitname": "ä»½",
+          "unitprice": 8.0,
+          "unitpricecopy": 8.0,
+          "originprice": 8.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æé¢,æç²",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "48_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 8.0,
+              "skuoriginprice": 8,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 10.0,
+              "skuoriginprice": 10,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 49,
+          "gid": 9,
+          "sno": 2,
+          "dname": "é¦èé±æé¢/ç²",
+          "dnamepy": "xgjbmf",
+          "dcode": "2",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/72/90/04/00/dishes/nca78678e-70df-49c2-a2c9-ed14cb048afb.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/72/90/04/00/dishes/nca78678e-70df-49c2-a2c9-ed14cb048afb.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/72/90/04/00/dishes/nca78678e-70df-49c2-a2c9-ed14cb048afb.jpg",
+          "unitname": "ä»½",
+          "unitprice": 10.0,
+          "unitpricecopy": 10.0,
+          "originprice": 10.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æé¢,æç²",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "49_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 10.0,
+              "skuoriginprice": 10,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 50,
+          "gid": 9,
+          "sno": 3,
+          "dname": "è¾ç±³è±æ²¹æé¢/ç²",
+          "dnamepy": "xmcybmf",
+          "dcode": "3",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/70/83/03/00/dishes/nfe3853f3-9797-4053-b3e9-03771ccef209.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/70/83/03/00/dishes/nfe3853f3-9797-4053-b3e9-03771ccef209.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/70/83/03/00/dishes/nfe3853f3-9797-4053-b3e9-03771ccef209.jpg",
+          "unitname": "ä»½",
+          "unitprice": 10.0,
+          "unitpricecopy": 10.0,
+          "originprice": 10.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "50_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 10.0,
+              "skuoriginprice": 10,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 51,
+          "gid": 9,
+          "sno": 4,
+          "dname": "è±æ²¹æé¢/ç²é±¼ä¸¸æ±¤å¥é¤",
+          "dnamepy": "cybmfywttc",
+          "dcode": "4",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/68/96/03/00/dishes/n3e871147-8817-4fde-8c13-926948d5a2ee.png",
+          "smallimg": "https://img.icaipu.cn/imglib/68/96/03/00/dishes/n3e871147-8817-4fde-8c13-926948d5a2ee.png",
+          "normalimg": "https://img.icaipu.cn/imglib/68/96/03/00/dishes/n3e871147-8817-4fde-8c13-926948d5a2ee.png",
+          "unitname": "ä»½",
+          "unitprice": 15.0,
+          "unitpricecopy": 15.0,
+          "originprice": 15.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æç²,æé¢",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "51_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 52,
+          "gid": 9,
+          "sno": 5,
+          "dname": "é¦èé±æé¢/ç²é±¼ä¸¸æ±¤å¥é¤",
+          "dnamepy": "xgjbmfywttc",
+          "dcode": "5",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/43/18/06/00/dishes/nbfa23d87-8f48-4bc8-954b-eecec6e8545a.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/43/18/06/00/dishes/nbfa23d87-8f48-4bc8-954b-eecec6e8545a.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/43/18/06/00/dishes/nbfa23d87-8f48-4bc8-954b-eecec6e8545a.jpg",
+          "unitname": "ä»½",
+          "unitprice": 17.0,
+          "unitpricecopy": 17.0,
+          "originprice": 17.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æç²,æé¢",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "52_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 53,
+          "gid": 9,
+          "sno": 6,
+          "dname": "è¾ç±³è±æ²¹æé¢/ç²é±¼ä¸¸æ±¤å¥é¤",
+          "dnamepy": "xmbmfywttc",
+          "dcode": "6",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/70/83/03/00/dishes/nfe3853f3-9797-4053-b3e9-03771ccef209.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/70/83/03/00/dishes/nfe3853f3-9797-4053-b3e9-03771ccef209.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/70/83/03/00/dishes/nfe3853f3-9797-4053-b3e9-03771ccef209.jpg",
+          "unitname": "ä»½",
+          "unitprice": 17.0,
+          "unitpricecopy": 17.0,
+          "originprice": 17.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æç²,æé¢",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "53_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 10,
+      "sno": 3,
+      "gname": "ç¹è²æ±¤ç²é¢",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 54,
+          "gid": 10,
+          "sno": 1,
+          "dname": "ææé±¼ä¸¸æ±¤é¢/ç²",
+          "dnamepy": "sdywtmf",
+          "dcode": "1",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/huoguoshuancai/nc4cb2824-71d9-4df3-b240-3e0e416cbd79.JPG",
+          "smallimg": "https://img.icaipu.cn/imglib/huoguoshuancai/nc4cb2824-71d9-4df3-b240-3e0e416cbd79.JPG",
+          "normalimg": "https://img.icaipu.cn/imglib/huoguoshuancai/nc4cb2824-71d9-4df3-b240-3e0e416cbd79.JPG",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æ¡æç±³ç²,æå·¥é¢,ç±³ç²",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "54_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 55,
+          "gid": 10,
+          "sno": 2,
+          "dname": "èé¥¼èä¸¸æ±¤é¢/ç²",
+          "dnamepy": "rbrwtmf",
+          "dcode": "2",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/51/39/04/00/dishes/nca9ebb04-60cf-46ff-a81b-65a73c1366eb.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/51/39/04/00/dishes/nca9ebb04-60cf-46ff-a81b-65a73c1366eb.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/51/39/04/00/dishes/nca9ebb04-60cf-46ff-a81b-65a73c1366eb.jpg",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æ¡æç±³ç²,æå·¥é¢,ç±³ç²",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "55_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 56,
+          "gid": 10,
+          "sno": 3,
+          "dname": "æ¸æçªææ±¤é¢/ç²",
+          "dnamepy": "gqzztmf",
+          "dcode": "3",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/36/55/04/00/dishes/n01a77eed-a2be-4b10-8b15-c53796d35c45.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/36/55/04/00/dishes/n01a77eed-a2be-4b10-8b15-c53796d35c45.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/36/55/04/00/dishes/n01a77eed-a2be-4b10-8b15-c53796d35c45.jpg",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æ¡æç±³ç²,æå·¥é¢,ç±³ç²",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "56_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 57,
+          "gid": 10,
+          "sno": 4,
+          "dname": "æµ·é²æ±¤é¢/ç²",
+          "dnamepy": "hxtmf",
+          "dcode": "4",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/48/81/04/00/dishes/n4fc03f78-51c4-4021-967a-c86e3cf4e18b.JPEG",
+          "smallimg": "https://img.icaipu.cn/imglib/48/81/04/00/dishes/n4fc03f78-51c4-4021-967a-c86e3cf4e18b.JPEG",
+          "normalimg": "https://img.icaipu.cn/imglib/48/81/04/00/dishes/n4fc03f78-51c4-4021-967a-c86e3cf4e18b.JPEG",
+          "unitname": "ä»½",
+          "unitprice": 15.0,
+          "unitpricecopy": 15.0,
+          "originprice": 15.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "æ¡æç±³ç²,æå·¥é¢,ç±³ç²",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "57_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 18.0,
+              "skuoriginprice": 18,
+              "spec": "ä¸­ä»½"
+            },
+            {
+              "price": 20.0,
+              "skuoriginprice": 20,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": null
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 1,
+      "sno": 4,
+      "gname": "é±¼å¤§å¥",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 1,
+          "gid": 1,
+          "sno": 1,
+          "dname": "èåé¸ç¬é±¼",
+          "dnamepy": "ltssydrf",
+          "dcode": "1",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "å è¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "ä¸­è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/762cbcc8-bd47-4819-b05c-f2a28066a2b0.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/15df39c6-7b9b-4b19-ac20-cf518465f075.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/29579af5-c47f-4f0e-a16f-2c664962f63a.png",
+          "unitname": "èµ·",
+          "unitprice": 17.0,
+          "unitpricecopy": 17.0,
+          "originprice": 17.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "é¾å£ç²ä¸,çè,ééè,æ²¹éº¦è",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 2,
+          "dfid": "1_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 17.0,
+              "skuoriginprice": 17,
+              "spec": "åäººä»½"
+            },
+            {
+              "price": 30.0,
+              "skuoriginprice": 30,
+              "spec": "åäººä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "çèä¸¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é±¼è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "äº²äº²è ",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "åé¡µè±è",
+              "price": "2",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 43,
+          "gid": 1,
+          "sno": 2,
+          "dname": "éè±æ¤é±¼",
+          "dnamepy": "qhjy",
+          "dcode": "3",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "ä¸­è¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "ç¹è¾£"
+            }
+          ],
+          "dishdesc": "éº»è¾£å£å³",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/aaf6c81d-e08f-4f66-8119-19c6fb475694.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/63e6f637-af3c-4144-9a45-8f8219c0d168.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/3791ee96-e4d0-4fd2-865e-f746900b589e.png",
+          "unitname": "ä»½",
+          "unitprice": 17.0,
+          "unitpricecopy": 17.0,
+          "originprice": 17.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "çè,æ²¹éº¦è,é¾å£ç²ä¸,ééè",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 2,
+          "dfid": "43_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 17.0,
+              "skuoriginprice": 17,
+              "spec": "åäººä»½"
+            },
+            {
+              "price": 30.0,
+              "skuoriginprice": 30,
+              "spec": "åäººä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "çèä¸¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ éª¨åé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "é±¼è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "åé¡µè±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "äº²äº²è ",
+              "price": "2",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 2,
+          "gid": 1,
+          "sno": 4,
+          "dname": "èåé¸èé±¼",
+          "dnamepy": "ltscy",
+          "dcode": "2",
+          "fcount": 2,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "å è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/4f1a7850-cb44-4ef7-b4d1-25f6a43a5b03.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/435d11ab-2ff5-4297-92fc-c99b85e19d8c.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/6ee6228a-034d-4753-b12d-80031d8c2617.png",
+          "unitname": "èµ·",
+          "unitprice": 17.0,
+          "unitpricecopy": 17.0,
+          "originprice": 17.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "ééè,é¾å£ç²ä¸,æ²¹éº¦è,çè",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 2,
+          "dfid": "2_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 17.0,
+              "skuoriginprice": 17,
+              "spec": "åäººä»½"
+            },
+            {
+              "price": 30.0,
+              "skuoriginprice": 30,
+              "spec": "åäººä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "çèä¸¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é±¼è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "åé¡µè±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "äº²äº²è ",
+              "price": "2",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 4,
+          "gid": 1,
+          "sno": 5,
+          "dname": "éæ±¤é±¼",
+          "dnamepy": "jty",
+          "dcode": "4",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "å è¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "ä¸­è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/42/91/07/00/dishes/ncc418538-dc4a-4ccc-9878-5f1d6aeb5fc0.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/42/91/07/00/dishes/ncc418538-dc4a-4ccc-9878-5f1d6aeb5fc0.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/42/91/07/00/dishes/ncc418538-dc4a-4ccc-9878-5f1d6aeb5fc0.jpg",
+          "unitname": "èµ·",
+          "unitprice": 17.0,
+          "unitpricecopy": 17.0,
+          "originprice": 17.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "é¾å£ç²ä¸,ééè,çè,æ²¹éº¦è",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 2,
+          "dfid": "4_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 17.0,
+              "skuoriginprice": 17,
+              "spec": "åäººä»½"
+            },
+            {
+              "price": 30.0,
+              "skuoriginprice": 30,
+              "spec": "åäººä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "çèä¸¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é±¼è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "åé¡µè±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "äº²äº²è ",
+              "price": "2",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 5,
+          "gid": 1,
+          "sno": 6,
+          "dname": "å¬ä¸¾çªèé±¼",
+          "dnamepy": "gjfqy",
+          "dcode": "5",
+          "fcount": 1,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "ä¸è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/3da0661e-51d8-499a-936c-3016dff1efdb.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/a571edc6-bf8d-4b62-b43b-199b086bc26b.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/236b166e-5811-44b3-8688-db8d4dacc86c.png",
+          "unitname": "èµ·",
+          "unitprice": 17.0,
+          "unitpricecopy": 17.0,
+          "originprice": 17.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "é¾å£ç²ä¸,çè,æ²¹éº¦è,ééè",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 2,
+          "dfid": "5_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 17.0,
+              "skuoriginprice": 17,
+              "spec": "åäººä»½"
+            },
+            {
+              "price": 30.0,
+              "skuoriginprice": 30,
+              "spec": "åäººä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "çèä¸¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é±¼è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "åé¡µè±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "äº²äº²è ",
+              "price": "2",
+              "useflag": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 2,
+      "sno": 5,
+      "gname": "ç²å°å¦¹",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 6,
+          "gid": 2,
+          "sno": 1,
+          "dname": "èåé¸ç¬é±¼ç²",
+          "dnamepy": "ltssyf",
+          "dcode": "6",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "æ åè¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "å è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/de963093-713d-4a9a-a224-0a860f74d470.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/77825aba-78af-4ed7-87f9-6b7515a269e0.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/4acbc995-dba2-49dd-a83e-04c2c91c68c1.png",
+          "unitname": "èµ·",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "6_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¾å£ç²ä¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "çèä¸¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é±¼è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "åé¡µè±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "äº²äº²è ",
+              "price": "2",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 7,
+          "gid": 2,
+          "sno": 2,
+          "dname": "èåé¸èé±¼ç²",
+          "dnamepy": "ltscyf",
+          "dcode": "7",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "æ åè¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "å è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/447685b2-56cf-41d6-b9e2-6df6e4d53727.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/8bc1ec36-d091-4096-a69e-1c11de3a8090.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/fa1e381b-6df4-481e-a9aa-6b2e462058fc.png",
+          "unitname": "èµ·",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "7_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¾å£ç²ä¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 8,
+          "gid": 2,
+          "sno": 3,
+          "dname": "éè±æ¤é±¼ç²",
+          "dnamepy": "qhjyf",
+          "dcode": "8",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "æ åè¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "å è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/1a0c2436-8949-4a62-b815-4630631238a4.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/3be0d2ea-898b-4efc-8a00-fee2f8b448f5.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/17ab2455-9512-4ad3-b393-a6e49566676e.png",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "8_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¾å£ç²ä¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 9,
+          "gid": 2,
+          "sno": 6,
+          "dname": "éæ±¤é±¼ç²",
+          "dnamepy": "jtyf",
+          "dcode": "9",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "å¾®è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "æ åè¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "å è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/7263a9db-2bb2-4c72-be6c-c19b74b523f9.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/203907c8-0518-4e27-ab34-26686b0c567d.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/557cdb12-38b8-492a-a23d-d9a4f6b58770.png",
+          "unitname": "èµ·",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "9_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¾å£ç²ä¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ éª¨åé±¼ç",
+              "price": "6",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 10,
+          "gid": 2,
+          "sno": 7,
+          "dname": "å¬ä¸¾çªèé±¼ç²",
+          "dnamepy": "gjfqy",
+          "dcode": "10",
+          "fcount": 1,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "ä¸è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/93fe5c34-7b0c-4f4c-851b-2c485b9cfee0.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/d2971928-a5f3-4dd0-a405-0e699602f76e.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/ffbb1caf-6cfc-4dbb-8e23-0e5551e65ab7.png",
+          "unitname": "èµ·",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "10_",
+          "fcode": "",
+          "skuinfo": [
+            {
+              "price": 12.0,
+              "skuoriginprice": 12,
+              "spec": "å°ä»½"
+            },
+            {
+              "price": 15.0,
+              "skuoriginprice": 15,
+              "spec": "å¤§ä»½"
+            }
+          ],
+          "foodsinfo": [
+            {
+              "name": "æ éª¨åºé±¼ç",
+              "price": "6",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¾å£ç²ä¸",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "3",
+              "useflag": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 7,
+      "sno": 6,
+      "gname": "ç éç³»å",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 37,
+          "gid": 7,
+          "sno": 1,
+          "dname": "ç éç±³çº¿",
+          "dnamepy": "sgxl",
+          "dcode": "29",
+          "fcount": 3,
+          "flavorinfo": [
+            {
+              "fcode": "1",
+              "fname": "éº»è¾£"
+            },
+            {
+              "fcode": "2",
+              "fname": "é¦è¾£"
+            },
+            {
+              "fcode": "3",
+              "fname": "çèä¸è¾£"
+            }
+          ],
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/d311e075-27ef-4e7e-b2cf-3c484d400f45.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/8a737c41-23f1-46d2-8b29-432f54f4cb3c.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/3ea60faa-34dc-4a93-aff8-9b78c26cb6e9.png",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 5,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "37_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": [
+            {
+              "name": "ä»é¦ä¸¸å­",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å°é¥è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "èå·",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¹é¹è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æµ·å¸¦ä¸",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "çè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»è±è½",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çç­ä¸¸",
+              "price": "3",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 38,
+          "gid": 7,
+          "sno": 2,
+          "dname": "ç éæå·¥é¢",
+          "dnamepy": "sgdxm",
+          "dcode": "31",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/39/88/04/00/dishes/n8bf21b88-b95c-4ede-828c-ad5abdf1a313.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/39/88/04/00/dishes/n8bf21b88-b95c-4ede-828c-ad5abdf1a313.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/39/88/04/00/dishes/n8bf21b88-b95c-4ede-828c-ad5abdf1a313.jpg",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "é¦è¾£,éº»è¾£,çèï¼ä¸è¾£ï¼",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "38_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": [
+            {
+              "name": "ä»é¦ä¸¸å­",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å°é¥è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "èå·",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¹é¹è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æµ·å¸¦ä¸",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "çè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»è±è½",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çç­ä¸¸",
+              "price": "3",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 40,
+          "gid": 7,
+          "sno": 4,
+          "dname": "ç éåè±ç²",
+          "dnamepy": "tdf",
+          "dcode": "33",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/huoguosucaipeicai/nd6e23b43-e064-4c97-a46c-6b322a69059d.JPG",
+          "smallimg": "https://img.icaipu.cn/imglib/huoguosucaipeicai/nd6e23b43-e064-4c97-a46c-6b322a69059d.JPG",
+          "normalimg": "https://img.icaipu.cn/imglib/huoguosucaipeicai/nd6e23b43-e064-4c97-a46c-6b322a69059d.JPG",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "é¦è¾£,éº»è¾£,çèï¼ä¸è¾£ï¼",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "40_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": [
+            {
+              "name": "ä»é¦ä¸¸å­",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "å°é¥è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "èå·",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¹é¹è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æµ·å¸¦ä¸",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "çè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»è±è½",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çç­ä¸¸",
+              "price": "3",
+              "useflag": true
+            }
+          ]
+        },
+        {
+          "bid": 200084315,
+          "did": 41,
+          "gid": 7,
+          "sno": 5,
+          "dname": "ç éå°é¥èå«ç±³é¥­",
+          "dnamepy": "xsr",
+          "dcode": "34",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/597f6626-dfd3-4cbd-b2ab-ea9d8c2289cb.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/b0d4ea4c-7074-4e1d-8bc4-2057e4c75525.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/f321edde-3d1b-4a27-bd35-502b9d46d335.png",
+          "unitname": "ä»½",
+          "unitprice": 20.0,
+          "unitpricecopy": 20.0,
+          "originprice": 20.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": true,
+          "nodiscount": false,
+          "cookinfo": "é¦è¾£,éº»è¾£,çèï¼ä¸è¾£ï¼",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "41_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": [
+            {
+              "name": "å°é¥è",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ä»é¦ä¸¸å­",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "èå·",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "ç¸èç«¹",
+              "price": "3",
+              "useflag": true
+            },
+            {
+              "name": "é¹é¹è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çé¸¡è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹è±è",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "æµ·å¸¦ä¸",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "ééè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "å¨å¨è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ²¹éº¦è",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»æ¨è³",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "çè",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "é»è±è½",
+              "price": "1",
+              "useflag": true
+            },
+            {
+              "name": "æ°é²è±ç®",
+              "price": "2",
+              "useflag": true
+            },
+            {
+              "name": "çç­ä¸¸",
+              "price": "3",
+              "useflag": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 3,
+      "sno": 7,
+      "gname": "å°å",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 11,
+          "gid": 3,
+          "sno": 1,
+          "dname": "åæQQé±¼ç®",
+          "dnamepy": "lbyp",
+          "dcode": "11",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/70/71/04/00/dishes/n6e9e9033-682a-46bb-847f-df7d2822ee38.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/70/71/04/00/dishes/n6e9e9033-682a-46bb-847f-df7d2822ee38.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/70/71/04/00/dishes/n6e9e9033-682a-46bb-847f-df7d2822ee38.jpg",
+          "unitname": "ä»½",
+          "unitprice": 9.0,
+          "unitpricecopy": 9.0,
+          "originprice": 9.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "11_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 12,
+          "gid": 3,
+          "sno": 2,
+          "dname": "æ éª¨ä¹é¸¡çª",
+          "dnamepy": "wgwjz",
+          "dcode": "12",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/30/03/04/00/dishes/naba63565-2687-4bd9-9e2e-65ee77d1c6b7.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/30/03/04/00/dishes/naba63565-2687-4bd9-9e2e-65ee77d1c6b7.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/30/03/04/00/dishes/naba63565-2687-4bd9-9e2e-65ee77d1c6b7.jpg",
+          "unitname": "ä»½",
+          "unitprice": 12.0,
+          "unitpricecopy": 12.0,
+          "originprice": 12.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "12_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 4,
+      "sno": 8,
+      "gname": "éæ°´é¥®æ",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 13,
+          "gid": 4,
+          "sno": 1,
+          "dname": "è±å¥¶",
+          "dnamepy": "dn",
+          "dcode": "13",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/11/92/04/00/dishes/nd9356ea2-054c-4855-9387-bb5b2a976265.JPEG",
+          "smallimg": "https://img.icaipu.cn/imglib/11/92/04/00/dishes/nd9356ea2-054c-4855-9387-bb5b2a976265.JPEG",
+          "normalimg": "https://img.icaipu.cn/imglib/11/92/04/00/dishes/nd9356ea2-054c-4855-9387-bb5b2a976265.JPEG",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "13_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 14,
+          "gid": 4,
+          "sno": 2,
+          "dname": "ä»æ´¥å¯ä¹",
+          "dnamepy": "xjkl",
+          "dcode": "14",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/97/96/04/00/dishes/n7f4ca0cf-4a40-49ed-98c6-48ae61729368.JPEG",
+          "smallimg": "https://img.icaipu.cn/imglib/97/96/04/00/dishes/n7f4ca0cf-4a40-49ed-98c6-48ae61729368.JPEG",
+          "normalimg": "https://img.icaipu.cn/imglib/97/96/04/00/dishes/n7f4ca0cf-4a40-49ed-98c6-48ae61729368.JPEG",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "14_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 15,
+          "gid": 4,
+          "sno": 3,
+          "dname": "ä»æ´¥æ±½æ°´",
+          "dnamepy": "xjqs",
+          "dcode": "15",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/97/96/04/00/dishes/nd020d818-8f05-4e33-bebd-4fa95e859cc7.JPEG",
+          "smallimg": "https://img.icaipu.cn/imglib/97/96/04/00/dishes/nd020d818-8f05-4e33-bebd-4fa95e859cc7.JPEG",
+          "normalimg": "https://img.icaipu.cn/imglib/97/96/04/00/dishes/nd020d818-8f05-4e33-bebd-4fa95e859cc7.JPEG",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "15_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 16,
+          "gid": 4,
+          "sno": 4,
+          "dname": "åå¤«å±±æ³",
+          "dnamepy": "yb",
+          "dcode": "16",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/85/80/04/00/dishes/nf0f35f6b-27f5-41c7-ab9b-b95b05e6cc05.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/85/80/04/00/dishes/nf0f35f6b-27f5-41c7-ab9b-b95b05e6cc05.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/85/80/04/00/dishes/nf0f35f6b-27f5-41c7-ab9b-b95b05e6cc05.jpg",
+          "unitname": "ä»½",
+          "unitprice": 2.0,
+          "unitpricecopy": 2.0,
+          "originprice": 2.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "16_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 17,
+          "gid": 4,
+          "sno": 5,
+          "dname": "çèå",
+          "dnamepy": "wlj",
+          "dcode": "17",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/jiushuiyinliao/n8de3a2d5-f578-4648-b7c8-b86aac134767.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/jiushuiyinliao/n8de3a2d5-f578-4648-b7c8-b86aac134767.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/jiushuiyinliao/n8de3a2d5-f578-4648-b7c8-b86aac134767.jpg",
+          "unitname": "ä»½",
+          "unitprice": 4.0,
+          "unitpricecopy": 4.0,
+          "originprice": 4.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "17_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 18,
+          "gid": 4,
+          "sno": 6,
+          "dname": "ç¾äºå¯ä¹",
+          "dnamepy": "bskl",
+          "dcode": "18",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/86/00/04/00/dishes/nef745bd4-d69c-4769-89de-0b3e4e8d54d8.png",
+          "smallimg": "https://img.icaipu.cn/imglib/86/00/04/00/dishes/nef745bd4-d69c-4769-89de-0b3e4e8d54d8.png",
+          "normalimg": "https://img.icaipu.cn/imglib/86/00/04/00/dishes/nef745bd4-d69c-4769-89de-0b3e4e8d54d8.png",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "18_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 20,
+          "gid": 4,
+          "sno": 8,
+          "dname": "å¯å£å¯ä¹",
+          "dnamepy": "kkkl",
+          "dcode": "20",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/73/45/04/00/dishes/nf2f46e21-8370-4cff-87bf-6350649057e9.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/73/45/04/00/dishes/nf2f46e21-8370-4cff-87bf-6350649057e9.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/73/45/04/00/dishes/nf2f46e21-8370-4cff-87bf-6350649057e9.jpg",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "20_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 22,
+          "gid": 4,
+          "sno": 10,
+          "dname": "å¤ªé­æ§é¸æ¢æ±¤",
+          "dnamepy": "tmxsmt",
+          "dcode": "23",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/95a47f95-60a1-4011-8ea0-323e0ea409b2.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/75a082d6-1f84-4b59-8482-fc7b4d06abe4.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/6c7a7fcb-6c2a-4a0a-b141-cb017785ed30.png",
+          "unitname": "ä»½",
+          "unitprice": 2.0,
+          "unitpricecopy": 2.0,
+          "originprice": 2.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "22_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 23,
+          "gid": 4,
+          "sno": 11,
+          "dname": "å¤ªé­æ§æ æª¬è¶",
+          "dnamepy": "tmxnmc",
+          "dcode": "24",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/0caea0a0-1ef9-4050-84cb-69badbaa3ee3.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/15223fa3-a1d0-4a02-bcf7-b5a477a85fe4.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/28463708-8661-43bc-aa28-255bea09f1b5.png",
+          "unitname": "ä»½",
+          "unitprice": 2.0,
+          "unitpricecopy": 2.0,
+          "originprice": 2.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "23_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 24,
+          "gid": 4,
+          "sno": 12,
+          "dname": "å¤ªé­æ§èèè±è¶",
+          "dnamepy": "tmxmlhc",
+          "dcode": "25",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/011c9f9c-0148-44df-aefe-71a9710f4831.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/455dc90a-c5d6-4118-b026-9a1d47712d18.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/e43d1658-c5dd-48d2-8931-17fb81260839.png",
+          "unitname": "ä»½",
+          "unitprice": 2.0,
+          "unitpricecopy": 2.0,
+          "originprice": 2.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "24_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 25,
+          "gid": 4,
+          "sno": 13,
+          "dname": "éå²ç»å¸å¤é",
+          "dnamepy": "xhpj",
+          "dcode": "26",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/14/95/04/00/dishes/n7703f9b8-b82f-4d32-ac05-743bbfc0192f.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/14/95/04/00/dishes/n7703f9b8-b82f-4d32-ac05-743bbfc0192f.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/14/95/04/00/dishes/n7703f9b8-b82f-4d32-ac05-743bbfc0192f.jpg",
+          "unitname": "ä»½",
+          "unitprice": 6.0,
+          "unitpricecopy": 6.0,
+          "originprice": 6.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "25_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        }
+      ]
+    },
+    {
+      "bid": 200084315,
+      "gid": 6,
+      "sno": 9,
+      "gname": "å æ",
+      "dishesinfo": [
+        {
+          "bid": 200084315,
+          "did": 27,
+          "gid": 6,
+          "sno": 1,
+          "dname": "æ éª¨åºé±¼ç",
+          "dnamepy": "wgcyp",
+          "dcode": "27",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/452ff2bd-c89f-45c5-87d2-c4a7c412281b.png",
+          "smallimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/ca0bafba-9d04-4d1b-8ee2-17b90a8835fc.png",
+          "normalimg": "https://img.icaipu.cn/imglib/53/52/15/00/dishes/1b9eaa7f-6a59-4ad1-8757-09495fcc52e7.png",
+          "unitname": "ä»½",
+          "unitprice": 6.0,
+          "unitpricecopy": 6.0,
+          "originprice": 6.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "27_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 28,
+          "gid": 6,
+          "sno": 2,
+          "dname": "çé¸¡è",
+          "dnamepy": "jjd",
+          "dcode": "28",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/68/94/03/00/dishes/n3e839087-2e2e-4326-b5c5-9d047424ea9b.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/68/94/03/00/dishes/n3e839087-2e2e-4326-b5c5-9d047424ea9b.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/68/94/03/00/dishes/n3e839087-2e2e-4326-b5c5-9d047424ea9b.jpg",
+          "unitname": "ä»½",
+          "unitprice": 2.0,
+          "unitpricecopy": 2.0,
+          "originprice": 2.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "28_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 29,
+          "gid": 6,
+          "sno": 3,
+          "dname": "ç¸èç«¹",
+          "dnamepy": "zfz",
+          "dcode": "29",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/69/80/04/00/dishes/na42b8984-2db2-4c98-99de-318f726a7b01.JPEG",
+          "smallimg": "https://img.icaipu.cn/imglib/69/80/04/00/dishes/na42b8984-2db2-4c98-99de-318f726a7b01.JPEG",
+          "normalimg": "https://img.icaipu.cn/imglib/69/80/04/00/dishes/na42b8984-2db2-4c98-99de-318f726a7b01.JPEG",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "29_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 30,
+          "gid": 6,
+          "sno": 4,
+          "dname": "æ²¹éº¦è",
+          "dnamepy": "ymc",
+          "dcode": "30",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/84/01/04/00/dishes/n3f1297e0-1a68-4095-b843-951ac6a8d8a4.JPEG",
+          "smallimg": "https://img.icaipu.cn/imglib/84/01/04/00/dishes/n3f1297e0-1a68-4095-b843-951ac6a8d8a4.JPEG",
+          "normalimg": "https://img.icaipu.cn/imglib/84/01/04/00/dishes/n3f1297e0-1a68-4095-b843-951ac6a8d8a4.JPEG",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "30_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 31,
+          "gid": 6,
+          "sno": 5,
+          "dname": "ééè",
+          "dnamepy": "jzg",
+          "dcode": "31",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/huoguojunleipeicai/n4749f7e5-2833-4d44-89aa-991c47cfbde9.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/huoguojunleipeicai/n4749f7e5-2833-4d44-89aa-991c47cfbde9.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/huoguojunleipeicai/n4749f7e5-2833-4d44-89aa-991c47cfbde9.jpg",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "31_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 33,
+          "gid": 6,
+          "sno": 6,
+          "dname": "è±ç®",
+          "dnamepy": "dp",
+          "dcode": "33",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/51/93/03/00/dishes/n13217215-5958-468e-b70b-ccae9f8e0ba6.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/51/93/03/00/dishes/n13217215-5958-468e-b70b-ccae9f8e0ba6.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/51/93/03/00/dishes/n13217215-5958-468e-b70b-ccae9f8e0ba6.jpg",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "33_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 32,
+          "gid": 6,
+          "sno": 6,
+          "dname": "å¨å¨è",
+          "dnamepy": "wwc",
+          "dcode": "32",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/96/93/04/00/dishes/n4fdf9131-8914-400d-8a1e-dedbf96dc7bf.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/96/93/04/00/dishes/n4fdf9131-8914-400d-8a1e-dedbf96dc7bf.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/96/93/04/00/dishes/n4fdf9131-8914-400d-8a1e-dedbf96dc7bf.jpg",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "32_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 34,
+          "gid": 6,
+          "sno": 7,
+          "dname": "é¾å£ç²ä¸",
+          "dnamepy": "lkfs",
+          "dcode": "34",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/shucai/nc109b6ea-f662-4129-8592-3d4b54a4433f.JPG",
+          "smallimg": "https://img.icaipu.cn/imglib/shucai/nc109b6ea-f662-4129-8592-3d4b54a4433f.JPG",
+          "normalimg": "https://img.icaipu.cn/imglib/shucai/nc109b6ea-f662-4129-8592-3d4b54a4433f.JPG",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "34_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 35,
+          "gid": 6,
+          "sno": 8,
+          "dname": "é»æ¨è³",
+          "dnamepy": "hme",
+          "dcode": "35",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/henancai/ncdfc99f4-fa3b-4557-8fd9-cdf9bb95bcb7.jpg",
+          "smallimg": "https://img.icaipu.cn/imglib/henancai/ncdfc99f4-fa3b-4557-8fd9-cdf9bb95bcb7.jpg",
+          "normalimg": "https://img.icaipu.cn/imglib/henancai/ncdfc99f4-fa3b-4557-8fd9-cdf9bb95bcb7.jpg",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "35_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        },
+        {
+          "bid": 200084315,
+          "did": 36,
+          "gid": 6,
+          "sno": 9,
+          "dname": "æ²¹è±è",
+          "dnamepy": "ydf",
+          "dcode": "36",
+          "fcount": 0,
+          "flavorinfo": null,
+          "dishdesc": "",
+          "bigimg": "https://img.icaipu.cn/imglib/38/82/04/00/dishes/nc03a3121-9e1f-42d6-9e52-a3b58f292d75.png",
+          "smallimg": "https://img.icaipu.cn/imglib/38/82/04/00/dishes/nc03a3121-9e1f-42d6-9e52-a3b58f292d75.png",
+          "normalimg": "https://img.icaipu.cn/imglib/38/82/04/00/dishes/nc03a3121-9e1f-42d6-9e52-a3b58f292d75.png",
+          "unitname": "ä»½",
+          "unitprice": 3.0,
+          "unitpricecopy": 3.0,
+          "originprice": 3.0,
+          "startamt": 1,
+          "stocknow": -1,
+          "stockset": null,
+          "recommend": 0,
+          "isdiscount": false,
+          "nodiscount": true,
+          "cookinfo": "",
+          "foodinfo": "",
+          "ismust": false,
+          "ishot": false,
+          "selectnum": 0,
+          "dfid": "36_",
+          "fcode": "",
+          "skuinfo": null,
+          "foodsinfo": null
+        }
+      ]
+    }
+  ],
+  "kitchenInfo": []
 }

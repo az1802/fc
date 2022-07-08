@@ -1,3066 +1,1495 @@
 {
-	"errCode": "10000",
-	"errMsg": "SUCCESS",
-	"data": [{
-		"goods_label_code": "286771581321",
-		"name": "热销",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20220110094356809.jpg"],
-			"goods_code": "596266965568",
-			"goods_name": "牛肉拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1100",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 1,
-			"original_price": "1300",
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"sku_count": 1,
-			"is_need_select": 2,
-			"set_meal_info": {
-				"rule": []
-			}
-		}],
-		"goods_group_code": "286771581321"
-	}, {
-		"goods_group_code": "590214017359",
-		"name": "汤面类",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20220110094356809.jpg"],
-			"goods_code": "596266965568",
-			"goods_name": "牛肉拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1100",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": "1300",
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211101143432597.jpeg"],
-			"goods_code": "968101128563",
-			"goods_name": "羊肉拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210830142403932.jpg"],
-			"goods_code": "160521878022",
-			"goods_name": "番茄鸡蛋拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/番茄鸡蛋刀削面.png"],
-			"goods_code": "853306342428",
-			"goods_name": "番茄鸡蛋刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211116103238654.jpeg"],
-			"goods_code": "407768691657",
-			"goods_name": "牛肉刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1100",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114081011228.jpeg"],
-			"goods_code": "682939995499",
-			"goods_name": "羊肉刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/青菜拉面.jpg"],
-			"goods_code": "994762442912",
-			"goods_name": "青菜拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1100",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/2021101417060895.jpg"],
-			"goods_code": "304015928041",
-			"goods_name": "青菜刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1100",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210830142403932.jpg"],
-			"goods_code": "487996191019",
-			"goods_name": "番茄鸡蛋拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/番茄鸡蛋刀削面.png"],
-			"goods_code": "483648196095",
-			"goods_name": "番茄鸡蛋刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211116110324928.png"],
-			"goods_code": "111757388617",
-			"goods_name": "红烧牛肉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211116103238654.jpeg"],
-			"goods_code": "914305674610",
-			"goods_name": "红烧牛肉刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://p0.meituan.net/xianfudwm/9e62c07fcc460e4e485eeef1f7faebea211428.jpg"],
-			"goods_code": "270853298204",
-			"goods_name": "酸菜牛肉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211116103300169.jpeg"],
-			"goods_code": "452985356561",
-			"goods_name": "牛肉烩面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114082401515.jpeg"],
-			"goods_code": "214018455101",
-			"goods_name": "羊肉烩面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211106184058618.jpeg"],
-			"goods_code": "332799453940",
-			"goods_name": "牛肉烩面片",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114082401515.jpeg"],
-			"goods_code": "174703692318",
-			"goods_name": "羊肉烩面片",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "124054383207",
-		"name": "炒面",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211112100431679.jpeg"],
-			"goods_code": "846302690263",
-			"goods_name": "牛肉炒拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/c1b45211fa54ca43.jpg"],
-			"goods_code": "453596141235",
-			"goods_name": "羊肉炒拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/炒刀削面(牛肉;鸡蛋).png"],
-			"goods_code": "282640592195",
-			"goods_name": "牛肉炒刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211025202202396.jpg"],
-			"goods_code": "880676518939",
-			"goods_name": "羊肉炒刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20220309125820150.jpg"],
-			"goods_code": "154042302258",
-			"goods_name": "番茄鸡蛋炒拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211025202138386.jpg"],
-			"goods_code": "414639777736",
-			"goods_name": "番茄鸡蛋炒刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/番茄鸡蛋炒拉面.png"],
-			"goods_code": "186824709270",
-			"goods_name": "鸡蛋炒拉面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211029142810342.jpg"],
-			"goods_code": "945141191408",
-			"goods_name": "鸡蛋炒刀削面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211118140744881.jpg"],
-			"goods_code": "292733859131",
-			"goods_name": "牛肉炒面片",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211110114028587.jpg"],
-			"goods_code": "315057991631",
-			"goods_name": "鸡蛋炒面片",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828212710353.jpg"],
-			"goods_code": "824760105693",
-			"goods_name": "丁丁炒面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/羊肉炒面片.jpg"],
-			"goods_code": "350665746675",
-			"goods_name": "羊肉炒面片",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2200",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "722433971753",
-		"name": "特色拌面",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211118141315834.jpg"],
-			"goods_code": "483056771103",
-			"goods_name": "土豆牛肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/e158d564fee3e1a4.jpg"],
-			"goods_code": "731731036258",
-			"goods_name": "西葫芦炒肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211029142117670.jpg"],
-			"goods_code": "252946444181",
-			"goods_name": "木耳炒肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211003112521358.jpg"],
-			"goods_code": "770001628901",
-			"goods_name": "洋葱炒肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211118141339910.jpg"],
-			"goods_code": "815175430011",
-			"goods_name": "青椒炒肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210802115407588.jpg"],
-			"goods_code": "147570816706",
-			"goods_name": "蘑菇炒肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211101135042331.jpeg"],
-			"goods_code": "482376090157",
-			"goods_name": "蒜苔炒肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210830140609461.jpg"],
-			"goods_code": "388369807740",
-			"goods_name": "番茄鸡蛋拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210919135933871.jpg"],
-			"goods_code": "118416782189",
-			"goods_name": "青椒酸辣土豆丝拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211012140519681.jpg"],
-			"goods_code": "203428569622",
-			"goods_name": "新疆拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211122063653256.jpg"],
-			"goods_code": "557390388986",
-			"goods_name": "大盘鸡拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/孜然羊肉拌面.png"],
-			"goods_code": "194740172103",
-			"goods_name": "孜然羊肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211025150213279.jpeg"],
-			"goods_code": "478882029280",
-			"goods_name": "孜然牛肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828210130718.jpg"],
-			"goods_code": "715813039382",
-			"goods_name": "葱爆羊肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211101134743204.jpeg"],
-			"goods_code": "568328513624",
-			"goods_name": "葱爆牛肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211115185135466.jpg"],
-			"goods_code": "152015934418",
-			"goods_name": "红烧牛肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210828210623600.jpg"],
-			"goods_code": "435082895075",
-			"goods_name": "茄子炒肉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211115190448939.jpg"],
-			"goods_code": "102705916808",
-			"goods_name": "红烧鸡块拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211101120208572.jpg"],
-			"goods_code": "730697595793",
-			"goods_name": "红烧茄子拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210830140702323.jpg"],
-			"goods_code": "986644707154",
-			"goods_name": "青椒炒蛋拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211116102317246.jpeg"],
-			"goods_code": "633793404465",
-			"goods_name": "炸酱面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211104170147182.jpg"],
-			"goods_code": "383988722739",
-			"goods_name": "油泼面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "835667565558",
-		"name": "特色米饭",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211118140950661.jpg"],
-			"goods_code": "487784775113",
-			"goods_name": "土豆牛肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211031140945133.jpg"],
-			"goods_code": "771795059042",
-			"goods_name": "鸡蛋炒饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211110143856853.jpg"],
-			"goods_code": "564355866191",
-			"goods_name": "牛肉炒饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1200",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211102134833856.png"],
-			"goods_code": "959399889549",
-			"goods_name": "兰州炒饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021110114195042.jpeg"],
-			"goods_code": "358775742165",
-			"goods_name": "孜然羊肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211119164537649.jpg"],
-			"goods_code": "193309327587",
-			"goods_name": "羊肉炒饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211104222750316.jpg"],
-			"goods_code": "441251050028",
-			"goods_name": "蒜苔炒肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/洋葱烧牛肉.png"],
-			"goods_code": "504147672513",
-			"goods_name": "洋葱炒肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210723173238413.jpeg"],
-			"goods_code": "161672525573",
-			"goods_name": "蘑菇炒肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211118141025379.jpg"],
-			"goods_code": "311288167396",
-			"goods_name": "青椒牛肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021110114070593.jpeg"],
-			"goods_code": "472825164208",
-			"goods_name": "木耳炒肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114233009253.jpg"],
-			"goods_code": "586901089828",
-			"goods_name": "酸辣土豆丝饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211110143507338.jpg"],
-			"goods_code": "117605571961",
-			"goods_name": "青椒土豆丝饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211110144212765.jpg"],
-			"goods_code": "702676336094",
-			"goods_name": "孜然牛肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211118140912998.jpg"],
-			"goods_code": "222084557497",
-			"goods_name": "红烧鸡块饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211119160138703.jpg"],
-			"goods_code": "405689947819",
-			"goods_name": "红烧茄子饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211101142138497.jpeg"],
-			"goods_code": "191254262207",
-			"goods_name": "红烧牛肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/d1e970c749e46ec0.jpg"],
-			"goods_code": "812620563479",
-			"goods_name": "茄子牛肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211115193108336.jpg"],
-			"goods_code": "638883394375",
-			"goods_name": "酸辣白菜饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/521白菜炒肉饭.jpg"],
-			"goods_code": "727367559541",
-			"goods_name": "白菜牛肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211110143126812.jpg"],
-			"goods_code": "509401743626",
-			"goods_name": "番茄鸡蛋饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210828182257383.jpg"],
-			"goods_code": "742249393090",
-			"goods_name": "青瓜炒蛋饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211101140722485.jpeg"],
-			"goods_code": "825820677122",
-			"goods_name": "青椒炒蛋饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211110144319795.jpg"],
-			"goods_code": "808209405047",
-			"goods_name": "葱爆羊肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/6549864d60865224.jpg"],
-			"goods_code": "221772728068",
-			"goods_name": "葱爆牛肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211101142406411.jpeg"],
-			"goods_code": "695447627315",
-			"goods_name": "西葫芦炒肉饭",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "514123868569",
-		"name": "套餐",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211120102531974.jpeg"],
-			"goods_code": "473010182986",
-			"goods_name": "A套餐",
-			"describe": "价格优惠",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211120201855753.jpeg"],
-			"goods_code": "344103877386",
-			"goods_name": "B套餐",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021112321350714.jpg"],
-			"goods_code": "786791876377",
-			"goods_name": "C套餐",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "3000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211123213726689.jpg"],
-			"goods_code": "907164323283",
-			"goods_name": "D双人套餐",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "5500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "289423176273",
-		"name": "小吃",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210621151459812.png"],
-			"goods_code": "628047801787",
-			"goods_name": "肉夹馍",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211025181143152.png"],
-			"goods_code": "701907335873",
-			"goods_name": "葱油饼",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210825212429265.jpeg"],
-			"goods_code": "730248365597",
-			"goods_name": "煎蛋",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "200",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211118175551412.png"],
-			"goods_code": "314584229700",
-			"goods_name": "小盘牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210916132725586.jpg"],
-			"goods_code": "944151597097",
-			"goods_name": "牛肉干饺",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211025174956563.png"],
-			"goods_code": "460593706881",
-			"goods_name": "羊肉干饺",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/54b31c38112e560a.jpg"],
-			"goods_code": "381987235741",
-			"goods_name": "牛肉水饺",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1400",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211104231601547.jpg"],
-			"goods_code": "891916387062",
-			"goods_name": "羊肉水饺",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1600",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "906191435363",
-		"name": "凉面",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210624124437770.jpg"],
-			"goods_code": "156832502456",
-			"goods_name": "牛肉凉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210530144324241.jpeg"],
-			"goods_code": "548988270340",
-			"goods_name": "羊肉凉拌面",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "895393509371",
-		"name": "汤类",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021111516341058.jpg"],
-			"goods_code": "799498260300",
-			"goods_name": "羊肉泡馍",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211115163442518.jpg"],
-			"goods_code": "541417875792",
-			"goods_name": "牛肉泡馍",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211101200757898.jpeg"],
-			"goods_code": "164324489329",
-			"goods_name": "牛肉粉丝汤",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114083331515.jpeg"],
-			"goods_code": "256520427763",
-			"goods_name": "羊肉粉丝汤",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "262333226064",
-		"name": "凉菜",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211115152641460.jpg"],
-			"goods_code": "325117079261",
-			"goods_name": "凉拌牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "4000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211115152641460.jpg"],
-			"goods_code": "611369700822",
-			"goods_name": "小份凉拌牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "3000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/d34c3a4691424811.jpeg"],
-			"goods_code": "690644393209",
-			"goods_name": "糖拌西红柿",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/fdcdf74ebeb896b7.jpeg"],
-			"goods_code": "176668555848",
-			"goods_name": "凉拌西红柿小份",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021110114150277.jpeg"],
-			"goods_code": "720046814531",
-			"goods_name": "凉拌土豆丝",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021110114150277.jpeg"],
-			"goods_code": "510786149045",
-			"goods_name": "凉拌土豆丝小份",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210913224407577.png"],
-			"goods_code": "629236436961",
-			"goods_name": "凉拌青瓜",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211123155141879.jpeg"],
-			"goods_code": "598556103976",
-			"goods_name": "凉拌青瓜小份",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": "1200",
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210524185324861.jpeg"],
-			"goods_code": "560675164638",
-			"goods_name": "凉拌木耳",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114083024277.jpeg"],
-			"goods_code": "296595991589",
-			"goods_name": "牛肉汤",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114083024277.jpeg"],
-			"goods_code": "874365027993",
-			"goods_name": "羊肉汤",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1700",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211122181735400.png"],
-			"goods_code": "473631071206",
-			"goods_name": "番茄鸡蛋汤",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "990966587420",
-		"name": "小炒",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/新疆大盘鸡.png"],
-			"goods_code": "586174097191",
-			"goods_name": "新疆大盘鸡",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "9900",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/新疆大盘鸡.png"],
-			"goods_code": "106310294428",
-			"goods_name": "新疆大盘鸡",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "8800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform_goods_image_import/辣子鸡块盖浇面(饭).png"],
-			"goods_code": "738395709590",
-			"goods_name": "红烧鸡块",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "3800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/12b256f857f7358e.jpg"],
-			"goods_code": "244319733278",
-			"goods_name": "孜然羊肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "4000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210624171953580.jpg"],
-			"goods_code": "761879297764",
-			"goods_name": "孜然牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "3500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211108140513731.jpeg"],
-			"goods_code": "515355237619",
-			"goods_name": "葱爆羊肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "4000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211019133953682.jpeg"],
-			"goods_code": "931551939947",
-			"goods_name": "葱爆牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "3500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211122113410323.jpg"],
-			"goods_code": "229468717472",
-			"goods_name": "红烧牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "4000",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/3b86733fa2b1214f.jpg"],
-			"goods_code": "638265639729",
-			"goods_name": "土豆烧牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "3500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210429115627250.jpeg"],
-			"goods_code": "469320133933",
-			"goods_name": "蒜苔炒牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20210924183020568.png"],
-			"goods_code": "387480964744",
-			"goods_name": "青椒炒牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211108140628188.jpeg"],
-			"goods_code": "460765164578",
-			"goods_name": "木耳炒牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211124163047473.png"],
-			"goods_code": "988804719829",
-			"goods_name": "蘑菇炒牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210828135824485.jpeg"],
-			"goods_code": "227957543730",
-			"goods_name": "洋葱炒牛肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211119165247694.jpg"],
-			"goods_code": "908094478165",
-			"goods_name": "西葫芦炒肉",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "2500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211116103510728.jpeg"],
-			"goods_code": "550829275324",
-			"goods_name": "番茄炒蛋",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/7f2d7162f135982a.jpg"],
-			"goods_code": "855910085095",
-			"goods_name": "青椒炒蛋",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021072709080786.jpeg"],
-			"goods_code": "340149038983",
-			"goods_name": "青椒土豆丝",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211114233009253.jpg"],
-			"goods_code": "904785469174",
-			"goods_name": "酸辣土豆丝",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211122113948142.jpg"],
-			"goods_code": "871746082650",
-			"goods_name": "酸辣白菜",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"],
-			"goods_code": "326882044458",
-			"goods_name": "素炒青椒",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "1800",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}, {
-		"goods_group_code": "140631861099",
-		"name": "饮料",
-		"logo": "",
-		"goods_group_type": "1",
-		"list": [{
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211115124030697.jpeg"],
-			"goods_code": "825938310846",
-			"goods_name": "百事可乐",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "300",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20210819135203561.jpg"],
-			"goods_code": "963502892339",
-			"goods_name": "百事可乐",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "200",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211117212520687.jpg"],
-			"goods_code": "541616702498",
-			"goods_name": "芬达",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "300",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/2021082523343923.png"],
-			"goods_code": "176778794638",
-			"goods_name": "芬达",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "200",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211122221553385.jpg"],
-			"goods_code": "762981433374",
-			"goods_name": "雪碧",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "300",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211002192200866.jpeg"],
-			"goods_code": "363069108873",
-			"goods_name": "东鹏特饮",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "500",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}, {
-			"img": ["https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/mchh5/goods/20211109170255436.jpg"],
-			"goods_code": "273105743573",
-			"goods_name": "豆奶",
-			"describe": "",
-			"start_sale_num": "1",
-			"price": "200",
-			"is_set_meal": "2",
-			"restricted_quantity_type": "1",
-			"restricted_quantity": "0",
-			"is_coupon": "1",
-			"type": 2,
-			"original_price": 0,
-			"stock_status": 1,
-			"goods_sku_num": 2,
-			"is_need_select": 2,
-			"sku_count": 1,
-			"set_meal_info": {
-				"rule": []
-			},
-			"packaging_num": "1",
-			"packaging_price": "0"
-		}]
-	}]
+  "errCode": "10000",
+  "errMsg": "SUCCESS",
+  "data": [
+    {
+      "goods_group_code": "164980133529",
+      "name": "炸酱系列",
+      "logo": "",
+      "goods_group_type": "1",
+      "list": [
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "153970841504",
+          "goods_name": "炸酱面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "170504381880",
+          "goods_name": "炸酱小面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "712830932158",
+          "goods_name": "炸酱刀削面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "658466427028",
+          "goods_name": "炸酱红薯粉(干/汤)",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "554220399307",
+          "goods_name": "炸酱桂林粉(千/汤)",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "677096633007",
+          "goods_name": "牛腩炸酱面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1700",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "355458276253",
+          "goods_name": "排骨炸酱面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1700",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "999467469193",
+          "goods_name": "肥肠炸酱面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1700",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    },
+    {
+      "goods_group_code": "644999644393",
+      "name": "酸辣粉系列",
+      "logo": "",
+      "goods_group_type": "1",
+      "list": [
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "663400302734",
+          "goods_name": "酸辣粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "748847223678",
+          "goods_name": "酸辣面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "460386832710",
+          "goods_name": "酸辣桂林米粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "463032128242",
+          "goods_name": "酸辣河粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "327159752836",
+          "goods_name": "酸辣刀削面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "353246910590",
+          "goods_name": "煎蛋",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "412999445991",
+          "goods_name": "花生米",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "915151259442",
+          "goods_name": "加粉/面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "473347551235",
+          "goods_name": "麻辣小面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "671407700376",
+          "goods_name": "刀削面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "892606680374",
+          "goods_name": "汤河粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "744598662015",
+          "goods_name": "汤米粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "659819983271",
+          "goods_name": "珍珠粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "214063721569",
+          "goods_name": "螺蛳粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    },
+    {
+      "goods_group_code": "903005149587",
+      "name": "牛腩肥肠系列",
+      "logo": "",
+      "goods_group_type": "1",
+      "list": [
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "899570230580",
+          "goods_name": "牛腩面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "867273304658",
+          "goods_name": "牛腩桂林粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "852673923224",
+          "goods_name": "牛腩米/河粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "886035990389",
+          "goods_name": "牛腩刀削面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "778036097576",
+          "goods_name": "牛腩酸辣粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "647283717617",
+          "goods_name": "肥肠面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "531415107846",
+          "goods_name": "肥肠桂林粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "580215049348",
+          "goods_name": "肥肠米/河粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "972779245581",
+          "goods_name": "肥肠刀削面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "935915633756",
+          "goods_name": "肥肠酸辣粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    },
+    {
+      "goods_group_code": "376565290614",
+      "name": "凉拌系列",
+      "logo": "",
+      "goods_group_type": "1",
+      "list": [
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "183183246338",
+          "goods_name": "凉皮",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "900",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "993842858867",
+          "goods_name": "凉面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "900",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "185108464723",
+          "goods_name": "凉皮 凉面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "900",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "151768018258",
+          "goods_name": "热干面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "900",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "971613544551",
+          "goods_name": "凉拌酸辣粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1000",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "674990598112",
+          "goods_name": "红油/清汤抄手",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    },
+    {
+      "goods_group_code": "258231440326",
+      "name": "排骨系列",
+      "logo": "",
+      "goods_group_type": "1",
+      "list": [
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "416981840739",
+          "goods_name": "排骨面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "155554192233",
+          "goods_name": "排骨桂林粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "444177366886",
+          "goods_name": "排骨米/河粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "778917385125",
+          "goods_name": "排骨刀削面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "163886494655",
+          "goods_name": "排骨酸辣粉",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    },
+    {
+      "goods_group_code": "457688482664",
+      "name": "水饺系列",
+      "logo": "",
+      "goods_group_type": "1",
+      "list": [
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "905233159614",
+          "goods_name": "韭菜肉饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "577407804969",
+          "goods_name": "韭菜蛋饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "786973679438",
+          "goods_name": "白菜肉饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "439680905826",
+          "goods_name": "芹菜肉饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "501544360676",
+          "goods_name": "大葱肉饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "861518326820",
+          "goods_name": "茴香肉饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "945168717158",
+          "goods_name": "玉米肉饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "720737276738",
+          "goods_name": "酸菜肉饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1500",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "806650358904",
+          "goods_name": "牛肉葱饺",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "1800",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 1,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    },
+    {
+      "goods_group_code": "391188825340",
+      "name": "加料区",
+      "logo": "",
+      "goods_group_type": "1",
+      "list": [
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/platform/undefined/20211207181932683.png"
+          ],
+          "goods_code": "264772876631",
+          "goods_name": "加牛腩",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "700",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 2,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/default/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210201164303.png"
+          ],
+          "goods_code": "860184615571",
+          "goods_name": "加肥肠",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "700",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 2,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "https://cube.elemecdn.com/a/ad/4938fd134e8e49d44857b5ba70adejpeg.jpeg"
+          ],
+          "goods_code": "953627861244",
+          "goods_name": "加排骨",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "700",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 2,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        },
+        {
+          "img": [
+            "http://p0.meituan.net/xianfudwm/a07121236f6256c5dd31bd798a10a96e125337.jpg"
+          ],
+          "goods_code": "976493354886",
+          "goods_name": "加粉/面",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "200",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 2,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    },
+    {
+      "goods_group_code": "509414717555",
+      "name": "餐具",
+      "logo": "",
+      "goods_group_type": "2",
+      "list": [
+        {
+          "img": [
+            "http://syt-smdc.oss-cn-shenzhen.aliyuncs.com/images/takeout_images/ee63f3477c3356be.jpeg"
+          ],
+          "goods_code": "177380364667",
+          "goods_name": "需要餐具",
+          "describe": "",
+          "start_sale_num": "1",
+          "price": "0",
+          "is_set_meal": "2",
+          "restricted_quantity_type": "1",
+          "restricted_quantity": "0",
+          "is_coupon": "1",
+          "type": 2,
+          "original_price": 0,
+          "stock_status": 1,
+          "goods_sku_num": 2,
+          "is_need_select": 2,
+          "sku_count": 1,
+          "set_meal_info": {
+            "rule": []
+          },
+          "packaging_num": "1",
+          "packaging_price": "0"
+        }
+      ]
+    }
+  ]
 }

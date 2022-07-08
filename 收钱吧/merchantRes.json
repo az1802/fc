@@ -1,17 +1,34 @@
 {
-	"shopName": "聚味坊小龙虾广州市石牌店",
+	"shopName": "重庆小面深圳国贸店",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "花甲粉套餐",
+			"name": "面类",
 			"foods": [
 				{
-					"name": "1号，金针菇，娃娃菜，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1c8828cc29089fe013c9eb97cf4a7f19.jpeg",
-					"price": 13,
+					"name": "招牌牛肉面",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/1185fca867c01d6bd398c436d735f5a9.jpeg",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 19,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 23,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -28,7 +45,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -42,57 +59,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -104,58 +74,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "2号 油豆泡，金针菇，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/63f3c05fc274595def8dfe58aaa1878b.jpeg",
-					"price": 13,
+					"name": "经典肥肠面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/12a1e90d640ae42f1f122c39bb824a7f.jpg",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 20,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 24,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -172,7 +195,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -186,57 +209,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -248,58 +224,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "3号 黄豆芽，金针菇，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3cd1387c53c7249bf4eb027bdeaef2a9.jpeg",
-					"price": 13,
+					"name": "红烧排骨面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/883a38639f967223e3603e05ef99fa40.jpg",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 20,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 24,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -316,7 +345,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -330,57 +359,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -392,58 +374,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "4号 鱼豆腐，娃娃菜，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d26a81a83acb5a43284440d11c3e35e3.jpeg",
-					"price": 13,
+					"name": "生滚牛肉面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7498260642501ebe73d3e09042c1a378.jpg",
+					"price": 21,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 21,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 25,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -460,7 +495,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -474,57 +509,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -536,58 +524,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "5号 鹌鹑蛋，炸腐竹，黄豆芽，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/b612b909e4dad6de7007ced7e9cc3665.jpeg",
+					"name": "重庆小面",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/5499cfb671ca74399888eb75f6b1c461.jpeg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -604,7 +645,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -618,57 +659,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -680,58 +674,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "6号 牛肉丸，娃娃菜，金针菇，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6326a832d94fce7c88c2a7fec1565674.jpeg",
-					"price": 15,
+					"name": "豌杂面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/6c03c251ac8b5e3637724a572009089e.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 17,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 20,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -748,7 +795,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -762,57 +809,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -824,58 +824,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "7号 脆皮肠，娃娃菜，金针菇，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f3d6ce9a56b773d42a47b41cd822f192.jpeg",
-					"price": 15,
+					"name": "牛肉丸汤面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/dee90b09c31c72c048f20700310c2496.jpg",
+					"price": 19,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 19,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 25,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -892,7 +945,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -906,57 +959,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -968,490 +974,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "8号 鱼豆腐，娃娃菜，金针菇，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3383050170c5db71e2319d7ba78e7bbd.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
 									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "鹌鹑蛋",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "鸡杂",
 									"propName": "加料",
 									"isMul": true,
-									"price": 3
+									"price": 10
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "酸菜肉丝",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "9号 炸腐竹，娃娃菜，金针菇，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9aaf582db00573d9f59634af3697cb90.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
 									"price": 0
 								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
 								{
 									"value": "不要香菜",
-									"propName": "口味",
+									"propName": "加料",
 									"isMul": true,
 									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
 								},
 								{
-									"value": "娃娃菜",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "10号 墨鱼丸，油豆泡，娃娃菜，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ea0378d28bb380a26c4c8a04e2dc2bff.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "11号 炸腐竹，生蚝，娃娃菜，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e2aadcd21d67f862ce4411c7a8112a6f.jpeg",
+					"name": "三鲜汤面",
+					"picUrl": "",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 20,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -1468,7 +1095,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -1482,57 +1109,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -1544,58 +1124,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "12号 牛肉丸，炸腐竹，黄豆，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9ac2ffe81d8db80e9a276d147a85a85d.jpeg",
-					"price": 18,
+					"name": "酸菜肉丝面",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ac134c279fe6147bfbcca41445a3eb50.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -1612,7 +1245,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -1626,57 +1259,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -1688,58 +1274,111 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "生蚝",
+									"value": "不要香菜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 0
 								},
 								{
-									"value": "鲜虾",
+									"value": "不要蒜",
 									"propName": "加料",
 									"isMul": true,
-									"price": 8
+									"price": 0
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "13号 鱼豆腐，肥牛，金针菇，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/df2dd258ba98986631bcd74638f9b54f.jpeg",
-					"price": 18,
+					"name": "泡椒鸡杂面",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/d4b51458b5b5243fc726a820251c3623.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "花甲粉套餐",
+					"categoryName": "面类",
 					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
 						{
 							"name": "辣度",
 							"values": [
@@ -1756,7 +1395,7 @@
 									"price": 0
 								},
 								{
-									"value": "特辣",
+									"value": "麻辣",
 									"propName": "辣度",
 									"isMul": false,
 									"price": 0
@@ -1770,57 +1409,10 @@
 							]
 						},
 						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
 							"name": "加料",
 							"values": [
 								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
+									"value": "煎鸡蛋",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
@@ -1832,1198 +1424,82 @@
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "14号 鹌鹑蛋，墨鱼丸，娃娃菜，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d711cd65be228b98ebc5cdf5007d90b1.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
 									"value": "脆皮肠",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "鹌鹑蛋",
+									"value": "青菜",
 									"propName": "加料",
 									"isMul": true,
 									"price": 3
 								},
 								{
-									"value": "鱼豆腐",
+									"value": "鸡杂",
 									"propName": "加料",
 									"isMul": true,
-									"price": 3
+									"price": 10
 								},
 								{
-									"value": "墨鱼丸",
+									"value": "酸菜肉丝",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
 								},
 								{
 									"value": "牛肉丸",
 									"propName": "加料",
 									"isMul": true,
-									"price": 5
+									"price": 15
 								},
 								{
-									"value": "花甲",
+									"value": "生滚牛肉",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
+									"price": 15
 								},
 								{
-									"value": "肥牛",
+									"value": "不要葱",
 									"propName": "加料",
 									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "15号 鱼豆腐，金针菇，鲜虾，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f906071d64b25e06fdcaa9955c12814d.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
 									"price": 0
 								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
 								{
 									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
 									"propName": "加料",
 									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "16号 牛肉丸，娃娃菜，鲜虾，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9e538feb337ea143cd76366deac3cbde.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
 									"price": 0
 								},
 								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
+									"value": "不要蒜",
+									"propName": "加料",
 									"isMul": true,
 									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "17号 生蚝，娃娃菜，鲜虾，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/213060e8e63fa228e56ac0b829d0706f.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "18号 鹌鹑蛋，黄豆芽，鲜虾，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/8bfd3e94ea882986e07c282cc7d55d45.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "19号 肥牛，娃娃菜，鲜虾，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/9b3470876e5b2485014f0068fa13ac42.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "20号 脆皮肠，黄豆芽，鲜虾，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7443c0ae3fa5a2b64b3ef67495a80e3d.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "21号 墨鱼丸，金针菇，鲜虾，花甲粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/d17bb52cf164338558b10e5fcd5f4070.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "花甲粉套餐",
-					"props": [
-						{
-							"name": "辣度",
-							"values": [
-								{
-									"value": "微辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "中辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "特辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "不辣",
-									"propName": "辣度",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "不要香菜",
-									"propName": "口味",
-									"isMul": true,
-									"price": 0
-								}
-							]
-						},
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "豆芽",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "娃娃菜",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "油豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "金针菇",
-									"propName": "加料",
-									"isMul": true,
-									"price": 2
-								},
-								{
-									"value": "炸腐竹",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "细米粉",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "脆皮肠",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鹌鹑蛋",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "鱼豆腐",
-									"propName": "加料",
-									"isMul": true,
-									"price": 3
-								},
-								{
-									"value": "墨鱼丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "牛肉丸",
-									"propName": "加料",
-									"isMul": true,
-									"price": 5
-								},
-								{
-									"value": "花甲",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "肥牛",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "生蚝",
-									"propName": "加料",
-									"isMul": true,
-									"price": 6
-								},
-								{
-									"value": "鲜虾",
-									"propName": "加料",
-									"isMul": true,
-									"price": 8
 								}
 							]
 						}
@@ -3032,78 +1508,2832 @@
 			]
 		},
 		{
-			"name": "美味加料",
+			"name": "米粉类",
 			"foods": [
 				{
-					"name": "豆芽",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/419e390fd506a6bc24350793cd08135a.jpg",
+					"name": "招牌牛肉粉",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/1185fca867c01d6bd398c436d735f5a9.jpeg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 19,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 23,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "经典肥肠粉",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/164f64c63af57577279c79d42ae6dff6.jpeg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 20,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 24,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红烧排骨粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/0d959c9e3f195913ef6a94ca6717e5ec.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 20,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 24,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸汤粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/dee90b09c31c72c048f20700310c2496.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 19,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 25,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "生滚牛肉粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ca13d55efd691c138f950b81d1a70fc2.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 21,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 25,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝粉",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/0ca4eb8c44afa3ba55ff20f16ea02f14.jpeg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒鸡杂粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f2dfd98c681d15da6a801a45311d0f28.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "米粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "酸辣粉类",
+			"foods": [
+				{
+					"name": "正宗重庆酸辣粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/24f95074c57c9686d8220c6724b0ef9b.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "三鲜酸辣粉",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/a2a4254d33d34b4092d721db575a441c.jpeg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 19,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 21,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉丸酸辣粉",
+					"picUrl": "",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 21,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 23,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌牛肉酸辣粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/58447ef655044102d60194e5506c6014.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 21,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 23,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "经典肥肠酸辣粉",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/51422451629b8df6acc58907ad111ab1.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 22,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 23,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "生滚牛肉酸辣粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/30dfe96fcc5024eb6bd597e0c002a552.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 22,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 25,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酸菜肉丝酸辣粉",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/ff8b9b54567232196ce37f78540fc1a1.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 16,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 19,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "泡椒鸡杂酸辣粉",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/d25ab381403a316ff1294cca5b9e5b6c.png",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "酸辣粉类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 17,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 21,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "抄手类",
+			"foods": [
+				{
+					"name": "骨汤抄手",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a2e0f19859e7f31609dedd75e668c0d4.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "抄手类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "清淡",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "老麻抄手",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5da2994447651ca84757e321b880e583.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "抄手类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 15,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 18,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "麻辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "抄手面条双拼",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7522e930e1a751cd3c3413929d6ceb4a.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "抄手类",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "小份",
+									"price": 16,
+									"propName": "份量",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 19,
+									"propName": "份量",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "中辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "特辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								},
+								{
+									"value": "不辣",
+									"propName": "辣度",
+									"isMul": false,
+									"price": 0
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎鸡蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鹌鹑蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "脆皮肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "青菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 3
+								},
+								{
+									"value": "鸡杂",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "酸菜肉丝",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "杂酱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "肥肠",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "排骨",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "牛肉丸",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "生滚牛肉",
+									"propName": "加料",
+									"isMul": true,
+									"price": 15
+								},
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "小吃类",
+			"foods": [
+				{
+					"name": "红油猪耳",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/e414d81cbe46eb500eebc56d0d04f921.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "麻辣猪舌头",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/5ce6f90bc2f04a09a7898554f6fd6187.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "口水鸡",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/a230634428713b904dc5532c40970417.jpeg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "不要葱",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要香菜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								},
+								{
+									"value": "不要蒜",
+									"propName": "加料",
+									"isMul": true,
+									"price": 0
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "酒水类",
+			"foods": [
+				{
+					"name": "怡宝矿泉水",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/235222f0abf97a3d323482996c6e98ec.jpg",
 					"price": 2,
 					"unit": "份",
-					"categoryName": "美味加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "娃娃菜",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/9d07731f80951ff4817fef5e7953b0f4.jpg",
-					"price": 2,
+					"name": "百事可乐",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/80bd7e9639f34e7d5406b7a9ec68aed9.jpg",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "美味加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "油豆腐",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/3af846f8860de59e7106a6a84506594c.jpg",
-					"price": 2,
+					"name": "雪碧",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f90e9be4dd6e67ceb0014b21c44ac843.jpg",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "美味加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "金针菇",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/7c7c0d2984a28d68247f42a8cfbad12b.jpg",
-					"price": 2,
+					"name": "芬达",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/e496e41dc27e43b247d25b93aae7e3d5.jpg",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "美味加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "炸腐竹",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f099b2a6a88692112fd0e9d7e224d52b.jpg",
-					"price": 3,
+					"name": "雪花啤酒",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2f4657834385ffc30fddb7894bb74776.jpg",
+					"price": 6,
 					"unit": "份",
-					"categoryName": "美味加料",
-					"props": []
-				},
-				{
-					"name": "细米粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/1795de52c8e7f87a364a33568101af41.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "美味加料",
-					"props": []
-				},
-				{
-					"name": "脆皮肠",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/af4a50d13198b3b16c0719ebcf6f9c25.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "美味加料",
-					"props": []
-				},
-				{
-					"name": "鹌鹑蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/fdd623554bbcb6dfdf4a405c114cd51b.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "美味加料",
-					"props": []
-				},
-				{
-					"name": "鱼豆腐",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/802fe8c0c74146ce02ee3153444e35ea.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "美味加料",
+					"categoryName": "酒水类",
 					"props": []
 				}
 			]

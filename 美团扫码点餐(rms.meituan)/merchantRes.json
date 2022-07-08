@@ -1,426 +1,64 @@
 {
-	"shopName": "懂爱小面（龙华红山店）",
+	"shopName": "羊悦盛羊肉粉（龙华民治店）",
 	"shop_pic": "",
 	"categories": [
 		{
 			"name": "热销",
 			"foods": [
 				{
-					"name": "懂爱小面",
-					"picUrl": "https://p0.meituan.net/rmscashier/64eb8ec2cc5fa975824254640d806fed103528.jpg",
-					"price": 12.99,
+					"name": "羊肉粉-面",
+					"picUrl": "https://p0.meituan.net/rmscashier/fa6e546f5a5e2a2da51d758c3af912ea157321.jpg",
+					"price": 17,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "加料",
+							"name": "规格",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "小",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "去肉沫",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛肉面",
-					"picUrl": "https://p1.meituan.net/rmscashier/6213bed8ff6d67e5e567964a5238ef91107488.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "豌豆杂酱面",
-					"picUrl": "https://p0.meituan.net/rmscashier/91c101890e9392fa70ff7a649135a8c1105985.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "干拌",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
 								{
 									"value": "带汤",
 									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -428,121 +66,59 @@
 					]
 				},
 				{
-					"name": "卤蛋",
-					"picUrl": "http://p0.meituan.net/rmscashier/07df34a5862c46f48adb222aa684f590237613.png",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "现包抄手",
-					"picUrl": "https://p0.meituan.net/rmscashier/d3a51ac6180c0a5f9343fff2bb15e77f97419.jpg",
-					"price": 19,
+					"name": "羊杂粉-面",
+					"picUrl": "https://p0.meituan.net/rmscashier/473d43d8f3061ee15b13fd0281fa9aa7158796.jpg",
+					"price": 17,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "加料",
+							"name": "规格",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "小",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "微麻辣",
+									"value": "带汤",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "清汤",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -550,125 +126,65 @@
 					]
 				},
 				{
-					"name": "酸辣粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/5da1e14d243ea2121e79cb189994a89c110016.jpg",
-					"price": 12.99,
+					"name": "招牌双拼粉-面",
+					"picUrl": "https://p1.meituan.net/rmscashier/fecc99d00631ef7ef9bdb0bbe8ed8d68147068.jpg",
+					"price": 20,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
 						{
-							"name": "加料",
+							"name": "规格",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "小",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 30,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中",
+									"price": 25,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "免辣",
+									"value": "带汤",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "去肉沫",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -676,653 +192,73 @@
 					]
 				},
 				{
-					"name": "肥肠面",
-					"picUrl": "https://p0.meituan.net/rmscashier/c0654f13cfcbb05ac755a6af9aa490d6106121.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉皮",
-					"picUrl": "http://p0.meituan.net/rmscashier/a8b292c4c57da75dc5c6db216ac084aa78471.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免青瓜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免面筋",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爽口萝卜",
-					"picUrl": "https://p1.meituan.net/rmscashier/b640a83d3a282ef28e4c858e591c0ea151942.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "锅巴土豆",
-					"picUrl": "https://p1.meituan.net/rmscashier/35b61de7ef44855bd71b5b21b3f29075117704.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "番茄酱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "原味",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "酸辣酱",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "辣椒粉",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "道地肉肠",
-					"picUrl": "http://p0.meituan.net/rmscashier/196795dc7fe38eef5cb0351e5f969d5c697296.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "懂爱小粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/64eb8ec2cc5fa975824254640d806fed103528.jpg",
-					"price": 12.99,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香脆油条",
-					"picUrl": "http://p0.meituan.net/rmscashier/f921ab060b03643c18ab81c8ce1e202653600.jpg",
+					"name": "煎蛋",
+					"picUrl": "https://p0.meituan.net/rmscashier/f55ca63c3a538b02cdf22d7c2b8b1a1f25226.jpg",
 					"price": 2,
-					"unit": "根",
+					"unit": "个",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "猪头肉",
-					"picUrl": "http://p0.meituan.net/rmscashier/e22572098ced52d1b94370e4f4655422407969.png",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "泡椒鸡杂面",
-					"picUrl": "https://p0.meituan.net/rmscashier/2220e54ad5978086d6e03b131641521f684914.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "热狗",
-					"picUrl": "http://p1.meituan.net/rmscashier/7d7c742d068bf9b5c54138c07facebfa111492.png",
+					"name": "白馍",
+					"picUrl": "http://p0.meituan.net/rmscashier/1f5d40338762f6127a558de8d45457d899670.jpg",
 					"price": 3,
+					"unit": "个",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "羊腰",
+					"picUrl": "https://p0.meituan.net/rmscashier/811d7dae42bb696c6005e984a33f8797120654.jpg",
+					"price": 10,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "番茄鸡蛋面",
-					"picUrl": "https://p0.meituan.net/rmscashier/4458252424a68cb10bf807f2bf1e12df101286.jpg",
-					"price": 18,
-					"unit": "份",
+					"name": "羊蹄",
+					"picUrl": "https://p0.meituan.net/rmscashier/0fc408fb0f487d05012a7f30111dedbb67803.jpg",
+					"price": 15,
+					"unit": "个",
 					"categoryName": "热销",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"props": []
 				},
 				{
-					"name": "葱香小油条",
-					"picUrl": "http://p0.meituan.net/rmscashier/aaeef501cd13098edb425436bca9096b40653.jpg",
-					"price": 3,
+					"name": "羊脑",
+					"picUrl": "https://p1.meituan.net/rmscashier/b5aa5848b9220b5a5bddbc3d678c024f111416.jpg",
+					"price": 12,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "卤鸡腿",
-					"picUrl": "http://p0.meituan.net/rmscashier/9d67e01a1e1f3db4e670be0e2fa94ded54649.jpg",
-					"price": 6,
+					"name": "羊心",
+					"picUrl": "https://p0.meituan.net/rmscashier/a9e00e299ec6746d3a44850d5123253494243.jpg",
+					"price": 10,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "无骨柠檬凤爪",
-					"picUrl": "http://p1.meituan.net/rmscashier/20066dad385995a63b429dcdb0b5cb1d391372.jpg",
-					"price": 8,
+					"name": "羊肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/b2f69cfecf788288ff1817e9e59e60c4178003.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "香辣羊肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/96fd2160c96ecd5ebae759f56b3b0d5f123058.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "香辣羊杂",
+					"picUrl": "https://p1.meituan.net/rmscashier/b11ff25397806dc403f1992ffd8f61e6120185.jpg",
+					"price": 35,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
@@ -1334,1726 +270,68 @@
 			"foods": []
 		},
 		{
-			"name": "懂爱小面",
+			"name": "招牌双拼",
 			"foods": [
 				{
-					"name": "红烧牛肉面",
-					"picUrl": "https://p1.meituan.net/rmscashier/6213bed8ff6d67e5e567964a5238ef91107488.jpg",
-					"price": 22,
+					"name": "招牌双拼粉-面",
+					"picUrl": "https://p1.meituan.net/rmscashier/fecc99d00631ef7ef9bdb0bbe8ed8d68147068.jpg",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "懂爱小面",
+					"categoryName": "招牌双拼",
 					"props": [
 						{
-							"name": "加料",
+							"name": "规格",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "小",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 30,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "中",
+									"price": 25,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "凉皮",
-					"picUrl": "http://p0.meituan.net/rmscashier/a8b292c4c57da75dc5c6db216ac084aa78471.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免青瓜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免面筋",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "懂爱小面",
-					"picUrl": "https://p0.meituan.net/rmscashier/64eb8ec2cc5fa975824254640d806fed103528.jpg",
-					"price": 12.99,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "去肉沫",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肥肠面",
-					"picUrl": "https://p0.meituan.net/rmscashier/c0654f13cfcbb05ac755a6af9aa490d6106121.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/5da1e14d243ea2121e79cb189994a89c110016.jpg",
-					"price": 12.99,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "去肉沫",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "现包抄手",
-					"picUrl": "https://p0.meituan.net/rmscashier/d3a51ac6180c0a5f9343fff2bb15e77f97419.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "清汤",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "豌豆杂酱面",
-					"picUrl": "https://p0.meituan.net/rmscashier/91c101890e9392fa70ff7a649135a8c1105985.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "干拌",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
 								{
 									"value": "带汤",
 									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄鸡蛋面",
-					"picUrl": "https://p0.meituan.net/rmscashier/4458252424a68cb10bf807f2bf1e12df101286.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "番茄牛腩面",
-					"picUrl": "https://p1.meituan.net/rmscashier/9e655069786066cf25c345cc34ae3c7e100808.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "豌豆小面",
-					"picUrl": "https://p1.meituan.net/rmscashier/4271c84d9c7840664dca76fd011a760a102822.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸菜小面",
-					"picUrl": "https://p0.meituan.net/rmscashier/5bbcc67d64e843b8cab227cf2d59aac5114067.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红烧牛肉肥肠面",
-					"picUrl": "https://p1.meituan.net/rmscashier/2189e3b388da8e2ef5665c454b5f5a0f672013.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "泡椒鸡杂面",
-					"picUrl": "https://p0.meituan.net/rmscashier/2220e54ad5978086d6e03b131641521f684914.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "秘制卤肉面",
-					"picUrl": "http://p0.meituan.net/rmscashier/b1de9f47eed071ef43fd1270ff61463c827097.png",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "懂爱小面",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加面",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "面",
-							"values": [
-								{
-									"value": "宽面",
-									"price": 0,
-									"propName": "面",
-									"isMul": true
-								},
-								{
-									"value": "细面",
-									"price": 0,
-									"propName": "面",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -3063,469 +341,62 @@
 			]
 		},
 		{
-			"name": "懂爱小粉",
+			"name": "羊肉粉面",
 			"foods": [
 				{
-					"name": "红烧牛肉粉",
-					"picUrl": "https://p1.meituan.net/rmscashier/ef0da2766346147bf934a412371ae72e733560.jpg",
-					"price": 22,
+					"name": "羊肉粉-面",
+					"picUrl": "https://p0.meituan.net/rmscashier/fa6e546f5a5e2a2da51d758c3af912ea157321.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "懂爱小粉",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "加料",
+							"name": "规格",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "小",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "懂爱小粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/64eb8ec2cc5fa975824254640d806fed103528.jpg",
-					"price": 12.99,
-					"unit": "份",
-					"categoryName": "懂爱小粉",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "肥肠粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/c0654f13cfcbb05ac755a6af9aa490d6106121.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "懂爱小粉",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "豌豆杂酱粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/91c101890e9392fa70ff7a649135a8c1105985.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "懂爱小粉",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "干拌",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
 								{
 									"value": "带汤",
 									"price": 0,
-									"propName": "做法",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -3533,72 +404,59 @@
 					]
 				},
 				{
-					"name": "番茄鸡蛋粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/4458252424a68cb10bf807f2bf1e12df101286.jpg",
-					"price": 18,
+					"name": "羊杂粉-面",
+					"picUrl": "https://p0.meituan.net/rmscashier/473d43d8f3061ee15b13fd0281fa9aa7158796.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "懂爱小粉",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "加料",
+							"name": "规格",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "小",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "配料",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "免葱",
+									"value": "带汤",
 									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -3606,78 +464,59 @@
 					]
 				},
 				{
-					"name": "番茄牛腩粉",
-					"picUrl": "https://p1.meituan.net/rmscashier/9e655069786066cf25c345cc34ae3c7e100808.jpg",
-					"price": 22,
+					"name": "羊排粉-面",
+					"picUrl": "",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "懂爱小粉",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "加料",
+							"name": "规格",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "小",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 30,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "配料",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "免葱",
+									"value": "带汤",
 									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -3685,113 +524,42 @@
 					]
 				},
 				{
-					"name": "红烧牛肉肥肠粉",
-					"picUrl": "https://p1.meituan.net/rmscashier/2189e3b388da8e2ef5665c454b5f5a0f672013.jpg",
-					"price": 28,
+					"name": "羊血粉-面",
+					"picUrl": "",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "懂爱小粉",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "加料",
+							"name": "粉/面",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "微麻辣",
+									"value": "带汤",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -3799,107 +567,42 @@
 					]
 				},
 				{
-					"name": "豌豆小粉",
-					"picUrl": "https://p1.meituan.net/rmscashier/4271c84d9c7840664dca76fd011a760a102822.jpg",
-					"price": 13,
+					"name": "羊心粉-面",
+					"picUrl": "",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "懂爱小粉",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "加料",
+							"name": "粉/面",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "微麻辣",
+									"value": "带汤",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -3907,107 +610,42 @@
 					]
 				},
 				{
-					"name": "酸菜小粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/5bbcc67d64e843b8cab227cf2d59aac5114067.jpg",
-					"price": 13,
+					"name": "羊腰粉-面",
+					"picUrl": "",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "懂爱小粉",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "加料",
+							"name": "粉/面",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "微麻辣",
+									"value": "带汤",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -4015,113 +653,42 @@
 					]
 				},
 				{
-					"name": "泡椒鸡杂粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/a8ba32cd9c30c107287454eb40f301dd615131.jpg",
-					"price": 18,
+					"name": "羊肚粉-面",
+					"picUrl": "",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "懂爱小粉",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "加料",
+							"name": "粉/面",
 							"values": [
 								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
 						},
 						{
-							"name": "口味",
+							"name": "干拌或者汤粉",
 							"values": [
 								{
-									"value": "微麻辣",
+									"value": "带汤",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "免辣（酸汤）",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
+									"propName": "干拌或者汤粉",
 									"isMul": true
 								}
 							]
@@ -4129,162 +696,39 @@
 					]
 				},
 				{
-					"name": "秘制卤肉粉",
-					"picUrl": "http://p0.meituan.net/rmscashier/1d2f2a1d8345b2ca8e4431ea07237631829994.png",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "懂爱小粉",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "牛肉",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "肥肠",
-									"price": 12,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加抄手",
-									"price": 5,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加粉",
-									"price": 1,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "加青菜",
-									"price": 2,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免麻",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "懂爱小吃",
-			"foods": [
+					"name": "白馍",
+					"picUrl": "http://p0.meituan.net/rmscashier/1f5d40338762f6127a558de8d45457d899670.jpg",
+					"price": 3,
+					"unit": "个",
+					"categoryName": "羊肉粉面",
+					"props": []
+				},
 				{
-					"name": "锅巴土豆",
-					"picUrl": "https://p1.meituan.net/rmscashier/35b61de7ef44855bd71b5b21b3f29075117704.jpg",
-					"price": 8,
+					"name": "羊蹄粉-面",
+					"picUrl": "",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "懂爱小吃",
+					"categoryName": "羊肉粉面",
 					"props": [
 						{
-							"name": "口味",
+							"name": "粉/面",
 							"values": [
 								{
-									"value": "番茄酱",
+									"value": "面",
 									"price": 0,
-									"propName": "口味",
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "原味",
+									"value": "河粉",
 									"price": 0,
-									"propName": "口味",
+									"propName": "粉/面",
 									"isMul": true
 								},
 								{
-									"value": "酸辣酱",
+									"value": "米粉",
 									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "辣椒粉",
-									"price": 0,
-									"propName": "口味",
+									"propName": "粉/面",
 									"isMul": true
 								}
 							]
@@ -4292,780 +736,637 @@
 					]
 				},
 				{
-					"name": "红糖糍粑",
-					"picUrl": "https://p0.meituan.net/rmscashier/04b441f22fa96d8969a4cd1c30883f5095090.jpg",
+					"name": "素粉",
+					"picUrl": "",
 					"price": 10,
 					"unit": "份",
-					"categoryName": "懂爱小吃",
+					"categoryName": "羊肉粉面",
 					"props": []
 				},
 				{
-					"name": "四川酥肉",
-					"picUrl": "https://p0.meituan.net/rmscashier/1d864a953fa72005c10211c282b613ea105628.jpg",
+					"name": "羊杂汤",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "羊肉粉面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "标准",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉汤",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "羊肉粉面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉酱拌粉-面",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "羊肉粉面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊杂酱拌粉-面",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "羊肉粉面",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小",
+									"price": 17,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大",
+									"price": 20,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "粉/面",
+							"values": [
+								{
+									"value": "面",
+									"price": 0,
+									"propName": "粉/面",
+									"isMul": true
+								},
+								{
+									"value": "河粉",
+									"price": 0,
+									"propName": "粉/面",
+									"isMul": true
+								},
+								{
+									"value": "米粉",
+									"price": 0,
+									"propName": "粉/面",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "羊肉水饺",
+					"picUrl": "",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "盐酥鸡",
-					"picUrl": "https://p0.meituan.net/rmscashier/0eb7149c3d0e8f4d0d5c44471957acc384905.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "香芋地瓜丸",
-					"picUrl": "https://p1.meituan.net/rmscashier/d54776e828565d441bad2e66735b69e78352885.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "脆皮春卷",
-					"picUrl": "https://p1.meituan.net/rmscashier/16629e9400e724abea04a93e849676905924063.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "热狗肠2个",
-					"picUrl": "http://p0.meituan.net/rmscashier/9d11e960d8c7c745b625fd9c2ecf82b847148.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "热狗",
-					"picUrl": "http://p1.meituan.net/rmscashier/7d7c742d068bf9b5c54138c07facebfa111492.png",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "脆骨黑椒道地肠",
-					"picUrl": "http://p1.meituan.net/rmscashier/6e86048ed7a952ead3f746a8dcc9880142049.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "道地肉肠",
-					"picUrl": "http://p0.meituan.net/rmscashier/196795dc7fe38eef5cb0351e5f969d5c697296.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "葱香小油条",
-					"picUrl": "http://p0.meituan.net/rmscashier/aaeef501cd13098edb425436bca9096b40653.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "懂爱小吃",
-					"props": []
-				},
-				{
-					"name": "香脆油条",
-					"picUrl": "http://p0.meituan.net/rmscashier/f921ab060b03643c18ab81c8ce1e202653600.jpg",
-					"price": 2,
-					"unit": "根",
-					"categoryName": "懂爱小吃",
+					"categoryName": "羊肉粉面",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "懂爱小菜",
+			"name": "单点类",
 			"foods": [
 				{
-					"name": "爽口萝卜",
-					"picUrl": "https://p1.meituan.net/rmscashier/b640a83d3a282ef28e4c858e591c0ea151942.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
+					"name": "羊后腿",
+					"picUrl": "https://p1.meituan.net/rmscashier/35d2159eee3e4a04ced7406acaeeacf9124028.jpg",
+					"price": 55,
+					"unit": "个",
+					"categoryName": "单点类",
 					"props": []
 				},
 				{
-					"name": "爽口海草",
-					"picUrl": "https://p0.meituan.net/rmscashier/d583733c4c7f9b669b7ea6b449853c0598194.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": []
-				},
-				{
-					"name": "无骨柠檬凤爪",
-					"picUrl": "http://p1.meituan.net/rmscashier/20066dad385995a63b429dcdb0b5cb1d391372.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": []
-				},
-				{
-					"name": "卤鸡腿",
-					"picUrl": "http://p0.meituan.net/rmscashier/9d67e01a1e1f3db4e670be0e2fa94ded54649.jpg",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": []
-				},
-				{
-					"name": "香拌牛肉",
-					"picUrl": "https://p0.meituan.net/rmscashier/58c7606e3769f601fe45faed471ce74c78511.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": [
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "免辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "夫妻肺片",
-					"picUrl": "http://p1.meituan.net/rmscashier/86281a24babab820f3db350ff0164213722308.png",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": []
-				},
-				{
-					"name": "猪头肉",
-					"picUrl": "http://p0.meituan.net/rmscashier/e22572098ced52d1b94370e4f4655422407969.png",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": []
-				},
-				{
-					"name": "油炸花生米",
-					"picUrl": "http://p0.meituan.net/rmscashier/cdc3a4cc6b413350012cf2ada82d9ef559292.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": []
-				},
-				{
-					"name": "海带结",
-					"picUrl": "http://p0.meituan.net/rmscashier/4cbbdadb0e2e3c9fb3b418e116a06de4235510.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "懂爱小菜",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "懂爱下饭菜（配饭）",
-			"foods": [
-				{
-					"name": "老坛酸菜鱼（配米饭）",
-					"picUrl": "https://p1.meituan.net/rmscashier/ca4339dc0a62d5954bf38e87407a05f4110988.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "懂爱下饭菜（配饭）",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "川渝水煮肉片（配米饭）",
-					"picUrl": "https://p0.meituan.net/rmscashier/860c9f6aff3b8425d44e17db071484fe122153.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "懂爱下饭菜（配饭）",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "新派毛血旺（配米饭）",
-					"picUrl": "https://p0.meituan.net/rmscashier/22840869ea82a570d325f6f846441f7f129186.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "懂爱下饭菜（配饭）",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香辣水煮鱼（配米饭）",
-					"picUrl": "https://p0.meituan.net/rmscashier/68114c24ee4b9b5039d98af8fe215e5169840.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "懂爱下饭菜（配饭）",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "煎蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "卤蛋",
-									"price": 3,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "口味",
-							"values": [
-								{
-									"value": "微麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "中麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								},
-								{
-									"value": "特麻辣",
-									"price": 0,
-									"propName": "口味",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "免葱",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免香菜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "免蒜",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "标准",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "米饭",
-					"picUrl": "http://p0.meituan.net/rmscashier/71135399e28effd8a3ddeab7866ff1d642790.jpg",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "懂爱下饭菜（配饭）",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "懂爱糖水",
-			"foods": [
-				{
-					"name": "酸梅汤",
-					"picUrl": "http://p0.meituan.net/rmscashier/749395664b554f1d3c1c50dc0aad526740189.jpg",
-					"price": 4.99,
-					"unit": "杯",
-					"categoryName": "懂爱糖水",
-					"props": []
-				},
-				{
-					"name": "豆浆",
-					"picUrl": "http://p0.meituan.net/rmscashier/b65a82e334d8fb040577eb27d0410d3d72067.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "懂爱糖水",
-					"props": []
-				},
-				{
-					"name": "红糖冰粉",
-					"picUrl": "https://p0.meituan.net/rmscashier/968e78bd22c3248397d4ab112654c41999483.jpg",
-					"price": 3.99,
-					"unit": "份",
-					"categoryName": "懂爱糖水",
-					"props": []
-				},
-				{
-					"name": "绿豆沙",
-					"picUrl": "https://p0.meituan.net/rmscashier/deaada7d3a9cdf893184688e79ffc34771404.jpg",
-					"price": 3.99,
-					"unit": "份",
-					"categoryName": "懂爱糖水",
-					"props": [
-						{
-							"name": "做法",
-							"values": [
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								},
-								{
-									"value": "冷",
-									"price": 0,
-									"propName": "做法",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "四川凉糕",
-					"picUrl": "https://p0.meituan.net/rmscashier/a7db8c95e5f0d6d9c99e9842d9c6555f76416.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "懂爱糖水",
-					"props": []
-				},
-				{
-					"name": "杂果冰粉",
-					"picUrl": "http://p0.meituan.net/rmscashier/390482d36ca0440e36f10908447fa900120245.jpg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "懂爱糖水",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "懂爱饮料",
-			"foods": [
-				{
-					"name": "冰红茶",
-					"picUrl": "http://p0.meituan.net/rmscashier/15d770785853711b9248300debf528fe49362.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "青梅绿茶",
-					"picUrl": "http://p0.meituan.net/rmscashier/d1dc3caab0607e629277711ffd69bb38183689.png",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "水蜜桃",
-					"picUrl": "http://p1.meituan.net/rmscashier/29be0679b3f6f80d5d34a9256511f2b741274.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "金桔柠檬",
-					"picUrl": "http://p0.meituan.net/rmscashier/ce8e6e27cfae190c378c94a50dbc3467109030.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "蜂蜜柚子",
-					"picUrl": "http://p1.meituan.net/rmscashier/0a8756db9daa439ddc0c3482eb1f6f94153549.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "冰糖雪梨",
-					"picUrl": "http://p0.meituan.net/rmscashier/189e0933d43e2690c9ee142c9f49ce4c289574.png",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "七喜",
-					"picUrl": "http://p0.meituan.net/rmscashier/5ddbd741ae186c339185599aba11638424221.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "雪碧",
-					"picUrl": "http://p0.meituan.net/rmscashier/4627e5171a1a24883d800135192e4b1557136.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "百事可乐",
-					"picUrl": "http://p0.meituan.net/rmscashier/e2f2398db3b46985b066dfd8b68e426442960.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "可口可乐",
-					"picUrl": "http://p0.meituan.net/rmscashier/655275965eb0216875d78dea915a10d038841.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "芬达",
-					"picUrl": "http://p0.meituan.net/rmscashier/7fc2ac9e49c1b7cf5c9ab210aad27dc0157810.jpg",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "喝开水",
-					"picUrl": "http://p1.meituan.net/rmscashier/f3b0d6af7f1dfb9f5cfbd2bfc8bb9eb320854.jpg",
-					"price": 2,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
-					"props": []
-				},
-				{
-					"name": "鲁瓦克拿铁咖啡",
+					"name": "羊前腿",
 					"picUrl": "",
-					"price": 7,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
+					"price": 35,
+					"unit": "个",
+					"categoryName": "单点类",
 					"props": []
 				},
 				{
-					"name": "鲁瓦克猫屎咖啡",
+					"name": "羊杂拼盘",
 					"picUrl": "",
-					"price": 7,
-					"unit": "瓶",
-					"categoryName": "懂爱饮料",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "单点类",
 					"props": []
-				}
-			]
-		},
-		{
-			"name": "加料",
-			"foods": [
+				},
 				{
-					"name": "牛肉",
+					"name": "羊肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/b2f69cfecf788288ff1817e9e59e60c4178003.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊排",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊鞭",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊百叶",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊舌头",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊蹄",
+					"picUrl": "https://p0.meituan.net/rmscashier/0fc408fb0f487d05012a7f30111dedbb67803.jpg",
+					"price": 15,
+					"unit": "个",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊肚",
 					"picUrl": "",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "单点类",
 					"props": []
 				},
 				{
-					"name": "肥肠",
-					"picUrl": "",
+					"name": "羊脑",
+					"picUrl": "https://p1.meituan.net/rmscashier/b5aa5848b9220b5a5bddbc3d678c024f111416.jpg",
 					"price": 12,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊腰",
+					"picUrl": "https://p0.meituan.net/rmscashier/811d7dae42bb696c6005e984a33f8797120654.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊心",
+					"picUrl": "https://p0.meituan.net/rmscashier/a9e00e299ec6746d3a44850d5123253494243.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊血",
+					"picUrl": "",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				},
+				{
+					"name": "羊肥肠",
+					"picUrl": "",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "单点类",
 					"props": []
 				},
 				{
 					"name": "煎蛋",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "加料",
+					"picUrl": "https://p0.meituan.net/rmscashier/f55ca63c3a538b02cdf22d7c2b8b1a1f25226.jpg",
+					"price": 2,
+					"unit": "个",
+					"categoryName": "单点类",
 					"props": []
 				},
 				{
-					"name": "加抄手",
+					"name": "特价羊后腿",
+					"picUrl": "http://p1.meituan.net/rmscashier/0af9d6b92c7046318285be05c48b396a115897.jpg",
+					"price": 49.9,
+					"unit": "份",
+					"categoryName": "单点类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "香辣单点",
+			"foods": [
+				{
+					"name": "香辣羊后腿",
+					"picUrl": "",
+					"price": 58,
+					"unit": "个",
+					"categoryName": "香辣单点",
+					"props": []
+				},
+				{
+					"name": "香辣羊前腿",
+					"picUrl": "",
+					"price": 38,
+					"unit": "个",
+					"categoryName": "香辣单点",
+					"props": []
+				},
+				{
+					"name": "香辣羊肉",
+					"picUrl": "https://p0.meituan.net/rmscashier/96fd2160c96ecd5ebae759f56b3b0d5f123058.jpg",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "香辣单点",
+					"props": []
+				},
+				{
+					"name": "香辣羊肚",
+					"picUrl": "",
+					"price": 38,
+					"unit": "份",
+					"categoryName": "香辣单点",
+					"props": []
+				},
+				{
+					"name": "香辣羊杂",
+					"picUrl": "https://p1.meituan.net/rmscashier/b11ff25397806dc403f1992ffd8f61e6120185.jpg",
+					"price": 35,
+					"unit": "份",
+					"categoryName": "香辣单点",
+					"props": []
+				},
+				{
+					"name": "香辣羊心",
+					"picUrl": "",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "香辣单点",
+					"props": []
+				},
+				{
+					"name": "拍青瓜",
+					"picUrl": "https://p1.meituan.net/rmscashier/0d200810e05693bc333f1a1cd5a7697c72403.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "香辣单点",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "酒水类",
+			"foods": [
+				{
+					"name": "矿泉水",
+					"picUrl": "http://p0.meituan.net/rmscashier/61d6151fd86ab8fed8fa6fb77731c37e34456.jpg",
+					"price": 2,
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "维他奶",
+					"picUrl": "",
+					"price": 3,
+					"unit": "瓶",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "可乐",
+					"picUrl": "https://p0.meituan.net/rmscashier/edb32fd6dcab77d1ca1d2b2cd14d02a242555.jpg",
+					"price": 3,
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "加多宝",
+					"picUrl": "https://p0.meituan.net/rmscashier/3ffd16357abbb5df936900ef6b79d0d157600.jpg",
+					"price": 5,
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "苹果醋",
+					"picUrl": "https://p0.meituan.net/rmscashier/03e6cf7a2e2159589d5c1b40cd5338cf48701.jpg",
+					"price": 6,
+					"unit": "罐",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "原味豆奶",
+					"picUrl": "",
+					"price": 2.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "优酸乳",
+					"picUrl": "",
+					"price": 2.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "http://p1.meituan.net/rmscashier/7b3e100978a471f802e7774c538bfb9a445714.jpg",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "百事可乐（500毫升）",
+					"picUrl": "",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "康师傅冰红茶",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "椰子汁",
+					"picUrl": "",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "芬达（罐装）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "哈尔滨啤酒（330毫升）",
+					"picUrl": "",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "金威啤酒（330毫升）",
+					"picUrl": "",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "可口可乐（0糖0脂肪）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "康师傅冰红茶（330毫升）",
+					"picUrl": "",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "雀巢柠檬红茶",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "脉动",
+					"picUrl": "",
+					"price": 5.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "东朋特饮",
+					"picUrl": "",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "茉莉花茶",
+					"picUrl": "",
+					"price": 4.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "锐澳鸡尾酒",
+					"picUrl": "",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "酷儿橙汁",
+					"picUrl": "",
+					"price": 4.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "可口可乐美式咖啡",
+					"picUrl": "",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "可口可乐淳茶舍",
+					"picUrl": "",
+					"price": 4.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "元气森林",
 					"picUrl": "",
 					"price": 5,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "加面",
+					"name": "菠萝啤",
 					"picUrl": "",
-					"price": 1,
+					"price": 4.5,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "加粉",
+					"name": "统一绿茶",
 					"picUrl": "",
-					"price": 1,
+					"price": 3.5,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "卤蛋",
-					"picUrl": "http://p0.meituan.net/rmscashier/07df34a5862c46f48adb222aa684f590237613.png",
+					"name": "统一奶茶",
+					"picUrl": "",
+					"price": 3.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "酸梅汤",
+					"picUrl": "",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "加青菜",
-					"picUrl": "http://p1.meituan.net/rmscashier/fa13b9509e62dcd35213c21b24f0ed11571656.png",
-					"price": 2,
+					"name": "康师傅茉莉清茶",
+					"picUrl": "",
+					"price": 4,
 					"unit": "份",
-					"categoryName": "加料",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "统一苹果醋（500毫升）",
+					"picUrl": "",
+					"price": 4.5,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "打包",
+			"foods": [
+				{
+					"name": "打包",
+					"picUrl": "https://p0.meituan.net/rmscashier/07cc6d808108c23b5d517a3747c6f5fa32234.jpg",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "打包",
 					"props": []
 				}
 			]

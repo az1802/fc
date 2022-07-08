@@ -1,58 +1,58 @@
 {
-	"errCode": "10000",
-	"errMsg": "SUCCESS",
-	"data": {
-		"merchant_code": "6954377429",
-		"district_code": "0",
-		"store_code": "9011861722",
-		"out_store_code": "0265111953(0)",
-		"store_name": "牛肉面大王",
-		"branch_name": "",
-		"store_img": [],
-		"is_collect": 2,
-		"lng": "113.890041",
-		"lat": "22.586689",
-		"open_time": "[{\"time_area_start_hour\":\"00:00\",\"time_area_end\":\"23:59\",\"is_all_day\":\"1\",\"week\":[1,2,3,4,5,6,7]}]",
-		"open_time_new": "[{\"week\":[1,2,3,4,5,6,7],\"time_area\":[{\"start\":\"00:00\",\"end\":\"23:59\"}]}]",
-		"distance": 12449.11,
-		"deliver_money": "0",
-		"dc_info": {
-			"opening_status": "1",
-			"is_open": "1",
-			"is_open_scene_order": "1",
-			"is_open_fix_order": "2",
-			"mix_fix_day": "1",
-			"interval_time": "15",
-			"pack_way": "1",
-			"pack_cost": "0",
-			"notice": "",
-			"platform_app_pay": "2",
-			"storecode_order": "1",
-			"tablecode_order": "1"
-		},
-		"wm_info": {
-			"opening_status": 2,
-			"is_open": "2",
-			"is_open_fix_order": "1",
-			"send_mode": "1",
-			"meal_time": "30",
-			"min_price": "0",
-			"mix_fix_day": "1",
-			"interval_time": "15",
-			"notice": "",
-			"pack_way": "1",
-			"pack_cost": "0"
-		},
-		"catering_info": {
-			"remark_status": "1",
-			"wx_love_donate_status": "1"
-		},
-		"wechat_app_ad_img": [],
-		"address": "深圳市宝安区西乡街道",
-		"freight_free": {
-			"status": "2",
-			"limit_money": "0"
-		},
-		"tel": "13988888888"
-	}
+  "errCode": "10000",
+  "errMsg": "SUCCESS",
+  "data": {
+    "merchant_code": "1390435336",
+    "district_code": "0",
+    "store_code": "3926671688",
+    "out_store_code": "9728011358(2)",
+    "store_name": "功夫象酸辣粉炸酱面",
+    "branch_name": "",
+    "store_img": [],
+    "is_collect": 2,
+    "lng": "113.937592",
+    "lat": "22.514968",
+    "open_time": "[{\"time_area_start_hour\":\"00:00\",\"time_area_end\":\"23:59\",\"is_all_day\":\"1\",\"week\":[1,2,3,4,5,6,7]}]",
+    "open_time_new": "[{\"week\":[1,2,3,4,5,6,7],\"time_area\":[{\"start\":\"00:00\",\"end\":\"23:59\"}]}]",
+    "distance": 12455.26,
+    "deliver_money": 0,
+    "dc_info": {
+      "opening_status": "1",
+      "is_open": "1",
+      "is_open_scene_order": "1",
+      "is_open_fix_order": "2",
+      "mix_fix_day": "1",
+      "interval_time": "15",
+      "pack_way": "1",
+      "pack_cost": "0",
+      "notice": "",
+      "platform_app_pay": "2",
+      "storecode_order": "1",
+      "tablecode_order": "2"
+    },
+    "wm_info": {
+      "opening_status": 2,
+      "is_open": 2,
+      "is_open_fix_order": 1,
+      "send_mode": 1,
+      "meal_time": 30,
+      "min_price": 0,
+      "mix_fix_day": 1,
+      "interval_time": 15,
+      "notice": "",
+      "pack_way": "1",
+      "pack_cost": "0"
+    },
+    "catering_info": {
+      "remark_status": "1",
+      "wx_love_donate_status": "1"
+    },
+    "wechat_app_ad_img": [],
+    "address": "粤海街道后海社区后海村109号",
+    "freight_free": {
+      "status": 2,
+      "limit_money": 0
+    },
+    "tel": "13988888888"
+  }
 }

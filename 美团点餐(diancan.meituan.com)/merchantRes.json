@@ -1,318 +1,590 @@
 {
-	"shopName": "顶顶香肉夹馍",
+	"shopName": "稻滋香煲仔饭",
 	"categories": [
 		{
-			"name": "西安小吃类",
+			"name": "单人套餐",
 			"foods": [
 				{
-					"name": "普通肉夹馍（三肥七瘦）",
-					"picUrl": "http://p1.meituan.net/erpbossapi/7416a52fba4dff22f01d160f4d938ac7260179.jpg",
-					"price": 13,
+					"name": "金牌腊味煲仔饭单人套餐",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d817e25240440f9d4a142ed42da0ae44171500.jpg",
+					"price": 18.8,
 					"unit": "份",
-					"categoryName": "西安小吃类",
-					"props": []
+					"categoryName": "单人套餐",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "优质肉夹馍（纯瘦肉）",
-					"picUrl": "http://p0.meituan.net/erpbossapi/23fd0cbb587a226820803f801297f312245545.jpg",
+					"name": "腊味三宝煲仔饭单人套餐",
+					"picUrl": "http://p1.meituan.net/erpbossapi/858e328c0e52040ce2691fe58a759e12192821.jpg",
+					"price": 25.8,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "南昌经典拌粉单人套餐",
+					"picUrl": "http://p1.meituan.net/erpbossapi/2ed0ffdbc76592a69d9298b2e5c063a1104574.jpg",
+					"price": 16.8,
+					"unit": "份",
+					"categoryName": "单人套餐",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "秘制煲仔饭",
+			"foods": [
+				{
+					"name": "秘制腊鸭煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/3793dfd1c8e4d9537eca9c0fabc1eea4167223.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "西安小吃类",
-					"props": []
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "经典凉皮",
-					"picUrl": "http://p1.meituan.net/erpbossapi/5314d7a0c43e7531439e8de22888d1ca245222.jpg",
-					"price": 12,
+					"name": "腊肠滑鸡煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d527cf9efc8afbec574c37d036902ff4164729.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "西安小吃类",
-					"props": []
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "麻酱凉皮",
-					"picUrl": "http://p0.meituan.net/erpbossapi/b581316a5c93b1a232885f10f1696f05304058.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "西安小吃类",
-					"props": []
-				},
-				{
-					"name": "南瓜粥",
-					"picUrl": "http://p0.meituan.net/erpbossapi/4c6cbc3c92bdab5937acb1f970ec73a1185579.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "西安小吃类",
-					"props": []
-				},
-				{
-					"name": "牛肉泡馍",
-					"picUrl": "http://p0.meituan.net/erpbossapi/cf0cc665e43df79878cf570b437e0a4a122321.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "西安小吃类",
-					"props": []
-				},
-				{
-					"name": "打包盒",
-					"picUrl": "",
-					"price": 1,
-					"unit": "份",
-					"categoryName": "西安小吃类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "西安精品面食",
-			"foods": [
-				{
-					"name": "油泼面（扯面宽面）",
-					"picUrl": "http://p0.meituan.net/erpbossapi/ce5c2378364da933eb64e60f0261c497111772.jpg",
+					"name": "金牌腊味煲仔饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/8e57809873c3da807efb38d2c3fd92ca161904.jpg",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "西安精品面食",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腊肠肉卷煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7b119ead323d6c56e178f68ba5595262160988.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香芋排骨煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7f72b99b25423f7c95d66090c981f558160038.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "田鸡鱼腩煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/2882ec85f71abc64cc56c2e18ee36890164186.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨鱼腩煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/cdb3bcba3f8117a7052526b000422318161557.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香菇滑鸡煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b9f73e54dc97dfed12388f6c0c83645c167774.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "广式腊肠煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/d418a0b2355341c56a92749053f54d8f165566.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "梅菜扣肉煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6ca05ee668ccd4f1b5a1ed83d8dd9992167335.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "排骨滑鸡煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/aac0b45600c2c4e17fa54fcc8c85114c163078.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
 					"props": []
 				},
 				{
-					"name": "精品biangbiang面",
-					"picUrl": "http://p1.meituan.net/erpbossapi/3830f068cf3378736496c96b88476dc1338438.jpg",
+					"name": "豆豉鲮鱼煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/a56620955cb5da104e499b5c06a50e3b75876.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "豉汁排骨煲仔饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/8c7bcb2b5eb28c9741fd3e1b72b28bfe163890.jpg",
 					"price": 22,
 					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "炸酱面",
-					"picUrl": "http://p0.meituan.net/erpbossapi/61eaf04f8cdfca4ea20585071af2f730116646.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "酱香",
-							"values": [
-								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "酱香",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "干拌臊子面",
-					"picUrl": "http://p0.meituan.net/erpbossapi/0e84ceb80dbe2404de8d7569f821e6ca109186.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西红柿鸡蛋面",
-					"picUrl": "http://p0.meituan.net/erpbossapi/4ce285476682fd8e8b69bf6db4fe80af298846.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸汤臊子面",
-					"picUrl": "http://p1.meituan.net/erpbossapi/b90deb41bc1789b2c9b6697a2b535424114731.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "二合一干拌（油泼 肉臊子）",
-					"picUrl": "http://p0.meituan.net/erpbossapi/f2e03798e61fc2d24c16a112a4784d5e118876.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手工牛肉汤面（面是扯面）",
-					"picUrl": "http://p0.meituan.net/erpbossapi/f397ef355d880ec79ab86fd9e4d6440e277558.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西红柿鸡蛋汤面",
-					"picUrl": "http://p1.meituan.net/erpbossapi/7a0c6b14c0e46406503253a242d816db299602.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "油泼拉条子",
-					"picUrl": "http://p0.meituan.net/erpbossapi/e2d12aa50f231f2b73ac46ff5b64778f116561.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金牌二合一油泼面（油泼加炸酱）",
-					"picUrl": "http://p1.meituan.net/erpbossapi/6f9ab9917cd34c40edea4cc5bfa4af91124301.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "西安精品面食",
-					"props": [
-						{
-							"name": "香辣",
-							"values": [
-								{
-									"value": "微辣中辣",
-									"price": 0,
-									"propName": "香辣",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "优惠套餐",
-			"foods": [
-				{
-					"name": "酸汤臊子面  +肉夹馍",
-					"picUrl": "http://p1.meituan.net/erpbossapi/b6f487f96e1ed5cacfed527c05eecdb1304452.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "优惠套餐",
+					"categoryName": "秘制煲仔饭",
 					"props": []
 				},
 				{
-					"name": "三秦套餐（凉皮肉夹馍 冰峰）",
-					"picUrl": "http://p0.meituan.net/erpbossapi/2a345f0de7e80c92279e875eab493c34121788.jpg",
+					"name": "鲮鱼排骨煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/dea087d8bc33690584885b9c31049d6f164640.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "招牌四宝煲仔饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/c8076c549f4041853a3baad507099655161236.jpg",
 					"price": 25,
 					"unit": "份",
-					"categoryName": "优惠套餐",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "精美凉菜",
-			"foods": [
-				{
-					"name": "凉拌黄牛肉",
-					"picUrl": "http://p1.meituan.net/erpbossapi/cb8fc9c0929b02323264865bf9989ed3112235.jpg",
-					"price": 49,
-					"unit": "份",
-					"categoryName": "精美凉菜",
+					"categoryName": "秘制煲仔饭",
 					"props": [
 						{
-							"name": "家常味",
+							"name": "加料",
 							"values": [
 								{
-									"value": "微辣",
-									"price": 0,
-									"propName": "家常味",
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
 									"isMul": true
 								}
 							]
@@ -320,19 +592,1069 @@
 					]
 				},
 				{
-					"name": "素拼凉菜",
-					"picUrl": "http://p0.meituan.net/erpbossapi/88c7d9aab7232869224702ec967f992e150660.jpg",
-					"price": 18,
+					"name": "排骨腊肠煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/ea511b1dfadb58df07d40149106fecac171792.jpg",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "精美凉菜",
+					"categoryName": "秘制煲仔饭",
 					"props": [
 						{
-							"name": "家常味",
+							"name": "加料",
 							"values": [
 								{
-									"value": "微辣",
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腊味排骨煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e3e5114781430a51fe0db9972000c5f1166814.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": []
+				},
+				{
+					"name": "腊味三宝煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fb94a5a34f6c84c9889228d04ff0075f165136.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腊味牛肉煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/680b2f8e0f2a16da41cf68851d2e242c171718.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛肉排骨煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4bf98a67c99345fff072e80058f5df0d166689.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "窝蛋牛肉煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/8ae140e30162a04ef4a5dac47c3a415a141838.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹排骨煲仔饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/7c9b9f5cfeb656c5ee3b01c10b1fe41d164391.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "腐竹牛肉煲仔饭",
+					"picUrl": "http://p1.meituan.net/erpbossapi/c12a5bb59cdc7ef0fa086072e3370ec2162200.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "秘制煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "香辣煲仔饭",
+			"foods": [
+				{
+					"name": "剁椒鱼腩煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/2df95f916a5990f540bd4a1d0072a5d6168251.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "香辣煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣滑鸡煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/a7407961b94d46dd81b6eb1e46d987ff206936.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "香辣煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣田鸡煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/b50901d526bcf407b6a05cdaea32c31164467.jpg",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "香辣煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣排骨煲仔饭",
+					"picUrl": "http://p0.meituan.net/erpbossapi/6377c987bf78e53681ba3bf0c16aae21166111.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "香辣煲仔饭",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肠",
+									"price": 5,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "腊肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "民间瓦罐汤",
+			"foods": [
+				{
+					"name": "鸡蛋肉饼汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4e2150c049e76649d0eaeafae63b4a21155310.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "民间瓦罐汤",
+					"props": []
+				},
+				{
+					"name": "玉米排骨汤",
+					"picUrl": "http://p1.meituan.net/erpbossapi/6ef3bfdf580a04cb11a2385c7e4ac03c152969.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "民间瓦罐汤",
+					"props": []
+				},
+				{
+					"name": "山药排骨汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/387316110c0f92491e921f6cd9102cda151089.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "民间瓦罐汤",
+					"props": []
+				},
+				{
+					"name": "海带排骨汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/5e6b98e2a80ef19e1c9fe1701789384f41043.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "民间瓦罐汤",
+					"props": []
+				},
+				{
+					"name": "茶树菇排骨汤",
+					"picUrl": "http://p0.meituan.net/erpbossapi/26d4f78f0af549385e2180c1126a4c0e156929.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "民间瓦罐汤",
+					"props": []
+				},
+				{
+					"name": "墨鱼排骨汤",
+					"picUrl": "http://p1.meituan.net/erpbossapi/cdbee937bc8df60aa8f8d694286eac6f55251.jpg",
+					"price": 8,
+					"unit": "份",
+					"categoryName": "民间瓦罐汤",
+					"props": []
+				},
+				{
+					"name": "当归药膳乌鸡",
+					"picUrl": "http://p0.meituan.net/erpbossapi/02471e7fc9f29a8fcac18dcce12f372e147124.jpg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "民间瓦罐汤",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "营养筒骨粉",
+			"foods": [
+				{
+					"name": "小筒子骨粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/4e18d50e79f4f6dfd936b852e5588ed042709.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "营养筒骨粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "加辣",
 									"price": 0,
-									"propName": "家常味",
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "凉拌木耳",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "牛筋丸汤粉+煎蛋",
+					"picUrl": "http://p0.meituan.net/erpbossapi/e03841a01575833ed76489cd3dde282450522.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "营养筒骨粉",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "凉拌木耳",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "大筒子骨粉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/bc4d90466d22f8a9df590b5f354d05c080974.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "营养筒骨粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "凉拌木耳",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "营养双筒骨粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/8faa5b1cbf83816e3e52590cea21a67b35022.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "营养筒骨粉",
+					"props": [
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "加辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "凉拌木耳",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "江西拌粉/炒粉",
+			"foods": [
+				{
+					"name": "南昌经典拌粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/568443d3251e910bd80f00b445ce4b03106257.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "江西拌粉/炒粉",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣｜猪耳朵拌粉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/fd74ab7664176fe750fbf608d0e6ec71112757.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "江西拌粉/炒粉",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "香辣｜卤牛肉拌粉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fd318b9c7c968c055608480cc017fd27114655.jpg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "江西拌粉/炒粉",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "江西特色｜鸡蛋炒粉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/51c1e06b8888aafb9bbf64fe450f49cd47268.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "江西拌粉/炒粉",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "瘦肉",
+									"price": 6,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "江西鸡蛋瘦肉炒粉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/51c1e06b8888aafb9bbf64fe450f49cd47268.jpg",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "江西拌粉/炒粉",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "煎蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "咸鸭蛋",
+									"price": 3,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "煲仔饭加料",
+			"foods": [
+				{
+					"name": "腊肠",
+					"picUrl": "http://p0.meituan.net/erpbossapi/9c0975ce4f4251de9eb7cfd41c7df67e117053.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "煲仔饭加料",
+					"props": []
+				},
+				{
+					"name": "腐竹",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7bed81b6a29b8ec72c9b6ee40a4241d143810.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "煲仔饭加料",
+					"props": []
+				},
+				{
+					"name": "酱香肉卷",
+					"picUrl": "http://p0.meituan.net/erpbossapi/1d3b95a03f50b6d14fb57e8c4008ea1b34867.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "煲仔饭加料",
+					"props": []
+				},
+				{
+					"name": "腊肉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/fe6a76994c1f24252b4dd2a4bfd60cc035039.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "煲仔饭加料",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "小菜/配菜",
+			"foods": [
+				{
+					"name": "凉拌木耳",
+					"picUrl": "http://p1.meituan.net/erpbossapi/9f4706628be4f0e8499b37c33caffc4325913.jpg",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "小菜/配菜",
+					"props": []
+				},
+				{
+					"name": "煎蛋",
+					"picUrl": "http://p0.meituan.net/erpbossapi/ca252283c5fc73966feb1a6959f080de14521.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "小菜/配菜",
+					"props": []
+				},
+				{
+					"name": "咸鸭蛋",
+					"picUrl": "http://p1.meituan.net/erpbossapi/e5a54599340f95192c3dc681c6ca0b9f70272.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "小菜/配菜",
+					"props": []
+				},
+				{
+					"name": "小筒子骨",
+					"picUrl": "http://p1.meituan.net/erpbossapi/9acf4e3454cfcb2b2ddbca20a599de8470600.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "小菜/配菜",
+					"props": []
+				},
+				{
+					"name": "大筒子骨",
+					"picUrl": "http://p0.meituan.net/erpbossapi/f6c9af51e2e89cfda13a19e6e3f9ca5650084.jpg",
+					"price": 14,
+					"unit": "份",
+					"categoryName": "小菜/配菜",
+					"props": []
+				},
+				{
+					"name": "凉拌猪耳朵",
+					"picUrl": "http://p1.meituan.net/erpbossapi/7ab38cc29ca79f49c2e6e08b91d244a7107812.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "小菜/配菜",
+					"props": []
+				},
+				{
+					"name": "凉拌卤牛肉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/36216ee54b82506c11a5f161f2ac0a4d124763.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "小菜/配菜",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "饮料区",
+			"foods": [
+				{
+					"name": "芬达",
+					"picUrl": "http://p0.meituan.net/erpbossapi/33716f6c9371f65aa9966d5f3304bfcf39953.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料区",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "冷藏",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "维他奶",
+					"picUrl": "http://p1.meituan.net/erpbossapi/d7b3d39178e19deb23cb58c37af4ac5040476.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料区",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "冷藏",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "http://p0.meituan.net/erpbossapi/c0ea9778302f1f962a1cd5224bc2dc2443558.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "饮料区",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "冷藏",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "王老吉",
+					"picUrl": "http://p0.meituan.net/erpbossapi/7d3f891016bf24bf35ab8347e118cd9141499.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料区",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "冷藏",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "农夫山泉",
+					"picUrl": "http://p1.meituan.net/erpbossapi/65bc4555d31dc064d872e8e3c5f68b37122378.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "饮料区",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "冷藏",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "椰汁",
+					"picUrl": "http://p0.meituan.net/erpbossapi/393e86b1de8be41b621bfb5bc3268e2584244.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "饮料区",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "冷藏",
+									"price": 0,
+									"propName": "规格",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "规格",
 									"isMul": true
 								}
 							]
