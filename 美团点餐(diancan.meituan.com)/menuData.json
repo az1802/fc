@@ -1,2579 +1,3947 @@
 {
-  "data": {
-    "poi": {
-      "name": "稻滋香煲仔饭",
-      "phone": "188****7696",
-      "address": "旺棠工业区稻滋香煲仔饭",
-      "mode": "PREPAID",
-      "tableName": "A7-1",
-      "logoUrl": "",
-      "category": "小吃/快餐",
-      "perCapita": 0,
-      "showCrmBanner": true,
-      "config": {
-        "invoice": false,
-        "waiter": true,
-        "member": true,
-        "supportCampaign": true
-      },
-      "orderCampaign": [],
-      "menus": [
-        {
-          "id": "TWVudTo4NzIyNjUz",
-          "name": "单人套餐",
-          "type": 2,
-          "items": [
-            {
-              "id": "Q29tYm86MTI4OTg1NTI2",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/d817e25240440f9d4a142ed42da0ae44171500.jpg",
-              "name": "金牌腊味煲仔饭单人套餐",
-              "type": "Combo",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "JPLWBZF+WTNTC",
-              "pinyin": ["JINPAILAWEIBAOZIFANDANRENTAOCAN"],
-              "total": -1,
-              "canWeigh": false,
-              "price": 1880,
-              "skus": [
-                {
-                  "id": "RGlzaFNrdToxMDQyNjcxOTU=",
-                  "price": 0,
-                  "limit": 1,
-                  "count": 0
-                },
-                {
-                  "id": "RGlzaFNrdToxMDQyNjcyMTc=",
-                  "price": 0,
-                  "limit": 1,
-                  "count": 0
-                }
-              ],
-              "items": []
-            },
-            {
-              "id": "Q29tYm86MTI4OTg5MzI0",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/858e328c0e52040ce2691fe58a759e12192821.jpg",
-              "name": "腊味三宝煲仔饭单人套餐",
-              "type": "Combo",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LWSBBZF+CSGPGT",
-              "pinyin": ["LAWEISANBAOBAOZIFANDANRENTAOCAN"],
-              "total": -1,
-              "canWeigh": false,
-              "price": 2580,
-              "skus": [
-                {
-                  "id": "RGlzaFNrdToxMDQyNjc0MzI=",
-                  "price": 0,
-                  "limit": 1,
-                  "count": 0
-                },
-                {
-                  "id": "RGlzaFNrdToxMDQyNjcyMTM=",
-                  "price": 0,
-                  "limit": 1,
-                  "count": 0
-                }
-              ],
-              "items": []
-            },
-            {
-              "id": "Q29tYm86MTMyNjIwMDky",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/2ed0ffdbc76592a69d9298b2e5c063a1104574.jpg",
-              "name": "南昌经典拌粉单人套餐",
-              "type": "Combo",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "拌粉+炖汤营养更健康",
-              "code": "NCJDBFTC",
-              "pinyin": ["NANCHANGJINGDIANBANFENDANRENTAOCAN"],
-              "total": -1,
-              "canWeigh": false,
-              "price": 1680,
-              "skus": [
-                {
-                  "id": "RGlzaFNrdToxMDQyNjcyMTM=",
-                  "price": 0,
-                  "limit": 1,
-                  "count": 0
-                },
-                {
-                  "id": "RGlzaFNrdToxMDg5NjQ0NTU=",
-                  "price": 0,
-                  "limit": 1,
-                  "count": 0
-                }
-              ],
-              "items": []
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4NTg2NjY2",
-          "name": "秘制煲仔饭",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMjY3OTE2MjE=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/3793dfd1c8e4d9537eca9c0fabc1eea4167223.jpg",
-              "name": "秘制腊鸭煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "MZLYBZF",
-              "pinyin": ["MIZHILAYABAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTA=",
-                  "price": 1500,
-                  "memberPrice": 1500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3ODg4MzE=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/d527cf9efc8afbec574c37d036902ff4164729.jpg",
-              "name": "腊肠滑鸡煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "配料:广式腊肠+新鲜鸡肉",
-              "code": "LCHJBZF",
-              "pinyin": ["LACHANGHUAJIBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMDc=",
-                  "price": 1700,
-                  "memberPrice": 1700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3ODg4MjU=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/8e57809873c3da807efb38d2c3fd92ca161904.jpg",
-              "name": "金牌腊味煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "销量榜一！配料：广式腊肠，酱香腊肉",
-              "code": "JPLWBZF",
-              "pinyin": ["JINPAILAWEIBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcxOTU=",
-                  "price": 1800,
-                  "memberPrice": 1800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjczNDg0MzM=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/7b119ead323d6c56e178f68ba5595262160988.jpg",
-              "name": "腊肠肉卷煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "配料：广式腊肠+潮汕肉卷",
-              "code": "LCRJBZF",
-              "pinyin": ["LACHANGROUJUANBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQ4MjQyOTc=",
-                  "price": 1700,
-                  "memberPrice": 1700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTkzMzU=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/7f72b99b25423f7c95d66090c981f558160038.jpg",
-              "name": "香芋排骨煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XYPGBZF",
-              "pinyin": ["XIANGYUPAIGUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMDY=",
-                  "price": 1700,
-                  "memberPrice": 1700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjczMzc5Nzc=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/2882ec85f71abc64cc56c2e18ee36890164186.jpg",
-              "name": "田鸡鱼腩煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "TJYNBZF",
-              "pinyin": ["TIANJIYUNANBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQ4MjQ0NTc=",
-                  "price": 1700,
-                  "memberPrice": 1700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTI1MTE=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/cdb3bcba3f8117a7052526b000422318161557.jpg",
-              "name": "排骨鱼腩煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "PGYNBZF",
-              "pinyin": ["PAIGUYUNANBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcxOTg=",
-                  "price": 1800,
-                  "memberPrice": 1800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTU0MTA=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/b9f73e54dc97dfed12388f6c0c83645c167774.jpg",
-              "name": "香菇滑鸡煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XGHJBZF",
-              "pinyin": ["XIANGGUHUAJIBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcxOTc=",
-                  "price": 1800,
-                  "memberPrice": 1800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY4NTM1ODU=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/d418a0b2355341c56a92749053f54d8f165566.jpg",
-              "name": "广式腊肠煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "GSLCBZF",
-              "pinyin": ["GUANGSHILACHANGBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQzMjQ3OTI=",
-                  "price": 1700,
-                  "memberPrice": 1700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTA2MzU=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/6ca05ee668ccd4f1b5a1ed83d8dd9992167335.jpg",
-              "name": "梅菜扣肉煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "自制扣肉，鲜香味美",
-              "code": "MCKRBZF",
-              "pinyin": ["MEICAIKOUROUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjc0Njk=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3ODg4MzA=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/aac0b45600c2c4e17fa54fcc8c85114c163078.jpg",
-              "name": "排骨滑鸡煲仔饭",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "PGHJBZF",
-              "pinyin": ["PAIGUHUAJIBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMDQ=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY4NDcwMzY=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/a56620955cb5da104e499b5c06a50e3b75876.jpg",
-              "name": "豆豉鲮鱼煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "DCLYBZF",
-              "pinyin": ["DOUCHILINGYUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQzMTM1MjE=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY4MDAzMzI=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/8c7bcb2b5eb28c9741fd3e1b72b28bfe163890.jpg",
-              "name": "豉汁排骨煲仔饭",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "CZPGBZF",
-              "pinyin": ["CHIZHIPAIGUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMDM=",
-                  "price": 2200,
-                  "memberPrice": 2200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY4MDExODA=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/dea087d8bc33690584885b9c31049d6f164640.jpg",
-              "name": "鲮鱼排骨煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LYPGBZF",
-              "pinyin": ["LINGYUPAIGUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMDU=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTU0MDc=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/c8076c549f4041853a3baad507099655161236.jpg",
-              "name": "招牌四宝煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "本店招牌！配料：黄牛肉、排骨、腊肠、腊肉",
-              "code": "ZPSBBZF",
-              "pinyin": ["ZHAOPAISIBAOBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcwOTE=",
-                  "price": 2500,
-                  "memberPrice": 2500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjc1MjAyODI=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/ea511b1dfadb58df07d40149106fecac171792.jpg",
-              "name": "排骨腊肠煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "PGLCBZF",
-              "pinyin": ["PAIGULACHANGBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQ5OTA4NTQ=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTI1MDk=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/e3e5114781430a51fe0db9972000c5f1166814.jpg",
-              "name": "腊味排骨煲仔饭",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "配料：广式腊肠，酱香腊肉，猪排骨",
-              "code": "LWPGBZF",
-              "pinyin": ["LAWEIPAIGUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcxOTY=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY4MDAzNzM=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/fb94a5a34f6c84c9889228d04ff0075f165136.jpg",
-              "name": "腊味三宝煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LWSBBZF",
-              "pinyin": ["LAWEISANBAOBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjc0MzI=",
-                  "price": 2200,
-                  "memberPrice": 2200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY4NDcwMzM=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/680b2f8e0f2a16da41cf68851d2e242c171718.jpg",
-              "name": "腊味牛肉煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LWNRBZF",
-              "pinyin": ["LAWEINIUROUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQzMTM0ODk=",
-                  "price": 2200,
-                  "memberPrice": 2200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTQ0NDk=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/4bf98a67c99345fff072e80058f5df0d166689.jpg",
-              "name": "牛肉排骨煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "配料：黄牛肉、排骨",
-              "code": "NRPGBZF",
-              "pinyin": ["NIUROUPAIGUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcxOTQ=",
-                  "price": 2200,
-                  "memberPrice": 2200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTYzOTY=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/8ae140e30162a04ef4a5dac47c3a415a141838.jpg",
-              "name": "窝蛋牛肉煲仔饭",
-              "type": "Dish",
-              "status": "UNAVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "WDNRBZF",
-              "pinyin": ["WODANNIUROUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMDA=",
-                  "price": 2200,
-                  "memberPrice": 2200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY4MzQ5MTQ=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/7c9b9f5cfeb656c5ee3b01c10b1fe41d164391.jpg",
-              "name": "腐竹排骨煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "FZPGBZF",
-              "pinyin": ["FUZHUPAIGUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQzMTM4MTI=",
-                  "price": 1800,
-                  "memberPrice": 1800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY4NDM2NzQ=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/c12a5bb59cdc7ef0fa086072e3370ec2162200.jpg",
-              "name": "腐竹牛肉煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "FZNRBZF",
-              "pinyin": ["FUZHUNIUROUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQzMTM4ODU=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4NTg4MzU5",
-          "name": "香辣煲仔饭",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMjY3ODc5MDM=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/2df95f916a5990f540bd4a1d0072a5d6168251.jpg",
-              "name": "剁椒鱼腩煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "DJYNBZF",
-              "pinyin": ["DUOJIAOYUNANBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjc0MTY=",
-                  "price": 1500,
-                  "memberPrice": 1500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTY0NTU=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/a7407961b94d46dd81b6eb1e46d987ff206936.jpg",
-              "name": "香辣滑鸡煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XLHJBZF",
-              "pinyin": ["XIANGLAHUAJIBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjc0MTg=",
-                  "price": 1800,
-                  "memberPrice": 1800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTM1NTQ=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/b50901d526bcf407b6a05cdaea32c31164467.jpg",
-              "name": "香辣田鸡煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XLTJBZF",
-              "pinyin": ["XIANGLATIANJIBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcxOTk=",
-                  "price": 2000,
-                  "memberPrice": 2000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMjY3OTI1NDY=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/6377c987bf78e53681ba3bf0c16aae21166111.jpg",
-              "name": "香辣排骨煲仔饭",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XLPGBZF",
-              "pinyin": ["XIANGLAPAIGUBAOZIFAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjczOTk=",
-                  "price": 2200,
-                  "memberPrice": 2200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY4NTcz",
-                  "name": "腊肠",
-                  "price": 500
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjc1MTM0",
-                  "name": "腊肉",
-                  "price": 600
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4NTg4MzUy",
-          "name": "民间瓦罐汤",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMjY3OTI1MjU=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/4e2150c049e76649d0eaeafae63b4a21155310.jpg",
-              "name": "鸡蛋肉饼汤",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "JDRBT",
-              "pinyin": ["JIDANROUBINGTANG"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTQ=",
-                  "price": 600,
-                  "memberPrice": 600,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTM1NjI=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/6ef3bfdf580a04cb11a2385c7e4ac03c152969.jpg",
-              "name": "玉米排骨汤",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "YMPGT",
-              "pinyin": ["YUMIPAIGUTANG"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTU=",
-                  "price": 700,
-                  "memberPrice": 700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTA2MjU=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/387316110c0f92491e921f6cd9102cda151089.jpg",
-              "name": "山药排骨汤",
-              "type": "SimpleDish",
-              "status": "UNAVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "SYPGT",
-              "pinyin": ["SHANYAOPAIGUTANG"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTI=",
-                  "price": 700,
-                  "memberPrice": 700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMzYxMjg0NTc=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/5e6b98e2a80ef19e1c9fe1701789384f41043.jpg",
-              "name": "海带排骨汤",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "HDPGT",
-              "pinyin": ["HAIDAIPAIGUTANG"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMTM2MTQ5MzI=",
-                  "price": 700,
-                  "memberPrice": 700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTI1MjQ=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/26d4f78f0af549385e2180c1126a4c0e156929.jpg",
-              "name": "茶树菇排骨汤",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "CSGPGT",
-              "pinyin": ["CHASHUGUPAIGUTANG"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTM=",
-                  "price": 800,
-                  "memberPrice": 800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTM2MjU=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/cdbee937bc8df60aa8f8d694286eac6f55251.jpg",
-              "name": "墨鱼排骨汤",
-              "type": "SimpleDish",
-              "status": "UNAVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "MYPGT",
-              "pinyin": ["MOYUPAIGUTANG"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjc0ODA=",
-                  "price": 800,
-                  "memberPrice": 800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTI1MjM=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/02471e7fc9f29a8fcac18dcce12f372e147124.jpg",
-              "name": "当归药膳乌鸡",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "DGYSWJ",
-              "pinyin": ["DANGGUIYAOSHANWUJI"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTE=",
-                  "price": 900,
-                  "memberPrice": 900,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4ODk1MTg0",
-          "name": "营养筒骨粉",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMzE1NzAyMTc=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/4e18d50e79f4f6dfd936b852e5588ed042709.jpg",
-              "name": "小筒子骨粉",
-              "type": "Dish",
-              "status": "UNAVAILABLE",
-              "least": 1,
-              "desc": "配有青菜+荷包蛋",
-              "code": "XTZGF",
-              "pinyin": ["XIAOTONGZIGUFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [
-                {
-                  "name": "口味",
-                  "values": ["加辣", "不辣"]
-                }
-              ],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjQ2Mjc=",
-                  "price": 1700,
-                  "memberPrice": 1700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMyNzg2MTAw",
-                  "name": "凉拌木耳",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMzE1Njc0NzE=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/e03841a01575833ed76489cd3dde282450522.jpg",
-              "name": "牛筋丸汤粉+煎蛋",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "NJWTF+JD",
-              "pinyin": ["NIUJINWANTANGFEN+JIANDAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjU1MDY=",
-                  "price": 1800,
-                  "memberPrice": 1800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMyNzg2MTAw",
-                  "name": "凉拌木耳",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMzE1NzIwOTM=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/bc4d90466d22f8a9df590b5f354d05c080974.jpg",
-              "name": "大筒子骨粉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "配有青菜+荷包蛋",
-              "code": "DTZGF",
-              "pinyin": ["DATONGZIGUFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [
-                {
-                  "name": "口味",
-                  "values": ["加辣", "不辣"]
-                }
-              ],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjQ2NTk=",
-                  "price": 2100,
-                  "memberPrice": 2100,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMyNzg2MTAw",
-                  "name": "凉拌木耳",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMzE1NjI3MDk=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/8faa5b1cbf83816e3e52590cea21a67b35022.jpg",
-              "name": "营养双筒骨粉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "YYSTGF",
-              "pinyin": ["YINGYANGSHUANGTONGGUFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [
-                {
-                  "name": "口味",
-                  "values": ["加辣", "不辣"]
-                }
-              ],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjQ3MTg=",
-                  "price": 2600,
-                  "memberPrice": 2600,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMyNzg2MTAw",
-                  "name": "凉拌木耳",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4ODk1MDMx",
-          "name": "江西拌粉/炒粉",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMzE1NzEwODM=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/568443d3251e910bd80f00b445ce4b03106257.jpg",
-              "name": "南昌经典拌粉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "NCJDBF",
-              "pinyin": ["NANCHANGJINGDIANBANFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjQ0NTU=",
-                  "price": 1000,
-                  "memberPrice": 1000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMzE1NTg4OTU=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/fd74ab7664176fe750fbf608d0e6ec71112757.jpg",
-              "name": "香辣｜猪耳朵拌粉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XL｜ZEDBF",
-              "pinyin": ["XIANGLA｜ZHUERDUOBANFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjQ1MzU=",
-                  "price": 1700,
-                  "memberPrice": 1700,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMzE1NjE4ODc=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/fd318b9c7c968c055608480cc017fd27114655.jpg",
-              "name": "香辣｜卤牛肉拌粉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XL｜LNRBF",
-              "pinyin": ["XIANGLA｜LUNIUROUBANFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjQ1NTg=",
-                  "price": 1900,
-                  "memberPrice": 1900,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMzIyNjUxMjc=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/51c1e06b8888aafb9bbf64fe450f49cd47268.jpg",
-              "name": "江西特色｜鸡蛋炒粉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "配有青菜和鸡蛋，稍微有点辣椒",
-              "code": "JXTS｜JDCF",
-              "pinyin": ["JIANGXITESE｜JIDANCHAOFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDk2NTc0ODA=",
-                  "price": 1500,
-                  "memberPrice": 1500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMyNDY4MjY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMyNDU4OTQy",
-                  "name": "瘦肉",
-                  "price": 600
-                }
-              ]
-            },
-            {
-              "id": "RGlzaDoxMzI0NTk5MzU=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/51c1e06b8888aafb9bbf64fe450f49cd47268.jpg",
-              "name": "江西鸡蛋瘦肉炒粉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "配鸡蛋，瘦肉，青菜",
-              "code": "JXJDSRCF",
-              "pinyin": ["JIANGXIJIDANSHOUROUCHAOFEN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDk4NTY3MjY=",
-                  "price": 2100,
-                  "memberPrice": 2100,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": [
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjcwNDY1",
-                  "name": "煎蛋",
-                  "price": 300
-                },
-                {
-                  "id": "RGlzaFBhcnQ6MTMxMjY2NzQx",
-                  "name": "咸鸭蛋",
-                  "price": 300
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4NTg4MzU0",
-          "name": "煲仔饭加料",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMjY3OTA2OTI=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/9c0975ce4f4251de9eb7cfd41c7df67e117053.jpg",
-              "name": "腊肠",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LC",
-              "pinyin": ["LACHANG"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjczNzc=",
-                  "price": 500,
-                  "memberPrice": 500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTA2OTM=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/7bed81b6a29b8ec72c9b6ee40a4241d143810.jpg",
-              "name": "腐竹",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "FZ",
-              "pinyin": ["FUZHU"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjczOTM=",
-                  "price": 500,
-                  "memberPrice": 500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjc3MDI4NTU=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/1d3b95a03f50b6d14fb57e8c4008ea1b34867.jpg",
-              "name": "酱香肉卷",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "JXRJ",
-              "pinyin": ["JIANGXIANGROUJUAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDUxODEwMTU=",
-                  "price": 500,
-                  "memberPrice": 500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMzE1NzIwNzk=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/fe6a76994c1f24252b4dd2a4bfd60cc035039.jpg",
-              "name": "腊肉",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LR",
-              "pinyin": ["LAROU"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjM5NDI=",
-                  "price": 600,
-                  "memberPrice": 600,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4ODk1MDAw",
-          "name": "小菜/配菜",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMzI3NjM1Mzk=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/9f4706628be4f0e8499b37c33caffc4325913.jpg",
-              "name": "凉拌木耳",
-              "type": "SimpleDish",
-              "status": "UNAVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LBME",
-              "pinyin": ["LIANGBANMUER"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMTAxNTc5Njc=",
-                  "price": 500,
-                  "memberPrice": 500,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY4MDAzMzg=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/ca252283c5fc73966feb1a6959f080de14521.jpg",
-              "name": "煎蛋",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "JD",
-              "pinyin": ["JIANDAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTY=",
-                  "price": 300,
-                  "memberPrice": 300,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTM2MTQ=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/e5a54599340f95192c3dc681c6ca0b9f70272.jpg",
-              "name": "咸鸭蛋",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XYD",
-              "pinyin": ["XIANYADAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDQyNjczNjg=",
-                  "price": 300,
-                  "memberPrice": 300,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMzE1NjU1Mzc=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/9acf4e3454cfcb2b2ddbca20a599de8470600.jpg",
-              "name": "小筒子骨",
-              "type": "SimpleDish",
-              "status": "UNAVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "XTZG",
-              "pinyin": ["XIAOTONGZIGU"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjUzOTY=",
-                  "price": 1000,
-                  "memberPrice": 1000,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMzE1NjY1Mjc=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/f6c9af51e2e89cfda13a19e6e3f9ca5650084.jpg",
-              "name": "大筒子骨",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "DTZG",
-              "pinyin": ["DATONGZIGU"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMDg5NjU0MjY=",
-                  "price": 1400,
-                  "memberPrice": 1400,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMzI3OTMzMzQ=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/7ab38cc29ca79f49c2e6e08b91d244a7107812.jpg",
-              "name": "凉拌猪耳朵",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LBZED",
-              "pinyin": ["LIANGBANZHUERDUO"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMTAxODM0NzE=",
-                  "price": 1200,
-                  "memberPrice": 1200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMzI3OTI0MzA=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/36216ee54b82506c11a5f161f2ac0a4d124763.jpg",
-              "name": "凉拌卤牛肉",
-              "type": "SimpleDish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "LBLNR",
-              "pinyin": ["LIANGBANLUNIUROU"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "份",
-                  "id": "RGlzaFNrdToxMTAxODM1MTA=",
-                  "price": 1800,
-                  "memberPrice": 1800,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            }
-          ]
-        },
-        {
-          "id": "TWVudTo4NTg4MzU4",
-          "name": "饮料区",
-          "type": 1,
-          "items": [
-            {
-              "id": "RGlzaDoxMjkzODc5MjE=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/33716f6c9371f65aa9966d5f3304bfcf39953.jpg",
-              "name": "芬达",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "FD",
-              "pinyin": ["FENDA"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "冷藏",
-                  "id": "RGlzaFNrdToxMDY4NDA0MjU=",
-                  "price": 200,
-                  "memberPrice": 200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                },
-                {
-                  "name": "常温",
-                  "id": "RGlzaFNrdToxMDk4NTcyNTg=",
-                  "price": 200,
-                  "memberPrice": 200,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTM1NjM=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/d7b3d39178e19deb23cb58c37af4ac5040476.jpg",
-              "name": "维他奶",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "WTN",
-              "pinyin": ["WEITANAI"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "冷藏",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTc=",
-                  "price": 300,
-                  "memberPrice": 100,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                },
-                {
-                  "name": "常温",
-                  "id": "RGlzaFNrdToxMDYxMTY2Mzg=",
-                  "price": 300,
-                  "memberPrice": 100,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3ODc4NzA=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/c0ea9778302f1f962a1cd5224bc2dc2443558.jpg",
-              "name": "百事可乐",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "BSKL",
-              "pinyin": ["BAISHIKELE"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "冷藏",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTk=",
-                  "price": 300,
-                  "memberPrice": 150,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                },
-                {
-                  "name": "常温",
-                  "id": "RGlzaFNrdToxMDYxMTY3ODY=",
-                  "price": 300,
-                  "memberPrice": 150,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTI1Mjc=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/7d3f891016bf24bf35ab8347e118cd9141499.jpg",
-              "name": "王老吉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "WLJ",
-              "pinyin": ["WANGLAOJI"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "冷藏",
-                  "id": "RGlzaFNrdToxMDQyNjcyMjA=",
-                  "price": 400,
-                  "memberPrice": 300,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                },
-                {
-                  "name": "常温",
-                  "id": "RGlzaFNrdToxMDYxMTY4NDU=",
-                  "price": 400,
-                  "memberPrice": 300,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMjY3OTE2MjU=",
-              "imageUrl": "http://p1.meituan.net/erpbossapi/65bc4555d31dc064d872e8e3c5f68b37122378.jpg",
-              "name": "农夫山泉",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "NFSQ",
-              "pinyin": ["NONGFUSHANQUAN"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "冷藏",
-                  "id": "RGlzaFNrdToxMDQyNjcyMTg=",
-                  "price": 200,
-                  "memberPrice": 100,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                },
-                {
-                  "name": "常温",
-                  "id": "RGlzaFNrdToxMDYxMTY4OTI=",
-                  "price": 200,
-                  "memberPrice": 100,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            },
-            {
-              "id": "RGlzaDoxMzAzNzUyMjg=",
-              "imageUrl": "http://p0.meituan.net/erpbossapi/393e86b1de8be41b621bfb5bc3268e2584244.jpg",
-              "name": "椰汁",
-              "type": "Dish",
-              "status": "AVAILABLE",
-              "least": 1,
-              "desc": "",
-              "code": "YZ",
-              "pinyin": ["YEZHI"],
-              "total": -1,
-              "canWeigh": false,
-              "attrs": [],
-              "skus": [
-                {
-                  "name": "冷藏",
-                  "id": "RGlzaFNrdToxMDc3OTA5Mjc=",
-                  "price": 600,
-                  "memberPrice": 600,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                },
-                {
-                  "name": "常温",
-                  "id": "RGlzaFNrdToxMDk4NTcyNzY=",
-                  "price": 600,
-                  "memberPrice": 600,
-                  "total": -1,
-                  "campaign": null,
-                  "campaignDesc": "",
-                  "discountedPrice": null
-                }
-              ],
-              "parts": []
-            }
-          ]
-        }
-      ],
-      "recommends": [
-        {
-          "id": "RGlzaDoxMjY3ODg4MjU="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTI1MDk="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTI1MjU="
-        },
-        {
-          "id": "RGlzaDoxMjY4MDAzNzM="
-        },
-        {
-          "id": "RGlzaDoxMjY4NDcwMzM="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTA2MzU="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTU0MDc="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTI1NDY="
-        },
-        {
-          "id": "RGlzaDoxMjY4MDAzMzI="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTI1MjQ="
-        }
-      ],
-      "hots": [
-        {
-          "id": "Q29tYm86MTI4OTg1NTI2"
-        },
-        {
-          "id": "RGlzaDoxMjY3OTM1NjM="
-        },
-        {
-          "id": "RGlzaDoxMjkzODc5MjE="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTkzMzU="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTE2MjE="
-        },
-        {
-          "id": "RGlzaDoxMzE1NzEwODM="
-        },
-        {
-          "id": "RGlzaDoxMjY3ODg4MjU="
-        },
-        {
-          "id": "RGlzaDoxMjY3ODg4MzE="
-        },
-        {
-          "id": "RGlzaDoxMjY4MDAzMzg="
-        },
-        {
-          "id": "RGlzaDoxMjY3OTU0MTA="
-        }
-      ],
-      "oftens": []
-    },
-    "reviewCount": {
-      "total": 0,
-      "avgRate": 0,
-      "positiveRate": 0
-    },
-    "user": {
-      "card": {
-        "id": "Q2FyZDo=",
-        "poiName": "稻滋香煲仔饭",
-        "poiLogoUrl": "https://p1.meituan.net/erpbossapi/a492ca0228a008ca00941a990c216058260964.jpg",
-        "backgroundColor": "#63b359",
-        "backgroundUrl": null,
-        "privilege": "注册会员即享会员专属优惠； 更多会员专享活动",
-        "usage": "每人限领一张（每个微信只能领取一张）会员卡仅限本人使用，会员会籍与卡内积分均不可使用与出借；请在结账时主动出示会员卡；请注意保护支付码，请勿截屏谨防偷拍；储值买单时，会按照充值顺序",
-        "name": "银卡会员",
-        "num": null,
-        "point": 0,
-        "balance": 0,
-        "title": "开通会员享优惠",
-        "canActivation": true
-      }
-    }
-  }
+	"data": {
+		"poi": {
+			"name": "老兵饺子",
+			"phone": "139****6660",
+			"address": "东建普君新城",
+			"mode": "PREPAID",
+			"tableName": "大厅7",
+			"logoUrl": "",
+			"category": "小吃/快餐",
+			"perCapita": 0,
+			"showCrmBanner": false,
+			"config": {
+				"invoice": false,
+				"waiter": true,
+				"member": true,
+				"supportCampaign": true
+			},
+			"orderCampaign": [],
+			"menus": [{
+				"id": "TWVudTo5MTg3OTY1",
+				"name": "果汁换购券",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMzYwOTk2Nzc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/0edb8a0959d0e5ab53d0c0452e47f636298399.jpg",
+					"name": "山楂汁换购券",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "常温（单笔订单满20元可换购一份，依次叠加）",
+					"code": "SZZHGQ",
+					"pinyin": ["SHANZHAZHIHUANGOUQUAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTM1ODU5MDc=",
+						"price": 400,
+						"memberPrice": 400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzYwOTU5Mzk=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/19cd9b1187c5ac745e2297552f40ffb3285445.jpg",
+					"name": "黄桃汁换购券",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "常温",
+					"code": "HTZHGQ",
+					"pinyin": ["HUANGTAOZHIHUANGOUQUAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTM1ODU5NDI=",
+						"price": 400,
+						"memberPrice": 400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NTA2MzQ2",
+				"name": "套餐",
+				"type": 2,
+				"items": [{
+					"id": "Q29tYm86MTM1NDE4MDMx",
+					"imageUrl": "",
+					"name": "精品双人餐",
+					"type": "Combo",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JPSRC",
+					"pinyin": ["JINGPINSHUANGRENCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 10800,
+					"skus": [{
+						"id": "RGlzaFNrdToxMDI2Nzg2ODk=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMDI2NzgyNzA=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMDI2NzkyMzE=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMTIxMTAyOTc=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMDI2NzkyMjY=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMDI2Nzg4MzE=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMDM0MTgyNzY=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMDI2ODA0MTI=",
+						"price": 0,
+						"limit": 2,
+						"count": 0
+					}],
+					"items": []
+				}, {
+					"id": "Q29tYm86MTMwNzc5Njg3",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/24e90fedbd5dd2bc9aaee44adb3e3910117208.jpg",
+					"name": "香菇滑鸡套餐",
+					"type": "ComboGroup",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "XGHJTC",
+					"pinyin": ["XIANGGUHUAJITAOCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 2200,
+					"skus": [{
+						"id": "RGlzaFNrdToxMDgxODc1MzE=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}, {
+						"id": "RGlzaFNrdToxMDgyMTcwNjM=",
+						"price": 0,
+						"limit": 1,
+						"count": 0
+					}],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3Njk4Mw==",
+						"name": "饮料",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDczMTg3NzA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDczMTg4MDc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDc3NTEzOTg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDc3MTE5NjA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI5MDM1NjE1",
+					"imageUrl": "",
+					"name": "儿童套餐",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "每份儿童套餐随机赠送一件精美小玩具",
+					"code": "ETTC",
+					"pinyin": ["ERTONGTAOCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 3600,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3MjkzOQ==",
+						"name": "主食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzgwNDQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDQwNDQ1OTQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTI0Nzg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0MQ==",
+						"name": "副食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzkyMjM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0Mw==",
+						"name": "饮料",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzNTU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODAzODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODA0MTI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI5ODU5OTgy",
+					"imageUrl": "",
+					"name": "四人餐",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "MTSRC",
+					"pinyin": ["SIRENCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 8800,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3NDk1Mw==",
+						"name": "小米粥",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzMDg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0MTg5ODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3NDk1Mg==",
+						"name": "凉菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDM0MTgyNzY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg4MzQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg4MzU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg4MzA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg4MzE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMzNjQ3NzU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMzNjQ5Nzk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3NDk1MA==",
+						"name": "蒸饺",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2Nzg3MTk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg2ODk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3NzYyOA==",
+						"name": "水饺",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzgyNzA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgxODY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgxNTA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgzNDA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDQwNDQ1OTU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTI0Nzk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3NzYyOQ==",
+						"name": "煎饺",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDY0NTY1MTY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTY3ODI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTY4MTk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTY4Nzg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTY5MDE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTY5MjU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI5MzYyMQ==",
+						"name": "热菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzkyMjM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0ODE3ODM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMzE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMzI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI1NDQ0NTgw",
+					"imageUrl": "",
+					"name": "单人休闲套餐",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "TCY",
+					"pinyin": ["DANRENXIUXIANTAOCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 4200,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3Mjk1Nw==",
+						"name": "主食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzgzMTE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgyNzA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgyMjQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgxODY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk1OA==",
+						"name": "副食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzkyMjM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMzQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0MTgyNzY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDYxODk0NjI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0Mw==",
+						"name": "饮料",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzNTU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODAzODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODA0MTI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI1NjQ1OTEw",
+					"imageUrl": "",
+					"name": "套餐2",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "TC2",
+					"pinyin": ["TAOCAN2"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 6000,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3Mjk0Mw==",
+						"name": "饮料",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzNTU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODAzODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODA0MTI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0Nw==",
+						"name": "主食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2Nzk5OTk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDYyNTA3NzA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgwNDM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0OQ==",
+						"name": "热菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzkyMjI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMzE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMzI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0OA==",
+						"name": "凉菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2Nzg4MzQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg4MzU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMxNTQ5MDY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI5MDQ0Mjc0",
+					"imageUrl": "",
+					"name": "套餐三",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "TCS",
+					"pinyin": ["TAOCANSAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 4800,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3Mjk1MQ==",
+						"name": "主食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2Nzg3MTk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg2ODk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgyMjQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODAxNDg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk1Mw==",
+						"name": "热菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzkyMjM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk1Mg==",
+						"name": "凉菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDYxODk0NjI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0MTgyNzY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMzNjQ3NzU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMzNjQ5Nzk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI5MDQwNjIy",
+					"imageUrl": "",
+					"name": "套餐四",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "TCS",
+					"pinyin": ["TAOCANSI"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 5000,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3Mjk1NA==",
+						"name": "主食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzgxNTA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgzNDA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDQwNDQ1OTU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTI0Nzk=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDQwNDQ4MTA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTY0NDY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMxMTQ1Mzg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMxMTQ1Mzc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg2NDQ=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDMxMTQ1NjA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk1NQ==",
+						"name": "热菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzkyMjI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMzE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMzI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0ODE3ODM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0Mw==",
+						"name": "饮料",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzNTU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODAzODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODA0MTI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI5MzQ3NjQz",
+					"imageUrl": "",
+					"name": "单人小吃果汁套餐",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "DRXCGZTC",
+					"pinyin": ["DANRENXIAOCHIGUOZHITAOCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 2080,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3Mjk0MQ==",
+						"name": "副食",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzkyMjM=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzkyMjY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3Mjk0Mw==",
+						"name": "饮料",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzNTU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODAzODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2ODA0MTI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI5MzQ1OTI0",
+					"imageUrl": "",
+					"name": "水饺套餐",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SJTC",
+					"pinyin": ["SHUIJIAOTAOCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 2180,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3MzcwNw==",
+						"name": "水饺",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2NzgwNDE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2NzgwNDA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDY0NTI0Nzg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3MzcwOA==",
+						"name": "凉菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2Nzg4MzA=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg4MzU=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg4MzE=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3MzcwOQ==",
+						"name": "养生粥",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzMDg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0MTg5ODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}, {
+					"id": "Q29tYm86MTI5MzQ4NTgw",
+					"imageUrl": "",
+					"name": "双人蒸饺套餐",
+					"type": "ComboGroup",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SRZJTC",
+					"pinyin": ["SHUANGRENZHENGJIAOTAOCAN"],
+					"total": -1,
+					"canWeigh": false,
+					"price": 5280,
+					"skus": [],
+					"items": [{
+						"id": "Q29tYm9JdGVtOjI3MzcxMA==",
+						"name": "蒸饺",
+						"limit": 2,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2Nzg3MTk=",
+							"price": 0,
+							"limit": 2,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDI2Nzg2ODk=",
+							"price": 0,
+							"limit": 2,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3MzcxMQ==",
+						"name": "凉菜",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDYxODk0NjI=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0MTgyNzY=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}, {
+						"id": "Q29tYm9JdGVtOjI3MzcwOQ==",
+						"name": "养生粥",
+						"limit": 1,
+						"skus": [{
+							"id": "RGlzaFNrdToxMDI2ODAzMDg=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}, {
+							"id": "RGlzaFNrdToxMDM0MTg5ODc=",
+							"price": 0,
+							"limit": 1,
+							"count": 0
+						}]
+					}]
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzQ0",
+				"name": "酒水饮料",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjUxOTg1MTk=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/65ec56776ec68627f541d54716348ad389263.jpg",
+					"name": "山楂汁（酸）（果汁含量约65％）",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "口感略酸，果汁含量约65％",
+					"code": "SZZ（S）（GZHLY65％）",
+					"pinyin": ["SHANZHAZHI（SUAN）（GUOZHIHANLIANGYUE65％）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "杯",
+						"id": "RGlzaFNrdToxMDI2ODAzNTU=",
+						"price": 900,
+						"memberPrice": 900,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTY2NjU=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/a1e0cb4b83e101bfb18baf85b4ed03bb166274.jpg",
+					"name": "黄桃汁（甜）（果汁含量约85％）",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "口感略甜，果汁含量约85％",
+					"code": "HTZ（T）（GZHLY85％）",
+					"pinyin": ["HUANGTAOZHI（TIAN）（GUOZHIHANLIANGYUE85％）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "杯",
+						"id": "RGlzaFNrdToxMDI2ODAzODc=",
+						"price": 900,
+						"memberPrice": 900,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTM4NTg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/3f5e4d987eb3993b8809306db961c0fd119617.jpg",
+					"name": "沙棘汁（酸）（果汁含量约85％）",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "口感略酸，果汁含量约85％",
+					"code": "SJZ（S）（GZHLY85％）",
+					"pinyin": ["SHAJIZHI（SUAN）（GUOZHIHANLIANGYUE85％）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "杯",
+						"id": "RGlzaFNrdToxMDI2ODA0MTI=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjk4Nzg3ODg=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/81160943051dbaab85842c150983c6cf100356.jpg",
+					"name": "可口可乐（300ml胶瓶）",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "KKKL（300MLJP）",
+					"pinyin": ["KEKOUKELE（300MLJIAOPING）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDczMTg3NzA=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjk4Nzk4MTI=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/07359d6e7c5fe88b5b2b2244e7d48356100353.jpg",
+					"name": "雪碧（300ml胶瓶）",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "XB（300MLJP）",
+					"pinyin": ["XUEBI（300MLJIAOPING）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDczMTg4MDc=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjk4ODI4NTA=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/eeeb3bfeb80cdde679a304c5cccb2d6794283.jpg",
+					"name": "珠江啤酒（97黑瓶）",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZJPJ（97HP）",
+					"pinyin": ["ZHUJIANGPIJIU（97HEIPING）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDczMTg4Mzc=",
+						"price": 700,
+						"memberPrice": 700,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjk4ODY1NzQ=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/50361dd1af96238b25b1fc58569a21b1101819.jpg",
+					"name": "珠江啤酒（0度）",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZJPJ（0D）",
+					"pinyin": ["ZHUJIANGPIJIU（0DU）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDczMTg4NTQ=",
+						"price": 500,
+						"memberPrice": 500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzAyOTczMTg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/0b65a10966596f8760c7e1f2bf2d5e8589881.jpg",
+					"name": "维他奶",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "WTN",
+					"pinyin": ["WEITANAI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDc3MTE5NjA=",
+						"price": 300,
+						"memberPrice": 300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzAzMjQ4ODQ=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/7ba53471735cc15ec76649f1b68c9d4e118685.jpg",
+					"name": "怡宝矿泉水",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "YBKQS",
+					"pinyin": ["YIBAOKUANGQUANSHUI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDc3NTEzOTg=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzAzMjY4NDY=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/a8274c8e0e9e7526fd6fa4bd120903fb102012.jpg",
+					"name": "雪碧",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "XB",
+					"pinyin": ["XUEBI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDc3NTE2NDk=",
+						"price": 300,
+						"memberPrice": 300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzAzMzI0NTU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/77c9a60be87e80383bcef9f7485e16e697597.jpg",
+					"name": "可口可乐",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "KKKL",
+					"pinyin": ["KEKOUKELE"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDc3NTE2ODg=",
+						"price": 300,
+						"memberPrice": 300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzAzMzQwNDQ=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/fd2424df6d4edce3b4acbf5982146dfb104558.jpg",
+					"name": "王老吉",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "WLJ",
+					"pinyin": ["WANGLAOJI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDc3NTE3NTE=",
+						"price": 400,
+						"memberPrice": 400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzAzMjY4NTg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/0024616b57dda0d1687910aa4210ca7f112211.jpg",
+					"name": "东鹏特饮",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "DPTY",
+					"pinyin": ["DONGPENGTEYIN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDc3NTE3ODE=",
+						"price": 500,
+						"memberPrice": 500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzE3MjI2ODE=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/6475d4e442e22e0b64a6ff036dfe2b08107822.jpg",
+					"name": "冰红茶",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "BHC",
+					"pinyin": ["BINGHONGCHA"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDkxMTc5NzI=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzM4OTQzNDY=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/ab9969a742b1673068f0e8f990859f4c121348.jpg",
+					"name": "汇源橙汁",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HYCZ",
+					"pinyin": ["HUIYUANCHENGZHI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTEyNjU1MzY=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzM4ODg4NDQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/399ec286b7caa09e45b6f901db7cbf85109297.jpg",
+					"name": "芬达",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "FD",
+					"pinyin": ["FENDA"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTEyNjU3NDA=",
+						"price": 300,
+						"memberPrice": 300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzYwOTY5MjI=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/b9244c6ac941e209bed7b8f1c0791938278678.jpg",
+					"name": "东鹏清凉茶",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "DPQLC",
+					"pinyin": ["DONGPENGQINGLIANGCHA"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTM1ODYwODk=",
+						"price": 150,
+						"memberPrice": 150,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NTczMzg2",
+				"name": "打包盒",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjY4MjUzNzM=",
+					"imageUrl": "",
+					"name": "饺子打包盒",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JZDBH",
+					"pinyin": ["JIAOZIDABAOHE"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDQyOTUxNzg=",
+						"price": 100,
+						"memberPrice": 100,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY4MjYyNzM=",
+					"imageUrl": "",
+					"name": "菜品打包盒",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "CPDBH",
+					"pinyin": ["CAIPINDABAOHE"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDQyOTUyMDE=",
+						"price": 100,
+						"memberPrice": 100,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY4MjczODY=",
+					"imageUrl": "",
+					"name": "粥盒",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZH",
+					"pinyin": ["ZHOUHE"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDQyOTUyMjM=",
+						"price": 100,
+						"memberPrice": 100,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzQwOTQyMzU=",
+					"imageUrl": "",
+					"name": "酸菜鱼打包盒",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SCYDBH",
+					"pinyin": ["SUANCAIYUDABAOHE"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTE0NTQ5MzU=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzI0",
+				"name": "生煎饺",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjkwMDc0NzE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/2ff45a1c706df4545f404743b55527cd131363.jpg",
+					"name": "玉米鲜肉煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "YMXRJJ",
+					"pinyin": ["YUMIXIANROUJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY1MTY=",
+						"price": 2200,
+						"memberPrice": 2200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMTAyODE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/e7b0618795ac03c9cc1be28d5ae3cdc3132983.jpg",
+					"name": "虾三鲜煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "XSXJJ",
+					"pinyin": ["XIASANXIANJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY1NTI=",
+						"price": 2200,
+						"memberPrice": 2200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMTAyODc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/59debb837311536acd65f85a44c8b887132331.jpg",
+					"name": "大馅牛肉煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "DXNRJJ",
+					"pinyin": ["DAXIANNIUROUJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY3Mjk=",
+						"price": 2500,
+						"memberPrice": 2500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMTEzNDI=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/bae14d71e33e201900ebe7fa1a29f6a0131078.jpg",
+					"name": "猪肉白菜煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "ZRBCJJ",
+					"pinyin": ["ZHUROUBAICAIJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY3ODI=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMTMwMjg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/e7a600947284a77f6a5070db471cca19132013.jpg",
+					"name": "猪肉荠菜煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "ZRJCJJ",
+					"pinyin": ["ZHUROUJICAIJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY4MTk=",
+						"price": 2200,
+						"memberPrice": 2200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMDU0NjM=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/273b252ef5b74e76240bab711c115def131126.jpg",
+					"name": "猪肉芹菜煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "ZRQCJJ",
+					"pinyin": ["ZHUROUQINCAIJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY4Nzg=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMDgzMjc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/1a99d740c104786243036e69009e8907132545.jpg",
+					"name": "韭菜鸡蛋煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "JCJDJJ",
+					"pinyin": ["JIUCAIJIDANJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY5MDE=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMTAyNTQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/cf5c8401be5420e2c29192bf3eb8daff426685.jpg",
+					"name": "韭菜猪肉煎饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "速度较慢，请提前与服务人员确认",
+					"code": "JCZRJJ",
+					"pinyin": ["JIUCAIZHUROUJIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY5MjU=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDUxNTc0",
+				"name": "水饺",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjUxOTY0OTU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/39c101b71c9bfc95e3ad64e6dfcff2f2126860.jpg",
+					"name": "虾三鲜饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "韭菜，鸡蛋，虾仁",
+					"code": "XSXJ",
+					"pinyin": ["XIASANXIANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDI2NzgwNDQ=",
+						"price": 1500,
+						"memberPrice": 1500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDI2NzgzMTE=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTU2ODQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/b85893988398efac4ae9abd6626eca48101975.jpg",
+					"name": "猪肉荠菜饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "猪肉，荠菜",
+					"code": "ZRJCJ",
+					"pinyin": ["ZHUROUJICAIJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDI2NzgwNDI=",
+						"price": 1500,
+						"memberPrice": 1500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDI2NzgyNzA=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTA5MzM=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/35911928291099f7d5413bbc46e3770e119529.jpg",
+					"name": "大馅牛肉饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "牛肉，葱",
+					"code": "DXNRJ",
+					"pinyin": ["DAXIANNIUROUJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDI2NzgwNDU=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDI2NzgyMjQ=",
+						"price": 2200,
+						"memberPrice": 2200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTI5MDA=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/0c68932b4854b20712b17d4ce8357775112638.jpg",
+					"name": "玉米鲜肉饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "猪肉，甜玉米",
+					"code": "YMXRJ",
+					"pinyin": ["YUMIXIANROUJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDI2NzgwNDM=",
+						"price": 1500,
+						"memberPrice": 1500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDI2NzgxODY=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTkxNzg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/9f0f6994fb65bb0eb2d0b3a1732e548996980.jpg",
+					"name": "猪肉芹菜饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "猪肉，芹菜",
+					"code": "ZRQCJ",
+					"pinyin": ["ZHUROUQINCAIJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDI2NzgwNDE=",
+						"price": 1300,
+						"memberPrice": 1300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDI2NzgxNTA=",
+						"price": 1700,
+						"memberPrice": 1700,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTgzODc=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/1786c35ce5fdf6367af239438ccfcace90129.jpg",
+					"name": "猪肉白菜饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "小瓜，鸡蛋，胡萝卜",
+					"code": "ZRBCJ",
+					"pinyin": ["ZHUROUBAICAIJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDI2NzgwNDA=",
+						"price": 1300,
+						"memberPrice": 1300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDI2NzgzNDA=",
+						"price": 1700,
+						"memberPrice": 1700,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY1NzA5MDg=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/5e1a54421489d0b5545877d7bb185951110658.jpg",
+					"name": "韭菜鸡蛋饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JCJDJ",
+					"pinyin": ["JIUCAIJIDANJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDQwNDQ1OTQ=",
+						"price": 1300,
+						"memberPrice": 1300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDQwNDQ1OTU=",
+						"price": 1700,
+						"memberPrice": 1700,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMTAwMzU=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/e7e869f23515af412d114c487b6249cc106365.jpg",
+					"name": "猪肉韭菜饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZRJCJ",
+					"pinyin": ["ZHUROUJIUCAIJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "小份",
+						"id": "RGlzaFNrdToxMDY0NTI0Nzg=",
+						"price": 1300,
+						"memberPrice": 1300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "大份",
+						"id": "RGlzaFNrdToxMDY0NTI0Nzk=",
+						"price": 1700,
+						"memberPrice": 1700,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzE4",
+				"name": "汤饺",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjY1ODIwODQ=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/03aa68bb0d4f48e90d16a4f84dc2b2ab124479.jpg",
+					"name": "韭菜鸡蛋汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JCJDTJ",
+					"pinyin": ["JIUCAIJIDANTANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "汤",
+						"values": ["酸汤", "红汤", "清汤"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDQwNDQ4MTA=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjkwMDc0Njc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/db9b3f5a9931f32cd3900c5bd3ff52c8128227.jpg",
+					"name": "猪肉韭菜汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZRJCTJ",
+					"pinyin": ["ZHUROUJIUCAITANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "汤",
+						"values": ["酸汤", "红汤", "清汤"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY0NTY0NDY=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDQwNTg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/d2e921e535c8ad2fb8188a6bef68969f132725.jpg",
+					"name": "猪肉芹菜汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZRQCTJ",
+					"pinyin": ["ZHUROUQINCAITANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "汤",
+						"values": ["酸汤", "红汤", "清汤"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDMxMTQ1NjA=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTA5Nzc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/5419bb0eab8a0a4fcf0e049270eb506e130773.jpg",
+					"name": "玉米鲜肉汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "YMXRTJ",
+					"pinyin": ["YUMIXIANROUTANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "酸汤",
+						"id": "RGlzaFNrdToxMDI2Nzg2NDc=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "红汤",
+						"id": "RGlzaFNrdToxMDMxMTQ0NjU=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "清汤",
+						"id": "RGlzaFNrdToxMDMxMTQ0NjY=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDMwNzc=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/2dc1528a056e9f677676abf11cd178e8133302.jpg",
+					"name": "虾三鲜汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "XSXTJ",
+					"pinyin": ["XIASANXIANTANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "酸汤",
+						"id": "RGlzaFNrdToxMDI2Nzg2NDg=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "红汤",
+						"id": "RGlzaFNrdToxMDMxMTQ0OTc=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "清汤",
+						"id": "RGlzaFNrdToxMDMxMTQ0OTg=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTU3MzM=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/e853252a194fa0c0073f0ebde4d76f2f129244.jpg",
+					"name": "大馅牛肉汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "DXNRTJ",
+					"pinyin": ["DAXIANNIUROUTANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "酸汤",
+						"id": "RGlzaFNrdToxMDI2Nzg2NDk=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "红汤",
+						"id": "RGlzaFNrdToxMDMxMTQ1MTQ=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "清汤",
+						"id": "RGlzaFNrdToxMDMxMTQ1MTU=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTQ4NjU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/1b5b4b5e6376737d04f5d8fc7ab2d878127311.jpg",
+					"name": "猪肉白菜汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZRBCTJ",
+					"pinyin": ["ZHUROUBAICAITANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "酸汤",
+						"id": "RGlzaFNrdToxMDI2Nzg2NDQ=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "红汤",
+						"id": "RGlzaFNrdToxMDMxMTQ1Mzc=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "清汤",
+						"id": "RGlzaFNrdToxMDMxMTQ1Mzg=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTM3NDg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/280366c2af2d8a7c764aaa006c50c6ca134192.jpg",
+					"name": "猪肉荠菜汤饺",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZRJCTJ",
+					"pinyin": ["ZHUROUJICAITANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "酸汤",
+						"id": "RGlzaFNrdToxMDI2Nzg2NDY=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "红汤",
+						"id": "RGlzaFNrdToxMDMxMTQ1NDk=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}, {
+						"name": "清汤",
+						"id": "RGlzaFNrdToxMDMxMTQ1NTA=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzE5",
+				"name": "蒸饺",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjUxOTM3NTY=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/c24adcda7148fc72aaf9b4a37adf36f096438.jpg",
+					"name": "玉米鲜肉蒸饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "YMXRZJ",
+					"pinyin": ["YUMIXIANROUZHENGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzg3MTk=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTY1NzE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/1032a1edf9715ace5c6a9f8b922495ac95884.jpg",
+					"name": "大馅牛肉蒸饺",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "DXNRZJ",
+					"pinyin": ["DAXIANNIUROUZHENGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzg2ODk=",
+						"price": 2200,
+						"memberPrice": 2200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4ODA4NDY5",
+				"name": "大馅馄炖",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMzAyNDU4MzY=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/ba819d836cc70b506498c950222b53d7131644.jpg",
+					"name": "鲜肉馄饨",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "XRHT",
+					"pinyin": ["XIANROUHUNTUN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDc2ODg2NTY=",
+						"price": 1000,
+						"memberPrice": 1000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzI1",
+				"name": "凉菜",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjkxNjM1Njc=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/71a78625a1efa9438622f6160b780b0494833.jpg",
+					"name": "炝拌花生米",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "QBHSM",
+					"pinyin": ["QIANGBANHUASHENGMI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDY2MTc3ODE=",
+						"price": 1400,
+						"memberPrice": 1400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjg3MzQzOTE=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/ecba9362f00c035829ad45eafffea477150474.jpg",
+					"name": "泡椒鱼皮",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "PJYP",
+					"pinyin": ["PAOJIAOYUPI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDYxODk0NjI=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjU5NzE2NzA=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/348f243aedaec14304d579c801b3f680109082.jpg",
+					"name": "哈尔滨红肠",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HEBHC",
+					"pinyin": ["HAERBINHONGCHANG"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM0MTgyNzY=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTY1NTk=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/f21cd3a73644d4289e2eb7b40d0d7fec152458.jpg",
+					"name": "家常凉菜",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JCLC",
+					"pinyin": ["JIACHANGLIANGCAI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzg4MzQ=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTg0NDc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/c5e3aca3061a6ba6a6f7d10f03fdcec1202174.jpg",
+					"name": "老醋木耳",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "LCME",
+					"pinyin": ["LAOCUMUER"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "香辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzg4MzU=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTY1NTg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/29752b2f66f7d012184ca7bbaa6fc4f9190783.jpg",
+					"name": "炝拌土豆丝",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "QBTDS",
+					"pinyin": ["QIANGBANTUDOUSI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzg4MzA=",
+						"price": 1000,
+						"memberPrice": 1000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDExODU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/7e116e28b664e676212c2a1389eac51b182031.jpg",
+					"name": "麻油笋丝",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "MYSS",
+					"pinyin": ["MAYOUSUNSI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzg4MzE=",
+						"price": 1000,
+						"memberPrice": 1000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTA5OTA=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/a40cb6db3511a08cc5d6caf30e94cb87138271.jpg",
+					"name": "皮蛋豆腐",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "PDDF",
+					"pinyin": ["PIDANDOUFU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzg4MzM=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjU2OTM2Nzc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/d7ed7350965d79b8f85613f60dc05f0e124082.jpg",
+					"name": "芥末秋葵",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JMQK",
+					"pinyin": ["JIEMOQIUKUI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "香辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDMxNTQ5MDY=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjU5MTY2NDY=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/cc3235ec11ba5e4a63ddd94e07631af9199679.jpg",
+					"name": "海草沙律",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HCSL",
+					"pinyin": ["HAICAOSHALV"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDMzNjQ3NzU=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjU5MTk0NDQ=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/7f2f5f6fad52ef0bb1d7d1e9325d8d6a134538.jpg",
+					"name": "泡椒藕带",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "PJOD",
+					"pinyin": ["PAOJIAOOUDAI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDMzNjQ5Nzk=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY1NDgxMzM=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/d1e4ef0f7a1b0fe306b44f9613365991107051.jpg",
+					"name": "拌海带丝",
+					"type": "Dish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "BHDS",
+					"pinyin": ["BANHAIDAISI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "香辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDQwMTAzODk=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzA4MTM2MjA=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/0e9d90beebebe415e5e2162277db5d4e151777.jpg",
+					"name": "家常凉菜（小份）",
+					"type": "Dish",
+					"status": "COMBO_ONLY",
+					"least": 1,
+					"desc": "",
+					"code": "JCLC（XF）",
+					"pinyin": ["JIACHANGLIANGCAI（XIAOFEN）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "香辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDgyMTcwNjM=",
+						"price": 800,
+						"memberPrice": 800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzI5",
+				"name": "热菜",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMzQ5NTIxMDc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/9a3f3d9daff8ef56baa6a027293f2891146572.jpg",
+					"name": "川卤鸭肠",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "CLYC",
+					"pinyin": ["CHUANLUYACHANG"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTIzNjMxMzQ=",
+						"price": 2600,
+						"memberPrice": 2600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDEyMTc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/006992968a98747c4e9de8f58103f507150116.jpg",
+					"name": "酱骨架",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JGJ",
+					"pinyin": ["JIANGGUJIA"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjM=",
+						"price": 1400,
+						"memberPrice": 1400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzQ3MDUxMzk=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/fd600c2ec985f1db95f74af3e8f5c3c2169220.jpg",
+					"name": "蒜蓉通菜",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SRTC",
+					"pinyin": ["SUANRONGTONGCAI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMTIxMTAyOTc=",
+						"price": 1400,
+						"memberPrice": 1400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTY2MTU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/e37e8a1cc2d8c435961a55410dab5ce3128446.jpg",
+					"name": "梅菜扣肉",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "MCKR",
+					"pinyin": ["MEICAIKOUROU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMzQ=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjYwMzI5MTQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/71bbc1fa18510d3ff8da1aa2b10bf45e129489.jpg",
+					"name": "金汤肥牛",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JTFN",
+					"pinyin": ["JINTANGFEINIU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "麻辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM0ODE3ODM=",
+						"price": 2800,
+						"memberPrice": 2800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTM4MDY=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/2750250062ec2aff0b152c04a7495c4e147444.jpg",
+					"name": "柠檬酸菜鱼（黑鱼）",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "NMSCY（HY）",
+					"pinyin": ["NINGMENGSUANCAIYU（HEIYU）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "香辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjI=",
+						"price": 2800,
+						"memberPrice": 2800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTg0ODE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/cc81a1f687fad4b6eae8b84f91e4893e140071.jpg",
+					"name": "白灼生菜",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "BZSC",
+					"pinyin": ["BAIZHUOSHENGCAI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjQ=",
+						"price": 800,
+						"memberPrice": 800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTY2MTM=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/9ba2c615db35608aeaff47bdded0951c142608.jpg",
+					"name": "上汤豆苗",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "STDM",
+					"pinyin": ["SHANGTANGDOUMIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjU=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDYwNDI=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/89d868b62b2dd50ed74d77cf64d8c064110246.jpg",
+					"name": "小酥肉（番茄酱汁）",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "XSR（FQJZ）",
+					"pinyin": ["XIAOSUROU（FANQIEJIANGZHI）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjY=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTg0ODM=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/460fc9dd6a8c00dcbf1cd98b43da09ce280056.jpg",
+					"name": "酸菜肥肠",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SCFC",
+					"pinyin": ["SUANCAIFEICHANG"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "麻辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjk=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDIyMTg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/294fd9d72ced8daee376cd1c9f86c1f2146416.jpg",
+					"name": "干锅牛蛙",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "GGNW",
+					"pinyin": ["GANGUONIUWA"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "麻辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMzE=",
+						"price": 2800,
+						"memberPrice": 2800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDAyNTc=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/0591706214c68423acf6f8739aadd936162864.jpg",
+					"name": "水煮肉片",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SZRP",
+					"pinyin": ["SHUIZHUROUPIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "麻辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMzI=",
+						"price": 2600,
+						"memberPrice": 2600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDIyMTc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/88163c88b1f698a44ff969ddd7571bf7145358.jpg",
+					"name": "松仁玉米",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SRYM",
+					"pinyin": ["SONGRENYUMI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjc=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTU3ODU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/07be16df61d070f169e542281f317963224297.jpg",
+					"name": "毛血旺",
+					"type": "Dish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "MXW",
+					"pinyin": ["MAOXIEWANG"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["微辣", "麻辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMzM=",
+						"price": 2800,
+						"memberPrice": 2800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDAyNTg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/6e83c304bdba069e08b26fa1067a0817167993.jpg",
+					"name": "粉蒸肥肠",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "FZFC",
+					"pinyin": ["FENZHENGFEICHANG"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMzY=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDYwMzk=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/23e50b94679f6daa52c7ee0b08186ec5113135.jpg",
+					"name": "拔丝香蕉",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "BSXJ",
+					"pinyin": ["BASIXIANGJIAO"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjE=",
+						"price": 2800,
+						"memberPrice": 2800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDMxMzc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/2fd190532c75fe147c93bf7e88753caf461057.jpg",
+					"name": "拔丝红薯",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "BSHS",
+					"pinyin": ["BASIHONGSHU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkzMzU=",
+						"price": 2800,
+						"memberPrice": 2800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDMxNzc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/a830f2bec6c8ca480c7a10989e61e635127264.jpg",
+					"name": "白灼菜心",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "BZCX",
+					"pinyin": ["BAIZHUOCAIXIN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzk2Mjg=",
+						"price": 800,
+						"memberPrice": 800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDQxMjY=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/bde11c8eba11a179008d220b30b86dd0112528.jpg",
+					"name": "榄菜肉末豆腐",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "LCRMDF",
+					"pinyin": ["LANCAIROUMODOUFU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMzA=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDEyMjE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/a647725ffd44bd2b9c9f14c685f46cb7293639.jpg",
+					"name": "醋溜娃娃菜",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "CLWWC",
+					"pinyin": ["CULIUWAWACAI"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMjg=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDIyMTk=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/fab838d7792cacc54b9e6a2cc33dc83c161869.jpg",
+					"name": "干炸三样",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "GZSY",
+					"pinyin": ["GANZHASANYANG"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2NzkyMzU=",
+						"price": 3600,
+						"memberPrice": 3600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjg1MDc2NTE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/f306ba8106d3856445b9534241ece4fe154752.jpg",
+					"name": "干豆角红烧肉",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "GDJHSR",
+					"pinyin": ["GANDOUJIAOHONGSHAOROU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDU5Njk5NjI=",
+						"price": 3800,
+						"memberPrice": 3800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjYzOTQyODc=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/c9df5230f2dc007e2f8868b5eff6fe39149027.jpg",
+					"name": "酱护心肉",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JHXR",
+					"pinyin": ["JIANGHUXINROU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM4NTk2NjE=",
+						"price": 2600,
+						"memberPrice": 2600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjYzOTUxOTU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/2a42d8b7054a1802831a100dbe42773c143616.jpg",
+					"name": "火爆腰花",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HBYH",
+					"pinyin": ["HUOBAOYAOHUA"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM4NjAxMjE=",
+						"price": 3000,
+						"memberPrice": 3000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzMy",
+				"name": "面",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjg4MDQxMDc=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/648284f1c876cf629fb8a2ded5e87015169530.jpg",
+					"name": "炸酱面",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZJM",
+					"pinyin": ["ZHAJIANGMIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDYyNTA3NzA=",
+						"price": 1400,
+						"memberPrice": 1400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY2MTA5Njk=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/b9e374e44f7a5df74de777f57614d0da169203.jpg",
+					"name": "阳春面",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "YCM",
+					"pinyin": ["YANGCHUNMIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDQwOTQ0NzI=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjgxOTMzNzI=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/5e95f2ad05cebf238407f48226719e5a178808.jpg",
+					"name": "重庆小面",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "CQXM",
+					"pinyin": ["CHONGQINGXIAOMIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDU2NTk2MzM=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTQ5Mzg=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/1e533bc2390c93fb6b8eec74dbfdb5f6156514.jpg",
+					"name": "红烧牛肉面",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HSNRM",
+					"pinyin": ["HONGSHAONIUROUMIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2Nzk5OTk=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDEyNDQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/b63066152e879e3779bd14a7b241f17e141329.jpg",
+					"name": "酸菜肉丝面",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SCRSM",
+					"pinyin": ["SUANCAIROUSIMIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAwMDE=",
+						"price": 1400,
+						"memberPrice": 1400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTg1MDA=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/a5e11a7a4a5fdc2d6d0b184f072a64c0209950.jpg",
+					"name": "酸菜肥肠面",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SCFCM",
+					"pinyin": ["SUANCAIFEICHANGMIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAwMDM=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDQxNDE=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/af6d0baca296629049a3ebcba82ee712189910.jpg",
+					"name": "川味凉面",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "CWLM",
+					"pinyin": ["CHUANWEILIANGMIAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAwMDY=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjYzMjQxMTQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/8c86ea205c12b74909fe8df765c6129f147379.jpg",
+					"name": "柠檬酸菜鱼面（黑鱼）",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "NMSCYM（HY）",
+					"pinyin": ["NINGMENGSUANCAIYUMIAN（HEIYU）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM3OTMxMjM=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY0ODQwOTk=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/a6a0e95c647ac63ee0e58c54f05efbfb153548.jpg",
+					"name": "红烧牛肉粉",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HSNRF",
+					"pinyin": ["HONGSHAONIUROUFEN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM5NDM3NzM=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY0NzA5MTA=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/cec428db5ea6da6acf75e4a640a62390193325.jpg",
+					"name": "红烧肥肠粉",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HSFCF",
+					"pinyin": ["HONGSHAOFEICHANGFEN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM5NDM3ODk=",
+						"price": 1600,
+						"memberPrice": 1600,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY0NzA4MDU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/39ac4e6b1b555246409e080aed9ee05d141248.jpg",
+					"name": "酸菜肉丝粉",
+					"type": "Dish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SCRSF",
+					"pinyin": ["SUANCAIROUSIFEN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["不辣", "微辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM5NDM4MzA=",
+						"price": 1400,
+						"memberPrice": 1400,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjY0ODAxOTQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/edcf17593ec24d2fb7d5194e0a36d813193478.jpg",
+					"name": "川味凉面（粉）",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "CWLM（F）",
+					"pinyin": ["CHUANWEILIANGMIAN（FEN）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM5NDM4NTk=",
+						"price": 1200,
+						"memberPrice": 1200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzMz",
+				"name": "饭",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjUyMDMxNzQ=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/3794e8ec48cf9f10eb270a46d32431c8280292.jpg",
+					"name": "酸菜肥肠配饭",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "SCFCPF",
+					"pinyin": ["SUANCAIFEICHANGPEIFAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAxNDk=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTc1NTE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/fd02669300b7781ac6ad125292f4fc65147382.jpg",
+					"name": "柠檬酸菜鱼配饭（黑鱼）",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "NMSCYPF（HY）",
+					"pinyin": ["NINGMENGSUANCAIYUPEIFAN（HEIYU）"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAxNDU=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": [{
+						"id": "RGlzaFBhcnQ6MTI3MTMxNjEz",
+						"name": "黑鱼片",
+						"price": 1000
+					}]
+				}, {
+					"id": "RGlzaDoxMjUxOTY2NTc=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/4591fba7f39b622d8b954dd25fa143bd129622.jpg",
+					"name": "金汤肥牛配饭",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JTFNPF",
+					"pinyin": ["JINTANGFEINIUPEIFAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAxNDY=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUyMDUwNjU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/d4b9a864e16265176021b8d2ca3d8532128267.jpg",
+					"name": "红烧排骨配饭",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HSPGPF",
+					"pinyin": ["HONGSHAOPAIGUPEIFAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAxNDg=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjUxOTM4NDU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/5e04b18d8af251f43f69a55301ab5251300343.jpg",
+					"name": "红烧牛肉配饭",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HSNRPF",
+					"pinyin": ["HONGSHAONIUROUPEIFAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["不辣", "微辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAxNDc=",
+						"price": 2000,
+						"memberPrice": 2000,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMzA3ODA0NzE=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/28609dd84001109a8cdd5bfcb31020a0119169.jpg",
+					"name": "香菇滑鸡饭",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "XGHJF",
+					"pinyin": ["XIANGGUHUAJIFAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDgxODc1MzE=",
+						"price": 1800,
+						"memberPrice": 1800,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzM5",
+				"name": "粥",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjUyMDIzMDg=",
+					"imageUrl": "http://p1.meituan.net/erpbossapi/262133809de66b97edafdfd273c3d799137609.jpg",
+					"name": "金瓜小米粥",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JGXMZ",
+					"pinyin": ["JINGUAXIAOMIZHOU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDI2ODAzMDg=",
+						"price": 300,
+						"memberPrice": 300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NDY4MzM4",
+				"name": "汤品",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjU5NzkwNDM=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/a4bb8d52b30f0e56cf91a0c5b219e101112334.jpg",
+					"name": "紫菜蛋花汤",
+					"type": "SimpleDish",
+					"status": "UNAVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "ZCDHT",
+					"pinyin": ["ZICAIDANHUATANG"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM0MTg5ODc=",
+						"price": 300,
+						"memberPrice": 300,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}, {
+				"id": "TWVudTo4NTU5NzUw",
+				"name": "加料",
+				"type": 1,
+				"items": [{
+					"id": "RGlzaDoxMjYzMjMwNzU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/fde51bfd99f9cbc39fa4b049971f86a0300994.jpg",
+					"name": "红烧牛肉",
+					"type": "Dish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HSNR",
+					"pinyin": ["HONGSHAONIUROU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [{
+						"name": "辣度",
+						"values": ["不辣", "微辣"]
+					}],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM3OTEzNjA=",
+						"price": 1500,
+						"memberPrice": 1500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjYzMTc4MDM=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/6e8409e7ff8760b28245e0b28a10200d127646.jpg",
+					"name": "红烧排骨",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "HSPG",
+					"pinyin": ["HONGSHAOPAIGU"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDM3OTI3NTc=",
+						"price": 1500,
+						"memberPrice": 1500,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjU3ODU3NTU=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/086ab83534b94dda470feda085e35449113634.jpg",
+					"name": "米饭",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "MF",
+					"pinyin": ["MIFAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDMyMzgxMzA=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}, {
+					"id": "RGlzaDoxMjU3OTUxNjI=",
+					"imageUrl": "http://p0.meituan.net/erpbossapi/0e6f864c07178acb17bf8d07f450d6bf254771.jpg",
+					"name": "煎蛋",
+					"type": "SimpleDish",
+					"status": "AVAILABLE",
+					"least": 1,
+					"desc": "",
+					"code": "JD",
+					"pinyin": ["JIANDAN"],
+					"total": -1,
+					"canWeigh": false,
+					"attrs": [],
+					"skus": [{
+						"name": "份",
+						"id": "RGlzaFNrdToxMDMyMzgxOTg=",
+						"price": 200,
+						"memberPrice": 200,
+						"total": -1,
+						"campaign": null,
+						"campaignDesc": "",
+						"discountedPrice": null
+					}],
+					"parts": []
+				}]
+			}],
+			"recommends": [{
+				"id": "RGlzaDoxMjUxOTY0OTU="
+			}, {
+				"id": "RGlzaDoxMjUyMDEyMTc="
+			}, {
+				"id": "RGlzaDoxMjUxOTM4MDY="
+			}],
+			"hots": [],
+			"oftens": []
+		},
+		"reviewCount": {
+			"total": 0,
+			"avgRate": 0,
+			"positiveRate": 0
+		},
+		"user": {
+			"card": {
+				"id": "Q2FyZDo=",
+				"poiName": "老兵饺子",
+				"poiLogoUrl": "https://p0.meituan.net/erpbossapi/8e7212b3e9c391161cf646b823397f0e151355.jpg",
+				"backgroundColor": "#00c0ad",
+				"backgroundUrl": "https://p0.meituan.net/erpbossapi/58ed7595a12fc69462a9c66dec118ee370166.png",
+				"privilege": "注册会员即享会员专属优惠； 更多会员专享活动",
+				"usage": "每人限领一张（每个微信只能领取一张）会员卡仅限本人使用，会员会籍与卡内积分均不可使用与出借；请在结账时主动出示会员卡；请注意保护支付码，请勿截屏谨防偷拍；储值买单时，会按照充值顺序",
+				"name": "普通会员",
+				"num": null,
+				"point": 0,
+				"balance": 0,
+				"title": "开通会员享优惠",
+				"canActivation": true
+			}
+		}
+	}
 }

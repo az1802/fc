@@ -16,7 +16,7 @@ let goodsList = requestMenuJson.respData.goodsList;
 let categoryList = categoryJson.respData.goodsGroupDTOList;
 
 let shopInfo = {
-  name: '旺客基',
+  name: '深圳车公庙店',
   logo: '',
 };
 

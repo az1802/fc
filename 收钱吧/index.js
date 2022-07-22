@@ -10,19 +10,22 @@ const defaultImgUrl = ""
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
-const findJsonLen = 1
+const findJsonLen = 3
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格" ],//规格
   practice: [
+    "红烧肥肠面/粉",
     "辣度",
     "口味",
-    "份量"
+    "份量",
+
   ],//做法
   feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
+    "红烧肥肠面/粉",
   	"辣度",
 	"口味",
   "加料",
@@ -113,7 +116,7 @@ function formatFoodProps(foodDetail) {
 
 
 //读取dataJson下的所有文件取出 food菜品
-async function genMenuFoods() { 
+async function genMenuFoods() {
   let allFoods = [];
 
   for (let i = 0; i < merchantInfo.goods.pages[0].length; i++) {
@@ -121,7 +124,7 @@ async function genMenuFoods() {
       allFoods.push(...categoryTemp.items)
   }
 
-  for (let i = 0; i < findJsonLen; i++) { 
+  for (let i = 0; i < findJsonLen; i++) {
     let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
     let categories= JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods
     categories.forEach((categoryItem) => {
@@ -148,7 +151,7 @@ async function genMenuFoods() {
         foods: []
       }
     }
-    
+
     let categoryFoods = categoryMap[categoryName].foods;
     categoryFoods.push({
       name:foodInfo.name.trim().replace(/\//ig, '-') || "",
@@ -164,16 +167,16 @@ async function genMenuFoods() {
 
 let propsGroupArr = [];
 // 打印日志到test.json 文件夹
-async function logInfo(info,fileName="test") { 
+async function logInfo(info,fileName="test") {
   fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
 }
 
-async function mkShopDir(shopDir) { 
+async function mkShopDir(shopDir) {
   delDirSync(shopDir);
   mkdirSync(shopDir)
 }
 
-async function genExcelAndWord(){ 
+async function genExcelAndWord(){
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
@@ -188,7 +191,7 @@ async function genExcelAndWord(){
 
   logInfo(merchantInfo,"merchantRes")
   logInfo(propsGroupArr, "allPropGroups")
-  
+
   if (exportMode == "keruyun") {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir, menuSetting);

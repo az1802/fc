@@ -1,13 +1,14 @@
 const fs = require('fs');
 const path = require('path');
-const requestMenuJson = require('./merchantInfo.js');
+const requestMenuJson = require('./merchantInfo.json').data;
 let merchantMenuInfo = requestMenuJson;
 
 let shopInfo = {
-  name: 'CUCU炸鸡汉堡',
+  name: '湖南饭常德粉',
   logo: '',
 };
-let categoryList = merchantMenuInfo.food_spu_tags;
+let categoryList = merchantMenuInfo.categoryList;
+let dishList = merchantMenuInfo.dishList
 
 const {
   requestUrl,
@@ -30,9 +31,8 @@ let menuSetting = {
   //到处的菜品属性归为规格,备注,加料,做法
   specifications: [], //规格
   practice: [
-    "份量",
-    "烧烤味",
-    "蜜糖",
+    "辣度",
+    "温度"
 
 
 
@@ -42,9 +42,8 @@ let menuSetting = {
   propsGroupSort: [
 
 
-    "份量",
-    "烧烤味",
-    "蜜糖",
+  	"辣度",
+	"温度"
   ],
   propsSort: {},
 };
@@ -79,17 +78,17 @@ let propsGroupArr = [];
  * }
  */
 function formatFoodProps(foodItem) {
-  let { attrs = [] } = foodItem;
+  let { skuList=[],tasteList = [] } = foodItem;
   let propsRes = [];
 
-  attrs.forEach((attrGroupItem) => {
+  tasteList.forEach((attrGroupItem) => {
     let groupTemp = {
-      name: attrGroupItem.name,
-      values: attrGroupItem.values.map((item) => {
+      name: attrGroupItem.group.name,
+      values: attrGroupItem.attrValues.map((item) => {
         return {
-          value: item.value,
+          value: item.name,
           price: 0,
-          propName: attrGroupItem.name,
+          propName: attrGroupItem.group.name,
           isMul: true,
         };
       }),
@@ -119,28 +118,18 @@ async function handleRequestData(requestMenuData) {
         foods: [],
       };
       categoryData.name = categoryItem.name;
-      categoryData.foods =
-        (categoryItem.spus &&
-          categoryItem.spus.reduce((res, goodItem) => {
-            if (goodItem) {
-              let foodData = {
-                name: goodItem.name || '',
-                picUrl: goodItem.picture || '',
-                price: goodItem.min_price || '',
-                unit: '份',
-                categoryName: categoryData.name,
-                props: [],
-              };
-              goodItem.categoryName = categoryData.name;
-              foodData.name =
-                (foodData.name.replace && foodData.name.replace(/\//gi, '-')) ||
-                foodData.name;
-              foodData.props = formatFoodProps(goodItem);
-              res.push(foodData);
-            }
-            return res;
-          }, [])) ||
-        [];
+      categoryData.foods = dishList.filter(item=>{
+        return categoryItem.id == item.categoryId;
+      }).map((dishItem)=>{
+        return {
+          name: dishItem.name,
+          picUrl: dishItem.detailImgUrls&&dishItem.detailImgUrls[0] || dishItem.img || "",
+          price: parseFloat(dishItem.skuList[0].price || 0)/100 || "",
+          unit: dishItem.unit || "份",
+          categoryName: categoryData.name,
+          props: formatFoodProps(dishItem),
+        }
+      })
       return categoryData;
     });
 

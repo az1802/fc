@@ -5,5 +5,5 @@
  * @LastEditTime: 2021-07-20 13:29:16
  * @FilePath: /dish_crawler/客如云(weixin.keruyun)/README.md
 -->
-https://weixin.keruyun.com/orderall/dishAll.json?shopId=810690833   所有的菜品数据都在此接口中
+https://weixin.keruyun.com/orderall/dishAll.json?shopId=870544662   所有的菜品数据都在此接口中
 商户信息直接在index.js脚本中更改shopInfo

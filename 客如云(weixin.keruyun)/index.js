@@ -5,13 +5,25 @@ const requestMenuJson = require("./merchantInfo.json");
 let merchantMenuInfo = requestMenuJson.data;
 
 let shopInfo = {
-  name: "挑嘴巴重庆米粉",
+  name: "成都牛肉面",
   logo: ""
 }
 let categoryList = merchantMenuInfo.dishTypeList
 let foodList = merchantMenuInfo.dishList
-
-const { requestUrl, genImgs, genExcel, genExcelAll, genFeieExcelAll, genWord, genSpecificationsWord, formatFileName, delDirSync, mkdirSync, addPropsGroupArr } = require("../utils/index")
+const {
+  requestUrl,
+  genImgs,
+  genExcel,
+  genExcelAll,
+  genWord,
+  genSpecificationsWord,
+  formatFileName,
+  delDirSync,
+  mkdirSync,
+  addPropsGroupArr,
+  genFeieExcelAll,
+  genExportData,
+} = require('../utils/index');
 
 
 // const exportMode = "keruyun"
@@ -20,32 +32,18 @@ const exportMode = "feie"
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications: [],//默认存在规格属性
   practice: [
-    "配料",
-    "微辣",
-    "辣",
-    "辣：",
-    "粉类",
-    "打",
-    "干",
-    "软硬",
-    "备注",
-    "默认",
-    null
+  	"辣度",
+	"粉",
+	"加料",
+	"规格"
   ],//做法
   feeding: [],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "配料",
-    "微辣",
-    "辣",
-    "辣：",
-    "粉类",
-    "打",
-    "干",
-    "软硬",
-    "备注",
-    "默认",
-    null
+    "辣度",
+    "粉",
+    "加料",
+    "规格"
   ],
   propsSort: {
   }
@@ -174,26 +172,21 @@ async function mkShopDir(shopDir) {
 // 生成图片文件夹以及excel文件
 async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
-  await logInfo(merchantInfo, "merchantRes")
-  await logInfo(propsGroupArr, "propsGroupArr")
+  await logInfo(merchantInfo, 'merchantRes');
+  await logInfo(propsGroupArr, 'propsGroupArr');
 
   // return;
-  let { shopName } = merchantInfo
+  let { shopName } = merchantInfo;
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
-  await mkShopDir(shopDir)
+  await mkShopDir(shopDir);
 
-  // // mkShopDir(merchantInfo)
-  if (exportMode == "keruyun") {
-    genImgs(merchantInfo, outputDir);
-    genExcel(merchantInfo, outputDir);
-    genExcelAll(merchantInfo, outputDir, menuSetting)
-  } else {
-    // genWord(merchantInfo, outputDir)
-    // genSpecificationsWord(merchantInfo, outputDir, menuSetting)
-    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
-  }
+  genExportData({
+    merchantInfo,
+    menuSetting,
+    outputDir,
+    exportMode,
+  });
 }
-
 
 genImgsAndExcel();

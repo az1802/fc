@@ -15,9 +15,11 @@ const { requestUrl, genImgs, genExcel, genExcelAll, genWord, genSpecificationsWo
 
 
 let merchantAllData =  require("./merchantInfo.json");
+
+
 merchantAllData = merchantAllData.data.resultMap.menu.itemGroups;
 let requestShopData = {
-  shopName: "鱼掌堂酸菜鱼（岗顶店",
+  shopName: "西域风烧烤主题餐厅",
   logoUrl:""
 }
 let requestMenuData = merchantAllData

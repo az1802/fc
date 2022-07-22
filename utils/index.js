@@ -19,8 +19,8 @@ async function sleep() {
 
 
 //获取filePath路径下的文件
-async function getFileJson(filePath){ 
-  if (fs.existsSync(filePath)) { 
+async function getFileJson(filePath){
+  if (fs.existsSync(filePath)) {
     let menuJson = fs.readFileSync(filePath, "utf-8");
     menuJson = JSON.parse(menuJson)
     return menuJson
@@ -29,11 +29,11 @@ async function getFileJson(filePath){
 }
 
 // 请求url数据信息
-async function requestUrl(url,) { 
+async function requestUrl(url,) {
   return new Promise((resolve, reject) => {
     request.get({
       url: url,
-    }, (err, res, body) => { 
+    }, (err, res, body) => {
         resolve(err ? {} : JSON.parse(body))
     })
   })
@@ -61,7 +61,7 @@ async function delDirSync(path) {
 
 // 创建目录
 function mkdirSync(path) {
-  if (!fs.existsSync(path)) { 
+  if (!fs.existsSync(path)) {
     fs.mkdirSync(path);
   }
 }
@@ -79,37 +79,37 @@ async function logInfo(info, dirName, fileName = "merchantRes") {
 }
 
 // 格式化文件名称
-function formatFileName(name) { 
+function formatFileName(name) {
   if(name){
     return name.replace(/\//ig, "-")
   }
 }
 
 // 生成图片
-async function genImgs(merchantInfo,outputDir) { 
+async function genImgs(merchantInfo,outputDir) {
   let { categories, shopName, shop_pic } = merchantInfo;
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let foodsImgsDir = path.join(shopDir, "imgs");
   let noImgUrls = []
   mkdirSync(foodsImgsDir)
-  // 生成菜品图片文件夹 
-  categories.forEach((categoryItem) => { 
+  // 生成菜品图片文件夹
+  categories.forEach((categoryItem) => {
     let categoryDir = foodsImgsDir;
 
     let foods = categoryItem.foods
     foods.forEach(foodItem => {
       let imgUrl = foodItem.picUrl;
-     
+
       let imgName = formatFileName(foodItem.name) + ".jpg"
       if (imgUrl) {
         try {
           request(imgUrl).pipe(fs.createWriteStream(path.join(categoryDir, foodItem.name.trim())))
-          
-        } catch (err) { 
+
+        } catch (err) {
           noImgUrls.push(imgName)
           console.log(imgName,"下载错误")
         }
-      } else { 
+      } else {
         noImgUrls.push(imgName)
       }
     })
@@ -118,19 +118,19 @@ async function genImgs(merchantInfo,outputDir) {
 }
 
 // 生成表格
-async function genExcel(merchantInfo, outputDir) { 
+async function genExcel(merchantInfo, outputDir) {
   let { categories, shopName } = merchantInfo;
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let title = ["商品名称","一级分类","二级分类","标准单位","品牌定价"];
-  
+
   let excelData = [[]]
-  categories.forEach(categoryItem => { 
-    categoryItem.foods.forEach(foodItem => { 
+  categories.forEach(categoryItem => {
+    categoryItem.foods.forEach(foodItem => {
       let excelDataTemp = [foodItem.name,"默认",foodItem.categoryName,foodItem.unit,parseFloat(foodItem.price || 0).toFixed(2)]
-      foodItem.props.length ==0 ? excelData.unshift(excelDataTemp) :excelData.push(excelDataTemp) 
+      foodItem.props.length ==0 ? excelData.unshift(excelDataTemp) :excelData.push(excelDataTemp)
     })
   })
-    
+
   let buffer = xlsx.build([
     {
         name:'sheet1',
@@ -143,14 +143,14 @@ async function genExcel(merchantInfo, outputDir) {
 
 
 // 飞蛾模式的菜品excel导出
-async function genExcelAll(merchantInfo, outputDir,menuSetting) { 
+async function genExcelAll(merchantInfo, outputDir,menuSetting) {
   let { categories, shopName } = merchantInfo;
 
 
 
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let title = ["商品名称","一级分类","二级分类","标准单位","规格类别","规格","品牌定价","做法类别","做法","加料","备注"];
-  
+
   let excelData = [[]];
   let allPropObj = {};
 
@@ -202,12 +202,12 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
           }
         }
       })
-      
+
       foodPracticeType = foodPracticeType.join(",");
       foodPractice = foodPractice.join(",");
       foodFeeding = foodFeeding.join(",");
       foodRemarks = foodRemarks.join(",");
-      
+
       let foodExcelData = [
         foodName,
         foodDefaultCategory,
@@ -221,8 +221,8 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
           foodFeeding,
           foodRemarks,
         ]
-  
-      
+
+
       if (foodSpecificationType) {  //存在规格菜添加多个属性
         foodSpecification.forEach(foodSpecificationItem => {
           let tempExcelData = JSON.parse(JSON.stringify(foodExcelData));
@@ -230,16 +230,16 @@ async function genExcelAll(merchantInfo, outputDir,menuSetting) {
           tempExcelData[5] = foodSpecificationItem.value;
           excelData.push(tempExcelData)
         })
-      } else { 
+      } else {
         foodItem.props.length == 0 ? excelData.unshift(foodExcelData) :  excelData.push(foodExcelData)
       }
-      
+
 
 
 
     })
   })
-    
+
   let buffer = xlsx.build([
     {
         name:'sheet1',
@@ -269,12 +269,12 @@ async function handelFoodItemImg(foodItem,shopDir,ext = 'jpg' ){
       ext = matchRes&&matchRes[1] || ".jpg";
     }
 
-    // ext= ".jpg" 
+    // ext= ".jpg"
     // ext=".jpeg"
     // ext = ".png"
     // if (bigImage) {//阿里云模式下下载大图
     //   url = url.slice(0, -3) + "2048";a
-    // } 
+    // }
     try {
       console.log(url,ext,imgName);
       // let res = await request(encodeURI(url)).pipe(fs.createWriteStream(path.join(shopDir, "imgs", String(imgName) + ext)))
@@ -290,15 +290,15 @@ async function handelFoodItemImg(foodItem,shopDir,ext = 'jpg' ){
       // noImgUrls[imgName] = foodItem.name
       console.log("保存图片错误1111----",imgName)
     }
-  } else { 
+  } else {
     // noImgUrls[imgName] = foodItem.name
   }
 }
 
-// 生成飞蛾模式的excel 
-async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) { 
+// 生成飞蛾模式的excel
+async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
   let { categories, shopName } = merchantInfo;
-  let { propsGroupSort} = menuSetting 
+  let { propsGroupSort} = menuSetting
   let shopDir = path.join(outputDir, formatFileName(shopName));
   let title = ["商品名称","菜品分类","标准单位","规格类别","规格","价格","做法类别","做法","加料"];
   let foodsImgsDir = path.join(shopDir, "imgs");
@@ -313,7 +313,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     for (let i = 0; i < categoryItem.foods.length ;i++) {
       await handelFoodItemImg(categoryItem.foods[i],shopDir)
       // await sleep(2000)
-      
+
     }
   }
 
@@ -327,7 +327,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 //     for (let i = 0; i < categoryItem.foods.length ;i++) {
 //       await handelFoodItemImg(categoryItem.foods[i],shopDir)
 //       await sleep(8000)
-      
+
 //     }
 //     // categoryItem.foods.forEach()
 //   })
@@ -336,7 +336,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
 
   // 调整属性组的顺序
   categories.forEach(categoryItem => {
-    if (!categoryItem) { 
+    if (!categoryItem) {
       return;
     }
     categoryItem.foods.forEach(foodItem => {
@@ -345,7 +345,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
   })
 
 
-  
+
   let allPropItemsSort = {} //存放所有属性组内部属性的相对排序
   // 采用插入排序获取所有属性组内部属性的相对顺序,然后放在表格第一位保持顺序的一致
   categories.forEach(categoryItem => {
@@ -357,7 +357,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         if (!allPropItemsSort[propItem.name]) {
           allPropItemsSort[propItem.name] = propItem.values.map(i => { return i.price&&i.price != 0 ? `${i.value}:${i.price}` : `${i.value}` });
         } else {
-          
+
           let oldSort = allPropItemsSort[propItem.name],appendIndex=0;
           propItem.values.forEach(i => {
             let str = i.price != 0 ? `${i.value}:${i.price}` : `${i.value}`;
@@ -382,7 +382,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     foodPracticeType:[],
     foodPractice: [],
     foodFeeding:""
-    
+
   }
 
   for (propGroupName in allPropItemsSort) {
@@ -390,7 +390,8 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
     // 根据菜单配置生成不同属性组内部的属性
     for (key in menuSetting) {
       let val = menuSetting[key]
-      if (val.indexOf(propGroupName) != -1) {
+      console.log('val: ', val);
+      if (Array.isArray(val)&&val.indexOf(propGroupName) != -1) {
         if (key == "specifications") {//此属性值处理为规格
           propSortData.foodSpecificationType = propGroupName;
           propSortData.foodSpecification = propItemNames.join("/");
@@ -404,7 +405,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
       }
     }
   }
-  
+
 
   let propGroupSortArr = new Array(propsGroupSort.length),propsSortArr = new Array(propsGroupSort.length);
   if (propsGroupSort && propsGroupSort.length > 0) {
@@ -458,7 +459,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
               foodSpecification = propVales.map(i => {
                 return i.price !=0 ? `${i.value}:${i.price}` : `${i.value}`
               }).join("/")
-              
+
             } else if (key == "practice") {//处理做法
 
               foodPracticeType.push(propItemName);
@@ -471,7 +472,7 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
                 if (i.value.indexOf("/")!=-1) {
                   console.error(`${i.propName}组--${i.value}--包含 / 非法字符`);
                   return;
-                } 
+                }
                 return i.price !=0 ? `${i.value}:${i.price}` : `${i.value}`
               })
             }
@@ -479,11 +480,11 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
           }
         }
       })
-      
+
       foodPracticeType = foodPracticeType.join(",");
       foodPractice = foodPractice.join(",");
       foodFeeding = foodFeeding.join("/");
-      
+
       let foodExcelData = [
         foodName,
         foodCategoryName,
@@ -495,14 +496,14 @@ async function genFeieExcelAll(merchantInfo, outputDir,menuSetting) {
         foodPractice,
         foodFeeding,
         ]
-      
+
       // foodItem.props.length == 0 ? excelData.unshift(foodExcelData) :  excelData.push(foodExcelData)
-      excelData.push(foodExcelData) 
+      excelData.push(foodExcelData)
     })
   })
 
   excelData.unshift(Object.values(propSortData))
-    
+
   let buffer = xlsx.build([
     {
         name:'sheet1',
@@ -523,10 +524,10 @@ let menuSettingDefault = { //到处的菜品属性归为规格,备注,加料,做
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    
+
   ],
   propsSort: {
-   
+
   }
 }
 
@@ -537,19 +538,19 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
   let props = foodItem.props;
   for (let k = 0; k < props.length; k++) {
     let propName = props[k].name,propVals = props[k].values
-    if (propsGroupArr.indexOf(propName)==-1) { 
+    if (propsGroupArr.indexOf(propName)==-1) {
       propsGroupArr.push(propName);
     }
-    
+
     if (propsSort&&propsSort[propName]) { //具体某个属性组具体的排序
       let propNameSort = propsSort[propName]
       let tempPropsSort = new Array(propNameSort.length)
       let propValues = propVals;
-      for (let i = 0; i < propValues.length;i++) { 
+      for (let i = 0; i < propValues.length;i++) {
         let propIndex = propNameSort.indexOf(propValues[i].value);//属性不在排序数组里
         if (propIndex == -1) {
           console.error(`${propName}属性排序错误`)
-        } else { 
+        } else {
           tempPropsSort[propIndex] = propValues[i];
         }
       }
@@ -558,17 +559,17 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
     }
   }
 
-  //处理属性组的顺序  
+  //处理属性组的顺序
   let tempPropsGroup = new Array(propsGroupSort.length)
-  for (let i = 0; i < props.length;i++) { 
+  for (let i = 0; i < props.length;i++) {
     let groupIndex = propsGroupSort.indexOf(props[i].name);
     if (groupIndex == -1) {
       console.error(`${props[i].name}不在所有的属性组中---${foodItem.name}`)
-    } else { 
+    } else {
       tempPropsGroup[groupIndex] = props[i];
     }
   }
-  tempPropsGroup = tempPropsGroup.filter(item => { 
+  tempPropsGroup = tempPropsGroup.filter(item => {
     return !!item
   })
   foodItem.props = tempPropsGroup;
@@ -578,7 +579,7 @@ async function handleFoodProps(foodItem, menuSetting = menuSettingDefault) {
 function addPropsGroupArr(propsGroupArr,name) {
   if (propsGroupArr.indexOf(name) == -1) {
     propsGroupArr.push(name)
-  } 
+  }
 }
 
 function genExportData({

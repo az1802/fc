@@ -1,134 +1,78 @@
 {
-	"shopName": "羊悦盛羊肉粉（龙华民治店）",
+	"shopName": "杨记卤肉饭",
 	"shop_pic": "",
 	"categories": [
 		{
 			"name": "热销",
 			"foods": [
 				{
-					"name": "羊肉粉-面",
-					"picUrl": "https://p0.meituan.net/rmscashier/fa6e546f5a5e2a2da51d758c3af912ea157321.jpg",
-					"price": 17,
+					"name": "招牌卤肉饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/dcd868446ddc3f410657a20c7a56fd1f75879.jpg",
+					"price": 18,
 					"unit": "份",
 					"categoryName": "热销",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 17,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"props": []
 				},
 				{
-					"name": "羊杂粉-面",
-					"picUrl": "https://p0.meituan.net/rmscashier/473d43d8f3061ee15b13fd0281fa9aa7158796.jpg",
-					"price": 17,
+					"name": "双拼饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/ad2d57a2cc3e1f2ccc2f91796498e4fd85723.jpg",
+					"price": 22,
 					"unit": "份",
 					"categoryName": "热销",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 17,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"props": []
 				},
 				{
-					"name": "招牌双拼粉-面",
-					"picUrl": "https://p1.meituan.net/rmscashier/fecc99d00631ef7ef9bdb0bbe8ed8d68147068.jpg",
-					"price": 20,
+					"name": "招牌猪肘饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/9cc490bcb53c79006d508ab48d716db996238.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "招牌烤鸭饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/71617f914f796caacf6e4dc4923cd83730831.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "招牌五花肉饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/57eadc958f8ebaf61b602307c4104e7546089.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "卤蛋",
+					"picUrl": "https://p0.meituan.net/rmscashier/39c035f47bfed17644179a787797c65239568.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "猪耳饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/2a8d722bc7fa3fa85e90a568f1954b7a91109.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "鸡腿",
+					"picUrl": "https://p1.meituan.net/rmscashier/bb64861f1bb7f4e1aae9415eb2e6527b66195.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "肥肠饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/a69a3e1b01e3a97fe48f6c266777a66534773.jpg",
+					"price": 22,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": [
@@ -136,132 +80,104 @@
 							"name": "规格",
 							"values": [
 								{
-									"value": "小",
-									"price": 20,
+									"value": "标准",
+									"price": 22,
 									"propName": "规格",
 									"isMul": false
 								},
 								{
-									"value": "大",
-									"price": 30,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "中",
+									"value": "双拼",
 									"price": 25,
 									"propName": "规格",
 									"isMul": false
 								}
 							]
-						},
+						}
+					]
+				},
+				{
+					"name": "鸡肉饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/40453680cf2c372c4272bd3fa28fa09c28676.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "鸭腿",
+					"picUrl": "https://p0.meituan.net/rmscashier/477776361e83d00ca32291e423f0d6d858712.jpg",
+					"price": 9,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "香肠饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/e79dbcadd6c143931523754bef652b8743510.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": []
+				},
+				{
+					"name": "猪肚饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/1755502d6ac3df0e89c1e9bcd11be21738155.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "热销",
+					"props": [
 						{
-							"name": "粉/面",
+							"name": "规格",
 							"values": [
 								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
+									"value": "标准",
+									"price": 22,
+									"propName": "规格",
+									"isMul": false
 								},
 								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
+									"value": "双拼",
+									"price": 25,
+									"propName": "规格",
+									"isMul": false
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "煎蛋",
-					"picUrl": "https://p0.meituan.net/rmscashier/f55ca63c3a538b02cdf22d7c2b8b1a1f25226.jpg",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "白馍",
-					"picUrl": "http://p0.meituan.net/rmscashier/1f5d40338762f6127a558de8d45457d899670.jpg",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "羊腰",
-					"picUrl": "https://p0.meituan.net/rmscashier/811d7dae42bb696c6005e984a33f8797120654.jpg",
-					"price": 10,
+					"name": "鸭腿饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/cfba247eaade202d31bae0d3bf19c50037699.jpg",
+					"price": 18,
 					"unit": "份",
 					"categoryName": "热销",
 					"props": []
 				},
 				{
-					"name": "羊蹄",
-					"picUrl": "https://p0.meituan.net/rmscashier/0fc408fb0f487d05012a7f30111dedbb67803.jpg",
-					"price": 15,
-					"unit": "个",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "羊脑",
-					"picUrl": "https://p1.meituan.net/rmscashier/b5aa5848b9220b5a5bddbc3d678c024f111416.jpg",
-					"price": 12,
+					"name": "卤肉拼盘",
+					"picUrl": "https://p0.meituan.net/rmscashier/69292d2328b87250ec9ffaaa81005bf952206.jpg",
+					"price": 28,
 					"unit": "份",
 					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "羊心",
-					"picUrl": "https://p0.meituan.net/rmscashier/a9e00e299ec6746d3a44850d5123253494243.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "羊肉",
-					"picUrl": "https://p0.meituan.net/rmscashier/b2f69cfecf788288ff1817e9e59e60c4178003.jpg",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "香辣羊肉",
-					"picUrl": "https://p0.meituan.net/rmscashier/96fd2160c96ecd5ebae759f56b3b0d5f123058.jpg",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
-				},
-				{
-					"name": "香辣羊杂",
-					"picUrl": "https://p1.meituan.net/rmscashier/b11ff25397806dc403f1992ffd8f61e6120185.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "热销",
-					"props": []
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 28,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 38,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
 				}
 			]
 		},
@@ -270,498 +186,104 @@
 			"foods": []
 		},
 		{
-			"name": "招牌双拼",
+			"name": "招牌",
 			"foods": [
 				{
-					"name": "招牌双拼粉-面",
-					"picUrl": "https://p1.meituan.net/rmscashier/fecc99d00631ef7ef9bdb0bbe8ed8d68147068.jpg",
-					"price": 20,
+					"name": "招牌卤肉饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/dcd868446ddc3f410657a20c7a56fd1f75879.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "招牌双拼",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 30,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "中",
-									"price": 25,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
+					"categoryName": "招牌",
+					"props": []
+				},
+				{
+					"name": "招牌五花肉饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/57eadc958f8ebaf61b602307c4104e7546089.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "招牌",
+					"props": []
+				},
+				{
+					"name": "招牌猪肘饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/9cc490bcb53c79006d508ab48d716db996238.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "招牌",
+					"props": []
+				},
+				{
+					"name": "招牌烤鸭饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/71617f914f796caacf6e4dc4923cd83730831.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "招牌",
+					"props": []
+				},
+				{
+					"name": "双拼饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/ad2d57a2cc3e1f2ccc2f91796498e4fd85723.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "招牌",
+					"props": []
+				},
+				{
+					"name": "豪华双拼饭",
+					"picUrl": "",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "招牌",
+					"props": []
 				}
 			]
 		},
 		{
-			"name": "羊肉粉面",
+			"name": "经典套饭",
 			"foods": [
 				{
-					"name": "羊肉粉-面",
-					"picUrl": "https://p0.meituan.net/rmscashier/fa6e546f5a5e2a2da51d758c3af912ea157321.jpg",
-					"price": 17,
+					"name": "鸭腿饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/cfba247eaade202d31bae0d3bf19c50037699.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 17,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊杂粉-面",
-					"picUrl": "https://p0.meituan.net/rmscashier/473d43d8f3061ee15b13fd0281fa9aa7158796.jpg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 17,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊排粉-面",
-					"picUrl": "",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 30,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊血粉-面",
-					"picUrl": "",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊心粉-面",
-					"picUrl": "",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊腰粉-面",
-					"picUrl": "",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊肚粉-面",
-					"picUrl": "",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "干拌或者汤粉",
-							"values": [
-								{
-									"value": "带汤",
-									"price": 0,
-									"propName": "干拌或者汤粉",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白馍",
-					"picUrl": "http://p0.meituan.net/rmscashier/1f5d40338762f6127a558de8d45457d899670.jpg",
-					"price": 3,
-					"unit": "个",
-					"categoryName": "羊肉粉面",
+					"categoryName": "经典套饭",
 					"props": []
 				},
 				{
-					"name": "羊蹄粉-面",
-					"picUrl": "",
-					"price": 20,
+					"name": "鸡肉饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/40453680cf2c372c4272bd3fa28fa09c28676.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "素粉",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
+					"categoryName": "经典套饭",
 					"props": []
 				},
 				{
-					"name": "羊杂汤",
-					"picUrl": "",
-					"price": 17,
+					"name": "香肠饭",
+					"picUrl": "https://p1.meituan.net/rmscashier/e79dbcadd6c143931523754bef652b8743510.jpg",
+					"price": 18,
 					"unit": "份",
-					"categoryName": "羊肉粉面",
+					"categoryName": "经典套饭",
+					"props": []
+				},
+				{
+					"name": "肥肠饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/a69a3e1b01e3a97fe48f6c266777a66534773.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "经典套饭",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
 									"value": "标准",
-									"price": 17,
+									"price": 22,
 									"propName": "规格",
 									"isMul": false
 								},
 								{
-									"value": "大",
-									"price": 20,
+									"value": "双拼",
+									"price": 25,
 									"propName": "规格",
 									"isMul": false
 								}
@@ -770,24 +292,24 @@
 					]
 				},
 				{
-					"name": "羊肉汤",
-					"picUrl": "",
-					"price": 17,
+					"name": "猪肚饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/1755502d6ac3df0e89c1e9bcd11be21738155.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "羊肉粉面",
+					"categoryName": "经典套饭",
 					"props": [
 						{
 							"name": "规格",
 							"values": [
 								{
-									"value": "小",
-									"price": 17,
+									"value": "标准",
+									"price": 22,
 									"propName": "规格",
 									"isMul": false
 								},
 								{
-									"value": "大",
-									"price": 20,
+									"value": "双拼",
+									"price": 25,
 									"propName": "规格",
 									"isMul": false
 								}
@@ -796,577 +318,108 @@
 					]
 				},
 				{
-					"name": "羊肉酱拌粉-面",
-					"picUrl": "",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 17,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊杂酱拌粉-面",
-					"picUrl": "",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小",
-									"price": 17,
-									"propName": "规格",
-									"isMul": false
-								},
-								{
-									"value": "大",
-									"price": 20,
-									"propName": "规格",
-									"isMul": false
-								}
-							]
-						},
-						{
-							"name": "粉/面",
-							"values": [
-								{
-									"value": "面",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "河粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								},
-								{
-									"value": "米粉",
-									"price": 0,
-									"propName": "粉/面",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "羊肉水饺",
-					"picUrl": "",
+					"name": "猪耳饭",
+					"picUrl": "https://p0.meituan.net/rmscashier/2a8d722bc7fa3fa85e90a568f1954b7a91109.jpg",
 					"price": 18,
 					"unit": "份",
-					"categoryName": "羊肉粉面",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "单点类",
-			"foods": [
-				{
-					"name": "羊后腿",
-					"picUrl": "https://p1.meituan.net/rmscashier/35d2159eee3e4a04ced7406acaeeacf9124028.jpg",
-					"price": 55,
-					"unit": "个",
-					"categoryName": "单点类",
+					"categoryName": "经典套饭",
 					"props": []
 				},
 				{
-					"name": "羊前腿",
-					"picUrl": "",
-					"price": 35,
-					"unit": "个",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊杂拼盘",
-					"picUrl": "",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊肉",
-					"picUrl": "https://p0.meituan.net/rmscashier/b2f69cfecf788288ff1817e9e59e60c4178003.jpg",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊排",
-					"picUrl": "",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊鞭",
+					"name": "麻辣鸡",
 					"picUrl": "",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊百叶",
-					"picUrl": "",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊舌头",
-					"picUrl": "",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊蹄",
-					"picUrl": "https://p0.meituan.net/rmscashier/0fc408fb0f487d05012a7f30111dedbb67803.jpg",
-					"price": 15,
-					"unit": "个",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊肚",
-					"picUrl": "",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊脑",
-					"picUrl": "https://p1.meituan.net/rmscashier/b5aa5848b9220b5a5bddbc3d678c024f111416.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊腰",
-					"picUrl": "https://p0.meituan.net/rmscashier/811d7dae42bb696c6005e984a33f8797120654.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊心",
-					"picUrl": "https://p0.meituan.net/rmscashier/a9e00e299ec6746d3a44850d5123253494243.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊血",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "羊肥肠",
-					"picUrl": "",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "煎蛋",
-					"picUrl": "https://p0.meituan.net/rmscashier/f55ca63c3a538b02cdf22d7c2b8b1a1f25226.jpg",
-					"price": 2,
-					"unit": "个",
-					"categoryName": "单点类",
-					"props": []
-				},
-				{
-					"name": "特价羊后腿",
-					"picUrl": "http://p1.meituan.net/rmscashier/0af9d6b92c7046318285be05c48b396a115897.jpg",
-					"price": 49.9,
-					"unit": "份",
-					"categoryName": "单点类",
+					"categoryName": "经典套饭",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "香辣单点",
+			"name": "其他",
 			"foods": [
 				{
-					"name": "香辣羊后腿",
-					"picUrl": "",
-					"price": 58,
-					"unit": "个",
-					"categoryName": "香辣单点",
-					"props": []
-				},
-				{
-					"name": "香辣羊前腿",
-					"picUrl": "",
-					"price": 38,
-					"unit": "个",
-					"categoryName": "香辣单点",
-					"props": []
-				},
-				{
-					"name": "香辣羊肉",
-					"picUrl": "https://p0.meituan.net/rmscashier/96fd2160c96ecd5ebae759f56b3b0d5f123058.jpg",
-					"price": 38,
+					"name": "卤肉拼盘",
+					"picUrl": "https://p0.meituan.net/rmscashier/69292d2328b87250ec9ffaaa81005bf952206.jpg",
+					"price": 28,
 					"unit": "份",
-					"categoryName": "香辣单点",
-					"props": []
-				},
-				{
-					"name": "香辣羊肚",
-					"picUrl": "",
-					"price": 38,
-					"unit": "份",
-					"categoryName": "香辣单点",
-					"props": []
-				},
-				{
-					"name": "香辣羊杂",
-					"picUrl": "https://p1.meituan.net/rmscashier/b11ff25397806dc403f1992ffd8f61e6120185.jpg",
-					"price": 35,
-					"unit": "份",
-					"categoryName": "香辣单点",
-					"props": []
-				},
-				{
-					"name": "香辣羊心",
-					"picUrl": "",
-					"price": 30,
-					"unit": "份",
-					"categoryName": "香辣单点",
-					"props": []
-				},
-				{
-					"name": "拍青瓜",
-					"picUrl": "https://p1.meituan.net/rmscashier/0d200810e05693bc333f1a1cd5a7697c72403.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "香辣单点",
-					"props": []
+					"categoryName": "其他",
+					"props": [
+						{
+							"name": "规格",
+							"values": [
+								{
+									"value": "小份",
+									"price": 28,
+									"propName": "规格",
+									"isMul": false
+								},
+								{
+									"value": "大份",
+									"price": 38,
+									"propName": "规格",
+									"isMul": false
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "酒水类",
+			"name": "卤货加料",
 			"foods": [
 				{
-					"name": "矿泉水",
-					"picUrl": "http://p0.meituan.net/rmscashier/61d6151fd86ab8fed8fa6fb77731c37e34456.jpg",
+					"name": "卤蛋",
+					"picUrl": "https://p0.meituan.net/rmscashier/39c035f47bfed17644179a787797c65239568.jpg",
 					"price": 2,
-					"unit": "瓶",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "维他奶",
-					"picUrl": "",
-					"price": 3,
-					"unit": "瓶",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "可乐",
-					"picUrl": "https://p0.meituan.net/rmscashier/edb32fd6dcab77d1ca1d2b2cd14d02a242555.jpg",
-					"price": 3,
-					"unit": "罐",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "加多宝",
-					"picUrl": "https://p0.meituan.net/rmscashier/3ffd16357abbb5df936900ef6b79d0d157600.jpg",
-					"price": 5,
-					"unit": "罐",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "苹果醋",
-					"picUrl": "https://p0.meituan.net/rmscashier/03e6cf7a2e2159589d5c1b40cd5338cf48701.jpg",
-					"price": 6,
-					"unit": "罐",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "原味豆奶",
-					"picUrl": "",
-					"price": 2.5,
 					"unit": "份",
-					"categoryName": "酒水类",
+					"categoryName": "卤货加料",
 					"props": []
 				},
 				{
-					"name": "优酸乳",
-					"picUrl": "",
-					"price": 2.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "维他柠檬茶",
-					"picUrl": "http://p1.meituan.net/rmscashier/7b3e100978a471f802e7774c538bfb9a445714.jpg",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "百事可乐（500毫升）",
-					"picUrl": "",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "康师傅冰红茶",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "椰子汁",
-					"picUrl": "",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "芬达（罐装）",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "哈尔滨啤酒（330毫升）",
-					"picUrl": "",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "金威啤酒（330毫升）",
-					"picUrl": "",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "可口可乐（0糖0脂肪）",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "康师傅冰红茶（330毫升）",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "雀巢柠檬红茶",
-					"picUrl": "",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "脉动",
-					"picUrl": "",
-					"price": 5.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "东朋特饮",
-					"picUrl": "",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "茉莉花茶",
-					"picUrl": "",
-					"price": 4.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "锐澳鸡尾酒",
-					"picUrl": "",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "酷儿橙汁",
-					"picUrl": "",
-					"price": 4.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "可口可乐美式咖啡",
-					"picUrl": "",
+					"name": "鸡腿",
+					"picUrl": "https://p1.meituan.net/rmscashier/bb64861f1bb7f4e1aae9415eb2e6527b66195.jpg",
 					"price": 7,
 					"unit": "份",
-					"categoryName": "酒水类",
+					"categoryName": "卤货加料",
 					"props": []
 				},
 				{
-					"name": "可口可乐淳茶舍",
-					"picUrl": "",
-					"price": 4.5,
+					"name": "鸭腿",
+					"picUrl": "https://p0.meituan.net/rmscashier/477776361e83d00ca32291e423f0d6d858712.jpg",
+					"price": 9,
 					"unit": "份",
-					"categoryName": "酒水类",
+					"categoryName": "卤货加料",
 					"props": []
 				},
 				{
-					"name": "元气森林",
+					"name": "盐水鸭",
 					"picUrl": "",
-					"price": 5,
+					"price": 18,
 					"unit": "份",
-					"categoryName": "酒水类",
+					"categoryName": "卤货加料",
 					"props": []
 				},
 				{
-					"name": "菠萝啤",
+					"name": "猪脚饭",
 					"picUrl": "",
-					"price": 4.5,
+					"price": 22,
 					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "统一绿茶",
-					"picUrl": "",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "统一奶茶",
-					"picUrl": "",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "酸梅汤",
-					"picUrl": "",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "康师傅茉莉清茶",
-					"picUrl": "",
-					"price": 4,
-					"unit": "份",
-					"categoryName": "酒水类",
-					"props": []
-				},
-				{
-					"name": "统一苹果醋（500毫升）",
-					"picUrl": "",
-					"price": 4.5,
-					"unit": "份",
-					"categoryName": "酒水类",
+					"categoryName": "卤货加料",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "打包",
+			"name": "小菜",
 			"foods": [
 				{
-					"name": "打包",
-					"picUrl": "https://p0.meituan.net/rmscashier/07cc6d808108c23b5d517a3747c6f5fa32234.jpg",
-					"price": 1,
+					"name": "蔬菜",
+					"picUrl": "",
+					"price": "",
 					"unit": "份",
-					"categoryName": "打包",
+					"categoryName": "小菜",
 					"props": []
 				}
 			]

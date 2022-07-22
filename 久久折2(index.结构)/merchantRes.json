@@ -1,1812 +1,3622 @@
 {
-	"shopName": "沙县小吃深圳福田店",
+	"shopName": "满和记佛山天佑城店",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "小吃类",
+			"name": "叉烧双拼",
 			"foods": [
 				{
-					"name": "一品蒸饺",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 6,
+					"name": "叉烧拼大肠饭",
+					"picUrl": "",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "酸菜面-粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "小吃类",
+					"categoryName": "叉烧双拼",
 					"props": [
 						{
-							"name": "可选",
+							"name": "加汤",
 							"values": [
 								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "飘香拌面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "青菜面-粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "云吞面-粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "煎蛋面-粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 9,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "爽口云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "小份",
-									"price": 8,
-									"propName": "规格",
+									"value": "加虫草花竹丝鸡汤",
+									"price": 27,
+									"propName": "加汤",
 									"isMul": false
 								},
 								{
-									"value": "中份",
-									"price": 12,
-									"propName": "规格",
+									"value": "加茶树菇老鸡汤",
+									"price": 27,
+									"propName": "加汤",
 									"isMul": false
 								},
 								{
-									"value": "大份",
+									"value": "加生地龙骨汤",
+									"price": 27,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧拼大肠饭",
+									"price": 20,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼鹅肝饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "叉烧双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧拼鹅肝饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼肉卷饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "叉烧双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧拼肉卷饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼手撕鸡饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "叉烧双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧拼手撕鸡饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼白切鸡饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "叉烧双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧拼白切鸡饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼豉油鸡饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "叉烧双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧拼豉油鸡饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "叉烧拼牛腩饭",
+					"picUrl": "",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "叉烧双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 30,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 30,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 30,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧拼牛腩饭",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "烧鸭双拼",
+			"foods": [
+				{
+					"name": "烧鸭拼大肠饭",
+					"picUrl": "",
+					"price": 20,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼大肠饭",
+									"price": 20,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼鹅肝饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼鹅肝饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼肉卷饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼肉卷饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼白切鸡饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼白切鸡饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼豉油鸡饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼豉油鸡饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼腊肠饭",
+					"picUrl": "",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼腊肠饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼猪肚饭",
+					"picUrl": "",
+					"price": 21,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 28,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 28,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 28,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼猪肚饭",
+									"price": 21,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼牛腩饭",
+					"picUrl": "",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 30,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 30,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 30,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼牛腩饭",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭拼叉烧饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/615c7c33fb212b10b8ec0c34073adb15.jpeg",
+					"price": 19,
+					"unit": "份",
+					"categoryName": "烧鸭双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭拼叉烧饭",
+									"price": 19,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "烧鹅双拼",
+			"foods": [
+				{
+					"name": "烧鹅拼大肠",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼大肠",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼鹅肝",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼鹅肝",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼肉卷饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼肉卷饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼叉烧饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼叉烧饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼白切鸡饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼白切鸡饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼豉油鸡饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼豉油鸡饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼牛腩饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼牛腩饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼猪肚饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼猪肚饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼腊肠饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼腊肠饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼手撕鸡饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼手撕鸡饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅拼鸡翅饭",
+					"picUrl": "",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "烧鹅双拼",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 33,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅拼鸡翅饭",
+									"price": 26,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "单点区",
+			"foods": [
+				{
+					"name": "卤大肠饭",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/2ecabadb92afe86e20e964dd5aa46a69.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 25,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 25,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 25,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "卤大肠饭",
+									"price": 18,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								},
+								{
+									"value": "鸭头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 5
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鹅杂饭",
+					"picUrl": "",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 22,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 22,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 22,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "卤鹅杂饭",
 									"price": 15,
-									"propName": "规格",
+									"propName": "加汤",
 									"isMul": false
 								}
 							]
-						}
-					]
-				},
-				{
-					"name": "榨菜肉丝面-粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": [
+						},
 						{
-							"name": "可选",
+							"name": "加料",
 							"values": [
 								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
 								},
 								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "拌云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "香炸饺子",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/b07521a3c3131094be54250e76fabb61.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "香炸云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "干捞水饺",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/3f73e732e51b864eb96fe49b56a37a3e.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": []
-				},
-				{
-					"name": "秘制猪脚粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "小吃类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "秘制牛腩粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+					"name": "白切鸡饭",
+					"picUrl": "",
 					"price": 16,
 					"unit": "份",
-					"categoryName": "小吃类",
+					"categoryName": "单点区",
 					"props": [
 						{
-							"name": "可选",
+							"name": "加汤",
 							"values": [
 								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
+									"value": "加虫草花竹丝鸡汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
 								},
 								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "老坛酸菜粉/饭",
-			"foods": [
-				{
-					"name": "老坛酸菜鱼片粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "老坛酸菜粉/饭",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
+									"value": "加茶树菇老鸡汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
 								},
 								{
-									"value": "面",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老坛酸菜牛肉粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "老坛酸菜粉/饭",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
+									"value": "加生地龙骨汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
 								},
 								{
-									"value": "面",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老坛牛肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "老坛酸菜粉/饭",
-					"props": []
-				},
-				{
-					"name": "老坛鱼片饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "老坛酸菜粉/饭",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "营养云吞",
-			"foods": [
-				{
-					"name": "排骨云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养云吞",
-					"props": []
-				},
-				{
-					"name": "乌鸡云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养云吞",
-					"props": []
-				},
-				{
-					"name": "老鸭云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养云吞",
-					"props": []
-				},
-				{
-					"name": "牛肉云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养云吞",
-					"props": []
-				},
-				{
-					"name": "鸽子云吞",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养云吞",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "营养炖汤",
-			"foods": [
-				{
-					"name": "生地排骨汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "营养炖汤",
-					"props": []
-				},
-				{
-					"name": "茶树菇老鸭汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "营养炖汤",
-					"props": []
-				},
-				{
-					"name": "花旗参乌鸡汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "营养炖汤",
-					"props": []
-				},
-				{
-					"name": "当归牛肉汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "营养炖汤",
-					"props": []
-				},
-				{
-					"name": "人参鸽子汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "营养炖汤",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "炒粉类",
-			"foods": [
-				{
-					"name": "鸡蛋炒粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋炒饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "扬州炒饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋炒河粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋牛腩炒粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋肉炒粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "汤粉类",
-			"foods": [
-				{
-					"name": "鸡腿粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "乌鸡汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老鸭汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸽子汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "卤味类",
-			"foods": [
-				{
-					"name": "卤鸭腿",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/41d2d4962c01b0411202ac2cdc685314.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤鸡腿",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/cd8d1ca936a83a89dbbbaeb10b5592c7.jpg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/9ff514bcd3befe2fbfc14ffe5f4a65dc.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "煎蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/23a7e8b1517af92138efc27d563dc16d.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤豆干",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/f9aab9a68789125097bbf20b26afdb95.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "营养套饭",
-			"foods": [
-				{
-					"name": "卤鸡腿饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "卤鸭腿饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "红烧排骨饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "香菇滑鸡饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "红烧五花肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "牛腩饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "花生猪脚饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "排骨汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "乌鸡汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "牛肉汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "老鸭汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "鸽子汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "黑椒牛肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "炒粉类",
-			"foods": [
-				{
-					"name": "扬州炒饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋炒河粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋牛腩炒粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋肉炒粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "汤粉类",
-			"foods": [
-				{
-					"name": "鸡腿粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "乌鸡汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老鸭汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸽子汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "卤味类",
-			"foods": [
-				{
-					"name": "卤鸭腿",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/41d2d4962c01b0411202ac2cdc685314.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤鸡腿",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/cd8d1ca936a83a89dbbbaeb10b5592c7.jpg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/9ff514bcd3befe2fbfc14ffe5f4a65dc.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "煎蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/23a7e8b1517af92138efc27d563dc16d.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤豆干",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/f9aab9a68789125097bbf20b26afdb95.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "营养套饭",
-			"foods": [
-				{
-					"name": "卤鸡腿饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "卤鸭腿饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "红烧排骨饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "香菇滑鸡饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "红烧五花肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "牛腩饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "花生猪脚饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "排骨汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "乌鸡汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "牛肉汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "老鸭汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "鸽子汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "黑椒牛肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "炒粉类",
-			"foods": [
-				{
-					"name": "扬州炒饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋炒河粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋牛腩炒粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				},
-				{
-					"name": "鸡蛋肉炒粉",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "炒粉类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "汤粉类",
-			"foods": [
-				{
-					"name": "鸡腿粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭腿粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "排骨汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "乌鸡汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "老鸭汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "牛肉汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸽子汤粉-面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "汤粉类",
-					"props": [
-						{
-							"name": "可选",
-							"values": [
-								{
-									"value": "面条",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								},
-								{
-									"value": "米粉",
-									"propName": "可选",
-									"isMul": false,
-									"price": 0
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "卤味类",
-			"foods": [
-				{
-					"name": "卤鸭腿",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/41d2d4962c01b0411202ac2cdc685314.jpg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤鸡腿",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/cd8d1ca936a83a89dbbbaeb10b5592c7.jpg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/9ff514bcd3befe2fbfc14ffe5f4a65dc.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "煎蛋",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/23a7e8b1517af92138efc27d563dc16d.jpg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				},
-				{
-					"name": "卤豆干",
-					"picUrl": "https://marketing-static.shouqianba.com/gallery/f9aab9a68789125097bbf20b26afdb95.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "卤味类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "营养套饭",
-			"foods": [
-				{
-					"name": "卤鸡腿饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "卤鸭腿饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "红烧排骨饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "香菇滑鸡饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "红烧五花肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "牛腩饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "花生猪脚饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "排骨汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "乌鸡汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "牛肉汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "老鸭汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "鸽子汤饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "黑椒牛肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉饭",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "营养套饭",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "老北京炸酱面",
-			"foods": [
-				{
-					"name": "炸酱面十牛腩",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面十鸭腿",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "葱油面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面+鸡腿",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": [
-						{
-							"name": "规格",
-							"values": [
-								{
-									"value": "1",
-									"price": 18,
-									"propName": "规格",
+									"value": "白切鸡",
+									"price": 16,
+									"propName": "加汤",
 									"isMul": false
 								}
 							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
 						}
 					]
 				},
 				{
-					"name": "炸酱面+猪脚",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
+					"name": "招牌烧鹅饭",
+					"picUrl": "",
+					"price": 25,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 32,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 32,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 32,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "招牌烧鹅饭",
+									"price": 25,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "炸酱面+排骨汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
+					"name": "卤鸡腿饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/ccfcb0c248cc116659b8b7c6c892a4d2.jpeg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 22,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 22,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 22,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "卤鸡腿饭",
+									"price": 15,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "炸酱面+老鸭汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
+					"name": "叉烧饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/bae1c86e6fd580a0df7395dee0a99053.jpg",
+					"price": 17,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "叉烧饭",
+									"price": 17,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "炸酱面+牛肉汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 21,
+					"name": "豉油鸡饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/cb453ab5e458e57f8ab062ee74e7e05d.png",
+					"price": 16,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "豉油鸡饭",
+									"price": 16,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "炸酱面+鸽子汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+					"name": "广式腊肠饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/df213d2b0c20676d450142357e6978ca.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 23,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "广式腊肠饭",
+									"price": 16,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "卤牛腩饭",
+					"picUrl": "",
 					"price": 22,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面+乌鸡汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面十牛腩",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面十鸭腿",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "葱油面",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 7,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面+鸡腿",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
+					"categoryName": "单点区",
 					"props": [
 						{
-							"name": "规格",
+							"name": "加汤",
 							"values": [
 								{
-									"value": "1",
-									"price": 18,
-									"propName": "规格",
+									"value": "加虫草花竹丝鸡汤",
+									"price": 29,
+									"propName": "加汤",
 									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 29,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 29,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "卤牛腩饭",
+									"price": 22,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
 								}
 							]
 						}
 					]
 				},
 				{
-					"name": "炸酱面+猪脚",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
+					"name": "盐焗猪肚饭",
+					"picUrl": "",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 27,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 27,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 27,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "盐烟猪肚饭",
+									"price": 20,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白切鸡腿饭",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "白切鸡腿饭",
+									"price": 17,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鸭腿饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/e4f72bb3fe6fb827b6d23885ef4d7faa.jpeg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鸭腿饭",
+									"price": 17,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "烧鹅腿饭",
+					"picUrl": "https://marketing-static.shouqianba.com/gallery/1a2e12396cb091518773417f202aa1d8.jpeg",
+					"price": 27,
+					"unit": "份",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 34,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 34,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 34,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "烧鹅腿饭",
+									"price": 27,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "蜜汁鸡翅饭",
+					"picUrl": "",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "单点区",
+					"props": [
+						{
+							"name": "加汤",
+							"values": [
+								{
+									"value": "加虫草花竹丝鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加茶树菇老鸡汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "加生地龙骨汤",
+									"price": 24,
+									"propName": "加汤",
+									"isMul": false
+								},
+								{
+									"value": "蜜汁鸡翅饭",
+									"price": 17,
+									"propName": "加汤",
+									"isMul": false
+								}
+							]
+						},
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "炖汤",
+			"foods": [
+				{
+					"name": "虫草花竹丝鸡汤",
+					"picUrl": "",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "炖汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "茶树菇老鸡汤",
+					"picUrl": "",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "炖汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "生地龙骨汤",
+					"picUrl": "",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "炖汤",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "卤蛋",
+									"propName": "加料",
+									"isMul": true,
+									"price": 2
+								},
+								{
+									"value": "烧鸡翅",
+									"propName": "加料",
+									"isMul": true,
+									"price": 8
+								},
+								{
+									"value": "卤鸡腿",
+									"propName": "加料",
+									"isMul": true,
+									"price": 6
+								},
+								{
+									"value": "白切鸡/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "烧鸭/例",
+									"propName": "加料",
+									"isMul": true,
+									"price": 25
+								},
+								{
+									"value": "鹅头颈",
+									"propName": "加料",
+									"isMul": true,
+									"price": 10
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "饮料",
+			"foods": [
+				{
+					"name": "王老吉",
+					"picUrl": "",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
-					"name": "炸酱面+排骨汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
+					"name": "可乐",
+					"picUrl": "",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
-					"name": "炸酱面+老鸭汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
+					"name": "汽水",
+					"picUrl": "",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
+					"categoryName": "饮料",
 					"props": []
 				},
 				{
-					"name": "炸酱面+牛肉汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 21,
+					"name": "豆奶",
+					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/a7d57fcca89f7843c709b609c33b16cc.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面+鸽子汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
-					"props": []
-				},
-				{
-					"name": "炸酱面+乌鸡汤",
-					"picUrl": "http://wosai-open.oss-cn-hangzhou.aliyuncs.com/f793e53a5ab913d79ac5427dda597abe.jpeg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "老北京炸酱面",
+					"categoryName": "饮料",
 					"props": []
 				}
 			]

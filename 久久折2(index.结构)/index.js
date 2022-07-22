@@ -10,18 +10,18 @@ const defaultImgUrl = ""
 // const exportMode = "keruyun"
 const exportMode = "feie"
 // const exportMode = "shilai"
-const findJsonLen = 5
+const findJsonLen = 1
 const outputDir = path.join(__dirname, "merchantInfos")
 
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:[ "规格" ],//规格
   practice: [
-    '规格', 	"可选",
+    "加汤","加料"
   ],//做法
   feeding:["加料"],//加料
   remarks: [],//备注
   propsGroupSort: [
-    '规格', 	"可选",
+    "加汤","加料"
   ],
   propsSort: {
     // "口味":["不辣","微辣","中辣","特辣","麻辣"]
@@ -104,19 +104,19 @@ function formatFoodProps(foodDetail) {
 
 
 //读取dataJson下的所有文件取出 food菜品
-async function genMenuFoods() { 
+async function genMenuFoods() {
   let allFoods = [];
   allFoods.push(...merchantInfo.goods.pages[0]);
-  for (let i = 0; i < findJsonLen; i++) { 
+  for (let i = 0; i < findJsonLen; i++) {
     let filePath = path.join(__dirname, "dataJson", "index" + (i==0 ? "" : i));
     let goods = JSON.parse(fs.readFileSync(filePath, "utf-8")).data.goods;
     console.log(goods.length)
     allFoods.push(...goods)
   }
-  
+
   let category = merchantInfo.category, categoryArr = [];
 
- 
+
   let allFooodsTemp = [];
 
   for(let i = 0 ; i < allFoods.length-1 ; i++){
@@ -150,10 +150,10 @@ async function genMenuFoods() {
       }
       foodTemp.name = foodTemp.name.replace(/\//ig, '-');
       foodTemp.name = foodTemp.name.slice(foodTemp.name.indexOf(".") + 1)
-      
+
       temp.foods.push(foodTemp)
     })
-     
+
     categoryArr.push(temp)
   })
 
@@ -162,16 +162,16 @@ async function genMenuFoods() {
 
 let propsGroupArr = [];
 // 打印日志到test.json 文件夹
-async function logInfo(info,fileName="test") { 
+async function logInfo(info,fileName="test") {
   fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
 }
 
-async function mkShopDir(shopDir) { 
+async function mkShopDir(shopDir) {
   delDirSync(shopDir);
   mkdirSync(shopDir)
 }
 
-async function genExcelAndWord(){ 
+async function genExcelAndWord(){
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)

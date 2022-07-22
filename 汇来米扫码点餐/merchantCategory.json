@@ -1,45 +1,51 @@
 {
-  "respCode": "90000",
-  "respDesc": "交易成功",
-  "requestSeqId": "ifg34325oj",
-  "respSeq": "20220629111776290",
-  "respData": {
-    "goodsGroupDTOList": [
-      {
-        "groupId": "368642855714422784",
-        "groupName": "老板推荐",
-        "groupSN": "0",
-        "groupOrderFlag": "0",
-        "goodsList": []
-      },
-      {
-        "groupId": "368642913738424320",
-        "groupName": "招牌黄焖鸡",
-        "groupSN": "1",
-        "groupOrderFlag": "0",
-        "goodsList": []
-      },
-      {
-        "groupId": "368642950694436864",
-        "groupName": "饮料",
-        "groupSN": "2",
-        "groupOrderFlag": "0",
-        "goodsList": []
-      },
-      {
-        "groupId": "387373432449802240",
-        "groupName": "加配菜区",
-        "groupSN": "3",
-        "groupOrderFlag": "0",
-        "goodsList": []
-      },
-      {
-        "groupId": "368642976908836864",
-        "groupName": "汤",
-        "groupSN": "4",
-        "groupOrderFlag": "0",
-        "goodsList": []
-      }
-    ]
-  }
+	"respCode": "90000",
+	"respDesc": "交易成功",
+	"requestSeqId": "15kgauf8c4x",
+	"respSeq": "20220715112642151",
+	"respData": {
+		"goodsGroupDTOList": [{
+			"groupId": "329777884813590528",
+			"groupName": "测试分组",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "329777884918448128",
+			"groupName": "汤粉饭类",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "329777885845389312",
+			"groupName": "干捞配汤",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "329777886470340608",
+			"groupName": "炒粉饭",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "329777886914936832",
+			"groupName": "加料",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "329777887523110912",
+			"groupName": "饮料",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}, {
+			"groupId": "349195264182452224",
+			"groupName": "肉饼猪肉丸粉面饭",
+			"groupSN": "0",
+			"groupOrderFlag": "0",
+			"goodsList": []
+		}]
+	}
 }

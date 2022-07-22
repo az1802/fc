@@ -16,18 +16,18 @@ const {
 } = require('../utils/index');
 
 // const exportMode = "keruyun"
-// const exportMode = 'feie';
+const exportMode = 'feie';
 
-const exportMode = 'shilai';
+// const exportMode = 'shilai';
 
 let allMerchantInfo = require('./merchantInfo.json');
 let otherDishInfo = require('./otherDishInfo.json');
 
 let allCategoryData =
-  allMerchantInfo.data.data.components[3].data.dishMenu.data.dishCates;
+  allMerchantInfo.data.data.components[2].data.dishMenu.data.dishCates;
 // console.log('%ccategoryData: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',allCategoryData);
 let allDishes =
-  allMerchantInfo.data.data.components[3].data.dishMenu.data.spuInfos;
+  allMerchantInfo.data.data.components[2].data.dishMenu.data.spuInfos;
 let otherDishes = otherDishInfo.data.data || [];
 allDishes = {
   ...allDishes,
@@ -36,7 +36,7 @@ allDishes = {
 
 // console.log('%callDishes: ','color: MidnightBlue; background: Aquamarine; font-size: 20px;',allDishes);
 let requestShopData = {
-  name: '汕头辉记肠粉王（海岸城店）',
+  name: '煲掌柜',
   picUrl: '',
 };
 
