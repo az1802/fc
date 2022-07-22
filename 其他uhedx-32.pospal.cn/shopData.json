@@ -1,13 +1,12 @@
 {
 	"successed": true,
 	"data": {
-		"StoreId": 4223821,
-		"ParentStoreUserId": 4223818,
-		"CompanyName": "一叮鲁肉饭（蛤地店）",
-		"StoreLogo": "https://img.pospal.cn/storeLogo/5967883d-5b8b-4102-8f25-0bbd85ea39f7.jpg",
-		"Telephone": "13829102105",
+		"StoreId": 4702805,
+		"CompanyName": "秦之源陕西面馆",
+		"StoreLogo": "https://img.pospal.cn/storeLogo/",
+		"Telephone": "13316808542",
 		"Industry": "餐饮行业",
-		"StoreBaseUrl": "https://uhedx-32.pospal.cn/",
+		"StoreBaseUrl": "https://5r2gs-62.pospal.cn/",
 		"HasCheckin": false,
 		"IsCustomer": false,
 		"Banners": [],
@@ -20,13 +19,14 @@
 		"ShowGroup": false,
 		"ShowBargain": false,
 		"ShowSeckill": false,
-		"Address": "广东省东莞市广东省东莞市",
+		"ShowPresale": false,
+		"Address": "广东省深圳市福田区 沙头街道 祠堂村113栋秦之源陕西面馆",
 		"showDistribute": false,
 		"AllowStockBelowZero": true,
 		"IsOpenFankuitongdao": false,
 		"ResetPoint": false,
 		"StoreStatus": 1,
-		"IsChainStore": true,
+		"IsChainStore": false,
 		"IsParentStore": false,
 		"showProductDiscount": false,
 		"IsEnableLottery": false,
@@ -44,13 +44,10 @@
 		"IsShowWholeSalePrice": false,
 		"HasOpenCustomerInfoReward": false,
 		"AllowRecharge": true,
-		"RechargeOnlyFix": true,
-		"StoreBusinessTimes": [{
-			"begin": "06:00:00",
-			"end": "22:00:59"
-		}],
+		"RechargeOnlyFix": false,
 		"ShowBought": false,
-		"CustomerCates": []
+		"CustomerCates": [],
+		"SubscribeTemplats": []
 	},
 	"storeWebsiteContacts": {
 		"id": 0,

@@ -2,15 +2,20 @@
 const fs = require("fs");
 const path = require("path");
 
-
-const { requestUrl,genImgs,genExcel,genExcelAll,genWord,genSpecificationsWord,formatFileName,delDirSync,mkdirSync} = require("../utils/index")
-
+const { requestUrl,genImgs,genExcel,genFeieExcelAll,genWord,formatFileName,delDirSync,mkdirSync,addPropsGroupArr,genExcelAll,genSpecificationsWord, genShilaiExcelAll} = require("../utils/index")
 
 
 
+// 数据转换提取,写入相关文件
 
-const exportMode = "keruyun"
-// const exportMode = "feie"
+async function mkShopDir(shopDir) {
+  delDirSync(shopDir);
+  mkdirSync(shopDir);
+}
+
+
+// const exportMode = "shilai"
+const exportMode = "feie"
 
 
 let requestShopData = require("./shopData.json");
@@ -28,7 +33,7 @@ let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-   
+
   ],
 }
 
@@ -36,12 +41,12 @@ let propsGroupArr = [];
 
 
 // 打印日志到test.json 文件夹
-async function logInfo(info,fileName="test.json") { 
+async function logInfo(info,fileName="test.json") {
   fs.writeFileSync(`./${fileName}.json`,JSON.stringify(info,null,'\t'))
 }
 
 // 获取原始数据
-async function getMerchantInfo() { 
+async function getMerchantInfo() {
   let merchantInfo = await handleRequestData(requestShopData, requestMenuData)
   await logInfo(merchantInfo, "merchantRes")
   return merchantInfo;
@@ -55,7 +60,7 @@ function formatFoodProps(foodItem) {
 // 爬取的数据中进行信息提取
 async function  handleRequestData(requestShopData,requestMenuData) {
   // await logInfo(requestMenuData)
-  
+
   try {
     // 商户信息
     let merchantInfo = {
@@ -67,7 +72,7 @@ async function  handleRequestData(requestShopData,requestMenuData) {
     // 菜品目录
     let categories = []
 
-   
+
 
     categories = requestMenuData.map(categoryItemAll => {
       let categoryItem = categoryItemAll.data;
@@ -76,8 +81,8 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         foods:[]
       };
       categoryData.name = categoryItem[0].category.name;
-      categoryData.foods = categoryItem.reduce((res,foodItem) => { 
-        if (foodItem) { 
+      categoryData.foods = categoryItem.reduce((res,foodItem) => {
+        if (foodItem) {
           let foodData = {
             name:foodItem.name || "",
             picUrl: foodItem.defaultproductimage.imagepath || "",
@@ -91,46 +96,41 @@ async function  handleRequestData(requestShopData,requestMenuData) {
         }
         return res;
       },[])
-      
+
       return categoryData
     })
 
     merchantInfo.categories = categories
     return merchantInfo;
-  } catch (err) { 
-    console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`)
+  } catch (err) {
+    console.log(err, `格式化转换菜品发生错误`)
   }
 }
 
-// 数据转换提取,写入相关文件
-
-async function mkShopDir(shopDir) { 
-  delDirSync(shopDir);
-  mkdirSync(shopDir)
-}
-
 // 生成图片文件夹以及excel文件
-async function genImgsAndExcel() { 
+async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
+    await logInfo(merchantInfo, "merchantRes")
+
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir)
-
-  // // mkShopDir(merchantInfo)
+  logInfo(propsGroupArr,"propGroups")
   if (exportMode == "keruyun") {
     genImgs(merchantInfo,outputDir);
     genExcel(merchantInfo, outputDir);
     genExcelAll(merchantInfo,outputDir,menuSetting)
-  } else {
-    genWord(merchantInfo, outputDir)
-    // genSpecificationsWord(merchantInfo,outputDir,menuSetting)
+  } else if (exportMode == 'shilai') {
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
+  } else if (exportMode == 'feie') {
+    genFeieExcelAll(merchantInfo, outputDir, menuSetting)
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
+  }else {
+    genFeieExcelAll(merchantInfo, outputDir,menuSetting)
+    genShilaiExcelAll(merchantInfo, outputDir, menuSetting)
   }
-
-  
-
 }
-
-
 
 genImgsAndExcel();

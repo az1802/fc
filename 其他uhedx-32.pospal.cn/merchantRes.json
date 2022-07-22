@@ -1,483 +1,590 @@
 {
-	"shopName": "一叮鲁肉饭（蛤地店）",
-	"shop_pic": "https://img.pospal.cn/storeLogo/5967883d-5b8b-4102-8f25-0bbd85ea39f7.jpg",
+	"shopName": "秦之源陕西面馆",
+	"shop_pic": "https://img.pospal.cn/storeLogo/",
 	"categories": [
 		{
-			"name": "套餐",
+			"name": "汤面类",
 			"foods": [
 				{
-					"name": "小卤肉饭+蒸蛋+青菜",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/79dd2c98-f3c0-4926-abca-30b8a034b447_200x200.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": []
-				},
-				{
-					"name": "大卤肉饭+蒸蛋+青菜",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/8425c0b6-7abf-4e8c-8b66-75e0c16a2825_200x200.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "套餐",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "饭类",
-			"foods": [
-				{
-					"name": "小卤肉饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/df153ba7-b5cd-42a1-b8ab-f51b3bae54a3_200x200.jpeg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "大卤肉饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/f39d00d0-5712-44e9-8dfd-fc77fc19e906_200x200.jpeg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "鳗鱼饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/282fc1ee-3d47-4813-bdc9-b3897e92b185_200x200.jpeg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "三杯鸡饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/eebbd21c-ec20-431e-8774-64e984259dbe_200x200.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "香菇焖鸡饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/e8cbdc28-348c-4cc8-b132-17b769ac4de1_200x200.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "京都泡菜肥牛饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/27fd3b5b-87a3-4c25-bbff-8c1f114b9435_200x200.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "手撕鸡饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/73483511-bd4d-4ed7-befd-066ea7c9ee25_200x200.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "台式香肠饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/8a4aab6f-4544-46a8-89c4-1c2413b20328_200x200.jpeg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "萝卜牛腩饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/ae910555-e501-426b-a6c2-8bcc53ceb151_200x200.jpeg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "秋刀鱼饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/cbc560c4-ff97-40f8-bfa0-71c384ba1561_200x200.jpeg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "梅菜扣肉饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/dff2e1b4-0b12-49f2-bfef-f0046fa5a6e6_200x200.jpg",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "卤肉汁",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/36830bf2-9d98-4ef5-a198-a85a00839734_200x200.jpeg",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "白米饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/95002796-0f7f-4409-a58f-a8010ad7b8d0_200x200.jpg",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "饭类",
-					"props": []
-				},
-				{
-					"name": "麻婆豆腐饭",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/04ebfc26-19e6-4697-8bd2-2a08acf883bf_200x200.jpg",
+					"name": "臊子面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/2508d281-1c4d-4289-8072-d5af6e15ea42_200x200.jpg",
 					"price": 15,
 					"unit": "份",
-					"categoryName": "饭类",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "手工面",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "酸汤扯面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/ff0e5e36-14bf-4dad-9ece-bff0ddfc2441_200x200.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "臊子汤扯面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/b2b89920-0e55-496c-8d59-62b99f4dbab3_200x200.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "手工菠菜面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/0d5b41f3-c710-4e18-91ca-6859fa6957ca_200x200.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "西红柿鸡蛋汤面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/8f5c5cf3-7635-44d7-a584-48d2bc4d4283_200x200.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋烩面片",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/7851e763-a830-4e0f-b1a1-24018b24e22b_200x200.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋烩麻食",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/61e1dcd6-9162-4d7f-8447-77a90393b086_200x200.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "牛肉面手工面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/ac23b44f-42b7-4a20-bce5-42ec28b20486_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "牛肉烩面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/a04616c9-241f-4a7f-aa71-db1c4977738a_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "牛肉菠菜面",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "汤面类",
+					"props": []
+				},
+				{
+					"name": "浆水面",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "汤面类",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "面食",
+			"name": "干拌面类",
 			"foods": [
 				{
-					"name": "杂酱拌粉",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/b470ef3b-c12a-4715-8c3e-1fdb9361139b_200x200.jpeg",
-					"price": 13,
+					"name": "biangbiang面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/5a1a1e66-e4c7-4a4d-a0db-74a91d5eb18d_200x200.jpg",
+					"price": 22,
 					"unit": "份",
-					"categoryName": "面食",
+					"categoryName": "干拌面类",
 					"props": []
 				},
 				{
-					"name": "干香焖面",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/757e2b1b-fff4-4893-925b-486b6f794063_200x200.jpeg",
+					"name": "油泼扯面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/dd38d452-9b8d-4736-8fed-bc9ec73a9410_200x200.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "油泼棍棍面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/c6346a1c-4a55-40fb-912c-6c0eb9ed32c4_200x200.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "油泼菠菜面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/0577137f-9229-4889-8917-ee9024f4b918_200x200.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "炸酱干拌手擀面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/53c6155b-9033-4f7f-877a-bd69f3418555_200x200.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "炸酱干拌扯面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/74223688-5b5d-4d72-98b1-b650e60685ad_200x200.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "炸酱干拌菠菜面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/9a2df42f-f630-47b7-b3ab-1fefade98cca_200x200.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "臊子干拌手工面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/b211574e-79db-48ea-85bb-16ddfa01b2b6_200x200.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "臊子干拌扯面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/128da9ad-6774-4f4f-863b-f338f11a31d3_200x200.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "臊子干拌棍棍面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/2a8792d7-275f-4d24-8e26-e97d85634148_200x200.jpg",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "臊子干拌菠菜面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/ec0b813d-c29e-4bf9-a8b8-f187f4828f3b_200x200.jpg",
+					"price": 17,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "牛肉凉拌面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/61890a25-718e-4e42-8109-0cb47b19e78e_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "牛肉凉拌菠菜面",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒拉条",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/c10242c4-942e-4c87-97ca-8da2ee28a1f2_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒扯面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/6e70c414-036a-4fc4-a281-c2f51ea043a9_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒麻食",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/a08febc6-c4a8-4c4a-a2d7-49105586bdfa_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒饼丝",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/fa2dd443-2921-4a5f-9d07-475a0227ecc4_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "鸡蛋炒面片",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/1f47a6a9-8938-4329-a4af-69b96b116cff_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "西红柿鸡蛋干拌面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/68779c64-87c0-4aac-adb2-d7960751a4d5_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				},
+				{
+					"name": "尖椒肉丝拌面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/5ade1985-b6fe-4bdd-a510-31c6ffee51ca_200x200.jpg",
+					"price": 18,
+					"unit": "份",
+					"categoryName": "干拌面类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "干拌面类",
+			"foods": [
+				{
+					"name": "新疆拌面",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
 					"price": 20,
 					"unit": "份",
-					"categoryName": "面食",
+					"categoryName": "干拌面类",
 					"props": []
 				},
 				{
-					"name": "猪肉白菜饺子",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/0ea46fa6-c1c8-457f-a761-a389ef20ff5f_200x200.jpeg",
-					"price": 16,
+					"name": "孜然牛肉炒面",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/6ea2e6e5-edb6-4d69-a0f2-9f680cdb8e76_200x200.jpg",
+					"price": 20,
 					"unit": "份",
-					"categoryName": "面食",
-					"props": []
-				},
-				{
-					"name": "韭菜鸡蛋饺子",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/0ca69b2b-1d53-476b-808d-e0f11abbadd4_200x200.jpeg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "面食",
-					"props": []
-				},
-				{
-					"name": "铁锅土豆粉",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/bf1ede62-41ab-4506-ab46-d8d99650b2ef_200x200.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "面食",
-					"props": []
-				},
-				{
-					"name": "鲜肉云吞",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/aa2abc5e-b278-4602-9f14-81b19dfa8847_200x200.jpeg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "面食",
-					"props": []
-				},
-				{
-					"name": "葱花饼",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/2b6ea757-9b6f-4fed-805c-c8c48b79ec91_200x200.jpeg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "面食",
+					"categoryName": "干拌面类",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "小菜",
+			"name": "小吃类",
 			"foods": [
 				{
-					"name": "白灼应季青菜",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/559230d7-f2ca-45c4-ae85-97e74364d17d_200x200.jpeg",
-					"price": 7,
+					"name": "陕西凉皮",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/653aabec-fd0d-44a4-91a8-f23ca7e7eeb9_200x200.jpg",
+					"price": 9,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "卤海带（4个）",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/17d7f185-8ba3-4376-91f7-250ae199dd4e_200x200.jpeg",
-					"price": 5,
+					"name": "腊汁肉夹馍",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/c13a38d0-6a23-47ad-8ce8-808ef57b7898_200x200.jpg",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "脆爽萝卜",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/871d9fa1-6ee1-4a3c-a307-8293f4e9ab8a_200x200.jpeg",
-					"price": 3,
+					"name": "米皮",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/682c4340-f685-4159-913b-f006ea1ddf5c_200x200.jpg",
+					"price": 9,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "开胃酸菜",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/79b2315f-15dd-4427-b8bf-75aa96406d66_200x200.png",
-					"price": 3,
+					"name": "纯瘦肉夹馍",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/dc883392-a349-409d-8b03-497686577792_200x200.jpg",
+					"price": 11,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "韩式泡菜",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/654bc77b-b7a4-4b11-b438-0f5b760bfb1a_200x200.jpeg",
-					"price": 5,
+					"name": "凉拌荞麦饸络",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/d355b797-a08d-41ad-b372-f17bac282be5_200x200.jpg",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "海草",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/0254ad1f-88db-46a4-bbd3-cb621412b9fd_200x200.png",
-					"price": 5,
+					"name": "白吉馍",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/a1476589-1058-4382-87ae-13a020c5d19e_200x200.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "卤莲藕（4片）",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/71f20bd6-474b-49d5-bba3-ba8c4b540284_200x200.jpeg",
-					"price": 5,
+					"name": "煎蛋",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/b149b712-bcf5-4825-a4e5-e3bf946f6bcd_200x200.jpg",
+					"price": 2,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "香辣鱼皮",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/42c61969-8fb0-485e-a5a8-5a7f3ae5a831_200x200.jpg",
+					"name": "羊杂汤《香辣》",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 16,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "紫菜蛋花汤",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/1b99bfe4-56f2-4388-9c23-cce3b64cb606_200x200.jpg",
 					"price": 8,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
 					"props": []
 				},
 				{
-					"name": "鱿鱼骨",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/aff0c622-eac2-4264-8ca6-6ab9a58e5d24_200x200.jpeg",
-					"price": 8,
+					"name": "土豆丝夹馍",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 5,
 					"unit": "份",
-					"categoryName": "小菜",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "三鲜米线",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "麻辣米线",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "臊子汤米线",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "臊子汤荞麦饸络",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
+					"props": []
+				},
+				{
+					"name": "蜜制甑糕",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/3d5a2c03-99e6-4a0d-83d4-cd0034372c3d_200x200.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "小吃类",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "小食",
+			"name": "套餐类",
 			"foods": [
 				{
-					"name": "卤豆腐",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/5ff6f41b-1712-40d3-8321-c0229b3c1d0a_200x200.jpeg",
+					"name": "凉皮+肉夹馍+冰峰",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/cf251737-d68d-4525-a5ea-32bfb1f67c7b_200x200.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "麻辣米线+肉夹馍",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/bb8198a0-c018-454b-96c4-a9f5d358d73a_200x200.jpg",
+					"price": 23,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "臊子面+肉夹馍+冰峰",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/476f329d-5fd6-4857-b683-b8524bc0a1ff_200x200.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "凉拌饸络+肉夹馍+煎蛋",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/7316ffc7-2ee7-47d0-898a-a161388317f6_200x200.jpg",
+					"price": 22,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "油泼扯面+小素拼+煎蛋",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/b64dc0ea-45a8-4deb-bb96-20f9650b0531_200x200.jpg",
+					"price": 25,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				},
+				{
+					"name": "牛肉手工面+一俩牛肉+煎蛋",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/09395790-1228-41ca-b9f3-aab15eeed575_200x200.jpg",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "套餐类",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "酒水类",
+			"foods": [
+				{
+					"name": "可乐罐装",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/5d73b5d4-bedd-430a-b699-efb96b0adb2c_200x200.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "雪碧",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/8c8073b2-1ff6-45e7-91ea-ba991d4b07d2_200x200.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "冰红茶",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/a43c48d0-4903-4d85-8ba7-03b025826489_200x200.jpg",
 					"price": 4,
-					"unit": "块",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "卤蛋",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/ce349c93-b371-493d-bccf-5c8ed40acf08_200x200.jpeg",
-					"price": 3,
 					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "蒸蛋",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/3c34a885-7b03-4aa6-ab9e-5c3aaf76d22f_200x200.jpeg",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "卤水花生",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/92060798-f34a-486a-808c-d6c936baabd4_200x200.jpeg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "台湾香肠",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/61d20753-ca03-45fd-a137-e7405d978a5d_200x200.jpeg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "烤鳗鱼串",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/bac844f0-c1db-469c-bec1-fdc7d1212f53_200x200.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "烤鸡翅",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/76165f0a-1251-4f61-a3fc-1fa616bda7fd_200x200.jpg",
-					"price": 10,
-					"unit": "对",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "烤秋刀鱼",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/dbe1ac9a-d815-4f53-ad1a-d56fdafcc9da_200x200.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "味增汤",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/d34fe6b2-9439-4517-8148-b0d9789feffe_200x200.jpg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				},
-				{
-					"name": "红枣鸡汤",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/304bf20b-2928-4ee7-9ba4-c8516c3cfee3_200x200.jpeg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "小食",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "甜品",
-			"foods": [
-				{
-					"name": "焦糖布丁",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/50cffe86-b528-4d74-810e-56fc9fe620e3_200x200.jpeg",
-					"price": 3.5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "冰糖雪耳",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/275dc393-2714-463f-84ca-841e924291fc_200x200.jpeg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "甜酒煮蛋",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/273a80d9-f492-4608-af34-ada48ea200ed_200x200.png",
-					"price": 6,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "紫米粥",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/2d068a93-4a21-4bc8-989f-289529a286b1_200x200.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				},
-				{
-					"name": "番薯糖水",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/1b3ea99d-85aa-4fe1-8b96-5ef7bd329f44_200x200.jpeg",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "甜品",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "饮品/酒水",
-			"foods": [
-				{
-					"name": "可尔必思",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/76e35178-2d55-4864-9050-9c294cec5f7e_200x200.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮品/酒水",
-					"props": []
-				},
-				{
-					"name": "柠檬雪碧",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/e3f1dd54-2b6d-4395-bb6a-e6270a1aa62e_200x200.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮品/酒水",
-					"props": []
-				},
-				{
-					"name": "柠檬可乐",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/4c0e192c-d074-47df-82ed-584c81211c3f_200x200.png",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "饮品/酒水",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
 					"name": "加多宝",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/7151adf8-be2e-4b1c-8762-80b9de67e645_200x200.png",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/b3d6d659-1e96-45dd-b3c1-758837a9daba_200x200.jpg",
 					"price": 5,
 					"unit": "份",
-					"categoryName": "饮品/酒水",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "泰国进口豆奶",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/226b9ac3-ec13-472c-92b2-c4ccb3f1982e_200x200.png",
-					"price": 8,
+					"name": "西安冰峰",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/9fdfa6d2-d454-44b1-a79d-fa7a59c89f1c_200x200.jpg",
+					"price": 5,
 					"unit": "份",
-					"categoryName": "饮品/酒水",
+					"categoryName": "酒水类",
 					"props": []
 				},
 				{
-					"name": "台湾啤酒",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/23211494-ae6c-4215-9b10-b8697e97af07_200x200.jpeg",
-					"price": 8,
-					"unit": "份",
-					"categoryName": "饮品/酒水",
-					"props": []
-				},
-				{
-					"name": "米浆",
-					"picUrl": "https://img.pospal.cn/productImages/4223821/c6362e67-56e9-430b-80d0-a31dc01e8105_200x200.jpeg",
+					"name": "汉斯小木屋",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/ac10f3ed-0b58-43e3-b97a-17b32603e03b_200x200.jpg",
 					"price": 6,
 					"unit": "份",
-					"categoryName": "饮品/酒水",
+					"categoryName": "酒水类",
+					"props": []
+				},
+				{
+					"name": "青岛",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/0a586efa-373d-45bd-9638-e875b4e3a6e1_200x200.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "酒水类",
 					"props": []
 				}
 			]
 		},
 		{
-			"name": "打包",
+			"name": "菜类",
 			"foods": [
 				{
-					"name": "打包费",
-					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
-					"price": 1,
+					"name": "小素拼",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/d373efb7-b557-4d22-8d26-bb9268eced53_200x200.jpg",
+					"price": 10,
 					"unit": "份",
-					"categoryName": "打包",
+					"categoryName": "菜类",
+					"props": []
+				},
+				{
+					"name": "大素拼",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/950bad5a-82b6-449f-8099-1db50afbfe83_200x200.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "菜类",
+					"props": []
+				},
+				{
+					"name": "拍黄瓜",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "菜类",
+					"props": []
+				},
+				{
+					"name": "三俩牛肉",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 30,
+					"unit": "份",
+					"categoryName": "菜类",
+					"props": []
+				},
+				{
+					"name": "油炸花生米",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "菜类",
+					"props": []
+				},
+				{
+					"name": "小凉菜",
+					"picUrl": "https://img.pospal.cn/productImages/4702805/333b5a96-ab4d-4ba4-b20d-eab9b09b5399_200x200.jpg",
+					"price": 7,
+					"unit": "份",
+					"categoryName": "菜类",
+					"props": []
+				},
+				{
+					"name": "秘制卤肉",
+					"picUrl": "https://img.pospal.cn/productImages/0/default/food_200x200.png",
+					"price": 28,
+					"unit": "份",
+					"categoryName": "菜类",
 					"props": []
 				}
 			]
