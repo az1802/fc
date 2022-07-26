@@ -21,7 +21,9 @@ let priceKey = 'currentPrice' //现价(折扣价)
 let merchantAllData = require("./merchantInfo.json");
 let storeData = require("./storeInfo.json");
 
-let requestShopData = storeData.data
+let requestShopData ={
+  shopName:"喜记茶餐厅"
+}
 let requestMenuData = merchantAllData.data
 const { isRegExp } = require("util");
 
@@ -143,7 +145,7 @@ async function handleRequestData(requestShopData, requestMenuData) {
   try {
     // 商户信息
     let merchantInfo = {
-      shopName: requestShopData.store_name,
+      shopName: requestShopData.shopName,
       shop_pic: "",
       categories: []
     }
@@ -164,8 +166,6 @@ async function handleRequestData(requestShopData, requestMenuData) {
         })
       }
       categoryData.foods = categoryItem.list.reduce((res, foodItem) => {
-        console.log('res', res)
-        console.log('foodItem', foodItem)
         if (foodItem) {
           let picUrl = foodItem.img[0] || "";
           foodItem.goods_name = foodItem.goods_name.replace('/', "-")

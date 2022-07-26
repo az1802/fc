@@ -1,5 +1,5 @@
 {
-	"shopName": "乌鸡米线",
+	"shopName": "乌鸡米线 南山店",
 	"shop_pic": "",
 	"categories": [
 		{
@@ -44,6 +44,14 @@
 							]
 						}
 					]
+				},
+				{
+					"name": "鸡汤米线+油卤鸡腿",
+					"picUrl": "http://p0.meituan.net/rmscashier/a99ca269914a6b78cc2de262604f0502327831.jpg",
+					"price": 33,
+					"unit": "份",
+					"categoryName": "鸡汤米线",
+					"props": []
 				},
 				{
 					"name": "酸辣鸡杂乌鸡米线（中辣）",
@@ -174,14 +182,6 @@
 					]
 				},
 				{
-					"name": "鸡汤米线+油卤鸡腿",
-					"picUrl": "http://p0.meituan.net/rmscashier/a99ca269914a6b78cc2de262604f0502327831.jpg",
-					"price": 33,
-					"unit": "份",
-					"categoryName": "鸡汤米线",
-					"props": []
-				},
-				{
 					"name": "肉臊子乌鸡米线（微辣）",
 					"picUrl": "https://p0.meituan.net/rmscashier/299086bed08430a1f8d69cc6378558bc955367.jpg",
 					"price": 26,
@@ -229,38 +229,6 @@
 				{
 					"name": "乌鸡银丝面（原味）",
 					"picUrl": "https://p1.meituan.net/rmscashier/3fff1e85dfc59ce307880796fabb00d0961266.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "鸡汤面条",
-					"props": [
-						{
-							"name": "加料",
-							"values": [
-								{
-									"value": "常规",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "不要葱花",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								},
-								{
-									"value": "不要韭菜",
-									"price": 0,
-									"propName": "加料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酸辣鸡杂银丝面（中辣）",
-					"picUrl": "https://p1.meituan.net/rmscashier/c7e81c534f54bd01e9d5b9fee64a0fa6965347.jpg",
 					"price": 26,
 					"unit": "份",
 					"categoryName": "鸡汤面条",
@@ -395,6 +363,38 @@
 					"props": []
 				},
 				{
+					"name": "酸辣鸡杂银丝面（中辣）",
+					"picUrl": "https://p1.meituan.net/rmscashier/c7e81c534f54bd01e9d5b9fee64a0fa6965347.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "鸡汤面条",
+					"props": [
+						{
+							"name": "加料",
+							"values": [
+								{
+									"value": "常规",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "不要葱花",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								},
+								{
+									"value": "不要韭菜",
+									"price": 0,
+									"propName": "加料",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
 					"name": "肉臊子银丝面（微辣）",
 					"picUrl": "https://p0.meituan.net/rmscashier/299086bed08430a1f8d69cc6378558bc955367.jpg",
 					"price": 26,
@@ -440,14 +440,6 @@
 			"name": "干拌米线套餐",
 			"foods": [
 				{
-					"name": "酸辣鸡杂干拌米线（中辣）+乌鸡蔬菜汤",
-					"picUrl": "http://p0.meituan.net/rmscashier/ee4930957c32213300ac84a2407df4e31196479.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "干拌米线套餐",
-					"props": []
-				},
-				{
 					"name": "麻辣鸡块干拌米线（麻辣）+乌鸡蔬菜汤",
 					"picUrl": "https://p1.meituan.net/rmscashier/fee9a1650832eb5d02560211c2eb35ec581419.jpg",
 					"price": 28,
@@ -456,16 +448,24 @@
 					"props": []
 				},
 				{
-					"name": "红烧肉干拌米线（微辣）+乌鸡蔬菜汤",
-					"picUrl": "http://p0.meituan.net/rmscashier/0363db73e7e6bf6f76aec650834bf8851190886.jpg",
+					"name": "红烧肥肠干拌米线（中辣）+乌鸡蔬菜汤",
+					"picUrl": "http://p0.meituan.net/rmscashier/bf3104b985689d66ab8dbf4bdf01bc7c1252156.jpg",
 					"price": 28,
 					"unit": "份",
 					"categoryName": "干拌米线套餐",
 					"props": []
 				},
 				{
-					"name": "红烧肥肠干拌米线（中辣）+乌鸡蔬菜汤",
-					"picUrl": "http://p0.meituan.net/rmscashier/bf3104b985689d66ab8dbf4bdf01bc7c1252156.jpg",
+					"name": "酸辣鸡杂干拌米线（中辣）+乌鸡蔬菜汤",
+					"picUrl": "http://p0.meituan.net/rmscashier/ee4930957c32213300ac84a2407df4e31196479.jpg",
+					"price": 26,
+					"unit": "份",
+					"categoryName": "干拌米线套餐",
+					"props": []
+				},
+				{
+					"name": "红烧肉干拌米线（微辣）+乌鸡蔬菜汤",
+					"picUrl": "http://p0.meituan.net/rmscashier/0363db73e7e6bf6f76aec650834bf8851190886.jpg",
 					"price": 28,
 					"unit": "份",
 					"categoryName": "干拌米线套餐",
@@ -484,14 +484,6 @@
 		{
 			"name": "乌鸡油饭套餐",
 			"foods": [
-				{
-					"name": "酸辣鸡杂乌鸡油饭（中辣）+乌鸡蔬菜汤",
-					"picUrl": "http://p0.meituan.net/rmscashier/ee4930957c32213300ac84a2407df4e31196479.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "乌鸡油饭套餐",
-					"props": []
-				},
 				{
 					"name": "麻辣鸡块乌鸡油饭（麻辣）+乌鸡蔬菜汤",
 					"picUrl": "http://p0.meituan.net/rmscashier/0f18ca38693a97ab2b8dcd6db637cf081176297.jpg",
@@ -520,6 +512,14 @@
 					"name": "乌鸡油卤鸡腿饭套餐",
 					"picUrl": "http://p1.meituan.net/rmscashier/c3fa01c6252614ddcb1b904cff16ba78313181.jpg",
 					"price": 33,
+					"unit": "份",
+					"categoryName": "乌鸡油饭套餐",
+					"props": []
+				},
+				{
+					"name": "酸辣鸡杂乌鸡油饭（中辣）+乌鸡蔬菜汤",
+					"picUrl": "http://p0.meituan.net/rmscashier/ee4930957c32213300ac84a2407df4e31196479.jpg",
+					"price": 26,
 					"unit": "份",
 					"categoryName": "乌鸡油饭套餐",
 					"props": []
