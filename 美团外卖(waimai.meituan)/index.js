@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
-const requestMenuJson = require('./merchantInfo.js');
+const requestMenuJson = require('./merchantInfo.json').data;
 let merchantMenuInfo = requestMenuJson;
 
 let shopInfo = {
-  name: 'CUCU炸鸡汉堡',
+  name: 'AOK',
   logo: '',
 };
 let categoryList = merchantMenuInfo.food_spu_tags;
@@ -31,8 +31,23 @@ let menuSetting = {
   specifications: [], //规格
   practice: [
     "份量",
-    "烧烤味",
-    "蜜糖",
+    "冰量",
+    "饮品选择",
+    "雪糕",
+    "冰度",
+    "新鲜水果（选2款）",
+    "汁底（选一款）",
+    "雪糕球",
+    "小料（选3样）",
+    "粉圆",
+    "热度",
+    "小料",
+    "暖",
+    "茶底",
+    "冷热",
+    "温度",
+    "甜度",
+    "配料"
 
 
 
@@ -42,9 +57,24 @@ let menuSetting = {
   propsGroupSort: [
 
 
-    "份量",
-    "烧烤味",
-    "蜜糖",
+  	"份量",
+	"冰量",
+	"饮品选择",
+	"雪糕",
+	"冰度",
+	"新鲜水果（选2款）",
+	"汁底（选一款）",
+	"雪糕球",
+	"小料（选3样）",
+	"粉圆",
+	"热度",
+	"小料",
+	"暖",
+	"茶底",
+	"冷热",
+	"温度",
+	"甜度",
+	"配料"
   ],
   propsSort: {},
 };
