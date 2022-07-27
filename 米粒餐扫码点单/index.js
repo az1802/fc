@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
-const token = 'v1tkp2bl0b0kc46br723m4jh0t91hbtfaf';
+const token = '3qsoodg5aelq745nnlu9mpnrsqa1he1fab';
+const propGroupArr = new Set()
 const {
   requestUrl,
   genImgs,
@@ -23,7 +24,7 @@ const exportMode = 'feie';
 
 const outputDir = path.join(__dirname, 'merchantInfos');
 let shopInfo = {
-  name: '美蛙甲鱼馆',
+  name: '湖南美食',
 };
 
 let res = require('./merchantInfo.json');
@@ -32,10 +33,10 @@ let { dishList: menuList } = res.data;
 let menuSetting = {
   //到处的菜品属性归为规格,备注,加料,做法
   specifications: [], //规格
-  practice: ['打包', '种类', '做法', '打包'], //做法
+  practice: [ '规格', '粉', '口味', '面' ], //做法
   feeding: ['加料'], //加料
   remarks: [], //备注
-  propsGroupSort: ['打包', '种类', '做法', '打包'],
+  propsGroupSort: [ '规格', '粉', '口味', '面' ],
   propsSort: {},
 };
 
@@ -51,24 +52,62 @@ async function getMerchantInfo() {
   return handleRequestData();
 }
 
-function formatFoodProps(foodItem) {
+function formatFoodProps(foodDetail,foodItem) {
+  let {sizeList,flavorList,dishSideList} = foodDetail;
   let propsRes = [];
+  if(sizeList.length){
+    propGroupArr.add("规格")
+    propsRes.push({
+      name: "规格",
+      values:sizeList.map(item=> {
+        return {
+          "value": item.sizeName,
+          "price": item.price - foodItem.price,
+          "propName": "规格",
+          "isMul": false
+        }
+      })
+    })
+  }
 
+  if(flavorList.length){
+    flavorList.forEach(groupItem=>{
+      propGroupArr.add( groupItem.flavorName,)
+      propsRes.push({
+        name: groupItem.flavorName,
+        values:groupItem.detailList.map(item=> {
+          return {
+            "value": item.detailName,
+            "price": 0,
+            "propName": groupItem.flavorName,
+            "isMul": false
+          }
+        })
+      })
+    })
+
+  }
+  if(dishSideList.length){
+    // TODO
+  }
   return propsRes;
 }
-
+var cnt = 1;
 async function getDishInfo(dishId) {
   let res = await axios.request({
-    baseURL: 'https://zzgsaas.leshuazf.com',
-    url: '/customer/dish/outer/getDish',
+    url: 'https://zzgsaas.leshuazf.com/customer/dish/outer/getDish',
+    method:"post",
     headers: {
       token: token,
     },
-    params: {
+    data: {
       id: dishId,
     },
+  }).catch(err=>{
+    cnt==1&&console.log('err: ', err);
+
   });
-  return res;
+  return res&&res.data&&res.data.data || false;
 }
 // 爬取的数据中进行信息提取
 async function handleRequestData() {
@@ -82,18 +121,17 @@ async function handleRequestData() {
 
     // 菜品目录
     let categories = [];
+    console.log('menuList: ', menuList);
 
-    categories = menuList.map(categoryItem => {
+    categories = await Promise.all(menuList.map(async categoryItem => {
       let categoryData = {
         name: '',
         foods: [],
       };
       categoryData.name = categoryItem.categoryName;
-      categoryData.foods = categoryItem.cateDishList.reduce(
-        async (res, foodItem) => {
-          // let foodDetailInfo = await getDishInfo(foodItem.id);
-          // console.log('foodDetailInfo: ', foodDetailInfo);
-
+      categoryData.foods = await Promise.all(categoryItem.cateDishList.map(
+        async ( foodItem) => {
+          let foodDetailInfo = await getDishInfo(foodItem.id);
           if (foodItem) {
             let foodData = {
               name: foodItem.dishName.replace(/\//gi, '-') || '',
@@ -103,21 +141,21 @@ async function handleRequestData() {
               categoryName: categoryData.name,
               props: [],
             };
-            foodData.props = [];
-            res.push(foodData);
+            foodData.props = foodDetailInfo ? formatFoodProps(foodDetailInfo,foodItem) : [];
+            return foodData;
           }
-          return res;
-        },
-        []
-      );
+          return {}
+
+        }
+      ))
 
       return categoryData;
-    });
+    }))
 
     merchantInfo.categories = categories;
     return merchantInfo;
   } catch (err) {
-    console.log(err, `格式化转换菜品发生错误${menuRequestUrl}`);
+    console.log(err, `格式化转换菜品发生错误`);
   }
 }
 
@@ -142,6 +180,7 @@ async function genImgsAndExcel() {
     'color: MidnightBlue; background: Aquamarine; font-size: 20px;',
     shopName
   );
+  console.log([...propGroupArr])
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir);
