@@ -21,28 +21,16 @@ const exportMode = "feie"
 let menuSetting = { //到处的菜品属性归为规格,备注,加料,做法
   specifications:["规格"],//默认存在规格属性
   practice: [
-    "蛋",
-    "其他",
-    "加辣",
-    "免辣",
-    "不辣",
-    "去冰",
-    "加冰",
-    "加糖",
-    "加卤水"
+    "辣度",
+    "免葱",
+    "口味"
   ],//做法
   feeding:[],//加料
   remarks: [],//备注
   propsGroupSort: [
-    "蛋",
-    "其他",
-    "加辣",
-    "免辣",
-    "不辣",
-    "去冰",
-    "加冰",
-    "加糖",
-    "加卤水"
+    "辣度",
+    "免葱",
+    "口味"
   ],
   propsSort: {
   }
@@ -54,12 +42,12 @@ const outputDir = path.join(__dirname, "merchantInfos")
 
 
 // 打印日志到test.json 文件夹
-async function logInfo(info,fileName="test") { 
+async function logInfo(info,fileName="test") {
   fs.writeFileSync("./"+fileName+".json",JSON.stringify(info,null,'\t'))
 }
 
 // 获取原始数据
-async function getMerchantInfo() { 
+async function getMerchantInfo() {
   // let requestMenuData = await requestUrl(menuRequestUrl);
   let merchantInfo = await handleRequestData(merchantMenuInfo)
   return merchantInfo;
@@ -67,8 +55,8 @@ async function getMerchantInfo() {
 
 let propsGroupArr=[];
 
-function formatFoodProps(foodItem) { 
- 
+function formatFoodProps(foodItem) {
+
   let propsRes = [];
 
   if (foodItem.units.length > 1) { //存在多种规格
@@ -76,7 +64,7 @@ function formatFoodProps(foodItem) {
     propsRes.push({
       name: "规格",
       values: foodItem.units.map(propValItem => {
-       
+
         return {
           value: propValItem.unit,
           price:parseFloat(propValItem.originalPrice || propValItem.price || 0) ,
@@ -108,9 +96,9 @@ function formatFoodProps(foodItem) {
       })
     })
   }
-    
+
   return propsRes;
-  
+
 }
 // 爬取的数据中进行信息提取
 async function  handleRequestData(requestMenuData) {
@@ -144,24 +132,24 @@ async function  handleRequestData(requestMenuData) {
     merchantInfo.categories = categoryInfo
     // await logInfo(merchantInfo)
     return merchantInfo;
-  } catch (err) { 
+  } catch (err) {
     console.log(err, `格式化转换菜品发生错误`)
   }
 }
 
 // 数据转换提取,写入相关文件
 
-async function mkShopDir(shopDir) { 
+async function mkShopDir(shopDir) {
   delDirSync(shopDir);
   mkdirSync(shopDir)
 }
 
 // 生成图片文件夹以及excel文件
-async function genImgsAndExcel() { 
+async function genImgsAndExcel() {
   let merchantInfo = await getMerchantInfo();
   await logInfo(merchantInfo, "merchantRes")
   await logInfo(propsGroupArr, "propsGroupArr")
-  
+
   // return;
   let { shopName} = merchantInfo
   let shopDir = path.join(outputDir, formatFileName(shopName));
