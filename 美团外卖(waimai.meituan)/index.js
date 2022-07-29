@@ -4,7 +4,7 @@ const requestMenuJson = require('./merchantInfo.json').data;
 let merchantMenuInfo = requestMenuJson;
 
 let shopInfo = {
-  name: 'AOK',
+  name: '袁记云吞',
   logo: '',
 };
 let categoryList = merchantMenuInfo.food_spu_tags;
@@ -30,24 +30,7 @@ let menuSetting = {
   //到处的菜品属性归为规格,备注,加料,做法
   specifications: [], //规格
   practice: [
-    "份量",
-    "冰量",
-    "饮品选择",
-    "雪糕",
-    "冰度",
-    "新鲜水果（选2款）",
-    "汁底（选一款）",
-    "雪糕球",
-    "小料（选3样）",
-    "粉圆",
-    "热度",
-    "小料",
-    "暖",
-    "茶底",
-    "冷热",
-    "温度",
-    "甜度",
-    "配料"
+
 
 
 
@@ -56,25 +39,6 @@ let menuSetting = {
   remarks: [], //备注
   propsGroupSort: [
 
-
-  	"份量",
-	"冰量",
-	"饮品选择",
-	"雪糕",
-	"冰度",
-	"新鲜水果（选2款）",
-	"汁底（选一款）",
-	"雪糕球",
-	"小料（选3样）",
-	"粉圆",
-	"热度",
-	"小料",
-	"暖",
-	"茶底",
-	"冷热",
-	"温度",
-	"甜度",
-	"配料"
   ],
   propsSort: {},
 };
@@ -200,7 +164,8 @@ async function genImgsAndExcel() {
   let shopDir = path.join(outputDir, formatFileName(shopName));
   // // 重建创建商铺目录
   await mkShopDir(shopDir);
-
+  menuSetting.practice  = propsGroupArr
+  menuSetting.propsGroupSort  = propsGroupArr
   // // mkShopDir(merchantInfo)
   if (exportMode == 'keruyun') {
     genImgs(merchantInfo, outputDir);

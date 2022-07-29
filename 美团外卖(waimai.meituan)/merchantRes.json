@@ -1,14 +1,1366 @@
 {
-	"shopName": "AOK",
+	"shopName": "袁记云吞",
 	"shop_pic": "",
 	"categories": [
+		{
+			"name": "┌⭐┐  收藏减钱",
+			"foods": [
+				{
+					"name": "收藏⭐门店玉米汁3.9元购",
+					"picUrl": "http://p0.meituan.net/wmproduct/95b7bf06456335b2e3b2a02783f3dc2d466903.jpg@150w_150h_1e_1c",
+					"price": 3.9,
+					"unit": "份",
+					"categoryName": "┌⭐┐  收藏减钱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【爆款】鲜虾蟹籽云吞（熟，3个起购）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c8532ad922da34ab4405bcad0aad38a657884.jpg@150w_150h_1e_1c",
+					"price": 0.68,
+					"unit": "份",
+					"categoryName": "┌⭐┐  收藏减钱",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【请点右上角⭐↗关注送你袁记调味包】",
+					"picUrl": "http://p0.meituan.net/wmproduct/94dc982768819f1039f234db99a97bce217264.png@150w_150h_1e_1c",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "┌⭐┐  收藏减钱",
+					"props": []
+				},
+				{
+					"name": "遇到什么问题~请及时联系掌柜（18373689493）",
+					"picUrl": "http://p1.meituan.net/wmproduct/6a1afebef7358bbebf84b067c7aac08142176.jpg@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "┌⭐┐  收藏减钱",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "┌ 🏆 ┐超值套餐",
+			"foods": [
+				{
+					"name": "【限量抢套餐】 招牌炸酱面+鲜榨玉米汁",
+					"picUrl": "http://p1.meituan.net/wmproduct/8343f58b8f60c3591c3547dbaca4731d190081.jpg@150w_150h_1e_1c",
+					"price": 20.98,
+					"unit": "份",
+					"categoryName": "┌ 🏆 ┐超值套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉云吞面+玉米汁套餐",
+					"picUrl": "http://p1.meituan.net/wmproduct/5c82744b3b0f29027bde978e7f5682f7714761.png@150w_150h_1e_1c",
+					"price": 24.98,
+					"unit": "份",
+					"categoryName": "┌ 🏆 ┐超值套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "「店长推荐」自选干拌+鲜榨玉米汁（无吸管）",
+					"picUrl": "http://p0.meituan.net/wmproduct/d7983d861188ff29d3420281e2fa4e94636638.jpg@150w_150h_1e_1c",
+					"price": 26.98,
+					"unit": "份",
+					"categoryName": "┌ 🏆 ┐超值套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "馅料",
+							"values": [
+								{
+									"value": "玉米鲜肉饺",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								},
+								{
+									"value": "冬菇马蹄鲜肉饺",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								},
+								{
+									"value": "紫菜鲜肉云吞",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味做法",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "蒜蓉干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "花生干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾蟹籽云吞+玉米汁",
+					"picUrl": "http://p0.meituan.net/wmproduct/cddd71c7deb54a16090cfedcf706ae70692713.jpg@150w_150h_1e_1c",
+					"price": 33.98,
+					"unit": "份",
+					"categoryName": "┌ 🏆 ┐超值套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "特色干拌",
+							"values": [
+								{
+									"value": "四川红油",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "诱人蒜香",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "浓香花生",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "火辣剁椒",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【臻选】鲜虾双拼云吞",
+					"picUrl": "http://p0.meituan.net/wmproduct/aa2a62392c392b70d00cb4a5df170000116400.jpg@150w_150h_1e_1c",
+					"price": 28.98,
+					"unit": "份",
+					"categoryName": "┌ 🏆 ┐超值套餐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "3鲜虾+7鲜肉",
+							"values": [
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "3鲜虾+7鲜肉",
+									"isMul": true
+								},
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "3鲜虾+7鲜肉",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "3鲜虾+7鲜肉",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "┌ 👍 ┐招牌饺子",
+			"foods": [
+				{
+					"name": "全家福饺子（三种口味随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c7350385abe4a026fe593a0eff323be9813033.jpg@150w_150h_1e_1c",
+					"price": 20.98,
+					"unit": "份",
+					"categoryName": "┌ 👍 ┐招牌饺子",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "玉米鲜肉饺",
+					"picUrl": "http://p0.meituan.net/wmproduct/8d795477c18a35d05de3a3515d83abe570797.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 👍 ┐招牌饺子",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "冬菇马蹄鲜肉饺",
+					"picUrl": "http://p1.meituan.net/wmproduct/dfaad92087524eea5f055b242144e4ba82558.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 👍 ┐招牌饺子",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白菜鲜肉饺",
+					"picUrl": "http://p0.meituan.net/wmproduct/39ce9ab17f8ff09f75762e0cdad98ef676134.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 👍 ┐招牌饺子",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "韭菜鲜肉饺",
+					"picUrl": "http://p0.meituan.net/wmproduct/a0c7bdb497fef774f8e77c9b54620d7278404.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 👍 ┐招牌饺子",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芹菜鲜肉饺",
+					"picUrl": "http://p1.meituan.net/wmproduct/53488c8f785ccd7926a5387f05810ef179141.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 👍 ┐招牌饺子",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "┌ 🍤 ┐爽滑云吞",
+			"foods": [
+				{
+					"name": "全家福云吞（三种口味随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/51667a9be0d4e52ff78abf06d0ba9490680666.jpg@150w_150h_1e_1c",
+					"price": 20.98,
+					"unit": "份",
+					"categoryName": "┌ 🍤 ┐爽滑云吞",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "12个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "特色干拌",
+							"values": [
+								{
+									"value": "四川红油",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "诱人蒜香",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "浓香花生",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "火辣剁椒",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾蟹籽云吞",
+					"picUrl": "http://p1.meituan.net/wmproduct/db1d2e46db33e4fe66cc58d316c55b31116382.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🍤 ┐爽滑云吞",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉云吞",
+					"picUrl": "http://p0.meituan.net/wmproduct/b8fd419d989a43d2c949ab76e184d138445395.png@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 🍤 ┐爽滑云吞",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "12个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "紫菜鲜肉云吞",
+					"picUrl": "http://p1.meituan.net/wmproduct/b31a70ba74a6dcfe036cf66351598fc979467.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 🍤 ┐爽滑云吞",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "12个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "马蹄鲜肉云吞",
+					"picUrl": "http://p0.meituan.net/wmproduct/fbb61e772ab4e8f242acb1d0e4fe69f8413106.png@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "┌ 🍤 ┐爽滑云吞",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "12个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "┌ 🍜 ┐手工面食",
+			"foods": [
+				{
+					"name": "鲜虾蟹籽云吞面(熟食)",
+					"picUrl": "http://p1.meituan.net/wmproduct/da68f42d2028f52707f0c282a478616a91871.jpg@150w_150h_1e_1c",
+					"price": 24.98,
+					"unit": "份",
+					"categoryName": "┌ 🍜 ┐手工面食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1碗",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "杂酱面(熟食)",
+					"picUrl": "http://p1.meituan.net/wmproduct/2c842224e9b161166878631160abfdd186553.jpg@150w_150h_1e_1c",
+					"price": 15.98,
+					"unit": "份",
+					"categoryName": "┌ 🍜 ┐手工面食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1碗",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "干贝火腿捞虾籽面",
+					"picUrl": "http://p0.meituan.net/wmproduct/610c9a4699f61b2a6cc612a9598c8c5985662.jpg@150w_150h_1e_1c",
+					"price": 18.98,
+					"unit": "份",
+					"categoryName": "┌ 🍜 ┐手工面食",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "┌ 🥗 ┐配饺小食",
+			"foods": [
+				{
+					"name": "韭菜煎饺",
+					"picUrl": "http://p0.meituan.net/wmproduct/e84cf64ce418ab397677a5d6f47b559e64830.jpg@150w_150h_1e_1c",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "┌ 🥗 ┐配饺小食",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "┌ 🥛 ┐健康饮品",
+			"foods": [
+				{
+					"name": "山药红枣汁",
+					"picUrl": "http://p0.meituan.net/wmproduct/ddafdc7624b46f173bc1f85b5bd4588d72978.jpg@150w_150h_1e_1c",
+					"price": 10.98,
+					"unit": "份",
+					"categoryName": "┌ 🥛 ┐健康饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "玉米汁",
+					"picUrl": "http://p1.meituan.net/wmproduct/6fcfbb82fc35637721d3d64e556813f455718.jpg@150w_150h_1e_1c",
+					"price": 8.98,
+					"unit": "份",
+					"categoryName": "┌ 🥛 ┐健康饮品",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1杯",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "┌ 🌽 ┐生鲜系列",
+			"foods": [
+				{
+					"name": "所有生鲜产品不提供烹煮（亲拿回去煮哦~）",
+					"picUrl": "http://p0.meituan.net/wmproduct/7dc8f817c94ebd4c504901feb0695f1645209.png@150w_150h_1e_1c",
+					"price": "",
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": []
+				},
+				{
+					"name": "云吞面(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/3752b177d3337cd3439cef42b82d7def235578.png@150w_150h_1e_1c",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "爽滑拉面(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/e7da4aa6090660425f869bb6dcb27817297985.png@150w_150h_1e_1c",
+					"price": 5,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "紫菜鲜肉云吞(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/4e7fee34c6c44f9a6f713e0f5bea146d54962.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "24个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾蟹籽鲜肉云吞(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/67a37ed44f2d8e38d0aa046a2fd16cb141719.jpg@150w_150h_1e_1c",
+					"price": 39.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "24个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉云吞(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/d63d574f02fc5588e32a0e568fd9f5b942346.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "24个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "紫菜鲜肉饺（生鲜）",
+					"picUrl": "http://p0.meituan.net/wmproduct/d364b412404fb318cf056545488dcbf456983.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "韭菜鲜肉饺(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/9c87af9c13bc08da878962f874e646cc47784.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "玉米鲜肉饺(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/40217f53603a769d4f40a87acc6409b044347.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "白菜鲜肉饺(生鲜)",
+					"picUrl": "http://p0.meituan.net/wmproduct/66bf0ce5535db188c8e4ecfde9e2d0bf46026.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芹菜鲜肉饺(生鲜)",
+					"picUrl": "http://p1.meituan.net/wmproduct/fb8c1c934f3b012c33e8d56de98a820547715.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "┌ 🌽 ┐生鲜系列",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "┌ 🌶┐灵魂酱料",
+			"foods": [
+				{
+					"name": "醋包",
+					"picUrl": "http://p0.meituan.net/wmproduct/0eac84537559b2acc7f35a162c81732c38902.jpg@150w_150h_1e_1c",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "┌ 🌶┐灵魂酱料",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "红油包",
+					"picUrl": "http://p0.meituan.net/wmproduct/e6e56b6e6376b047ea89e994c7f62b0543818.jpg@150w_150h_1e_1c",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "┌ 🌶┐灵魂酱料",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱油包",
+					"picUrl": "http://p0.meituan.net/wmproduct/31f9e6fd951d59766d3e11a411b6754140831.jpg@150w_150h_1e_1c",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "┌ 🌶┐灵魂酱料",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
 		{
 			"name": "推荐",
 			"foods": [
 				{
-					"name": "粒粒芒椰爽",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/fc204b0c7a4629694080a59aad0ebc34162086.jpg",
-					"price": 16.8,
+					"name": "全家福饺子（三种口味随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c7350385abe4a026fe593a0eff323be9813033.jpg@150w_150h_1e_1c",
+					"price": 20.98,
 					"unit": "份",
 					"categoryName": "推荐",
 					"props": [
@@ -16,67 +1368,13 @@
 							"name": "份量",
 							"values": [
 								{
-									"value": "芒椰爽",
+									"value": "10个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "提拉米苏",
-					"picUrl": "http://p1.meituan.net/wmproduct/3943716f2e7cd2c812907633a7d11d90299463.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
+								},
 								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杨枝甘露飘雪",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/7dd08194e9607e12688f96a11033bcdb174480.jpg",
-					"price": 17.8,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西瓜汁",
-					"picUrl": "http://p0.meituan.net/wmproduct/e3e78c351cee4423e57307d08e3df177927805.jpg",
-					"price": 9.8,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
+									"value": "15个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -84,24 +1382,36 @@
 							]
 						},
 						{
-							"name": "冰量",
+							"name": "口味",
 							"values": [
 								{
-									"value": "少冰",
+									"value": "红油干拌",
 									"price": 0,
-									"propName": "冰量",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
-									"value": "常温",
+									"value": "蒜香干拌",
 									"price": 0,
-									"propName": "冰量",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
-									"value": "正常冰",
+									"value": "花生酱干拌",
 									"price": 0,
-									"propName": "冰量",
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
 									"isMul": true
 								}
 							]
@@ -109,9 +1419,9 @@
 					]
 				},
 				{
-					"name": "超多芒日本紅豆小丸子",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/63cfa96965028ca9fc1540ced4f7868a186439.jpg",
-					"price": 23,
+					"name": "冬菇马蹄鲜肉饺",
+					"picUrl": "http://p1.meituan.net/wmproduct/dfaad92087524eea5f055b242144e4ba82558.jpg@150w_150h_1e_1c",
+					"price": 22.98,
 					"unit": "份",
 					"categoryName": "推荐",
 					"props": [
@@ -119,101 +1429,13 @@
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "粒粒芒果西",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/4b12402a3ecfcbc3f7244238111ec9e9206829.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "实惠小吃套餐（小吃10选1，饮品9选1）电话预约",
-					"picUrl": "http://p0.meituan.net/wmproduct/b093e025720f9ad0fe705da981709dd1631658.jpg",
-					"price": 21.8,
-					"unit": "份",
-					"categoryName": "推荐",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "西多士",
+									"value": "10个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
 								},
 								{
-									"value": "咖喱鱼蛋（8粒）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "薯条",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "鸡米花",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "薯条/鸡米花",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "酥炸鳕鱼",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "车仔面（xo酱）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "车仔面（香辣酱）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "鸡肉洋葱圈（6个）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "多春鱼（6条）",
+									"value": "15个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -221,60 +1443,36 @@
 							]
 						},
 						{
-							"name": "饮品选择",
+							"name": "口味",
 							"values": [
 								{
-									"value": "柠檬红茶",
+									"value": "红油干拌",
 									"price": 0,
-									"propName": "饮品选择",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
-									"value": "柠檬多多",
+									"value": "蒜香干拌",
 									"price": 0,
-									"propName": "饮品选择",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
-									"value": "柠檬蜜（热请备注）",
+									"value": "花生酱干拌",
 									"price": 0,
-									"propName": "饮品选择",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
-									"value": "原味奶茶（热请备注）",
+									"value": "剁椒干拌",
 									"price": 0,
-									"propName": "饮品选择",
+									"propName": "口味",
 									"isMul": true
 								},
 								{
-									"value": "珍珠奶茶",
+									"value": "广式汤",
 									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "柚子茶",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "西瓜汁",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "柠檬绿茶",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "鸭屎香柠檬茶",
-									"price": 0,
-									"propName": "饮品选择",
+									"propName": "口味",
 									"isMul": true
 								}
 							]
@@ -282,9 +1480,203 @@
 					]
 				},
 				{
-					"name": "黑森林歌剧院",
-					"picUrl": "http://p0.meituan.net/wmproduct/206bc06bc3ae16e65cd419ec639b327b106680.jpg",
-					"price": 14,
+					"name": "玉米鲜肉饺",
+					"picUrl": "http://p0.meituan.net/wmproduct/8d795477c18a35d05de3a3515d83abe570797.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "「店长推荐」自选干拌+鲜榨玉米汁（无吸管）",
+					"picUrl": "http://p0.meituan.net/wmproduct/d7983d861188ff29d3420281e2fa4e94636638.jpg@150w_150h_1e_1c",
+					"price": 26.98,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "馅料",
+							"values": [
+								{
+									"value": "玉米鲜肉饺",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								},
+								{
+									"value": "冬菇马蹄鲜肉饺",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								},
+								{
+									"value": "紫菜鲜肉云吞",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味做法",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "蒜蓉干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "花生干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾蟹籽云吞",
+					"picUrl": "http://p1.meituan.net/wmproduct/db1d2e46db33e4fe66cc58d316c55b31116382.jpg@150w_150h_1e_1c",
+					"price": 29.98,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉云吞面+玉米汁套餐",
+					"picUrl": "http://p1.meituan.net/wmproduct/5c82744b3b0f29027bde978e7f5682f7714761.png@150w_150h_1e_1c",
+					"price": 24.98,
 					"unit": "份",
 					"categoryName": "推荐",
 					"props": [
@@ -302,9 +1694,9 @@
 					]
 				},
 				{
-					"name": "桂花椰汁糕",
-					"picUrl": "http://p0.meituan.net/wmproduct/07f5d244fcea9f6411f0fd2270539466987085.jpg",
-					"price": 15,
+					"name": "鲜肉云吞",
+					"picUrl": "http://p0.meituan.net/wmproduct/b8fd419d989a43d2c949ab76e184d138445395.png@150w_150h_1e_1c",
+					"price": 22.98,
 					"unit": "份",
 					"categoryName": "推荐",
 					"props": [
@@ -312,9 +1704,50 @@
 							"name": "份量",
 							"values": [
 								{
-									"value": "300克",
+									"value": "12个",
 									"price": 0,
 									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
 									"isMul": true
 								}
 							]
@@ -322,9 +1755,9 @@
 					]
 				},
 				{
-					"name": "超多芒小丸子",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/3be63bebbdb37e0fee51441a42f68949191762.jpg",
-					"price": 19.8,
+					"name": "全家福云吞（三种口味随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/51667a9be0d4e52ff78abf06d0ba9490680666.jpg@150w_150h_1e_1c",
+					"price": 20.98,
 					"unit": "份",
 					"categoryName": "推荐",
 					"props": [
@@ -332,7 +1765,129 @@
 							"name": "份量",
 							"values": [
 								{
-									"value": "1人份",
+									"value": "12个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "特色干拌",
+							"values": [
+								{
+									"value": "四川红油",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "诱人蒜香",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "浓香花生",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "火辣剁椒",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "紫菜鲜肉云吞",
+					"picUrl": "http://p1.meituan.net/wmproduct/b31a70ba74a6dcfe036cf66351598fc979467.jpg@150w_150h_1e_1c",
+					"price": 22.98,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "12个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾蟹籽云吞面(熟食)",
+					"picUrl": "http://p1.meituan.net/wmproduct/da68f42d2028f52707f0c282a478616a91871.jpg@150w_150h_1e_1c",
+					"price": 24.98,
+					"unit": "份",
+					"categoryName": "推荐",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1碗",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -347,9 +1902,240 @@
 			"name": "折扣",
 			"foods": [
 				{
-					"name": "芒果神冰",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/6009e906b80cf6dbf8f90c4f3c568051190465.jpg",
-					"price": 12.9,
+					"name": "全家福饺子（三种口味随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c7350385abe4a026fe593a0eff323be9813033.jpg@150w_150h_1e_1c",
+					"price": 20.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "15个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "花生酱干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "口味",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "全家福云吞（三种口味随机）",
+					"picUrl": "http://p0.meituan.net/wmproduct/51667a9be0d4e52ff78abf06d0ba9490680666.jpg@150w_150h_1e_1c",
+					"price": 20.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "12个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								},
+								{
+									"value": "18个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "特色干拌",
+							"values": [
+								{
+									"value": "四川红油",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "诱人蒜香",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "浓香花生",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "火辣剁椒",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "广式汤",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "收藏⭐门店玉米汁3.9元购",
+					"picUrl": "http://p0.meituan.net/wmproduct/95b7bf06456335b2e3b2a02783f3dc2d466903.jpg@150w_150h_1e_1c",
+					"price": 3.9,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "【爆款】鲜虾蟹籽云吞（熟，3个起购）",
+					"picUrl": "http://p0.meituan.net/wmproduct/c8532ad922da34ab4405bcad0aad38a657884.jpg@150w_150h_1e_1c",
+					"price": 0.68,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜肉云吞面+玉米汁套餐",
+					"picUrl": "http://p1.meituan.net/wmproduct/5c82744b3b0f29027bde978e7f5682f7714761.png@150w_150h_1e_1c",
+					"price": 24.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "1人份",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "鲜虾蟹籽云吞+玉米汁",
+					"picUrl": "http://p0.meituan.net/wmproduct/cddd71c7deb54a16090cfedcf706ae70692713.jpg@150w_150h_1e_1c",
+					"price": 33.98,
+					"unit": "份",
+					"categoryName": "折扣",
+					"props": [
+						{
+							"name": "份量",
+							"values": [
+								{
+									"value": "10个",
+									"price": 0,
+									"propName": "份量",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "特色干拌",
+							"values": [
+								{
+									"value": "四川红油",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "诱人蒜香",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "浓香花生",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								},
+								{
+									"value": "火辣剁椒",
+									"price": 0,
+									"propName": "特色干拌",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "「店长推荐」自选干拌+鲜榨玉米汁（无吸管）",
+					"picUrl": "http://p0.meituan.net/wmproduct/d7983d861188ff29d3420281e2fa4e94636638.jpg@150w_150h_1e_1c",
+					"price": 26.98,
 					"unit": "份",
 					"categoryName": "折扣",
 					"props": [
@@ -365,12 +2151,53 @@
 							]
 						},
 						{
-							"name": "雪糕",
+							"name": "馅料",
 							"values": [
 								{
-									"value": "草莓味",
+									"value": "玉米鲜肉饺",
 									"price": 0,
-									"propName": "雪糕",
+									"propName": "馅料",
+									"isMul": true
+								},
+								{
+									"value": "冬菇马蹄鲜肉饺",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								},
+								{
+									"value": "紫菜鲜肉云吞",
+									"price": 0,
+									"propName": "馅料",
+									"isMul": true
+								}
+							]
+						},
+						{
+							"name": "口味做法",
+							"values": [
+								{
+									"value": "红油干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "蒜蓉干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "剁椒干拌",
+									"price": 0,
+									"propName": "口味做法",
+									"isMul": true
+								},
+								{
+									"value": "花生干拌",
+									"price": 0,
+									"propName": "口味做法",
 									"isMul": true
 								}
 							]
@@ -378,9 +2205,9 @@
 					]
 				},
 				{
-					"name": "芒果汁底黑珍珠捞",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/21fc322733f42775e97437196048056b219539.jpg",
-					"price": 11.9,
+					"name": "【限量抢套餐】 招牌炸酱面+鲜榨玉米汁",
+					"picUrl": "http://p1.meituan.net/wmproduct/8343f58b8f60c3591c3547dbaca4731d190081.jpg@150w_150h_1e_1c",
+					"price": 20.98,
 					"unit": "份",
 					"categoryName": "折扣",
 					"props": [
@@ -398,9 +2225,9 @@
 					]
 				},
 				{
-					"name": "椰汁底黑珍珠捞",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/88635e41a56cdca969a081f89ede8f5e160657.jpg",
-					"price": 12,
+					"name": "【臻选】12个玉米鲜肉饺（白灼）+蘸酱（随机3包 ）",
+					"picUrl": "http://p1.meituan.net/wmproduct/05cafb173a1a047624a1cdfc4d2fa29a739810.jpg@150w_150h_1e_1c",
+					"price": 19.98,
 					"unit": "份",
 					"categoryName": "折扣",
 					"props": [
@@ -420,94 +2247,26 @@
 			]
 		},
 		{
-			"name": "进店必选",
+			"name": "周末套餐",
 			"foods": [
 				{
-					"name": "右上角收藏即可1折购买一杯柠檬蜜🥳",
-					"picUrl": "http://p0.meituan.net/wmproduct/90c4e696f0a781ef591d5a331b76b814121279.jpg",
-					"price": 10,
+					"name": "【臻选】鲜虾双拼云吞",
+					"picUrl": "http://p0.meituan.net/wmproduct/7eb397186228019c9b50f201e8a9b441663510.jpg@150w_150h_1e_1c",
+					"price": 49.98,
 					"unit": "份",
-					"categoryName": "进店必选",
+					"categoryName": "周末套餐",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1克",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "实惠小吃套餐（小吃10选1，饮品9选1）电话预约",
-					"picUrl": "http://p0.meituan.net/wmproduct/b093e025720f9ad0fe705da981709dd1631658.jpg",
-					"price": 21.8,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "西多士",
+									"value": "4鲜虾8随机",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
 								},
 								{
-									"value": "咖喱鱼蛋（8粒）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "薯条",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "鸡米花",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "薯条/鸡米花",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "酥炸鳕鱼",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "车仔面（xo酱）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "车仔面（香辣酱）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "鸡肉洋葱圈（6个）",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "多春鱼（6条）",
+									"value": "4虾8随机",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -515,60 +2274,18 @@
 							]
 						},
 						{
-							"name": "饮品选择",
+							"name": "做法",
 							"values": [
 								{
-									"value": "柠檬红茶",
+									"value": "经典白灼",
 									"price": 0,
-									"propName": "饮品选择",
+									"propName": "做法",
 									"isMul": true
 								},
 								{
-									"value": "柠檬多多",
+									"value": "广式汤",
 									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "柠檬蜜（热请备注）",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "原味奶茶（热请备注）",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "珍珠奶茶",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "柚子茶",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "西瓜汁",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "柠檬绿茶",
-									"price": 0,
-									"propName": "饮品选择",
-									"isMul": true
-								},
-								{
-									"value": "鸭屎香柠檬茶",
-									"price": 0,
-									"propName": "饮品选择",
+									"propName": "做法",
 									"isMul": true
 								}
 							]
@@ -576,17 +2293,17 @@
 					]
 				},
 				{
-					"name": "粒粒芒果爽",
-					"picUrl": "http://p0.meituan.net/wmproduct/efc72ec1a80493a96179114e6456db22777551.jpg",
-					"price": 16.8,
+					"name": "传统广式汤-冬菇马蹄鲜肉饺",
+					"picUrl": "http://p1.meituan.net/wmproduct/fdaf64dd318ab93a192db4778df98ffd69399.jpg@150w_150h_1e_1c",
+					"price": 26.8,
 					"unit": "份",
-					"categoryName": "进店必选",
+					"categoryName": "周末套餐",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1杯",
+									"value": "10个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -596,17 +2313,17 @@
 					]
 				},
 				{
-					"name": "粒粒芒椰爽",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/fc204b0c7a4629694080a59aad0ebc34162086.jpg",
-					"price": 16.8,
+					"name": "传统广式汤-韭菜鲜肉饺",
+					"picUrl": "http://p1.meituan.net/wmproduct/a6a33570154e901590c2824605f0a81456380.jpg@150w_150h_1e_1c",
+					"price": 26.8,
 					"unit": "份",
-					"categoryName": "进店必选",
+					"categoryName": "周末套餐",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "芒椰爽",
+									"value": "10个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -616,534 +2333,17 @@
 					]
 				},
 				{
-					"name": "斑斓生椰",
-					"picUrl": "http://p0.meituan.net/wmproduct/503f036331e405a07668316e6e8bf124315475.jpg",
-					"price": 14.8,
+					"name": "传统广式汤-冬菇马蹄鲜肉云吞",
+					"picUrl": "http://p0.meituan.net/wmproduct/48026029532832d8763e8ed279c28f3459315.jpg@150w_150h_1e_1c",
+					"price": 26.8,
 					"unit": "份",
-					"categoryName": "进店必选",
+					"categoryName": "周末套餐",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "涩得起（特浓柠檬茶）",
-					"picUrl": "http://p1.meituan.net/wmproduct/affdfafd1d0698946ea22fdd08dad2a41023360.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸭屎香柠檬茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/800200147e3237ee199e444a27265bae1028115.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "生椰拿铁",
-					"picUrl": "http://p0.meituan.net/wmproduct/aab8137305c9c165d2fa0ac38c040581125132.jpg",
-					"price": 14.8,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "超多芒小丸子",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/3be63bebbdb37e0fee51441a42f68949191762.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬红茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/acff3ed2f772c6fc191b9528fb507dda896412.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "珍珠奶茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/4f8687b0e853089a8813efd9387f0e1e336259.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "梦幻蓝莓",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/2e2653782afe2df8b43fc609dffc9879283128.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "进店必选",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冰度",
-							"values": [
-								{
-									"value": "冰",
-									"price": 0,
-									"propName": "冰度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "麻薯奶冻水果捞系列",
-			"foods": [
-				{
-					"name": "仙草大集会",
-					"picUrl": "http://p0.meituan.net/wmproduct/da8142eb1e5cb76949b716a8c9250153251135.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "麻薯奶冻水果捞系列",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1碗",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "新鲜水果（选2款）",
-							"values": [
-								{
-									"value": "芒果粒",
-									"price": 0,
-									"propName": "新鲜水果（选2款）",
-									"isMul": true
-								},
-								{
-									"value": "奇异果粒",
-									"price": 0,
-									"propName": "新鲜水果（选2款）",
-									"isMul": true
-								},
-								{
-									"value": "草莓粒",
-									"price": 0,
-									"propName": "新鲜水果（选2款）",
-									"isMul": true
-								},
-								{
-									"value": "西瓜",
-									"price": 0,
-									"propName": "新鲜水果（选2款）",
-									"isMul": true
-								},
-								{
-									"value": "火龙果",
-									"price": 0,
-									"propName": "新鲜水果（选2款）",
-									"isMul": true
-								},
-								{
-									"value": "哈密瓜",
-									"price": 0,
-									"propName": "新鲜水果（选2款）",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "汁底（选一款）",
-							"values": [
-								{
-									"value": "椰奶底",
-									"price": 0,
-									"propName": "汁底（选一款）",
-									"isMul": true
-								},
-								{
-									"value": "芒果汁底",
-									"price": 0,
-									"propName": "汁底（选一款）",
-									"isMul": true
-								},
-								{
-									"value": "抹茶奶底",
-									"price": 0,
-									"propName": "汁底（选一款）",
-									"isMul": true
-								},
-								{
-									"value": "蜂蜜",
-									"price": 0,
-									"propName": "汁底（选一款）",
-									"isMul": true
-								},
-								{
-									"value": "奶茶底",
-									"price": 0,
-									"propName": "汁底（选一款）",
-									"isMul": true
-								},
-								{
-									"value": "西瓜冰",
-									"price": 0,
-									"propName": "汁底（选一款）",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "雪糕球",
-							"values": [
-								{
-									"value": "香草",
-									"price": 0,
-									"propName": "雪糕球",
-									"isMul": true
-								},
-								{
-									"value": "抹茶",
-									"price": 0,
-									"propName": "雪糕球",
-									"isMul": true
-								},
-								{
-									"value": "草莓",
-									"price": 0,
-									"propName": "雪糕球",
-									"isMul": true
-								},
-								{
-									"value": "芒果",
-									"price": 0,
-									"propName": "雪糕球",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "小料（选3样）",
-							"values": [
-								{
-									"value": "花生粒",
-									"price": 0,
-									"propName": "小料（选3样）",
-									"isMul": true
-								},
-								{
-									"value": "葡萄干",
-									"price": 0,
-									"propName": "小料（选3样）",
-									"isMul": true
-								},
-								{
-									"value": "瓜子仁",
-									"price": 0,
-									"propName": "小料（选3样）",
-									"isMul": true
-								},
-								{
-									"value": "蜜红豆",
-									"price": 0,
-									"propName": "小料（选3样）",
-									"isMul": true
-								},
-								{
-									"value": "山楂片",
-									"price": 0,
-									"propName": "小料（选3样）",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "粉圆",
-							"values": [
-								{
-									"value": "小芋圆",
-									"price": 0,
-									"propName": "粉圆",
-									"isMul": true
-								},
-								{
-									"value": "小丸子",
-									"price": 0,
-									"propName": "粉圆",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "应季特饮❤️",
-			"foods": [
-				{
-					"name": "葡萄爆柠",
-					"picUrl": "http://p1.meituan.net/wmproduct/677b97d559c70a7d7b5832a6dbefd578244004.jpg",
-					"price": 13.8,
-					"unit": "份",
-					"categoryName": "应季特饮❤️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "多肉葡萄",
-					"picUrl": "http://p0.meituan.net/wmproduct/be4c664b8d0841531d1b051055fc2838254654.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "应季特饮❤️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬蓝蝴蝶",
-					"picUrl": "http://p0.meituan.net/wmproduct/cb67f678971e72f0bf387549ddc2e2491051749.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "应季特饮❤️",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "芒果特色🥭",
-			"foods": [
-				{
-					"name": "超多芒日本紅豆小丸子",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/63cfa96965028ca9fc1540ced4f7868a186439.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "芒果特色🥭",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芒椰红豆小丸子",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/052c00b155f68c4ef47b5406b83b4079201937.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "芒果特色🥭",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金捞爽",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/147a44c3a7cd715eb475d2af4faa7f4c168569.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "芒果特色🥭",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "粒粒芒果西",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/4b12402a3ecfcbc3f7244238111ec9e9206829.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "芒果特色🥭",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "粒粒芒椰西",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/676828c8f5babf5009eef9ceb839d56c177734.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "芒果特色🥭",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "金捞汁",
-					"picUrl": "http://p1.meituan.net/xianfudwm/1ec6742017566c3d80b9f8bf6be1a1a779153.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "芒果特色🥭",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
+									"value": "12个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -1155,120 +2355,20 @@
 			]
 		},
 		{
-			"name": "茶系列🍵",
+			"name": "┌ 🎁 ┐周末专享",
 			"foods": [
 				{
-					"name": "山茶花",
-					"picUrl": "http://p0.meituan.net/wmproduct/6b8a826a3eaa683c9ef94415cf3e1e91720182.jpg",
-					"price": 15,
+					"name": "【臻选】鲜虾双拼云吞",
+					"picUrl": "http://p0.meituan.net/wmproduct/aa2a62392c392b70d00cb4a5df170000116400.jpg@150w_150h_1e_1c",
+					"price": 47.6,
 					"unit": "份",
-					"categoryName": "茶系列🍵",
+					"categoryName": "┌ 🎁 ┐周末专享",
 					"props": [
 						{
 							"name": "份量",
 							"values": [
 								{
-									"value": "500毫升",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "翡翠柠檬茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/e07489d7dd84e996a6b12771f5855ce01393523.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "青瓜柠檬茶（青瓜小清新）",
-					"picUrl": "http://p0.meituan.net/wmproduct/e071fdc5073ba8d686cddaa814b9f730205979.jpg",
-					"price": 14.8,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "孤苦柠檬茶（苦瓜小清新）",
-					"picUrl": "http://p0.meituan.net/wmproduct/0bd3f93f34dce7f83ddda9f0cd0d0ecf182357.jpg",
-					"price": 14.8,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "上头柠檬茶（芫茜）",
-					"picUrl": "http://p0.meituan.net/wmproduct/3bd67252039897501af9053260d6aa72183218.jpg",
-					"price": 14.8,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芒果绿茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/b7e73550b703b574fbc27064f631bd72249964.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
+									"value": "10个",
 									"price": 0,
 									"propName": "份量",
 									"isMul": true
@@ -1276,18 +2376,24 @@
 							]
 						},
 						{
-							"name": "冰量",
+							"name": "3鲜虾+7鲜肉",
 							"values": [
 								{
-									"value": "正常冰",
+									"value": "广式汤",
 									"price": 0,
-									"propName": "冰量",
+									"propName": "3鲜虾+7鲜肉",
 									"isMul": true
 								},
 								{
-									"value": "少冰",
+									"value": "红油干拌",
 									"price": 0,
-									"propName": "冰量",
+									"propName": "3鲜虾+7鲜肉",
+									"isMul": true
+								},
+								{
+									"value": "蒜香干拌",
+									"price": 0,
+									"propName": "3鲜虾+7鲜肉",
 									"isMul": true
 								}
 							]
@@ -1295,63 +2401,11 @@
 					]
 				},
 				{
-					"name": "柠檬绿茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/a4c8119a4f00383d4a98f5cee826ff7a1006562.jpg",
-					"price": 12,
+					"name": "【臻选】12个玉米鲜肉饺（白灼）+蘸酱（随机3包 ）",
+					"picUrl": "http://p1.meituan.net/wmproduct/05cafb173a1a047624a1cdfc4d2fa29a739810.jpg@150w_150h_1e_1c",
+					"price": 19.98,
 					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "蜂蜜绿茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/38e5b1d853f9125fbbb0c9a8e8ac2efc249551.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "手压香茅香水柠檬茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/dfb8095b7878a0c7997ee911b62b7e34227614.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
+					"categoryName": "┌ 🎁 ┐周末专享",
 					"props": [
 						{
 							"name": "份量",
@@ -1360,1786 +2414,6 @@
 									"value": "1人份",
 									"price": 0,
 									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柑桔柠檬茶",
-					"picUrl": "http://p1.meituan.net/wmproduct/efc4bc58cbd604de044b49793b7191ce328943.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "百香果水果茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/68b6d12cf3b82c985942432e37be8208324466.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "热情水果茶",
-					"picUrl": "http://p0.meituan.net/xianfudwm/a29037bcd13b2d5df882e4810a0a8cae36479.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬多多",
-					"picUrl": "http://p1.meituan.net/xianfudwm/1ba2300455e4246127681125e7650b6d30518.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柑桔柠檬多多",
-					"picUrl": "http://p0.meituan.net/xianfudwm/d0e86ff8baac953ab10aebee9057f79731551.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑糖姜茶",
-					"picUrl": "http://p1.meituan.net/xianfu/8376a715bca160fd06b7ed6c250a9157212329.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "热度",
-							"values": [
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "热度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬蜜",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/24ceb7c6804ed0e830b64f531e50eb0380113.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柚子茶",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/d567d1a947f70569d62d1ad0287f682779328.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": []
-				},
-				{
-					"name": "桂花柚子蜜",
-					"picUrl": "http://p1.meituan.net/xianfudwm/ab60510b0547e8d7b4b448c0dc2dfbc474606.jpg",
-					"price": 11,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬姜茶",
-					"picUrl": "http://p0.meituan.net/xianfudwm/23c4bca0309c9d312e1d60fc674070eb102142.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "茶系列🍵",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "意式咖啡☕️",
-			"foods": [
-				{
-					"name": "风味拿铁",
-					"picUrl": "http://p0.meituan.net/wmproduct/619dbe6ee89732ac1ddf56deed6e56f9973735.jpg",
-					"price": 14.8,
-					"unit": "份",
-					"categoryName": "意式咖啡☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香浓摩卡",
-					"picUrl": "http://p1.meituan.net/wmproduct/01123247b9488eea726658960502c3e6996366.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "意式咖啡☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "美式冰咖啡",
-					"picUrl": "http://p0.meituan.net/wmproduct/07d1a160c273df113e6164cdcfda5656221210.jpg",
-					"price": 9.9,
-					"unit": "份",
-					"categoryName": "意式咖啡☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "奶茶系列☕️",
-			"foods": [
-				{
-					"name": "烧仙草奶茶",
-					"picUrl": "http://p1.meituan.net/xianfu/77e8d14226ee66e9db202add13c44154245305.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "小料",
-							"values": [
-								{
-									"value": "珍珠",
-									"price": 0,
-									"propName": "小料",
-									"isMul": true
-								},
-								{
-									"value": "鲜奶麻薯",
-									"price": 0,
-									"propName": "小料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红豆奶茶",
-					"picUrl": "http://p1.meituan.net/xianfu/8e53fdd7af9dc0d505d98809a3bd5322302944.png",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "小料",
-							"values": [
-								{
-									"value": "鲜奶麻薯",
-									"price": 0,
-									"propName": "小料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "桃胶姜撞奶",
-					"picUrl": "http://p0.meituan.net/wmproduct/367f959c9b0940b25fe121c7ae57e7e2251674.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杏仁蛋白茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/e541a3ce8af7d516158ca2d819852667444162.jpg",
-					"price": 14.8,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "暖暖紫米牛奶",
-					"picUrl": "http://p1.meituan.net/wmproduct/2f93b065e94230c147b0bd3dc122723d727562.jpg",
-					"price": 14.8,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "丸子抹茶红豆冰",
-					"picUrl": "http://p0.meituan.net/wmproduct/1b8325c8a6d60653c5168b36a98ad65e1056670.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "暖暖香芋波波鲜奶",
-					"picUrl": "http://p1.meituan.net/wmproduct/ddc50619e2a92fff0aa6f7b42d63d2e966820.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "梦幻暖紫",
-					"picUrl": "http://p0.meituan.net/wmproduct/69ba9acbf1fba6fdfd4368ef630a9f2154849.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "暖",
-							"values": [
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "暖",
-									"isMul": true
-								},
-								{
-									"value": "温",
-									"price": 0,
-									"propName": "暖",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "茶底",
-							"values": [
-								{
-									"value": "鲜奶",
-									"price": 0,
-									"propName": "茶底",
-									"isMul": true
-								},
-								{
-									"value": "奶茶",
-									"price": 0,
-									"propName": "茶底",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西米奶茶",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/9710f5eaa5376e35b2279975ec219bf0167410.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "冷热",
-							"values": [
-								{
-									"value": "冷",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								},
-								{
-									"value": "热",
-									"price": 0,
-									"propName": "冷热",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "岩焦珍珠奶茶",
-					"picUrl": "http://p0.meituan.net/wmproduct/3cee1fb5da31c1c37650ed41b0e0d01f56540.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "奶茶底",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								},
-								{
-									"value": "纯牛奶底",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "冻",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "全糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "热朱古力",
-					"picUrl": "http://p0.meituan.net/xianfudwm/db6e9a55f9c550493cec20c487a8c95680369.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "奶茶系列☕️",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "甜点蛋糕",
-			"foods": [
-				{
-					"name": "桂花椰汁糕",
-					"picUrl": "http://p0.meituan.net/wmproduct/07f5d244fcea9f6411f0fd2270539466987085.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "300克",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑森林",
-					"picUrl": "http://p1.meituan.net/wmproduct/27455be096adff1b3102a57849bee5ae250079.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1块",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "覆盆子美莓",
-					"picUrl": "http://p0.meituan.net/wmproduct/41961d6750ce4b6c42e39c7bd32dfcd4108784.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1块",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红丝绒乳酪蛋糕",
-					"picUrl": "http://p0.meituan.net/wmproduct/263c845bb12d664049385b7714a7505c187779.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1块",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白桃乳酪蛋糕",
-					"picUrl": "http://p0.meituan.net/wmproduct/4760cf09b55d1a829e1d2eadf08607c4147512.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1块",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "提拉米苏",
-					"picUrl": "http://p1.meituan.net/wmproduct/3943716f2e7cd2c812907633a7d11d90299463.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "白巧克力君度",
-					"picUrl": "http://p1.meituan.net/wmproduct/92c51bbdd54af7b591497d451814257193712.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "黑森林歌剧院",
-					"picUrl": "http://p0.meituan.net/wmproduct/206bc06bc3ae16e65cd419ec639b327b106680.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "抹茶红豆年轮蛋糕",
-					"picUrl": "http://p1.meituan.net/wmproduct/c2b420175bda07c765b6b838700da909471880.jpg",
-					"price": 16,
-					"unit": "份",
-					"categoryName": "甜点蛋糕",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "披萨小食类",
-			"foods": [
-				{
-					"name": "酥炸鸡排（电话预约，现点现炸，否则只能退单处理）",
-					"picUrl": "http://p0.meituan.net/wmproduct/443c1003c64a236211bd7d872e7be6ae342492.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "披萨小食类",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1块",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "榴莲pizza（下单前半小时电话预约，否则只能退单）",
-					"picUrl": "http://p0.meituan.net/wmproduct/0268b0fbe303b1ccef2b2d81a1be0057290473.jpg",
-					"price": 29,
-					"unit": "份",
-					"categoryName": "披萨小食类",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "多春鱼（先电话预约，现点现炸）",
-					"picUrl": "http://p0.meituan.net/xianfu/637ef4f56852f7fc1345b09875ef32ed330978.jpg",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "披萨小食类",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "8条",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "薯条-鸡米花（先电话预约，现点先炸）",
-					"picUrl": "http://p0.meituan.net/wmproduct/c6793672702b8471737bcc3079f303002174499.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "披萨小食类",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "配料",
-							"values": [
-								{
-									"value": "薯条",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "鸡米花",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								},
-								{
-									"value": "薯条鸡米花双拼",
-									"price": 0,
-									"propName": "配料",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "酥炸鳕鱼（先电话预约，现点现炸）",
-					"picUrl": "http://p0.meituan.net/wmproduct/7c9ffb89a2dcc6e042a21ca86769c22b2470880.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "披萨小食类",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "🍉鲜果汁🥝",
-			"foods": [
-				{
-					"name": "鲜奶",
-					"picUrl": "http://p0.meituan.net/xianfudwm/9bc87e19dc51e631af1f286f8d69d8301279218.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "无糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "半糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								},
-								{
-									"value": "多糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香蕉牛奶",
-					"picUrl": "http://p1.meituan.net/xianfu/28eb83cac78918d35119132645d5aac2193509.jpg",
-					"price": 8.8,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "奇异果汁",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/1b41b6384725b2ca591730386133f7c2184913.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温，会有明显分层",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "红火龙果汁",
-					"picUrl": "http://p1.meituan.net/wmproduct/458196c022c04f429e7826dff92aaf4d93847.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "甜度",
-							"values": [
-								{
-									"value": "少糖",
-									"price": 0,
-									"propName": "甜度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "西瓜汁",
-					"picUrl": "http://p0.meituan.net/wmproduct/e3e78c351cee4423e57307d08e3df177927805.jpg",
-					"price": 9.8,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "哈密瓜汁",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/09932c93201f5732c22ab53f6bb7b0de180522.jpg",
-					"price": 13,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芒果汁",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/f3196965395613b35917aa2649bc4be072375.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木瓜牛奶",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/f1b2c536eaa850715124a5da4bbd31be85033.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "温度",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								},
-								{
-									"value": "温热",
-									"price": 0,
-									"propName": "温度",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "木瓜汁",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/7a916270576c200b9d2c20b2dd04a48483641.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "椰汁",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/3a04f7d69a4c1fb01b727bca9e53d87c71425.jpg",
-					"price": 14,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "柠檬汁",
-					"picUrl": "http://p1.meituan.net/xianfudwm/a0dde3af6a6811466923ed7e1987a19137844.jpg",
-					"price": 10,
-					"unit": "份",
-					"categoryName": "🍉鲜果汁🥝",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1杯",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "鲜果捞野🥣",
-			"foods": [
-				{
-					"name": "芒果神冰",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/6009e906b80cf6dbf8f90c4f3c568051190465.jpg",
-					"price": 12.9,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "雪糕",
-							"values": [
-								{
-									"value": "草莓味",
-									"price": 0,
-									"propName": "雪糕",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芒果神冰捞丸子",
-					"picUrl": "http://p0.meituan.net/wmproduct/47c395485b69c92ab847138b70ad9bbe824717.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						},
-						{
-							"name": "雪糕",
-							"values": [
-								{
-									"value": "草莓",
-									"price": 0,
-									"propName": "雪糕",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杨枝甘露飘雪",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/7dd08194e9607e12688f96a11033bcdb174480.jpg",
-					"price": 17.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "草莓雪糕捞",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/75cee1fcdf2b95f03a6f06255d86c981169383.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "鸳鸯雪糕捞",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/268bdeaff06fa242e851d127abfbcc2d169974.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香草雪糕捞",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/fea9ab17751dacb9be2e79dbbe2aa058193617.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芒果汁底黑珍珠捞",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/21fc322733f42775e97437196048056b219539.jpg",
-					"price": 11.9,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "多芒果西米捞",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/ca4e9e50fd150c5e1ffec9d02d63c496220051.jpg",
-					"price": 19.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杨枝甘露汁底西米捞",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/0c6b6d4221099d1983bbbd99fcc6b8be164682.jpg",
-					"price": 18.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "椰汁底西米捞",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/7191b2b8d572955b4fa0c5852575125b175310.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芒果汁底西米捞",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/2e5fdd28e2a33f4e832f2921cb790ae6155473.jpg",
-					"price": 16.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "椰汁底黑珍珠捞",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/88635e41a56cdca969a081f89ede8f5e160657.jpg",
-					"price": 12,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "杨枝甘露汁底黑珍珠捞",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/21fc322733f42775e97437196048056b219539.jpg",
-					"price": 18.8,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "香蕉黑糯米（热）",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/8dd54dfdc9ceaa01b5dc9bc1dd84be94169638.jpg",
-					"price": 15,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "芒果黑糯米（热）",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/b4cc51af468c69814d67de1c62cd61db189927.jpg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "鲜果捞野🥣",
-					"props": [
-						{
-							"name": "份量",
-							"values": [
-								{
-									"value": "1人份",
-									"price": 0,
-									"propName": "份量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "MIX果汁🍊",
-			"foods": [
-				{
-					"name": "香芒小火龙",
-					"picUrl": "http://p1.meituan.net/wmproductdwm/aa8ed4af9213238cce0afdd126288dfa62515.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "MIX果汁🍊",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "不要冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "百芒相遇",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/c1e12af11ab66980cfb42dcb8b898f7663815.jpg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "MIX果汁🍊",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "奇妙吧啦啦",
-					"picUrl": "http://p0.meituan.net/wmproductdwm/c90fb4386ffbb72fdd8978c26033bb6759213.jpg",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "MIX果汁🍊",
-					"props": [
-						{
-							"name": "冰量",
-							"values": [
-								{
-									"value": "正常冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "少冰",
-									"price": 0,
-									"propName": "冰量",
-									"isMul": true
-								},
-								{
-									"value": "常温",
-									"price": 0,
-									"propName": "冰量",
 									"isMul": true
 								}
 							]

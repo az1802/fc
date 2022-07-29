@@ -4,7 +4,7 @@ const requestMenuJson = require('./merchantInfo.json').data;
 let merchantMenuInfo = requestMenuJson;
 
 let shopInfo = {
-  name: '湖南饭常德粉',
+  name: '濮阳裹凉皮老店（科技园店） ',
   logo: '',
 };
 let categoryList = merchantMenuInfo.categoryList;
@@ -31,8 +31,7 @@ let menuSetting = {
   //到处的菜品属性归为规格,备注,加料,做法
   specifications: [], //规格
   practice: [
-    "辣度",
-    "温度"
+
 
 
 
@@ -41,9 +40,6 @@ let menuSetting = {
   remarks: [], //备注
   propsGroupSort: [
 
-
-  	"辣度",
-	"温度"
   ],
   propsSort: {},
 };
@@ -160,6 +156,8 @@ async function genImgsAndExcel() {
   // // 重建创建商铺目录
   await mkShopDir(shopDir);
 
+  menuSetting.practice = propsGroupArr ;
+  menuSetting.propsGroupSort = propsGroupArr ;
   // // mkShopDir(merchantInfo)
   if (exportMode == 'keruyun') {
     genImgs(merchantInfo, outputDir);

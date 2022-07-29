@@ -1,28 +1,465 @@
 {
-	"shopName": "湖南饭常德粉",
+	"shopName": "濮阳裹凉皮老店（科技园店） ",
 	"shop_pic": "",
 	"categories": [
 		{
-			"name": "湘盖码饭",
+			"name": "本店特色",
+			"foods": []
+		},
+		{
+			"name": "招牌卷凉皮🌯",
 			"foods": [
 				{
-					"name": "辣椒小炒肉饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/4099ece801de1e605bbe3e3c4c9f6869377692.jpg",
-					"price": 25,
+					"name": "【招牌】濮阳裹凉皮",
+					"picUrl": "https://p0.meituan.net/wmproduct/e3a19da50acdfd7edb5a9ecaf9c96458136912.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "小炒黄牛肉饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/8610f0fbe07ef0eea0e1b82864a59345390355.jpg",
-					"price": 32,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
+					"categoryName": "招牌卷凉皮🌯",
 					"props": [
 						{
 							"name": "辣度",
 							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "重辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "肉夹馍🌮",
+			"foods": [
+				{
+					"name": "经典酱汁肉夹馍【新鲜肉慢炖两小时】",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/138aabe83d5bdad1a8d40ccbac87f6c9670706.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "肉夹馍🌮",
+					"props": []
+				},
+				{
+					"name": "热狗豆腐串夹馍",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/255fc6a6ee3b0a25a67b7e520421fc17471834.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "肉夹馍🌮",
+					"props": []
+				},
+				{
+					"name": "鸡蛋豆腐串夹膜",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/255fc6a6ee3b0a25a67b7e520421fc17471834.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "肉夹馍🌮",
+					"props": []
+				},
+				{
+					"name": "葱油饼",
+					"picUrl": "https://img.meituan.net/mstorebossgoods/d681074ec7d7b08bc977868679b12b0b37579.png",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "肉夹馍🌮",
+					"props": []
+				},
+				{
+					"name": "白吉馍",
+					"picUrl": "https://p1.meituan.net/wmproduct/c672269d44c6c3056755fad803ce978c128960.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "肉夹馍🌮",
+					"props": []
+				}
+			]
+		},
+		{
+			"name": "特色拌凉皮🍝",
+			"foods": [
+				{
+					"name": "经典酱汁凉皮（大份）",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/d5991d87a86bfa10b9e516a95ecf0373458678.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "特色拌凉皮🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "重辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "经典酱汁凉皮（小份）",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/d5991d87a86bfa10b9e516a95ecf0373458678.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "特色拌凉皮🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "爽口凉面🍝",
+			"foods": [
+				{
+					"name": "酱汁凉面（大份）",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/c025ea21b757cf66b22e6143f0f86fb3783961.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "爽口凉面🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱汁凉面（小份）",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/426b8000aab7acfd405b8136d38fe47f825866.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "爽口凉面🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "凉拌牛筋面🍝",
+			"foods": [
+				{
+					"name": "秘制酱汁牛筋面（大份）",
+					"picUrl": "https://p0.meituan.net/mstorebossgoods/2ec20d1ad9087d01e5f0a1a29ae97f53627756.jpg",
+					"price": 12,
+					"unit": "份",
+					"categoryName": "凉拌牛筋面🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "秘制酱汁牛筋面（小份）",
+					"picUrl": "https://p0.meituan.net/wmproduct/2fee29cec75419574fa221558cac1e43164175.jpg",
+					"price": 10,
+					"unit": "份",
+					"categoryName": "凉拌牛筋面🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "双拼套餐",
+			"foods": [
+				{
+					"name": "酱汁凉皮+牛筋面双拼（大份）",
+					"picUrl": "https://p0.meituan.net/wmproduct/ff97c0bf722774c3061301dc9f981321167168.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "双拼套餐",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "酱汁凉皮+凉面双拼（大份）",
+					"picUrl": "https://p0.meituan.net/wmproduct/6a4693b6305f340718c73d4b528d7c1894753.jpg",
+					"price": 15,
+					"unit": "份",
+					"categoryName": "双拼套餐",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
 								{
 									"value": "微辣",
 									"price": 0,
@@ -34,218 +471,273 @@
 					]
 				},
 				{
-					"name": "武冈香干炒肉饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/a521e5b033647cea27d41f0f805c3616331810.jpg",
-					"price": 26,
+					"name": "酱汁牛筋面+凉面双拼（大份）",
+					"picUrl": "https://p0.meituan.net/wmproduct/ff97c0bf722774c3061301dc9f981321167168.jpg",
+					"price": 15,
 					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "鲜青豆炒肉饭",
-					"picUrl": "https://p1.meituan.net/mstorebossgoods/8205d8552c9cc54439634a6d63933313367207.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "酸辣鸡杂饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/366c65e5f33747b91d5729e99ee92fdd396578.jpg",
-					"price": 25,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "湘浓辣子鸡饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/c8acdb5d345409abf639294ed35f9507407533.jpg",
-					"price": 26,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "五香脆骨饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/92fc1fad6b31e99d8441c694b85275f0359747.jpg",
-					"price": 23,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "拆骨肉炒肥肠饭",
-					"picUrl": "https://p1.meituan.net/mstorebossgoods/483f949994f51086d1bff9976706edf0347144.jpg",
-					"price": 28,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "肉沫外婆菜饭",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/0cacf41cfb71581e768c4800ac2397b253104.png",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "酸豆角肉沫饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/aeba0cc6ed2b1a814c4504b59d7cb292388553.jpg",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "鸡汁脆笋饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/d32af24ab83c2e5256888252a72e697c348779.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "鱼香茄子饭",
-					"picUrl": "https://p0.meituan.net/mstorebossgoods/9717a4bbb583b0c94512fbd8d48f63b8368478.jpg",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "酸爽雪里红饭",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/e7db2930111b59353d5601dc2070118c54555.png",
-					"price": 17,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
-				},
-				{
-					"name": "广式腊肠饭",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/9233926b38e7c6b6703d85925032416443129.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "湘盖码饭",
-					"props": []
+					"categoryName": "双拼套餐",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "常德米粉",
+			"name": "豆角蒸面🍝",
 			"foods": [
 				{
-					"name": "湘西腊肉粉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/000d26ad550a0ca9af3ac7da270ac24e55133.png",
-					"price": 18,
+					"name": "藤椒蒸面",
+					"picUrl": "https://p0.meituan.net/wmproduct/bcd9c51e5d3912c80ddd82491346de68166014.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
+					"categoryName": "豆角蒸面🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
 				},
 				{
-					"name": "红烧牛肉粉",
-					"picUrl": "https://p1.meituan.net/xianfu/b46a491fa8541d90115232a2c5313a51410888.jpg@watermark=1&&object=L3dtcHJvZHVjdC9kZWJiN2M1ZTgyZjJiNjU4Y2ZmNzA1ZTg1N2FjOTcwYjgxLnBuZw==%7C12_0_0_0ar%7C0_0_85_0ar",
-					"price": 22,
+					"name": "豆角蒸面",
+					"picUrl": "https://p0.meituan.net/wmproduct/bcd9c51e5d3912c80ddd82491346de68166014.jpg",
+					"price": 12,
 					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
-				},
-				{
-					"name": "酸辣鸡杂粉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/ddde41e88b31b37c381324342e3f696540296.png",
-					"price": 18,
-					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
-				},
-				{
-					"name": "辣椒炒肉粉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/efb7c1f2df828f12fc59eb7b5d61c01165194.png",
-					"price": 21,
-					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
-				},
-				{
-					"name": "香辣牛杂粉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/437835443e4719b2e752dc3ee4b5a6f140033.png",
-					"price": 22,
-					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
-				},
-				{
-					"name": "石门肥肠粉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/296eb211bffe3fff393b62ca7a9b608c25677.png",
-					"price": 20,
-					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
-				},
-				{
-					"name": "麻辣牛肉粉",
-					"picUrl": "https://p1.meituan.net/xianfu/26b5cb7341b2b0b317749fcd55ef09c4526336.jpg@watermark=1&&object=L3dtcHJvZHVjdC9kZWJiN2M1ZTgyZjJiNjU4Y2ZmNzA1ZTg1N2FjOTcwYjgxLnBuZw==%7C12_0_0_0ar%7C0_0_85_0ar",
-					"price": 31,
-					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
-				},
-				{
-					"name": "双拼牛肉牛杂粉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/95b28e9b5df5a510d2950726fe6a06d856061.png",
-					"price": 31,
-					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
-				},
-				{
-					"name": "酱香肉沫粉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/caa6af1a41b5eed09bada11fee963dfc62783.png",
-					"price": 19,
-					"unit": "份",
-					"categoryName": "常德米粉",
-					"props": []
+					"categoryName": "豆角蒸面🍝",
+					"props": [
+						{
+							"name": "辣度",
+							"values": [
+								{
+									"value": "不辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "微辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "中辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								},
+								{
+									"value": "特辣",
+									"price": 0,
+									"propName": "辣度",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "特色小吃",
+			"name": "╔🍹╗冰爽饮品",
 			"foods": [
 				{
-					"name": "油炸花生米",
-					"picUrl": "https://p0.meituan.net/xianfu/1da1ec8649e99d58df1959e7e46e8d78464896.jpg@watermark=1&&object=L3dtcHJvZHVjdC9kZWJiN2M1ZTgyZjJiNjU4Y2ZmNzA1ZTg1N2FjOTcwYjgxLnBuZw==%7C12_0_0_0ar%7C0_0_85_0ar",
-					"price": 5,
-					"unit": "份",
-					"categoryName": "特色小吃",
-					"props": []
-				},
-				{
-					"name": "香辣家乡萝卜",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/8ddb01273696e2a3525d38f6f3a2637d50622.png",
+					"name": "怡宝",
+					"picUrl": "https://p0.meituan.net/wmproduct/13805c9d0f2ada6b13fa93e8a3214b1e125115.jpg",
 					"price": 2,
 					"unit": "份",
-					"categoryName": "特色小吃",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百岁山  348ml",
+					"picUrl": "https://p0.meituan.net/wmproduct/f1ae19bd3f482e8b64f3ebece168516e78463.jpg",
+					"price": 2,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "菊花茶植物饮料",
+					"picUrl": "https://p1.meituan.net/wmproduct/2683a2a02237cd528720a74f393c825f92217.jpg",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
 					"props": []
 				},
 				{
-					"name": "茶香卤蛋",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/62727502086e60dbf189033229e7009023375.png",
+					"name": "清凉茶植物饮料",
+					"picUrl": "https://p0.meituan.net/wmproduct/7e4f992d29d587db2c53bbd13c9e837f81049.jpg",
+					"price": 1,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": []
+				},
+				{
+					"name": "百岁山",
+					"picUrl": "https://p0.meituan.net/xianfu/3bf736b7a63e6d83064ac7dc2af3066a42621.jpg",
 					"price": 3,
 					"unit": "份",
-					"categoryName": "特色小吃",
-					"props": []
-				}
-			]
-		},
-		{
-			"name": "解渴饮品",
-			"foods": [
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
 				{
-					"name": "豆奶",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/593d87c3cca10d239c3e2d716d2f541517813.png",
-					"price": 5,
+					"name": "雪碧",
+					"picUrl": "https://p1.meituan.net/wmproduct/b3ddcc269cfde21a5bc33d7b1e68501589009.jpg",
+					"price": 3,
 					"unit": "份",
-					"categoryName": "解渴饮品",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "冷热",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "冷热",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "芬达",
+					"picUrl": "https://p0.meituan.net/wmproduct/04e237f4faf9de73faade3ec40a6d64980608.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
 					"props": [
 						{
 							"name": "温度",
@@ -257,7 +749,85 @@
 									"isMul": true
 								},
 								{
-									"value": "冰镇",
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "可口可乐",
+					"picUrl": "https://p0.meituan.net/wmproduct/1a5f20c1e1d5d16f0c72084f2ea9842082353.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "百事可乐",
+					"picUrl": "https://p0.meituan.net/wmproduct/286b29c6c7ae422670479c5e6ef7b2fc81020.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "美年达",
+					"picUrl": "https://p1.meituan.net/wmproduct/25ee1644a73cf17450d8f0b37ac5f20388850.jpg",
+					"price": 3,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "常温",
 									"price": 0,
 									"propName": "温度",
 									"isMul": true
@@ -268,33 +838,88 @@
 				},
 				{
 					"name": "王老吉",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/a20240a6a12380a065ea17e846259add29835.png",
+					"picUrl": "https://p0.meituan.net/wmproduct/29d6718c11b614de26b93911ae56c3ce89763.jpg",
+					"price": 4,
+					"unit": "份",
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "维他柠檬茶",
+					"picUrl": "https://p0.meituan.net/wmproduct/e05062776b6273753055ef9b26b4bafa86073.jpg",
 					"price": 5,
 					"unit": "份",
-					"categoryName": "解渴饮品",
-					"props": []
-				},
-				{
-					"name": "矿泉水(东鹏)",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/b4cf14b4fdfc07c11bfc561dbb715a8113753.png",
-					"price": 2,
-					"unit": "份",
-					"categoryName": "解渴饮品",
-					"props": []
-				},
-				{
-					"name": "可口可乐(小罐装)",
-					"picUrl": "https://img.meituan.net/mstorebossgoods/6fb87cbd49986fe4d445385b0a18ca3d12440.png",
-					"price": 3,
-					"unit": "份",
-					"categoryName": "解渴饮品",
-					"props": []
+					"categoryName": "╔🍹╗冰爽饮品",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
 				}
 			]
 		},
 		{
-			"name": "测试用(不下单)",
-			"foods": []
+			"name": "╔🍻╗酒水",
+			"foods": [
+				{
+					"name": "百威啤酒",
+					"picUrl": "https://p0.meituan.net/wmproduct/46d29167a137948d99cd995ae4477add94501.jpg",
+					"price": 6,
+					"unit": "份",
+					"categoryName": "╔🍻╗酒水",
+					"props": [
+						{
+							"name": "温度",
+							"values": [
+								{
+									"value": "常温",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								},
+								{
+									"value": "冰",
+									"price": 0,
+									"propName": "温度",
+									"isMul": true
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
